@@ -1,7 +1,14 @@
 [
     {
+        "id": 2,
+        "title": "Other Changes",
+        "isNew": "true",
+        "url": "blog/2"
+    },
+    {
         "id": 1,
         "title": "New UI",
-        "isNew": "true"
+        "isNew": "true",
+        "url": "blog/1"
     }
 ]
