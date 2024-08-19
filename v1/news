@@ -1,14 +1,14 @@
 [
     {
         "id": 2,
-        "title": "Other Changes",
+        "title": "New Changes",
         "isNew": "true",
         "url": "blog/2"
     },
     {
         "id": 1,
-        "title": "New UI",
-        "isNew": "true",
+        "title": "Old Changes",
+        "isNew": "false",
         "url": "blog/1"
     }
 ]
