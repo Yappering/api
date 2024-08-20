@@ -1,50 +1,16 @@
 [
     {
         "id": 2,
-        "title": "New Changes",
+        "title": "Paper Beach",
         "isNew": "true",
-        "url": "/blog/2"
+        "url": "/blog/2",
+        "titleText": "New Paper Beach styles have been added to Shop Archives for you to request and use with Profiles Plus!"
     },
     {
         "id": 1,
-        "title": "Old Changes",
-        "isNew": "false",
-        "url": "/blog/1"
-    },
-    {
-        "id": 2,
-        "title": "New Changes",
+        "title": "New UI",
         "isNew": "true",
-        "url": "/blog/2"
-    },
-    {
-        "id": 1,
-        "title": "Old Changes",
-        "isNew": "false",
-        "url": "/blog/1"
-    },
-    {
-        "id": 2,
-        "title": "New Changes",
-        "isNew": "true",
-        "url": "/blog/2"
-    },
-    {
-        "id": 1,
-        "title": "Old Changes",
-        "isNew": "false",
-        "url": "/blog/1"
-    },
-    {
-        "id": 2,
-        "title": "New Changes",
-        "isNew": "true",
-        "url": "/blog/2"
-    },
-    {
-        "id": 1,
-        "title": "Old Changes",
-        "isNew": "false",
-        "url": "/blog/1"
+        "url": "/blog/1",
+        "titleText": "Shop Archives has just had its biggest update ever!"
     }
 ]
