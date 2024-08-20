@@ -2,16 +2,31 @@
     {
         "title": "Home",
         "isNew": "false",
-        "url": "/home"
+        "url": "/home",
+        "class": "home-tab"
     },
     {
         "title": "Shop",
         "isNew": "true",
-        "url": "/shop"
+        "url": "/shop",
+        "class": "shop-tab"
     },
     {
         "title": "Profiles Plus",
         "isNew": "true",
-        "url": "/pplus"
+        "url": "/pplus",
+        "class": "pplus-tab"
+    },
+    {
+        "title": "New",
+        "isNew": "true",
+        "url": "/testing",
+        "class": "new-tab"
+    },
+    {
+        "title": "Not New",
+        "isNew": "false",
+        "url": "/testing",
+        "class": "not-new-tab"
     }
 ]
