@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Home",
+        "isNew": "false",
+        "url": "/home"
+    },
+    {
+        "title": "Shop",
+        "isNew": "true",
+        "url": "/shop"
+    },
+    {
+        "title": "Profiles Plus",
+        "isNew": "true",
+        "url": "/pplus"
+    }
+]
