@@ -15,18 +15,7 @@
         "title": "Profiles Plus",
         "isNew": "true",
         "url": "/pplus",
-        "class": "pplus-tab"
-    },
-    {
-        "title": "New",
-        "isNew": "true",
-        "url": "/testing",
-        "class": "new-tab"
-    },
-    {
-        "title": "Not New",
-        "isNew": "false",
-        "url": "/testing",
-        "class": "not-new-tab"
+        "class": "pplus-tab",
+        "titleText": "New Paper Beach styles for you to request and use! Hurry before they're gone!"
     }
 ]
