@@ -30,7 +30,7 @@
         "title": "Old UI",
         "isNew": "false",
         "url": "https://old.yapper.shop/",
-        "class": "pplus-tab",
+        "class": "old-ui-tab",
         "titleText": "New UI too much for you? You can still go back to the old UI if you want."
     }
 ]
