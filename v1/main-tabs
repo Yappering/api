@@ -25,5 +25,12 @@
         "desc": "Makes your Discord profile look 100 times better.",
         "class": "pplus-tab",
         "titleText": "New Paper Beach styles for you to request and use! Hurry before they're gone!"
+    },
+    {
+        "title": "Old UI",
+        "isNew": "false",
+        "url": "https://old.yapper.shop/",
+        "class": "pplus-tab",
+        "titleText": "New UI too much for you? You can still go back to the old UI if you want."
     }
 ]
