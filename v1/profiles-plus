@@ -70,5 +70,77 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Paper Beach",
+        "summary": "Nothing better than wet and sandy paper.",
+        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/8.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/1.png",
+        "products": [
+            {
+                "name": "Sandy Day Bundle",
+                "summary": "A bundle of collectibles.",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Bucket And Shovel",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
+                        "summary": "Time to make the biggest sand castel."
+                    },
+                    {
+                        "item_type": "effect",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Digging",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
+                        "summary": "Let\u2019s dig for treasure."
+                    }
+                ],
+            },
+            {
+                "name": "Bucket And Shovel",
+                "summary": "Time to make the biggest sand castel.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Bucket And Shovel",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
+                        "summary": "Time to make the biggest sand castel."
+                    }
+                ]
+            },
+            {
+                "name": "Sunshine",
+                "summary": "A relaxing day at the beach.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Sunshine",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/1.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/2.png",
+                        "summary": "A relaxing day at the beach."
+                    }
+                ]
+            }
+        ]
     }
 ]
