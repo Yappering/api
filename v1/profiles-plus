@@ -57,6 +57,51 @@
                 ]
             },
             {
+                "name": "Bikini",
+                "summary": "Am I too sexy?",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Bikini",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/7.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/8.png",
+                        "summary": "Am I too sexy?"
+                    }
+                ]
+            },
+            {
+                "name": "Beach Ball",
+                "summary": "Used for fun beach activities.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Beach Ball",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/5.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/6.png",
+                        "summary": "Used for fun beach activities."
+                    }
+                ]
+            },
+            {
+                "name": "Ocean View",
+                "summary": "What a nice view.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Ocean View",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/9.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/10.png",
+                        "summary": "What a nice view."
+                    }
+                ]
+            },
+            {
                 "name": "Sunshine",
                 "summary": "A relaxing day at the beach.",
                 "unpublished_at": null,
@@ -68,6 +113,36 @@
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/1.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/2.png",
                         "summary": "A relaxing day at the beach."
+                    }
+                ]
+            },
+            {
+                "name": "Not Today",
+                "summary": "No time for fun beach activities.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Not Today",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/4.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/8.png",
+                        "summary": "No time for fun beach activities."
+                    }
+                ]
+            },
+            {
+                "name": "Digging",
+                "summary": "Let\u2019s dig for treasure.",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Digging",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
+                        "summary": "Let\u2019s dig for treasure."
                     }
                 ]
             }
