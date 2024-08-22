@@ -16,6 +16,7 @@
             ]
         },
         "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/1.png",
+        "logo_sway": "true",
         "products": [
             {
                 "name": "Sandy Day Bundle",
