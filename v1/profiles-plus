@@ -149,10 +149,10 @@
         ]
     },
     {
-        "name": "Paper Beach",
-        "summary": "Nothing better than wet and sandy paper.",
+        "name": "Bopl Battle",
+        "summary": "Ready for the chaos that is about to begin.",
         "summary_black": "true",
-        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/10.png",
+        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/22.png",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -164,134 +164,127 @@
                 5793266
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/1.png",
-        "logo_sway": "true",
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo_sway": "false",
         "products": [
             {
-                "name": "Sandy Day Bundle",
+                "name": "Arrow Storm Bundle",
                 "summary": "A bundle of collectibles.",
                 "unpublished_at": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Bucket And Shovel",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
-                        "summary": "Time to make the biggest sand castel."
+                        "name": "Arrows",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
+                        "summary": "Steady aim."
                     },
                     {
                         "item_type": "effect",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Digging",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
-                        "summary": "Let\u2019s dig for treasure."
+                        "name": "Arrow Rain",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
+                        "summary": "Dodge and weave."
                     }
                 ]
             },
             {
-                "name": "Bucket And Shovel",
-                "summary": "Time to make the biggest sand castel.",
+                "name": "Chaotic Bundle",
+                "summary": "A bundle of collectibles.",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Chaos",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
+                        "summary": "What\u2019s even happening?!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "cedits": "Made BY TrellTrell",
+                        "name": "Engine Madness",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
+                        "summary": "Don\u2019t get squished!"
+                    }
+                ]
+            },
+            {
+                "name": "Platforms",
+                "summary": "Ready for the chaos that is about to begin.",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Bucket And Shovel",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
-                        "summary": "Time to make the biggest sand castel."
+                        "name": "Platforms",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/loop.png",
+                        "summary": "Ready for the chaos that is about to begin."
                     }
                 ]
             },
             {
-                "name": "Bikini",
-                "summary": "Am I too sexy?",
+                "name": "Arrows",
+                "summary": "Steady aim.",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Bikini",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/7.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/8.png",
-                        "summary": "Am I too sexy?"
+                        "name": "Arrows",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
+                        "summary": "Steady aim."
                     }
                 ]
             },
             {
-                "name": "Beach Ball",
-                "summary": "Used for fun beach activities.",
+                "name": "Chaos",
+                "summary": "What\u2019s even happening?!",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Beach Ball",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/5.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/6.png",
-                        "summary": "Used for fun beach activities."
+                        "name": "Chaos",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
+                        "summary": "What\u2019s even happening?!"
                     }
                 ]
             },
             {
-                "name": "Ocean View",
-                "summary": "What a nice view.",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "cedits": "Made BY TrellTrell",
-                        "name": "Ocean View",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/9.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/10.png",
-                        "summary": "What a nice view."
-                    }
-                ]
-            },
-            {
-                "name": "Sunshine",
-                "summary": "A relaxing day at the beach.",
+                "name": "Engine Madness",
+                "summary": "Don\u2019t get squished!",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "effect",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Sunshine",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/1.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/2.png",
-                        "summary": "A relaxing day at the beach."
+                        "name": "Engine Madness",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
+                        "summary": "Don\u2019t get squished!"
                     }
                 ]
             },
             {
-                "name": "Not Today",
-                "summary": "No time for fun beach activities.",
+                "name": "Arrow Rain",
+                "summary": "Dodge and weave.",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "effect",
                         "cedits": "Made BY TrellTrell",
-                        "name": "Not Today",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/4.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/8.png",
-                        "summary": "No time for fun beach activities."
-                    }
-                ]
-            },
-            {
-                "name": "Digging",
-                "summary": "Let\u2019s dig for treasure.",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "cedits": "Made BY TrellTrell",
-                        "name": "Digging",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
-                        "summary": "Let\u2019s dig for treasure."
+                        "name": "Arrow Rain",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
+                        "summary": "Dodge and weave."
                     }
                 ]
             }
