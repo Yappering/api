@@ -21,13 +21,13 @@
             {
                 "name": "Sandy Day Bundle",
                 "summary": "A bundle of collectibles.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":hotsprings:",
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Bucket And Shovel",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
@@ -35,7 +35,6 @@
                     },
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Digging",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
@@ -46,13 +45,13 @@
             {
                 "name": "Bucket And Shovel",
                 "summary": "Time to make the biggest sand castel.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Bucket And Shovel",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
@@ -63,13 +62,13 @@
             {
                 "name": "Bikini",
                 "summary": "Am I too sexy?",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Bikini",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/7.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/8.png",
@@ -80,13 +79,13 @@
             {
                 "name": "Beach Ball",
                 "summary": "Used for fun beach activities.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Beach Ball",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/5.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/6.png",
@@ -97,13 +96,13 @@
             {
                 "name": "Ocean View",
                 "summary": "What a nice view.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Ocean View",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/9.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/10.png",
@@ -114,13 +113,13 @@
             {
                 "name": "Sunshine",
                 "summary": "A relaxing day at the beach.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Sunshine",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/1.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/2.png",
@@ -131,13 +130,13 @@
             {
                 "name": "Not Today",
                 "summary": "No time for fun beach activities.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Not Today",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/4.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/8.png",
@@ -148,13 +147,13 @@
             {
                 "name": "Digging",
                 "summary": "Let\u2019s dig for treasure.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Digging",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
@@ -186,11 +185,11 @@
             {
                 "name": "Arrow Storm Bundle",
                 "summary": "A bundle of collectibles.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Arrows",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
@@ -198,7 +197,6 @@
                     },
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Arrow Rain",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
@@ -209,11 +207,11 @@
             {
                 "name": "Chaotic Bundle",
                 "summary": "A bundle of collectibles.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Chaos",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
@@ -221,7 +219,6 @@
                     },
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Engine Madness",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
@@ -232,11 +229,11 @@
             {
                 "name": "Platforms",
                 "summary": "Ready for the chaos that is about to begin.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Platforms",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/loop.png",
@@ -247,11 +244,11 @@
             {
                 "name": "Arrows",
                 "summary": "Steady aim.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Arrows",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
@@ -262,11 +259,11 @@
             {
                 "name": "Chaos",
                 "summary": "What\u2019s even happening?!",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By TrellTrell",
                         "name": "Chaos",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
@@ -277,11 +274,11 @@
             {
                 "name": "Engine Madness",
                 "summary": "Don\u2019t get squished!",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Engine Madness",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
@@ -292,11 +289,11 @@
             {
                 "name": "Arrow Rain",
                 "summary": "Dodge and weave.",
+                "credits": "Made By TrellTrell",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By TrellTrell",
                         "name": "Arrow Rain",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
@@ -328,11 +325,11 @@
             {
                 "name": "WindowKill Bundle",
                 "summary": "A bundle of collectibles.",
+                "credits": "Made By DTACat",
                 "unpublished_at": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By DTACat",
                         "name": "Orb Array",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
@@ -340,7 +337,6 @@
                     },
                     {
                         "item_type": "effect",
-                        "credits": "Made By DTACat",
                         "name": "Smiley",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
@@ -351,11 +347,11 @@
             {
                 "name": "Orb Array",
                 "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "Made By DTACat",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "credits": "Made By DTACat",
                         "name": "Orb Array",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
@@ -366,11 +362,11 @@
             {
                 "name": "Smiley",
                 "summary": "Hes got my Avatar!",
+                "credits": "Made By DTACat",
                 "unpublished_at": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "credits": "Made By DTACat",
                         "name": "Smiley",
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
