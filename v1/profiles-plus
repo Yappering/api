@@ -22,6 +22,7 @@
                 "name": "Sandy Day Bundle",
                 "summary": "A bundle of collectibles.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -45,6 +46,7 @@
                 "name": "Bucket And Shovel",
                 "summary": "Time to make the biggest sand castel.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -60,6 +62,7 @@
                 "name": "Bikini",
                 "summary": "Am I too sexy?",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -75,6 +78,7 @@
                 "name": "Beach Ball",
                 "summary": "Used for fun beach activities.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -90,6 +94,7 @@
                 "name": "Ocean View",
                 "summary": "What a nice view.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -105,6 +110,7 @@
                 "name": "Sunshine",
                 "summary": "A relaxing day at the beach.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -120,6 +126,7 @@
                 "name": "Not Today",
                 "summary": "No time for fun beach activities.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -135,6 +142,7 @@
                 "name": "Digging",
                 "summary": "Let\u2019s dig for treasure.",
                 "unpublished_at": null,
+                "inNew": "true",
                 "items": [
                     {
                         "item_type": "effect",
