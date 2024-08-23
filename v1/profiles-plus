@@ -23,7 +23,7 @@
                 "summary": "A bundle of collectibles.",
                 "unpublished_at": null,
                 "isNew": "true",
-                "emojiCopy": ":hotsprings:",
+                "emojiCopy": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
