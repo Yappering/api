@@ -81,6 +81,44 @@
                         "summary": "An omen of ancient malevolence..."
                     }
                 ]
+            },
+            {
+                "name": "Of Ink and Steel",
+                "summary": "Words in ink, deeds in steel.",
+                "sku_id": "1271175049168031815",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Of Ink and Steel",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/of-ink-and-steel/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/of-ink-and-steel/intro.png",
+                        "summary": "Words in ink, deeds in steel."
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Katana",
+                "summary": "May the blossoms guide your blade.",
+                "sku_id": "1271175120437641261",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Katana",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/intro.png",
+                        "summary": "May the blossoms guide your blade."
+                    }
+                ]
             }
         ]
     }
