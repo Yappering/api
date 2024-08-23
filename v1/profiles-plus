@@ -23,6 +23,7 @@
                 "summary": "A bundle of collectibles.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": ":hotsprings:",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -47,6 +48,7 @@
                 "summary": "Time to make the biggest sand castel.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": ":hotsprings:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -63,6 +65,7 @@
                 "summary": "Am I too sexy?",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
@@ -79,6 +82,7 @@
                 "summary": "Used for fun beach activities.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
@@ -95,6 +99,7 @@
                 "summary": "What a nice view.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
@@ -111,6 +116,7 @@
                 "summary": "A relaxing day at the beach.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
@@ -127,6 +133,7 @@
                 "summary": "No time for fun beach activities.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
@@ -143,6 +150,7 @@
                 "summary": "Let\u2019s dig for treasure.",
                 "unpublished_at": null,
                 "isNew": "true",
+                "emojiCopy": ":hotsprings:",
                 "items": [
                     {
                         "item_type": "effect",
