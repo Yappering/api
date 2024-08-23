@@ -19,6 +19,31 @@
         "logo_sway": "true",
         "products": [
             {
+                "name": "Sandy Day Bundle",
+                "summary": "A bundle of collectibles.",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":hotsprings:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "credits": "Made By TrellTrell",
+                        "name": "Bucket And Shovel",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png",
+                        "summary": "Time to make the biggest sand castel."
+                    },
+                    {
+                        "item_type": "effect",
+                        "credits": "Made By TrellTrell",
+                        "name": "Digging",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
+                        "summary": "Let\u2019s dig for treasure."
+                    }
+                ]
+            },
+            {
                 "name": "Bucket And Shovel",
                 "summary": "Time to make the biggest sand castel.",
                 "unpublished_at": null,
