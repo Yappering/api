@@ -1331,10 +1331,10 @@
                     },
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "Twinkle Trails",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/intro.png",
+                        "summary": "Chase the stars to collect them all."
                     }
                 ]
             },
