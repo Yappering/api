@@ -300,10 +300,10 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "VALORANT Champions 2024",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=true",
-                        "summary": "All paths end here."
+                        "name": "FRAG OUT",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=true",
+                        "summary": "Five down. None to go."
                     },
                     {
                         "item_type": "effect",
@@ -349,6 +349,139 @@
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=true",
                         "summary": "Looking for me?"
+                    }
+                ]
+            },
+            {
+                "name": "Viper Poison Cloud",
+                "summary": "No one can hold their breath forever.",
+                "sku_id": "1266160780978556969",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Viper Poison Cloud",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_62cd9d7c0031a7c1eb5ad5cc96992189.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_62cd9d7c0031a7c1eb5ad5cc96992189.png?size=4096&passthrough=true",
+                        "summary": "No one can hold their breath forever."
+                    }
+                ]
+            },
+            {
+                "name": "Cypher Neural Theft",
+                "summary": "Nothing stays hidden from me.",
+                "sku_id": "1266161342801383434",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cypher Neural Theft",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b1efe77f379c6c9c6e47e6b6299d5a7d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b1efe77f379c6c9c6e47e6b6299d5a7d.png?size=4096&passthrough=true",
+                        "summary": "Nothing stays hidden from me."
+                    }
+                ]
+            },
+            {
+                "name": "A Hint of Clove",
+                "summary": "Back again from the great beyond.",
+                "sku_id": "1220513977683935373",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "A Hint of Clove",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=4096&passthrough=true",
+                        "summary": "Back again from the great beyond."
+                    }
+                ]
+            },
+            {
+                "name": "FRAG OUT",
+                "summary": "Five down. None to go.",
+                "sku_id": "1220513995308400680",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "FRAG OUT",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=true",
+                        "summary": "Five down. None to go."
+                    }
+                ]
+            },
+            {
+                "name": "Omen\u2019s Cowl",
+                "summary": "Embrace the shadows.",
+                "sku_id": "1220513984273186816",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Omen\u2019s Cowl",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=4096&passthrough=true",
+                        "summary": "Embrace the shadows."
+                    }
+                ]
+            },
+            {
+                "name": "Reyna\u2019s Leer",
+                "summary": "The last thing they\u2019ll ever see. Lucky them.",
+                "sku_id": "1220513989729976411",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Reyna\u2019s Leer",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=4096&passthrough=true",
+                        "summary": "The last thing they\u2019ll ever see. Lucky them."
+                    }
+                ]
+            },
+            {
+                "name": "Blade Storm",
+                "summary": "Watch this.",
+                "sku_id": "1220514048068812901",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blade Storm",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=4096&passthrough=true",
+                        "summary": "Watch this."
                     }
                 ]
             },
