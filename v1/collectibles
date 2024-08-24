@@ -1140,6 +1140,101 @@
                 ]
             },
             {
+                "name": "Pal Sphere",
+                "summary": "Fingers crossed!",
+                "sku_id": "1252404753321689119",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pal Sphere",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_59ad6c57089d2291611d9f59904f38e9.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_59ad6c57089d2291611d9f59904f38e9.png?size=4096&passthrough=true",
+                        "summary": "Fingers crossed!"
+                    }
+                ]
+            },
+            {
+                "name": "Cattiva",
+                "summary": "Cute... from a distance.",
+                "sku_id": "1252404760448077864",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cattiva",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d260c70fa8f38c499fa452c3cbdc5a0c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d260c70fa8f38c499fa452c3cbdc5a0c.png?size=4096&passthrough=true",
+                        "summary": "Cute... from a distance."
+                    }
+                ]
+            },
+            {
+                "name": "Lamball",
+                "summary": "Cozy, fluffy, and clumsy!",
+                "sku_id": "1252404767737778217",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Lamball",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_949a575b693c81ced8f56a7579d0969f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_949a575b693c81ced8f56a7579d0969f.png?size=4096&passthrough=true",
+                        "summary": "Cozy, fluffy, and clumsy!"
+                    }
+                ]
+            },
+            {
+                "name": "Depresso",
+                "summary": "As enthusiastic as ever.",
+                "sku_id": "1252405004925669396",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Depresso",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b7e2813fb97fe05b0f9f29a1bb7fde41.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b7e2813fb97fe05b0f9f29a1bb7fde41.png?size=4096&passthrough=true",
+                        "summary": "As enthusiastic as ever."
+                    }
+                ]
+            },
+            {
+                "name": "Selyne",
+                "summary": "A mysterious moonlight encounter.",
+                "sku_id": "1252405010608951358",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Selyne",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0830085f29712a6f3a23a123302050b4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0830085f29712a6f3a23a123302050b4.png?size=4096&passthrough=true",
+                        "summary": "A mysterious moonlight encounter."
+                    }
+                ]
+            },
+            {
                 "name": "Saya",
                 "summary": "A mysterious beauty blossoms under the moonlight.",
                 "sku_id": "1252405017688936508",
