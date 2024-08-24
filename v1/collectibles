@@ -1693,6 +1693,224 @@
     },
     {
         "name": "Dojo",
+        "summary": "Don yer finest and set course, ye landlubbers.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653638738874408.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                2759705,
+                8073756
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937696991740044.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Pirate Captain Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243618548673417298",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pirate Captain",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=4096&passthrough=true",
+                        "summary": "Arrr... yer bounty comes due."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Jolly Roger",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/jolly-roger/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-10/jolly-roger/intro.png",
+                        "summary": "Ye be warned... give no quarter."
+                    }
+                ]
+            },
+            {
+                "name": "Pirate Captain",
+                "summary": "Arrr... yer bounty comes due.",
+                "sku_id": "1237653964582031400",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pirate Captain",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=4096&passthrough=true",
+                        "summary": "Arrr... yer bounty comes due."
+                    }
+                ]
+            },
+            {
+                "name": "Scallywag",
+                "summary": "Nay even a pirate can steal me good looks.",
+                "sku_id": "1237654031732703272",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Scallywag",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_78f326d95c0193c317470e3e81db81e7.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_78f326d95c0193c317470e3e81db81e7.png?size=4096&passthrough=true",
+                        "summary": "Nay even a pirate can steal me good looks."
+                    }
+                ]
+            },
+            {
+                "name": "Good Ol\u2019 Pepper",
+                "summary": "An old salt\u2019s trusty matey at sea.",
+                "sku_id": "1237654124443734026",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Good Ol\u2019 Pepper",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cc1c1426ea5478aac7be6cdefdbc568.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cc1c1426ea5478aac7be6cdefdbc568.png?size=4096&passthrough=true",
+                        "summary": "An old salt\u2019s trusty matey at sea."
+                    }
+                ]
+            },
+            {
+                "name": "Crossbones",
+                "summary": "Cross me not, else a pile o\u2019 bones be yer fate.",
+                "sku_id": "1237654224712765440",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Crossbones",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f863078aee4932cd50ee4e3b55d3035.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f863078aee4932cd50ee4e3b55d3035.png?size=4096&passthrough=true",
+                        "summary": "Cross me not, else a pile o\u2019 bones be yer fate."
+                    }
+                ]
+            },
+            {
+                "name": "Cannon Fire",
+                "summary": "Sink yer foes in iron and let \u2019em be claimed by the sea...",
+                "sku_id": "1237654615474962472",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cannon Fire",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_91a33236cf2728310a3a29bbdc8e0d29.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_91a33236cf2728310a3a29bbdc8e0d29.png?size=4096&passthrough=true",
+                        "summary": "Sink yer foes in iron and let \u2019em be claimed by the sea..."
+                    }
+                ]
+            },
+            {
+                "name": "Helmsman",
+                "summary": "Heading, cap\u2019n?",
+                "sku_id": "1237654692985700352",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Helmsman",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98093bb7723235a4cd2792762795640.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98093bb7723235a4cd2792762795640.png?size=4096&passthrough=true",
+                        "summary": "Heading, cap\u2019n?"
+                    }
+                ]
+            },
+            {
+                "name": "Jolly Roger",
+                "summary": "Ye be warned... give no quarter.",
+                "sku_id": "1237654783209508904",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Jolly Roger",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/jolly-roger/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-10/jolly-roger/intro.png",
+                        "summary": "Ye be warned... give no quarter."
+                    }
+                ]
+            },
+            {
+                "name": "Forgotten Treasure",
+                "summary": "Many a greedy eye be yearnin\u2019 for a peek... guard yer secrets closely.",
+                "sku_id": "1237654867330469949",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Forgotten Treasure",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/forgotten-treasure/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-10/forgotten-treasure/intro.png",
+                        "summary": "Many a greedy eye be yearnin\u2019 for a peek... guard yer secrets closely."
+                    }
+                ]
+            },
+            {
+                "name": "Haunted Man o\u2019 War",
+                "summary": "Sail Ho! We be in cursed waters now...",
+                "sku_id": "1237654942202990602",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Haunted Man o\u2019 War",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/haunted-man-o-war/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-13/haunted-man-o-war/intro.png",
+                        "summary": "Sail Ho! We be in cursed waters now..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1275175014001541140.png?size=4096",
