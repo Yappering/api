@@ -1512,6 +1512,186 @@
         ]
     },
     {
+        "name": "Feelin\u2019 Retro",
+        "summary": "How ya feelin\u2019 today?",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649691953336363.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                14639359,
+                8411389
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937648727756883.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "In My Feels Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243617981435478102",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Feelin\u2019 Scrumptious",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d35467f282b8c72a26f5aa40aa2a637.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d35467f282b8c72a26f5aa40aa2a637.png?size=4096&passthrough=true",
+                        "summary": "When they let you cook."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Feelin\u2019 Mischievous",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/intro.png",
+                        "summary": "Why you little..."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Awe",
+                "summary": "When you touch the grass.",
+                "sku_id": "1237649939027333232",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Feelin\u2019 Awe",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=4096&passthrough=true",
+                        "summary": "When you touch the grass."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Panic",
+                "summary": "When you get challenged to a spontaneous rap battle.",
+                "sku_id": "1237650023794081823",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Feelin\u2019 Panic",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=true",
+                        "summary": "When you get challenged to a spontaneous rap battle."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Nervous",
+                "summary": "When you ping @everyone.",
+                "sku_id": "1237650023794081823",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Feelin\u2019 Nervous",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=true",
+                        "summary": "When you ping @everyone."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Scrumptious",
+                "summary": "When they let you cook.",
+                "sku_id": "1237650179721527347",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Feelin\u2019 Scrumptious",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d35467f282b8c72a26f5aa40aa2a637.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d35467f282b8c72a26f5aa40aa2a637.png?size=4096&passthrough=true",
+                        "summary": "When they let you cook."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Mischievous",
+                "summary": "Why you little...",
+                "sku_id": "1237650411410685972",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Feelin\u2019 Mischievous",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/intro.png",
+                        "summary": "Why you little..."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 70s",
+                "summary": "Your uncle has a shirt just like this.",
+                "sku_id": "1237650542772228096",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Feelin\u2019 70s",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-70s/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-70s/intro.png",
+                        "summary": "Your uncle has a shirt just like this."
+                    }
+                ]
+            },
+            {
+                "name": "Feelin\u2019 Pizzazz",
+                "summary": "Zigzags for days.",
+                "sku_id": "1237650618777075712",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Feelin\u2019 Pizzazz",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-pizzazz/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-10/feelin-pizzazz/intro.png",
+                        "summary": "Zigzags for days."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
