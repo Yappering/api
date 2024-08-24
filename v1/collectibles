@@ -30,17 +30,17 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Kabuto",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
-                        "summary": "Donned only by true warriors."
+                        "name": "Straw Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=true",
+                        "summary": "A must-have for the travelling wanderer."
                     },
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "Sakura Katana",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/intro.png",
+                        "summary": "May the blossoms guide your blade."
                     }
                 ]
             },
@@ -60,6 +60,101 @@
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
                         "summary": "Donned only by true warriors."
+                    }
+                ]
+            },
+            {
+                "name": "Oni Mask",
+                "summary": "Unleash your inner demon.",
+                "sku_id": "1271174241860980907",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Oni Mask",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a21393f8a2cb8eafbdfb5364fb1cbbae.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a21393f8a2cb8eafbdfb5364fb1cbbae.png?size=4096&passthrough=true",
+                        "summary": "Unleash your inner demon."
+                    }
+                ]
+            },
+            {
+                "name": "Straw Hat",
+                "summary": "A must-have for the travelling wanderer.",
+                "sku_id": "1271174324375519273",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Straw Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=true",
+                        "summary": "A must-have for the travelling wanderer."
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Ink",
+                "summary": "Fleeting beauty... forever etched in ink.",
+                "sku_id": "1271174640026255380",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Sakura Ink",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_13913a00bd9990ab4102a3bf069f0f3f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_13913a00bd9990ab4102a3bf069f0f3f.png?size=4096&passthrough=true",
+                        "summary": "Fleeting beauty... forever etched in ink."
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Warrior",
+                "summary": "Blossom and blade, united in purpose.",
+                "sku_id": "1271174732577767626",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Sakura Warrior",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7cf09c7e78d6eb35ae354acc1d5cc676.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7cf09c7e78d6eb35ae354acc1d5cc676.png?size=4096&passthrough=true",
+                        "summary": "Blossom and blade, united in purpose."
+                    }
+                ]
+            },
+            {
+                "name": "Shuriken\u2019s Mark",
+                "summary": "Aim with purpose.",
+                "sku_id": "1271174810227179562",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Shuriken\u2019s Mark",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c32ce5680d4be96e059790ad493aa0fe.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c32ce5680d4be96e059790ad493aa0fe.png?size=4096&passthrough=true",
+                        "summary": "Aim with purpose."
                     }
                 ]
             },
@@ -117,6 +212,91 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/intro.png",
                         "summary": "May the blossoms guide your blade."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dojo",
+        "summary": "Where discipline meets destiny.",
+        "summary_black": "true",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1275175014001541140.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Straw and Steel Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1271564593746939904",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Kabuto",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
+                        "summary": "Donned only by true warriors."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            },
+            {
+                "name": "Kabuto",
+                "summary": "Donned only by true warriors.",
+                "sku_id": "1271174154514595891",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Kabuto",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
+                        "summary": "Donned only by true warriors."
+                    }
+                ]
+            },
+            {
+                "name": "Oni\u2019s Curse",
+                "summary": "An omen of ancient malevolence...",
+                "sku_id": "1271174907081789524",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
                     }
                 ]
             }
