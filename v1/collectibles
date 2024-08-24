@@ -583,6 +583,65 @@
         ]
     },
     {
+        "name": "SpongeBob",
+        "summary": "Celebrate 25 years of nautical nonsense!",
+        "summary_black": "true",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262491137386614807.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "SpongeBob",
+                "summary": "Order up!",
+                "sku_id": "1262491137386614812",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "SpongeBob",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_914f20f4984a11b5255f0e42c661fa5b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_914f20f4984a11b5255f0e42c661fa5b.png?size=4096&passthrough=true",
+                        "summary": "Order up!"
+                    }
+                ]
+            },
+            {
+                "name": "NiCe pRoFiLE",
+                "summary": "uSE tHis EFfeCt.",
+                "sku_id": "1271174907081789524",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "NiCe pRoFiLE",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/thumbnail_f44f333d.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-24/nice-profile/intro_a9d1e733.png",
+                        "summary": "uSE tHis EFfeCt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
