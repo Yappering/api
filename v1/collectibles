@@ -1294,6 +1294,224 @@
         ]
     },
     {
+        "name": "Arcade",
+        "summary": "Press START to play.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087533205819452.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                197156,
+                524587
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245086730785390793.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Star Collector Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1245481938202918912",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pipedream",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=true",
+                        "summary": "If you stare at this for 5,461 seconds without blinking, you win."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            },
+            {
+                "name": "Joystick",
+                "summary": "Pressing buttons harder definitely increases your chances of winning.",
+                "sku_id": "1245087661316898877",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Joystick",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=4096&passthrough=true",
+                        "summary": "Pressing buttons harder definitely increases your chances of winning."
+                    }
+                ]
+            },
+            {
+                "name": "Clyde Invaders",
+                "summary": "Rogue invaders have taken control of the galaxy. It\u2019s up to you to save the day.",
+                "sku_id": "1245087724265013299",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Clyde Invaders",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=4096&passthrough=true",
+                        "summary": "Rogue invaders have taken control of the galaxy. It\u2019s up to you to save the day."
+                    }
+                ]
+            },
+            {
+                "name": "Pipedream",
+                "summary": "If you stare at this for 5,461 seconds without blinking, you win.",
+                "sku_id": "1245087850177888356",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pipedream",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=true",
+                        "summary": "If you stare at this for 5,461 seconds without blinking, you win."
+                    }
+                ]
+            },
+            {
+                "name": "Hot Shot",
+                "summary": "Baller status: Pro",
+                "sku_id": "1245087912350187520",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Hot Shot",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa253f928314c8eee54e913f90039eab.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa253f928314c8eee54e913f90039eab.png?size=4096&passthrough=true",
+                        "summary": "Baller status: Pro"
+                    }
+                ]
+            },
+            {
+                "name": "Mallow Jump",
+                "summary": "Hop till you drop!",
+                "sku_id": "1245087968759382207",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Mallow Jump",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_492f6b54b761c0a14d9dbc9c98aaa0f5.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_492f6b54b761c0a14d9dbc9c98aaa0f5.png?size=4096&passthrough=true",
+                        "summary": "Hop till you drop!"
+                    }
+                ]
+            },
+            {
+                "name": "Slither \u2019n Snack",
+                "summary": "Gobble and grow to become the biggest snake in the garden.",
+                "sku_id": "1245088023452975104",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Slither \u2019n Snack",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_49ffdb1883d8c644a8eb68711ee58be9.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_49ffdb1883d8c644a8eb68711ee58be9.png?size=4096&passthrough=true",
+                        "summary": "Gobble and grow to become the biggest snake in the garden."
+                    }
+                ]
+            },
+            {
+                "name": "Space Evader",
+                "summary": "That was the best flying I\u2019ve seen to date - right up to the part where you got hit.",
+                "sku_id": "1271174907081789524",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Space Evader",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/intro_spaceship.png",
+                        "summary": "That was the best flying I\u2019ve seen to date - right up to the part where you got hit."
+                    }
+                ]
+            },
+            {
+                "name": "Turbo Drive",
+                "summary": "Give your rivals a cheeky wave from the rearview.",
+                "sku_id": "1245088205330710539",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Turbo Drive",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/turbo-drive/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/turbo-drive/intro.png",
+                        "summary": "Give your rivals a cheeky wave from the rearview."
+                    }
+                ]
+            },
+            {
+                "name": "Twinkle Trails",
+                "summary": "Chase the stars to collect them all.",
+                "sku_id": "1245088254647205991",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Twinkle Trails",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/intro.png",
+                        "summary": "Chase the stars to collect them all."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
