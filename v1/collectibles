@@ -1607,8 +1607,8 @@
                     {
                         "item_type": "deco",
                         "name": "Feelin\u2019 Nervous",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=4096&passthrough=true",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_2d792aad5003faf6809e26879a7eae6b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_2d792aad5003faf6809e26879a7eae6b.png?size=4096&passthrough=true",
                         "summary": "When you ping @everyone."
                     }
                 ]
