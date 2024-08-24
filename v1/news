@@ -1,12 +1,5 @@
 [
     {
-        "id": 2,
-        "title": "Paper Beach",
-        "isNew": "true",
-        "url": "/blog/2",
-        "titleText": "New Paper Beach styles have been added to Shop Archives for you to request and use with Profiles Plus!"
-    },
-    {
         "id": 1,
         "title": "New UI",
         "isNew": "true",
