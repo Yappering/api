@@ -621,6 +621,120 @@
                 ]
             },
             {
+                "name": "Imagination",
+                "summary": "With imagination, I can be anything I want.",
+                "sku_id": "1262491137394868305",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Imagination",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba669bfb28f492b64852e00fde4989d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba669bfb28f492b64852e00fde4989d.png?size=4096&passthrough=true",
+                        "summary": "With imagination, I can be anything I want."
+                    }
+                ]
+            },
+            {
+                "name": "Patrick Star",
+                "summary": "He, she, me wumbo.",
+                "sku_id": "1262491137394868308",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Patrick Star",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f7fa66bc185c858f92a7918ea4dd47a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f7fa66bc185c858f92a7918ea4dd47a.png?size=4096&passthrough=true",
+                        "summary": "He, she, me wumbo."
+                    }
+                ]
+            },
+            {
+                "name": "Flower Clouds",
+                "summary": "Immerse yourself in Bikini Bottom.",
+                "sku_id": "1262491137394868311",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Flower Clouds",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d9ff5ff133ed9176895a4a2b5e58f1b8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d9ff5ff133ed9176895a4a2b5e58f1b8.png?size=4096&passthrough=true",
+                        "summary": "Immerse yourself in Bikini Bottom."
+                    }
+                ]
+            },
+            {
+                "name": "Gary The Snail",
+                "summary": "Meow.",
+                "sku_id": "1262491690900656258",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Gary The Snail",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4db5b8518672197225c69fe72f07a945.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4db5b8518672197225c69fe72f07a945.png?size=4096&passthrough=true",
+                        "summary": "Meow."
+                    }
+                ]
+            },
+            {
+                "name": "Sandy Cheeks",
+                "summary": "Underwater breathing apparatus.",
+                "sku_id": "1262491690900656261",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Sandy Cheeks",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_96e669a80b3a3e3d57035293750291ed.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_96e669a80b3a3e3d57035293750291ed.png?size=4096&passthrough=true",
+                        "summary": "Underwater breathing apparatus."
+                    }
+                ]
+            },
+            {
+                "name": "MuscleBob",
+                "summary": "How tough are ya?",
+                "sku_id": "1262491690900656264",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "MuscleBob",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_2249f064370a3d5e9f0e7189099d521e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_2249f064370a3d5e9f0e7189099d521e.png?size=4096&passthrough=true",
+                        "summary": "How tough are ya?"
+                    }
+                ]
+            },
+            {
                 "name": "NiCe pRoFiLE",
                 "summary": "uSE tHis EFfeCt.",
                 "sku_id": "1271174907081789524",
@@ -636,6 +750,82 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/thumbnail_f44f333d.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-24/nice-profile/intro_a9d1e733.png",
                         "summary": "uSE tHis EFfeCt."
+                    }
+                ]
+            },
+            {
+                "name": "Handsome Squidward",
+                "summary": "You\u2019re a HUNK!!!",
+                "sku_id": "1262491690971955284",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Handsome Squidward",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/handsome-squidward/thumbnail_c1f759bf.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/handsome-squidward/intro_e89c516b.png",
+                        "summary": "You\u2019re a HUNK!!!"
+                    }
+                ]
+            },
+            {
+                "name": "DoodleBob Takeover",
+                "summary": "Me Hoy Minoy.",
+                "sku_id": "1262492035558932604",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "DoodleBob Takeover",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/doodlebob-takeover/thumbnail_23f31885.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/doodlebob-takeover/intro_479359c2.png",
+                        "summary": "Me Hoy Minoy."
+                    }
+                ]
+            },
+            {
+                "name": "Plankton Splat",
+                "summary": "Stealing the Krabby Patty secret formula.",
+                "sku_id": "1262492035558932607",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Plankton Splat",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/plankton-splat/thumbnail_72c641e8.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-17/plankton-splat/intro.png",
+                        "summary": "Stealing the Krabby Patty secret formula."
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Flowers",
+                "summary": "Bikini Bottom flower clouds.",
+                "sku_id": "1262492035558932610",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ocean Flowers",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/ocean-flowers/thumbnail_fe6ab6db.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/ocean-flowers/intro.png",
+                        "summary": "Bikini Bottom flower clouds."
                     }
                 ]
             }
