@@ -255,10 +255,62 @@
                     },
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "VCT Supernova",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/vct_supernova/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-30/vct_supernova/intro.png",
+                        "summary": "Upgrade your look with a supernova of VCT 2024 style."
+                    }
+                ]
+            },
+            {
+                "name": "Yoru Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1267521289330102344",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Yoru Dimensional Drift",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=true",
+                        "summary": "Looking for me?"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Yoru Dimensional Rip",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/yoru_dimensional_rip/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-30/yoru_dimensional_rip/intro.png",
+                        "summary": "Tear through the dimensional fabric and make your mark."
+                    }
+                ]
+            },
+            {
+                "name": "ACE Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1267521289355268154",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "VALORANT Champions 2024",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=true",
+                        "summary": "All paths end here."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "ACE",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/thumbnail_7c4f8929.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/intro_fa545ec0.png",
+                        "summary": "Too bad there are only 5 of \u2018em."
                     }
                 ]
             },
@@ -282,6 +334,25 @@
                 ]
             },
             {
+                "name": "Yoru Dimensional Drift",
+                "summary": "Looking for me?",
+                "sku_id": "1266160780928352268",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Yoru Dimensional Drift",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=4096&passthrough=true",
+                        "summary": "Looking for me?"
+                    }
+                ]
+            },
+            {
                 "name": "Yoru Dimensional Rip",
                 "summary": "Tear through the dimensional fabric and make your mark.",
                 "sku_id": "1266493591207940133",
@@ -297,6 +368,82 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/yoru_dimensional_rip/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-30/yoru_dimensional_rip/intro.png",
                         "summary": "Tear through the dimensional fabric and make your mark."
+                    }
+                ]
+            },
+            {
+                "name": "VCT Supernova",
+                "summary": "Upgrade your look with a supernova of VCT 2024 style.",
+                "sku_id": "1266493591275044903",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "VCT Supernova",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/vct_supernova/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-30/vct_supernova/intro.png",
+                        "summary": "Upgrade your look with a supernova of VCT 2024 style."
+                    }
+                ]
+            },
+            {
+                "name": "ACE",
+                "summary": "Too bad there are only 5 of \u2018em.",
+                "sku_id": "1220432740638523543",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "ACE",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/thumbnail_7c4f8929.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/intro_fa545ec0.png",
+                        "summary": "Too bad there are only 5 of \u2018em."
+                    }
+                ]
+            },
+            {
+                "name": "Clove\u2019s Ruse",
+                "summary": "Smoke\u2019s out. Time to make some mischief.",
+                "sku_id": "1220432647453409384",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Clove\u2019s Ruse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/thumbnail_a5917b67.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/intro_b62d8ce4.png",
+                        "summary": "Smoke\u2019s out. Time to make some mischief."
+                    }
+                ]
+            },
+            {
+                "name": "The Immortal Clove",
+                "summary": "They\u2019ve got all the time in the world.",
+                "sku_id": "1220432697718083614",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "The Immortal Clove",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/the-immortal-clove/thumbnail_20409a9b.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/the-immortal-clove/intro_310a69a3.png",
+                        "summary": "They\u2019ve got all the time in the world."
                     }
                 ]
             }
