@@ -1692,6 +1692,91 @@
         ]
     },
     {
+        "name": "Dojo",
+        "summary": "Where discipline meets destiny.",
+        "summary_black": "true",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1275175014001541140.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Straw and Steel Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1271564593746939904",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Kabuto",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
+                        "summary": "Donned only by true warriors."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            },
+            {
+                "name": "Kabuto",
+                "summary": "Donned only by true warriors.",
+                "sku_id": "1271174154514595891",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Kabuto",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
+                        "summary": "Donned only by true warriors."
+                    }
+                ]
+            },
+            {
+                "name": "Oni\u2019s Curse",
+                "summary": "An omen of ancient malevolence...",
+                "sku_id": "1271174907081789524",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "DISXCORE",
         "summary": "Available to use with an active Nitro subscription.",
         "summary_black": "false",
@@ -1802,91 +1887,6 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-20/cyberspace/intro.png",
                         "summary": "Witness the entire world in motion."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Dojo",
-        "summary": "Where discipline meets destiny.",
-        "summary_black": "true",
-        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1275175014001541140.png?size=4096",
-        "unpublished_at": null,
-        "styles": {
-            "background_colors": [
-                1118740,
-                1118740
-            ],
-            "button_colors": [
-                5793266,
-                5793266
-            ]
-        },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
-        "logo_sway": "false",
-        "products": [
-            {
-                "name": "Straw and Steel Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1271564593746939904",
-                "price": "US$10.99",
-                "price_nitro": "US$8.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Kabuto",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
-                        "summary": "Donned only by true warriors."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
-                    }
-                ]
-            },
-            {
-                "name": "Kabuto",
-                "summary": "Donned only by true warriors.",
-                "sku_id": "1271174154514595891",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Kabuto",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
-                        "summary": "Donned only by true warriors."
-                    }
-                ]
-            },
-            {
-                "name": "Oni\u2019s Curse",
-                "summary": "An omen of ancient malevolence...",
-                "sku_id": "1271174907081789524",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
                     }
                 ]
             }
