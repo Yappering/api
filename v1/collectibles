@@ -2431,6 +2431,122 @@
         ]
     },
     {
+        "name": "Anime",
+        "summary": "Senpai will definitely notice you.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563322232995880.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4946352,
+                986682
+            ],
+            "button_colors": [
+                9061825,
+                1271959
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563319296995408.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Radiating Energy",
+                "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!",
+                "sku_id": "1154896005045694555",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Radiating Energy",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=true",
+                        "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!"
+                    }
+                ]
+            },
+            {
+                "name": "Magic Hearts",
+                "summary": "Moon Prism Power, Make Up!",
+                "sku_id": "1139323100568244355",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Magic Hearts",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png",
+                        "summary": "Moon Prism Power, Make Up!"
+                    }
+                ]
+            },
+            {
+                "name": "Shatter",
+                "summary": "Ouch, my windows!",
+                "sku_id": "1139323093551165533",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shatter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/earthquake/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro.png",
+                        "summary": "Ouch, my windows!"
+                    }
+                ]
+            },
+            {
+                "name": "Shuriken Strike",
+                "summary": "Every side is the pointy end.",
+                "sku_id": "1139323101008642101",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shuriken Strike",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/shuriken/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro3.png",
+                        "summary": "Every side is the pointy end."
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "You\u2019re about to witness true power.",
+                "sku_id": "1139323101881061466",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png",
+                        "summary": "You\u2019re about to witness true power."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Breakfast",
         "summary": "Breakfast is definitely the most important meal of the day.",
         "summary_black": "false",
