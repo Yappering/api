@@ -2604,6 +2604,236 @@
         ]
     },
     {
+        "name": "Monsters",
+        "summary": "We\u2019re not a menace, just misunderstood.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1179493515038818327.png?size=4096",
+        "unpublished_at": "2024-02-06T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                18270,
+                11065
+            ],
+            "button_colors": [
+                59058,
+                39804
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1179493515038818326.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Beamchop",
+                "summary": "Awh it\u2019s so cu- AHHH",
+                "sku_id": "1179493515038818329",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Beamchop",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png?size=4096&passthrough=true",
+                        "summary": "Awh it\u2019s so cu- AHHH"
+                    }
+                ]
+            },
+            {
+                "name": "Stinkums",
+                "summary": "Questionably dealt. Definitely smelt.",
+                "sku_id": "1179493515076579375",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Stinkums",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=4096&passthrough=true",
+                        "summary": "Questionably dealt. Definitely smelt."
+                    }
+                ]
+            },
+            {
+                "name": "Chuck",
+                "summary": "Wanna see what I had for lunch earlier?",
+                "sku_id": "1179493515076579369",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chuck",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=true",
+                        "summary": "Wanna see what I had for lunch earlier?"
+                    }
+                ]
+            },
+            {
+                "name": "Winkle",
+                "summary": "Eye love you.",
+                "sku_id": "1179493515118514186",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Winkle",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=true",
+                        "summary": "Eye love you."
+                    }
+                ]
+            },
+            {
+                "name": "Chewbert",
+                "summary": "Me chew gum, make bubbles, big fun.",
+                "sku_id": "1179493515038818332",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chewbert",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_129e3e818c8319e031d34d4194cf8ecd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_129e3e818c8319e031d34d4194cf8ecd.png?size=4096&passthrough=true",
+                        "summary": "Me chew gum, make bubbles, big fun."
+                    }
+                ]
+            },
+            {
+                "name": "Doodlezard",
+                "summary": "You might want to wash up after.",
+                "sku_id": "1179493515076579372",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Doodlezard",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_48ca99fcfa4ecc11acdc323534a0ecbb.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_48ca99fcfa4ecc11acdc323534a0ecbb.png?size=4096&passthrough=true",
+                        "summary": "You might want to wash up after."
+                    }
+                ]
+            },
+            {
+                "name": "Glop",
+                "summary": "Is there something in my teeth?",
+                "sku_id": "1179493515118514189",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Glop",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_42f43a32539de2f3f30a348dc8a880e1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_42f43a32539de2f3f30a348dc8a880e1.png?size=4096&passthrough=true",
+                        "summary": "Is there something in my teeth?"
+                    }
+                ]
+            },
+            {
+                "name": "Gawblehop",
+                "summary": "Talk about being tongue-tied.",
+                "sku_id": "1179493515118514192",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Gawblehop",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_be797b0a0efafd45a9ee49aaedbde4d2.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_be797b0a0efafd45a9ee49aaedbde4d2.png?size=4096&passthrough=true",
+                        "summary": "Talk about being tongue-tied."
+                    }
+                ]
+            },
+            {
+                "name": "Goozilla",
+                "summary": "Wait a second, what\u2019s my profile even made of?!",
+                "sku_id": "1179493515118514195",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Goozilla",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/intro-claw.png",
+                        "summary": "Wait a second, what\u2019s my profile even made of?!"
+                    }
+                ]
+            },
+            {
+                "name": "Heartzilla",
+                "summary": "Is this what they mean when they say love hurts?",
+                "sku_id": "1179493515126898811",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Heartzilla",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/heartzilla/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/heartzilla/intro.png",
+                        "summary": "Is this what they mean when they say love hurts?"
+                    }
+                ]
+            },
+            {
+                "name": "Monster Pop",
+                "summary": "POP goes the monster.",
+                "sku_id": "1179493515126898814",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Monster Pop",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/monster-pop/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/monster-pop/intro-monster.png",
+                        "summary": "POP goes the monster."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Winter Wonderland",
         "summary": "tis the season",
         "summary_black": "false",
