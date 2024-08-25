@@ -2346,6 +2346,179 @@
         ]
     },
     {
+        "name": "VALORANT",
+        "summary": "DEFY DEFINITION",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514092129714176.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                5447979,
+                989475
+            ],
+            "button_colors": [
+                16729685,
+                16729685
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514099364892672.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "A Hint of Clove",
+                "summary": "Back again from the great beyond.",
+                "sku_id": "1220513977683935373",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "A Hint of Clove",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=4096&passthrough=true",
+                        "summary": "Back again from the great beyond."
+                    }
+                ]
+            },
+            {
+                "name": "FRAG OUT",
+                "summary": "Five down. None to go.",
+                "sku_id": "1220513995308400680",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "FRAG OUT",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=4096&passthrough=true",
+                        "summary": "Five down. None to go."
+                    }
+                ]
+            },
+            {
+                "name": "Omen\u2019s Cowl",
+                "summary": "Embrace the shadows.",
+                "sku_id": "1220513984273186816",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Omen\u2019s Cowl",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=4096&passthrough=true",
+                        "summary": "Embrace the shadows."
+                    }
+                ]
+            },
+            {
+                "name": "Reyna\u2019s Leer",
+                "summary": "The last thing they\u2019ll ever see. Lucky them.",
+                "sku_id": "1220513989729976411",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Reyna\u2019s Leer",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=4096&passthrough=true",
+                        "summary": "The last thing they\u2019ll ever see. Lucky them."
+                    }
+                ]
+            },
+            {
+                "name": "Blade Storm",
+                "summary": "Watch this.",
+                "sku_id": "1220514048068812901",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blade Storm",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=4096&passthrough=true",
+                        "summary": "Watch this."
+                    }
+                ]
+            },
+            {
+                "name": "ACE",
+                "summary": "Too bad there are only 5 of \u2018em.",
+                "sku_id": "1220432740638523543",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "ACE",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/thumbnail_7c4f8929.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/intro_fa545ec0.png",
+                        "summary": "Too bad there are only 5 of \u2018em."
+                    }
+                ]
+            },
+            {
+                "name": "Clove\u2019s Ruse",
+                "summary": "Smoke\u2019s out. Time to make some mischief.",
+                "sku_id": "1220432647453409384",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Clove\u2019s Ruse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/thumbnail_a5917b67.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/intro_b62d8ce4.png",
+                        "summary": "Smoke\u2019s out. Time to make some mischief."
+                    }
+                ]
+            },
+            {
+                "name": "The Immortal Clove",
+                "summary": "They\u2019ve got all the time in the world.",
+                "sku_id": "1220432697718083614",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "The Immortal Clove",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/the-immortal-clove/thumbnail_20409a9b.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/the-immortal-clove/intro_310a69a3.png",
+                        "summary": "They\u2019ve got all the time in the world."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
