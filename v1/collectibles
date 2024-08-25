@@ -2128,6 +2128,224 @@
         ]
     },
     {
+        "name": "Lo-Fi Vibes",
+        "summary": "Where chill meets mood.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245273768230943.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                6512127,
+                14647993
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245117085679668.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Cosy Plant Vibes Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243618816639107223",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Oasis",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=true",
+                        "summary": "Chilling in my comfort place."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "All-Nighter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/all-nighter/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-14/all-nighter/intro.png",
+                        "summary": "Wait, it\u2019s already morning?"
+                    }
+                ]
+            },
+            {
+                "name": "Chromawave",
+                "summary": "Never miss a beat.",
+                "sku_id": "1228246010116050965",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chromawave",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=4096&passthrough=true",
+                        "summary": "Never miss a beat."
+                    }
+                ]
+            },
+            {
+                "name": "Cozy Cat",
+                "summary": "Vibing one catnap at a time.",
+                "sku_id": "1228251144065777765",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cozy Cat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=4096&passthrough=true",
+                        "summary": "Vibing one catnap at a time."
+                    }
+                ]
+            },
+            {
+                "name": "Oasis",
+                "summary": "Chilling in my comfort place.",
+                "sku_id": "1228251351415263242",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Oasis",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=true",
+                        "summary": "Chilling in my comfort place."
+                    }
+                ]
+            },
+            {
+                "name": "Rainy Mood",
+                "summary": "Feel the calm.",
+                "sku_id": "1228251846032756796",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Rainy Mood",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=4096&passthrough=true",
+                        "summary": "Feel the calm."
+                    }
+                ]
+            },
+            {
+                "name": "Cozy Headphones",
+                "summary": "Perfect for any tune.",
+                "sku_id": "1228252042791878707",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cozy Headphones",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb71042ccd2ca277a69f086a4f3354d0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb71042ccd2ca277a69f086a4f3354d0.png?size=4096&passthrough=true",
+                        "summary": "Perfect for any tune."
+                    }
+                ]
+            },
+            {
+                "name": "Doodling",
+                "summary": "What do you mean I\u2019m procrastinating?",
+                "sku_id": "1228252219502100530",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Doodling",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5873ecaa76fb549654b40095293f902e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5873ecaa76fb549654b40095293f902e.png?size=4096&passthrough=true",
+                        "summary": "What do you mean I\u2019m procrastinating?"
+                    }
+                ]
+            },
+            {
+                "name": "Study Spot",
+                "summary": "Time to hit the books.",
+                "sku_id": "1228233390260486164",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Study Spot",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-12/study-spot/intro.png",
+                        "summary": "Time to hit the books."
+                    }
+                ]
+            },
+            {
+                "name": "All-Nighter",
+                "summary": "Wait, it\u2019s already morning?",
+                "sku_id": "1228234634379132958",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "All-Nighter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/all-nighter/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-14/all-nighter/intro.png",
+                        "summary": "Wait, it\u2019s already morning?"
+                    }
+                ]
+            },
+            {
+                "name": "Watercolours",
+                "summary": "When the world feels grey, add a splash of colour.",
+                "sku_id": "1228237157554978817",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Watercolours",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/watercolors/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/watercolors/intro.png",
+                        "summary": "When the world feels grey, add a splash of colour."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Dojo",
         "summary": "Where discipline meets destiny.",
         "summary_black": "true",
