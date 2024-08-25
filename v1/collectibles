@@ -2604,6 +2604,141 @@
         ]
     },
     {
+        "name": "Winter Wonderland",
+        "summary": "tis the season",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
+        "unpublished_at": "2024-01-04T12:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                4620287,
+                1396431
+            ],
+            "button_colors": [
+                4507647,
+                40447
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459327285837915.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "New Year",
+                "summary": "Ringing in 2024!",
+                "sku_id": "1174459415924064376",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "New Year",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=true",
+                        "summary": "Ringing in 2024!"
+                    }
+                ]
+            },
+            {
+                "name": "Fresh Pine",
+                "summary": "Ah...the smell of Winter.",
+                "sku_id": "1174459480348565554",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fresh Pine",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=4096&passthrough=true",
+                        "summary": "Ah...the smell of Winter."
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe",
+                "summary": "Try not to shake too hard.",
+                "sku_id": "1174459546748600481",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Snowglobe",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png?size=4096&passthrough=true",
+                        "summary": "Try not to shake too hard."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": "1174460780842856588",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=4096&passthrough=true",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "Deck the halls",
+                "summary": "Keep out of reach from cats",
+                "sku_id": "1146328960951668776",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Deck the halls",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/deck-the-halls/intro.png",
+                        "summary": "Keep out of reach from cats"
+                    }
+                ]
+            },
+            {
+                "name": "Snowy Shenanigans",
+                "summary": "Gone in a flurry.",
+                "sku_id": "1146328961417224193",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Snowy Shenanigans",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/intro.png",
+                        "summary": "Gone in a flurry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Halloween",
         "summary": "Fright and delight your friends, strangers, and friendly strangers.",
         "summary_black": "false",
