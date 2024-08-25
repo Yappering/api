@@ -2604,6 +2604,198 @@
         ]
     },
     {
+        "name": "Lunar New Year",
+        "summary": "Roar into the Year of the Dragon.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1202069953306689626.png?size=4096",
+        "unpublished_at": "2024-03-07T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                9240576,
+                5963776
+            ],
+            "button_colors": [
+                16756998,
+                16747008
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1202069746653352057.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Fan Flourish",
+                "summary": "Incredibly fan-tastic.",
+                "sku_id": "1202070083816661043",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fan Flourish",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d2ff9685be0c668ef6990b0035fac17.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d2ff9685be0c668ef6990b0035fac17.png?size=4096&passthrough=true",
+                        "summary": "Incredibly fan-tastic."
+                    }
+                ]
+            },
+            {
+                "name": "Lunar Lanterns",
+                "summary": "Light the night.",
+                "sku_id": "1202073882111266846",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Lunar Lanterns",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_63b29ec5b1ea6bb01c2251049838d822.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_63b29ec5b1ea6bb01c2251049838d822.png?size=4096&passthrough=true",
+                        "summary": "Light the night."
+                    }
+                ]
+            },
+            {
+                "name": "Firecrackers",
+                "summary": "Don\u2019t try this at home!",
+                "sku_id": "1202073775840178206",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Firecrackers",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f4f1b40921ce680b60007e94427d1f2.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f4f1b40921ce680b60007e94427d1f2.png?size=4096&passthrough=true",
+                        "summary": "Don\u2019t try this at home!"
+                    }
+                ]
+            },
+            {
+                "name": "Dragon\u2019s Smile",
+                "summary": "A dragon\u2019s grin fills your year with laughs.",
+                "sku_id": "1202073975178665984",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dragon\u2019s Smile",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_445566ed965b2c1632a5b45c92f32d11.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_445566ed965b2c1632a5b45c92f32d11.png?size=4096&passthrough=true",
+                        "summary": "A dragon\u2019s grin fills your year with laughs."
+                    }
+                ]
+            },
+            {
+                "name": "Lucky Envelopes",
+                "summary": "Capacity: 888 coins.",
+                "sku_id": "1202445890909110323",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Lucky Envelopes",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_1b1df0ae8c2d34afd85da5c22a0d761a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_1b1df0ae8c2d34afd85da5c22a0d761a.png?size=4096&passthrough=true",
+                        "summary": "Capacity: 888 coins."
+                    }
+                ]
+            },
+            {
+                "name": "Koi Pond",
+                "summary": "Swimming in an eternal, peaceful circle.",
+                "sku_id": "1202074101343322184",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Koi Pond",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d40ad0af.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d40ad0af.png?size=4096&passthrough=true",
+                        "summary": "Swimming in an eternal, peaceful circle."
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Dance",
+                "summary": "No evil spirits on my watch.",
+                "sku_id": "1202061726212947968",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dragon Dance",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/dragon-dance/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-07/dragon-dance/intro_2e0f72c35c.png",
+                        "summary": "No evil spirits on my watch."
+                    }
+                ]
+            },
+            {
+                "name": "Fortune Flurry",
+                "summary": "May fortune come your way!",
+                "sku_id": "1202059628112777256",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Fortune Flurry",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/fortune-flurry/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/fortune-flurry/intro.png",
+                        "summary": "May fortune come your way!"
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Celebration",
+                "summary": "Protection and prosperity guaranteed.",
+                "sku_id": "1202061510529257522",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Midnight Celebration",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-01-31/midnight-celebration/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/midnight-celebration/intro.png",
+                        "summary": "Protection and prosperity guaranteed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cyberpunk",
         "summary": "Welcome to the neon embrace of the future.",
         "summary_black": "false",
@@ -2757,7 +2949,7 @@
                         "item_type": "effect",
                         "name": "Uplink Error",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",
-                        "animated": "ttps://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
                         "summary": "Anomaly detected, attempting system reset."
                     }
                 ]
