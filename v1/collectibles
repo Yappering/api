@@ -2460,25 +2460,6 @@
                 ]
             },
             {
-                "name": "ACE",
-                "summary": "Too bad there are only 5 of \u2018em.",
-                "sku_id": "1220432740638523543",
-                "price": "US$15.99",
-                "price_nitro": "US$11.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "ACE",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/thumbnail_7c4f8929.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/intro_fa545ec0.png",
-                        "summary": "Too bad there are only 5 of \u2018em."
-                    }
-                ]
-            },
-            {
                 "name": "Clove\u2019s Ruse",
                 "summary": "Smoke\u2019s out. Time to make some mischief.",
                 "sku_id": "1220432647453409384",
@@ -2494,6 +2475,25 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/thumbnail_a5917b67.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/cloves-ruse/intro_b62d8ce4.png",
                         "summary": "Smoke\u2019s out. Time to make some mischief."
+                    }
+                ]
+            },
+            {
+                "name": "ACE",
+                "summary": "Too bad there are only 5 of \u2018em.",
+                "sku_id": "1220432740638523543",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "ACE",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/thumbnail_7c4f8929.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-21/ace/intro_fa545ec0.png",
+                        "summary": "Too bad there are only 5 of \u2018em."
                     }
                 ]
             },
@@ -2598,6 +2598,295 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
                         "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Halloween",
+        "summary": "Fright and delight your friends, strangers, and friendly strangers.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157410718711304315.png?size=4096",
+        "unpublished_at": "2023-11-02T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                5406940,
+                397093
+            ],
+            "button_colors": [
+                4811739,
+                4080053
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157410718711304314.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Graveyard Cat",
+                "summary": "Just a cat on graveyard duty.",
+                "sku_id": "1157411984371880118",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Graveyard Cat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=4096&passthrough=true",
+                        "summary": "Just a cat on graveyard duty."
+                    }
+                ]
+            },
+            {
+                "name": "Ghosts",
+                "summary": "Look at them just spinning and grinning all day...",
+                "sku_id": "1157411685687115858",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ghosts",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=4096&passthrough=true",
+                        "summary": "Look at them just spinning and grinning all day..."
+                    }
+                ]
+            },
+            {
+                "name": "Minions",
+                "summary": "Name a more iconic duo.",
+                "sku_id": "1157412779335090267",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Minions",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=4096&passthrough=true",
+                        "summary": "Name a more iconic duo."
+                    }
+                ]
+            },
+            {
+                "name": "Jack-o\u2019-lantern",
+                "summary": "You can practically hear its eerie cackle...",
+                "sku_id": "1157412388509864068",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Jack-o\u2019-lantern",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=4096&passthrough=true",
+                        "summary": "You can practically hear its eerie cackle..."
+                    }
+                ]
+            },
+            {
+                "name": "Ghoulish Graffiti",
+                "summary": "Did I scare you?",
+                "sku_id": "1158572178179108968",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ghoulish Graffiti",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png",
+                        "summary": "Did I scare you?"
+                    }
+                ]
+            },
+            {
+                "name": "Zombie Slime",
+                "summary": "I don\u2019t think you should touch that.",
+                "sku_id": "1158572263411556373",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Zombie Slime",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro.png",
+                        "summary": "I don\u2019t think you should touch that."
+                    }
+                ]
+            },
+            {
+                "name": "Dark Omens",
+                "summary": "Who keeps summoning these things?",
+                "sku_id": "1158572275507937342",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dark Omens",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png",
+                        "summary": "Who keeps summoning these things?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall",
+        "summary": "There\u2019s a calm and cozy vibe in the air.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339935.png?size=4096",
+        "unpublished_at": "2023-11-30T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                16761447,
+                7084544
+            ],
+            "button_colors": [
+                16097602,
+                14972430
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339934.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Fall Leaves",
+                "summary": "Behold nature\u2019s dance.",
+                "sku_id": "1157409074422481023",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fall Leaves",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=true",
+                        "summary": "Behold nature\u2019s dance."
+                    }
+                ]
+            },
+            {
+                "name": "Pumpkin Spice",
+                "summary": "Sweets and spice make everything nice.",
+                "sku_id": "1157409869448618016",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pumpkin Spice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=4096&passthrough=true",
+                        "summary": "Sweets and spice make everything nice."
+                    }
+                ]
+            },
+            {
+                "name": "Frog Hat",
+                "summary": "Frogs and fashion go together and you can\u2019t tell me otherwise.",
+                "sku_id": "1157407831348228139",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Frog Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=4096&passthrough=true",
+                        "summary": "Frogs and fashion go together and you can\u2019t tell me otherwise."
+                    }
+                ]
+            },
+            {
+                "name": "Fox Hat",
+                "summary": "Charming, cozy, and a little bit nosy.",
+                "sku_id": "1157407831348228141",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fox Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=true",
+                        "summary": "Charming, cozy, and a little bit nosy."
+                    }
+                ]
+            },
+            {
+                "name": "Fall Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": "1159280677246742548",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Fall Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Lillypad Life",
+                "summary": "*ribbit*",
+                "sku_id": "1159280847262859364",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Lillypad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+                        "summary": "*ribbit*"
                     }
                 ]
             }
