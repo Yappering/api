@@ -2604,6 +2604,224 @@
         ]
     },
     {
+        "name": "Elements",
+        "summary": "Which will you unleash?",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1207046965909655592.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1776545,
+                5673
+            ],
+            "button_colors": [
+                15449370,
+                15894798
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1207046939544129577.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Elemental Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243619781362450442",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Balance",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=4096&passthrough=true",
+                        "summary": "Harness the elements."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Mastery",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/intro.png",
+                        "summary": "Unleash the elements."
+                    }
+                ]
+            },
+            {
+                "name": "Fire",
+                "summary": "Ignite your flame within.",
+                "sku_id": "1207047014769234001",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fire",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=4096&passthrough=true",
+                        "summary": "Ignite your flame within."
+                    }
+                ]
+            },
+            {
+                "name": "Water",
+                "summary": "Control the ebb and flow.",
+                "sku_id": "1207047597294886923",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Water",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_250640ab00a8837a1d56f35879138177.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_250640ab00a8837a1d56f35879138177.png?size=4096&passthrough=true",
+                        "summary": "Control the ebb and flow."
+                    }
+                ]
+            },
+            {
+                "name": "Air",
+                "summary": "Will the wind.",
+                "sku_id": "1207047808838799410",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Air",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_554b7c34f7b6c709f19535aacb128e7b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_554b7c34f7b6c709f19535aacb128e7b.png?size=4096&passthrough=true",
+                        "summary": "Will the wind."
+                    }
+                ]
+            },
+            {
+                "name": "Earth",
+                "summary": "Call the might of the earth.",
+                "sku_id": "1207048049571139584",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Earth",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa014594d4b2b4249e1098c0adc85b47.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa014594d4b2b4249e1098c0adc85b47.png?size=4096&passthrough=true",
+                        "summary": "Call the might of the earth."
+                    }
+                ]
+            },
+            {
+                "name": "Lightning",
+                "summary": "Electrify your presence.",
+                "sku_id": "1207048289610899526",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Lightning",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_365eed4178528fe8293c4212e8e2d5cb.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_365eed4178528fe8293c4212e8e2d5cb.png?size=4096&passthrough=true",
+                        "summary": "Electrify your presence."
+                    }
+                ]
+            },
+            {
+                "name": "Balance",
+                "summary": "Harness the elements.",
+                "sku_id": "1207048656289534022",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Balance",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=4096&passthrough=true",
+                        "summary": "Harness the elements."
+                    }
+                ]
+            },
+            {
+                "name": "Rock Slide",
+                "summary": "A ballet of rock and stone.",
+                "sku_id": "1207049115339591681",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Rock Slide",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/rock-slide/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/rock-slide/intro.png",
+                        "summary": "A ballet of rock and stone."
+                    }
+                ]
+            },
+            {
+                "name": "Vortex",
+                "summary": "Beware the eye of the storm.",
+                "sku_id": "1207049364464345158",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Vortex",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/intro.png",
+                        "summary": "Beware the eye of the storm."
+                    }
+                ]
+            },
+            {
+                "name": "Mastery",
+                "summary": "Unleash the elements.",
+                "sku_id": "1207049498065375343",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Mastery",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/intro.png",
+                        "summary": "Unleash the elements."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Lunar New Year",
         "summary": "Roar into the Year of the Dragon.",
         "summary_black": "false",
