@@ -2468,10 +2468,10 @@
                     },
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "Pixie Dust",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png",
+                        "summary": "Did a pixie sneeze nearby?"
                     }
                 ]
             },
