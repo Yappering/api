@@ -2604,6 +2604,414 @@
         ]
     },
     {
+        "name": "Anime",
+        "summary": "Senpai will definitely notice you.",
+        "summary_black": "true",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1212565236721389588.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                11468797,
+                146803
+            ],
+            "button_colors": [
+                4241407,
+                8019679
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1212565210682884167.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Heartthrob Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243619479645065287",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Heartbloom",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=true",
+                        "summary": "Let your love blossom."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Dreamy",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/intro.png",
+                        "summary": "When senpai notices you."
+                    }
+                ]
+            },
+            {
+                "name": "Cat Ears",
+                "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c",
+                "sku_id": "1212569433839636530",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cat Ears",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=4096&passthrough=true",
+                        "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c"
+                    }
+                ]
+            },
+            {
+                "name": "Ki Energy",
+                "summary": "Focus from within.",
+                "sku_id": "1212569856189407352",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ki Energy",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=4096&passthrough=true",
+                        "summary": "Focus from within."
+                    }
+                ]
+            },
+            {
+                "name": "Heartbloom",
+                "summary": "Let your love blossom.",
+                "sku_id": "1212570343567261736",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Heartbloom",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=true",
+                        "summary": "Let your love blossom."
+                    }
+                ]
+            },
+            {
+                "name": "Dismay",
+                "summary": "Not like this...",
+                "sku_id": "1212570596970467378",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dismay",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_51d3bb502109eec26c76386ec980bc8b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_51d3bb502109eec26c76386ec980bc8b.png?size=4096&passthrough=true",
+                        "summary": "Not like this..."
+                    }
+                ]
+            },
+            {
+                "name": "Rage",
+                "summary": "THAT\u2019S IT.",
+                "sku_id": "1212581147675205652",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Rage",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0db4314b8cc271c8f472357aa895005.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0db4314b8cc271c8f472357aa895005.png?size=4096&passthrough=true",
+                        "summary": "THAT\u2019S IT."
+                    }
+                ]
+            },
+            {
+                "name": "In Tears",
+                "summary": "*sobbing*",
+                "sku_id": "1212581390936178768",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "In Tears",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cc97277177b166fd7d4af3bdb370815.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cc97277177b166fd7d4af3bdb370815.png?size=4096&passthrough=true",
+                        "summary": "*sobbing*"
+                    }
+                ]
+            },
+            {
+                "name": "Radiating Energy",
+                "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!",
+                "sku_id": "1154896005045694555",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Radiating Energy",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=true",
+                        "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!"
+                    }
+                ]
+            },
+            {
+                "name": "Soul Leaving Body",
+                "summary": "Can I just disappear right now?",
+                "sku_id": "1144305233707671573",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Soul Leaving Body",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=4096&passthrough=true",
+                        "summary": "Can I just disappear right now?"
+                    }
+                ]
+            },
+            {
+                "name": "Starry Eyed",
+                "summary": "Feelin\u2019 sparkly.",
+                "sku_id": "1144307257807491094",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Starry Eyed",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=true",
+                        "summary": "Feelin\u2019 sparkly."
+                    }
+                ]
+            },
+            {
+                "name": "In Love",
+                "summary": "uwu",
+                "sku_id": "1144307957425778779",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "In Love",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=true",
+                        "summary": "uwu"
+                    }
+                ]
+            },
+            {
+                "name": "Shocked",
+                "summary": "Nani?!!",
+                "sku_id": "1144308196723408958",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Shocked",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=4096&passthrough=true",
+                        "summary": "Nani?!!"
+                    }
+                ]
+            },
+            {
+                "name": "Angry",
+                "summary": "How dare you.",
+                "sku_id": "1144308439720394944",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Angry",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=true",
+                        "summary": "How dare you."
+                    }
+                ]
+            },
+            {
+                "name": "Dreamy",
+                "summary": "When senpai notices you.",
+                "sku_id": "1212582298893946880",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dreamy",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/intro.png",
+                        "summary": "When senpai notices you."
+                    }
+                ]
+            },
+            {
+                "name": "Ki Detonate",
+                "summary": "Obliteration in 3... 2... 1...",
+                "sku_id": "1212582372877541427",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ki Detonate",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png",
+                        "summary": "Obliteration in 3... 2... 1..."
+                    }
+                ]
+            },
+            {
+                "name": "Sushi Mania",
+                "summary": "Always keep the sushi rolling.",
+                "sku_id": "1212582452640350238",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sushi Mania",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/sushi-mania/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/sushi-mania/intro.png",
+                        "summary": "Always keep the sushi rolling."
+                    }
+                ]
+            },
+            {
+                "name": "Magic Hearts",
+                "summary": "Moon Prism Power, Make Up!",
+                "sku_id": "1139323100568244355",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Magic Hearts",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png",
+                        "summary": "Moon Prism Power, Make Up!"
+                    }
+                ]
+            },
+            {
+                "name": "Shatter",
+                "summary": "Ouch, my windows!",
+                "sku_id": "1139323093551165533",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shatter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/earthquake/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro.png",
+                        "summary": "Ouch, my windows!"
+                    }
+                ]
+            },
+            {
+                "name": "Shuriken Strike",
+                "summary": "Every side is the pointy end.",
+                "sku_id": "1139323101008642101",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shuriken Strike",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/shuriken/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro3.png",
+                        "summary": "Every side is the pointy end."
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "You\u2019re about to witness true power.",
+                "sku_id": "1139323101881061466",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png",
+                        "summary": "You\u2019re about to witness true power."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Elements",
         "summary": "Which will you unleash?",
         "summary_black": "false",
