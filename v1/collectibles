@@ -2604,6 +2604,167 @@
         ]
     },
     {
+        "name": "Cyberpunk",
+        "summary": "Welcome to the neon embrace of the future.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1197343893742694470.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                2102637,
+                459264
+            ],
+            "button_colors": [
+                4801242,
+                3552948
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1197343875023523930.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Am I Getting Hacked? Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243620093431119922",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Glitch",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=4096&passthrough=true",
+                        "summary": "Neurovisor disruption detected, please standby."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Uplink Error",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",
+                        "animated": "ttps://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
+                        "summary": "Anomaly detected, attempting system reset."
+                    }
+                ]
+            },
+            {
+                "name": "Glitch",
+                "summary": "Neurovisor disruption detected, please standby.",
+                "sku_id": "1197344326133502032",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Glitch",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=4096&passthrough=true",
+                        "summary": "Neurovisor disruption detected, please standby."
+                    }
+                ]
+            },
+            {
+                "name": "Cybernetic",
+                "summary": "Cybernetic visuals now online. Welcome aboard, runner.",
+                "sku_id": "1197344396983664670",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cybernetic",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c6b3bc1dc49e5b284dca0b6437831004.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c6b3bc1dc49e5b284dca0b6437831004.png?size=4096&passthrough=true",
+                        "summary": "Cybernetic visuals now online. Welcome aboard, runner."
+                    }
+                ]
+            },
+            {
+                "name": "Digital Sunrise",
+                "summary": "It\u2019s a new day in cyberspace.",
+                "sku_id": "1197344575832981605",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Digital Sunrise",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc83efd93ecd6e41857449c3c0ef9b22.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc83efd93ecd6e41857449c3c0ef9b22.png?size=4096&passthrough=true",
+                        "summary": "It\u2019s a new day in cyberspace."
+                    }
+                ]
+            },
+            {
+                "name": "Implant",
+                "summary": "Get ready to jack in.",
+                "sku_id": "1197344636558114986",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Implant",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_172fa9da0af8698e37f5e5de76637439.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_172fa9da0af8698e37f5e5de76637439.png?size=4096&passthrough=true",
+                        "summary": "Get ready to jack in."
+                    }
+                ]
+            },
+            {
+                "name": "Nightrunner",
+                "summary": "Cruisin\u2019 the cyber highway.",
+                "sku_id": "1197344693630009424",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Nightrunner",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-nightrunner/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-nightrunner/intro.png",
+                        "summary": "Cruisin\u2019 the cyber highway."
+                    }
+                ]
+            },
+            {
+                "name": "Uplink Error",
+                "summary": "Anomaly detected, attempting system reset.",
+                "sku_id": "1197344764174008452",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Uplink Error",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",
+                        "animated": "ttps://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
+                        "summary": "Anomaly detected, attempting system reset."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Monsters",
         "summary": "We\u2019re not a menace, just misunderstood.",
         "summary_black": "false",
@@ -2692,8 +2853,8 @@
                     {
                         "item_type": "deco",
                         "name": "Winkle",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=4096&passthrough=true",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b7ad8479ad8cc9996b508b75410e2f9.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b7ad8479ad8cc9996b508b75410e2f9.png?size=4096&passthrough=true",
                         "summary": "Eye love you."
                     }
                 ]
