@@ -2431,6 +2431,179 @@
         ]
     },
     {
+        "name": "Breakfast",
+        "summary": "Breakfast is definitely the most important meal of the day.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563083245768704.png?size=4096",
+        "unpublished_at": "2024-02-06T00:00:00Z",
+        "styles": {
+            "background_colors": [
+                15250027,
+                8010240
+            ],
+            "button_colors": [
+                16761685,
+                16749879
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563080074854410.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Toast",
+                "summary": "It is toast.",
+                "sku_id": "1144056139584127058",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Toast",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_911e48f3a695c7f6c267843ab6a96f2f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_911e48f3a695c7f6c267843ab6a96f2f.png?size=4096&passthrough=true",
+                        "summary": "It is toast."
+                    }
+                ]
+            },
+            {
+                "name": "Morning Coffee",
+                "summary": "Don\u2019t talk to me until I finish this.",
+                "sku_id": "1144056631374647458",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Morning Coffee",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2e1c2b3cf05b24f6ec7b8b4141f5fc.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2e1c2b3cf05b24f6ec7b8b4141f5fc.png?size=4096&passthrough=true",
+                        "summary": "Don\u2019t talk to me until I finish this."
+                    }
+                ]
+            },
+            {
+                "name": "Fried Egg",
+                "summary": "I like mine sunny side-up.",
+                "sku_id": "1144057023726628945",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fried Egg",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9b7b74e72efe1bc5a6beddced3da3c0f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9b7b74e72efe1bc5a6beddced3da3c0f.png?size=4096&passthrough=true",
+                        "summary": "I like mine sunny side-up."
+                    }
+                ]
+            },
+            {
+                "name": "Blueberry Jam",
+                "summary": "MMMM JUICY.",
+                "sku_id": "1144057249392771145",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blueberry Jam",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_faaa56d945e2d0f6c41cf940d122cb9e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_faaa56d945e2d0f6c41cf940d122cb9e.png?size=4096&passthrough=true",
+                        "summary": "MMMM JUICY."
+                    }
+                ]
+            },
+            {
+                "name": "Donut",
+                "summary": "Never enough sprinkles.",
+                "sku_id": "1144057486203158560",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Donut",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b0d858b65a81ea0c537091a4650a6d4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b0d858b65a81ea0c537091a4650a6d4.png?size=4096&passthrough=true",
+                        "summary": "Never enough sprinkles."
+                    }
+                ]
+            },
+            {
+                "name": "Pancakes",
+                "summary": "How high can you stack \u2019em?",
+                "sku_id": "1144057737475534889",
+                "price": "US$3.99",
+                "price_nitro": "US$2.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pancakes",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=4096&passthrough=true",
+                        "summary": "How high can you stack \u2019em?"
+                    }
+                ]
+            },
+            {
+                "name": "Discord-Os",
+                "summary": "Bet you can\u2019t have just one bowl.",
+                "sku_id": "1139323095744790568",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Discord-Os",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png",
+                        "summary": "Bet you can\u2019t have just one bowl."
+                    }
+                ]
+            },
+            {
+                "name": "Breakfast Plate",
+                "summary": "The best meal for any time of day.",
+                "sku_id": "1139323096180994169",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Breakfast Plate",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png",
+                        "summary": "The best meal for any time of day."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "DISXCORE",
         "summary": "Available to use with an active Nitro subscription.",
         "summary_black": "false",
@@ -2442,8 +2615,8 @@
                 1121600
             ],
             "button_colors": [
-                5793266,
-                5793266
+                8734662,
+                12076481
             ]
         },
         "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562888290320414.png?size=4096",
