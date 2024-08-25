@@ -2431,6 +2431,281 @@
         ]
     },
     {
+        "name": "Fantasy",
+        "summary": "You\u2019re walking in the forest and notice something magical and shiny.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562682983321630.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1335620,
+                137742
+            ],
+            "button_colors": [
+                165687,
+                26954
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562562103484467.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Fairy & Pixie Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1243620329331626044",
+                "price": "US$19.99",
+                "price_nitro": "US$13.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fairy Sprites",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=4096&passthrough=true",
+                        "summary": "Here to guide you on your path."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Oni\u2019s Curse",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
+                        "summary": "An omen of ancient malevolence..."
+                    }
+                ]
+            },
+            {
+                "name": "Flaming Sword",
+                "summary": "Slaying the look and the monsters.",
+                "sku_id": "1144003752978829455",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Flaming Sword",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f5d6c4dd8ae74662ee9c40722a56cbd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f5d6c4dd8ae74662ee9c40722a56cbd.png?size=4096&passthrough=true",
+                        "summary": "Slaying the look and the monsters."
+                    }
+                ]
+            },
+            {
+                "name": "Magical Potion",
+                "summary": "Drink at your own risk.",
+                "sku_id": "1144006094134456352",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Magical Potion",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_1dbc603c181999b9815cb426dfec71a6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_1dbc603c181999b9815cb426dfec71a6.png?size=4096&passthrough=true",
+                        "summary": "Drink at your own risk."
+                    }
+                ]
+            },
+            {
+                "name": "Fairy Sprites",
+                "summary": "Here to guide you on your path.",
+                "sku_id": "1144046002110738634",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fairy Sprites",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=4096&passthrough=true",
+                        "summary": "Here to guide you on your path."
+                    }
+                ]
+            },
+            {
+                "name": "Wizard\u2019s Staff",
+                "summary": "How much power does it hold?",
+                "sku_id": "1144048390594908212",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wizard\u2019s Staff",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_db9baf0ba7cf449d2b027c06309dbe8d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_db9baf0ba7cf449d2b027c06309dbe8d.png?size=4096&passthrough=true",
+                        "summary": "How much power does it hold?"
+                    }
+                ]
+            },
+            {
+                "name": "Glowing Runes",
+                "summary": "I wonder what these symbols mean.",
+                "sku_id": "1144048977138946230",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Glowing Runes",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d650e22f6c4bab4fc0969e9d35edbcb0.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d650e22f6c4bab4fc0969e9d35edbcb0.png?size=4096&passthrough=true",
+                        "summary": "I wonder what these symbols mean."
+                    }
+                ]
+            },
+            {
+                "name": "Defensive Shield",
+                "summary": "Use against pointy things.",
+                "sku_id": "1144049316009353338",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Defensive Shield",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png?size=4096&passthrough=true",
+                        "summary": "Use against pointy things."
+                    }
+                ]
+            },
+            {
+                "name": "Skull Medallion",
+                "summary": "Earned through unknown means.",
+                "sku_id": "1144049603109470370",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Skull Medallion",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png?size=4096&passthrough=true",
+                        "summary": "Earned through unknown means."
+                    }
+                ]
+            },
+            {
+                "name": "Treasure and Key",
+                "summary": "What glorious treasures lie within?",
+                "sku_id": "1144049924397334651",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Treasure and Key",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=4096&passthrough=true",
+                        "summary": "What glorious treasures lie within?"
+                    }
+                ]
+            },
+            {
+                "name": "Hydro Blast",
+                "summary": "Time to make a splash.",
+                "sku_id": "1139323092645183591",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Hydro Blast",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png",
+                        "summary": "Time to make a splash."
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Dreams",
+                "summary": "Close your eyes, and breathe.",
+                "sku_id": "1139323093991575696",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Dreams",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sakura/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/intro.png",
+                        "summary": "Close your eyes, and breathe."
+                    }
+                ]
+            },
+            {
+                "name": "Mystic Vines",
+                "summary": "Why touch grass when you can touch magical vines?",
+                "sku_id": "1139323099251232828",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Mystic Vines",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/vines/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png",
+                        "summary": "Why touch grass when you can touch magical vines?"
+                    }
+                ]
+            },
+            {
+                "name": "Pixie Dust",
+                "summary": "Did a pixie sneeze nearby?",
+                "sku_id": "1139323099687436419",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Pixie Dust",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png",
+                        "summary": "Did a pixie sneeze nearby?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Anime",
         "summary": "Senpai will definitely notice you.",
         "summary_black": "false",
@@ -2465,6 +2740,101 @@
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=4096&passthrough=true",
                         "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!"
+                    }
+                ]
+            },
+            {
+                "name": "Soul Leaving Body",
+                "summary": "Can I just disappear right now?",
+                "sku_id": "1144305233707671573",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Soul Leaving Body",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=4096&passthrough=true",
+                        "summary": "Can I just disappear right now?"
+                    }
+                ]
+            },
+            {
+                "name": "Starry Eyed",
+                "summary": "Feelin\u2019 sparkly.",
+                "sku_id": "1144307257807491094",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Starry Eyed",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=true",
+                        "summary": "Feelin\u2019 sparkly."
+                    }
+                ]
+            },
+            {
+                "name": "In Love",
+                "summary": "uwu",
+                "sku_id": "1144307957425778779",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "In Love",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=true",
+                        "summary": "uwu"
+                    }
+                ]
+            },
+            {
+                "name": "Shocked",
+                "summary": "Nani?!!",
+                "sku_id": "1144308196723408958",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Shocked",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=4096&passthrough=true",
+                        "summary": "Nani?!!"
+                    }
+                ]
+            },
+            {
+                "name": "Angry",
+                "summary": "How dare you.",
+                "sku_id": "1144308439720394944",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Angry",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=true",
+                        "summary": "How dare you."
                     }
                 ]
             },
