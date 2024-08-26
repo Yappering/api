@@ -3594,7 +3594,7 @@
                         "item_type": "effect",
                         "name": "Uplink Error",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",
-                        "animated": "ttps://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
                         "summary": "Anomaly detected, attempting system reset."
                     }
                 ]
