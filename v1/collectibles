@@ -2519,28 +2519,28 @@
         ]
     },
     {
-        "name": "Dojo",
-        "summary": "Where discipline meets destiny.",
+        "name": "Springtoons",
+        "summary": "You awaken to find yourself in a springtime wonderland.",
         "summary_black": "true",
-        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1275175014001541140.png?size=4096",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217623891149586563.png?size=4096",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                1118740,
-                1118740
+                16777215,
+                7520254
             ],
             "button_colors": [
-                5793266,
-                5793266
+                15586640,
+                16482611
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217623684777381908.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
-                "name": "Straw and Steel Bundle",
+                "name": "The Tune of Spring Bundle",
                 "summary": "A bundle of collectibles.",
-                "sku_id": "1271564593746939904",
+                "sku_id": "1243619153688920206",
                 "price": "US$10.99",
                 "price_nitro": "US$8.99",
                 "unpublished_at": null,
@@ -2549,24 +2549,24 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Kabuto",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
-                        "summary": "Donned only by true warriors."
+                        "name": "Butterflies",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=4096&passthrough=true",
+                        "summary": "We shall tickle the clouds today - join us!"
                     },
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "Petal Serenade",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/petal-serenade/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/petal-serenade/intro-pse01.png",
+                        "summary": "A cascade of floral delight."
                     }
                 ]
             },
             {
-                "name": "Kabuto",
-                "summary": "Donned only by true warriors.",
-                "sku_id": "1271174154514595891",
+                "name": "Honeyblossom",
+                "summary": "Buzz meets bloom.",
+                "sku_id": "1217624148080332820",
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
@@ -2575,17 +2575,112 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Kabuto",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=4096&passthrough=true",
-                        "summary": "Donned only by true warriors."
+                        "name": "Honeyblossom",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_27bbf0b53b1054cf61e9a4c0e8d4027f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_27bbf0b53b1054cf61e9a4c0e8d4027f.png?size=4096&passthrough=true",
+                        "summary": "Buzz meets bloom."
                     }
                 ]
             },
             {
-                "name": "Oni\u2019s Curse",
-                "summary": "An omen of ancient malevolence...",
-                "sku_id": "1271174907081789524",
+                "name": "Dandelion Duo",
+                "summary": "Strengths: Cute and fluffy. Weaknesses: The breeze.",
+                "sku_id": "1217625289681801316",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dandelion Duo",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_629689577fa1da2ef0061a5a8c930de1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_629689577fa1da2ef0061a5a8c930de1.png?size=4096&passthrough=true",
+                        "summary": "Strengths: Cute and fluffy. Weaknesses: The breeze."
+                    }
+                ]
+            },
+            {
+                "name": "Hugh the Rainbow",
+                "summary": "Does he have a hue for every mood?",
+                "sku_id": "1217625572168044604",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Hugh the Rainbow",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0c0eeb351ae2cf48c6e1eee2cae49d40.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0c0eeb351ae2cf48c6e1eee2cae49d40.png?size=4096&passthrough=true",
+                        "summary": "Does he have a hue for every mood?"
+                    }
+                ]
+            },
+            {
+                "name": "Strawberry Vine",
+                "summary": "Now that\u2019s a sweet harvest.",
+                "sku_id": "1217625794382401577",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Strawberry Vine",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9867b1ba56601e745cfe741e6b00b835.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9867b1ba56601e745cfe741e6b00b835.png?size=4096&passthrough=true",
+                        "summary": "Now that\u2019s a sweet harvest."
+                    }
+                ]
+            },
+            {
+                "name": "Butterflies",
+                "summary": "We shall tickle the clouds today - join us!",
+                "sku_id": "1217626024540508170",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Butterflies",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=4096&passthrough=true",
+                        "summary": "We shall tickle the clouds today - join us!"
+                    }
+                ]
+            },
+            {
+                "name": "The Petal Pack",
+                "summary": "Comes with sunshine and smiles.",
+                "sku_id": "1217626219651006495",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Petal Pack",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ab95c78401ce4ec85c25a6d308db9d85.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ab95c78401ce4ec85c25a6d308db9d85.png?size=4096&passthrough=true",
+                        "summary": "Comes with sunshine and smiles."
+                    }
+                ]
+            },
+            {
+                "name": "Petal Serenade",
+                "summary": "A cascade of floral delight.",
+                "sku_id": "1217626509737459852",
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
@@ -2594,10 +2689,48 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Oni\u2019s Curse",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/onis-curse/intro.png",
-                        "summary": "An omen of ancient malevolence..."
+                        "name": "Petal Serenade",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/petal-serenade/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/petal-serenade/intro-pse01.png",
+                        "summary": "A cascade of floral delight."
+                    }
+                ]
+            },
+            {
+                "name": "Fellowship of the Spring",
+                "summary": "They only gather around this time of the year.",
+                "sku_id": "1217627051217911848",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Fellowship of the Spring",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/fellowship-of-the-spring/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/fellowship-of-the-spring/intro-fose01.png",
+                        "summary": "They only gather around this time of the year."
+                    }
+                ]
+            },
+            {
+                "name": "Spring Bloom",
+                "summary": "Welcome to my garden.",
+                "sku_id": "1217627230818009171",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Spring Bloom",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/spring-bloom/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-03-11/spring-bloom/intro-sbe01.png",
+                        "summary": "Welcome to my garden."
                     }
                 ]
             }
