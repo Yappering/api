@@ -1,5 +1,78 @@
 [
     {
+        "name": "WindowKill",
+        "summary": "What\u2019s wrong with my windows?",
+        "summary_black": "true",
+        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/33.png",
+        "unpublished_at": "2024-11-01T00:00:00Z",
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/24.png",
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "WindowKill Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Paper Beach",
         "summary": "Nothing better than wet and sandy paper.",
         "summary_black": "true",
@@ -171,8 +244,8 @@
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                4424191,
-                3104443
+                8695295,
+                2114182
             ],
             "button_colors": [
                 5793266,
@@ -298,79 +371,6 @@
                         "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
                         "summary": "Dodge and weave."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "WindowKill",
-        "summary": "What\u2019s wrong with my windows?",
-        "summary_black": "true",
-        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/20.png",
-        "unpublished_at": null,
-        "styles": {
-            "background_colors": [
-                4424191,
-                3104443
-            ],
-            "button_colors": [
-                5793266,
-                5793266
-            ]
-        },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
-        "logo_sway": "false",
-        "products": [
-            {
-                "name": "WindowKill Bundle",
-                "summary": "A bundle of collectibles.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
-                        "summary": "Hes got my Avatar!"
-                    }
-                ]
-            },
-            {
-                "name": "Orb Array",
-                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    }
-                ]
-            },
-            {
-                "name": "Smiley",
-                "summary": "Hes got my Avatar!",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
-                        "summary": "Hes got my Avatar!"
                     }
                 ]
             }
