@@ -572,5 +572,387 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "8th Birthday",
+        "summary": "List of 8th Birthday Avatar Decorations that are not available for purchase.",
+        "summary_black": "true",
+        "banner": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/8th-birthday-banner.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                7546213,
+                1121600
+            ],
+            "button_colors": [
+                8734662,
+                12076481
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Blue Headset",
+                "summary": "Everything sounds better with these on.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Headset",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=4096&passthrough=true",
+                        "summary": "Everything sounds better with these on."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Headset",
+                "summary": "Everything sounds better with these on.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Headset",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_87b1052cdc7d46a00a699ef2b76cbfa4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_87b1052cdc7d46a00a699ef2b76cbfa4.png?size=4096&passthrough=true",
+                        "summary": "Everything sounds better with these on."
+                    }
+                ]
+            },
+            {
+                "name": "Green Headset",
+                "summary": "Everything sounds better with these on.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Headset",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_23309e19e3396c5e0b15583caf969417.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_23309e19e3396c5e0b15583caf969417.png?size=4096&passthrough=true",
+                        "summary": "Everything sounds better with these on."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Futuristic UI",
+                "summary": "BEEP BOOP.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Futuristic UI",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fbe9b75665ee364ff5759d8821d52373.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fbe9b75665ee364ff5759d8821d52373.png?size=4096&passthrough=true",
+                        "summary": "BEEP BOOP."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Futuristic UI",
+                "summary": "BEEP BOOP.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Futuristic UI",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=4096&passthrough=true",
+                        "summary": "BEEP BOOP."
+                    }
+                ]
+            },
+            {
+                "name": "Green Futuristic UI",
+                "summary": "BEEP BOOP.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Futuristic UI",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_6b729e0b276ed0ad71d2e81c2c1732f3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_6b729e0b276ed0ad71d2e81c2c1732f3.png?size=4096&passthrough=true",
+                        "summary": "BEEP BOOP."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Hyper Helmet",
+                "summary": "Always wear your helmet.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Hyper Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a2121138d6b16b3310f349794af0e1.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a2121138d6b16b3310f349794af0e1.png?size=4096&passthrough=true",
+                        "summary": "Always wear your helmet."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Hyper Helmet",
+                "summary": "Always wear your helmet.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Hyper Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_424582087fdf527e3ad8383fd7654f21.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_424582087fdf527e3ad8383fd7654f21.png?size=4096&passthrough=true",
+                        "summary": "Always wear your helmet."
+                    }
+                ]
+            },
+            {
+                "name": "Green Hyper Helmet",
+                "summary": "Always wear your helmet.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Hyper Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_2efbb7db0d4e12acacbce419166115de.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_2efbb7db0d4e12acacbce419166115de.png?size=4096&passthrough=true",
+                        "summary": "Always wear your helmet."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Warp Helmet",
+                "summary": "Travelling at the speed of light.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Warp Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb31faaec1be1ef5ff32dcdc5f37efbf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb31faaec1be1ef5ff32dcdc5f37efbf.png?size=4096&passthrough=true",
+                        "summary": "Travelling at the speed of light."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Warp Helmet",
+                "summary": "Travelling at the speed of light.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Warp Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c8344f05cc053e27bc7a3ea47412679.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c8344f05cc053e27bc7a3ea47412679.png?size=4096&passthrough=true",
+                        "summary": "Travelling at the speed of light."
+                    }
+                ]
+            },
+            {
+                "name": "Green Warp Helmet",
+                "summary": "Travelling at the speed of light.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Warp Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_96f06e3e52bbd906f93951e362c38d32.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_96f06e3e52bbd906f93951e362c38d32.png?size=4096&passthrough=true",
+                        "summary": "Travelling at the speed of light."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Gyroscope",
+                "summary": "Keeping your avatar stable while stylish.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Gyroscope",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_88765df09a036906b376704bd8dc27ba.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_88765df09a036906b376704bd8dc27ba.png?size=4096&passthrough=true",
+                        "summary": "Keeping your avatar stable while stylish."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Gyroscope",
+                "summary": "Keeping your avatar stable while stylish.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Gyroscope",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_898d52a79941712fd34b9218e0d80837.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_898d52a79941712fd34b9218e0d80837.png?size=4096&passthrough=true",
+                        "summary": "Keeping your avatar stable while stylish."
+                    }
+                ]
+            },
+            {
+                "name": "Green Gyroscope",
+                "summary": "Keeping your avatar stable while stylish.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Gyroscope",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5aa45e649f5f8ed3a10784bf83d63945.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5aa45e649f5f8ed3a10784bf83d63945.png?size=4096&passthrough=true",
+                        "summary": "Keeping your avatar stable while stylish."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Smoke",
+                "summary": "Now you see me, now you don\u2019t.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Smoke",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_6bf24f16330d65de9a7b686a8c55d48d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_6bf24f16330d65de9a7b686a8c55d48d.png?size=4096&passthrough=true",
+                        "summary": "Now you see me, now you don\u2019t."
+                    }
+                ]
+            },
+            {
+                "name": "Purple Smoke",
+                "summary": "Now you see me, now you don\u2019t.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Purple Smoke",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_2135f24a35ce3606677ceecca5a502cc.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_2135f24a35ce3606677ceecca5a502cc.png?size=4096&passthrough=true",
+                        "summary": "Now you see me, now you don\u2019t."
+                    }
+                ]
+            },
+            {
+                "name": "Green Smoke",
+                "summary": "Now you see me, now you don\u2019t.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Smoke",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77ccdd67c8784f1a496.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77ccdd67c8784f1a496.png?size=4096&passthrough=true",
+                        "summary": "Now you see me, now you don\u2019t."
+                    }
+                ]
+            },
+            {
+                "name": "Saw",
+                "summary": "Here to make your avatar more stylish... and dangerous!",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jun 15th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Saw",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=4096&passthrough=true",
+                        "summary": "Here to make your avatar more stylish... and dangerous!"
+                    }
+                ]
+            }
+        ]
     }
 ]
