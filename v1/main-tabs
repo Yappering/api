@@ -16,6 +16,12 @@
         "class": "shop-tab"
     },
     {
+        "title": "Popular Picks",
+        "isNew": "true",
+        "url": "/popular",
+        "class": "popular-picks-tab"
+    },
+    {
         "title": "Profiles Plus",
         "credits": "By DTACat & TrellTrell",
         "isNew": "false",
