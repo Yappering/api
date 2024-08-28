@@ -74,15 +74,338 @@
                         "summary": "What secrets do the stars reveal?"
                     }
                 ]
+            },
+            {
+                "name": "Black Hole",
+                "summary": "An enigma of matter, space, and time.",
+                "sku_id": "1232071157746765906",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Black Hole",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_6d16b27d9415cafe3b289053644337c4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_6d16b27d9415cafe3b289053644337c4.png?size=4096&passthrough=true",
+                        "summary": "An enigma of matter, space, and time."
+                    }
+                ]
+            },
+            {
+                "name": "Heartbloom",
+                "summary": "Let your love blossom.",
+                "sku_id": "1212570343567261736",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Heartbloom",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=4096&passthrough=true",
+                        "summary": "Let your love blossom."
+                    }
+                ]
+            },
+            {
+                "name": "Stardust",
+                "summary": "The essence of the cosmos.",
+                "sku_id": "1232070870093008937",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Stardust",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=4096&passthrough=true",
+                        "summary": "The essence of the cosmos."
+                    }
+                ]
+            },
+            {
+                "name": "Angry",
+                "summary": "How dare you.",
+                "sku_id": "1144308439720394944",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Angry",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=4096&passthrough=true",
+                        "summary": "How dare you."
+                    }
+                ]
+            },
+            {
+                "name": "Shooting Stars",
+                "summary": "May your wish come true.",
+                "sku_id": "1232073286582538261",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shooting Stars",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/shooting-stars/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-25/shooting-stars/intro_770bd27eae0.png",
+                        "summary": "May your wish come true."
+                    }
+                ]
+            },
+            {
+                "name": "All-Nighter",
+                "summary": "Wait, it\u2019s already morning?",
+                "sku_id": "1228234634379132958",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "All-Nighter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/all-nighter/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-14/all-nighter/intro.png",
+                        "summary": "Wait, it\u2019s already morning?"
+                    }
+                ]
+            },
+            {
+                "name": "Cozy Cat",
+                "summary": "Vibing one catnap at a time.",
+                "sku_id": "1228251144065777765",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cozy Cat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=4096&passthrough=true",
+                        "summary": "Vibing one catnap at a time."
+                    }
+                ]
+            },
+            {
+                "name": "Uplink Error",
+                "summary": "Anomaly detected, attempting system reset.",
+                "sku_id": "1197344764174008452",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Uplink Error",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-16/cyberpunk-uplinkerror/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-19/cyberpunk-uplinkerror/intro.png",
+                        "summary": "Anomaly detected, attempting system reset."
+                    }
+                ]
+            },
+            {
+                "name": "Supernova",
+                "summary": "Light up the cosmos.",
+                "sku_id": "1232073448415821854",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Supernova",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/supernova/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-25/supernova/intro_9e90bcf683.png",
+                        "summary": "Light up the cosmos."
+                    }
+                ]
+            },
+            {
+                "name": "In Love",
+                "summary": "uwu",
+                "sku_id": "1144307957425778779",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "In Love",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=4096&passthrough=true",
+                        "summary": "uwu"
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Dreams",
+                "summary": "Close your eyes, and breathe.",
+                "sku_id": "1139323093991575696",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Dreams",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sakura/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/intro.png",
+                        "summary": "Close your eyes, and breathe."
+                    }
+                ]
+            },
+            {
+                "name": "Oasis",
+                "summary": "Chilling in my comfort place.",
+                "sku_id": "1228251351415263242",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Oasis",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=4096&passthrough=true",
+                        "summary": "Chilling in my comfort place."
+                    }
+                ]
+            },
+            {
+                "name": "Chromawave",
+                "summary": "Never miss a beat.",
+                "sku_id": "1228246010116050965",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chromawave",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=4096&passthrough=true",
+                        "summary": "Never miss a beat."
+                    }
+                ]
+            },
+            {
+                "name": "Chillet",
+                "summary": "Who doesn\u2019t love to cuddle?",
+                "sku_id": "1252404745977462836",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chillet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_48b8411feb1e80a69048fc65b3275b75.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_48b8411feb1e80a69048fc65b3275b75.png?size=4096&passthrough=true",
+                        "summary": "Who doesn\u2019t love to cuddle?"
+                    }
+                ]
+            },
+            {
+                "name": "Ki Energy",
+                "summary": "Focus from within.",
+                "sku_id": "1212569856189407352",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ki Energy",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=4096&passthrough=true",
+                        "summary": "Focus from within."
+                    }
+                ]
+            },
+            {
+                "name": "Dreamy",
+                "summary": "When senpai notices you.",
+                "sku_id": "1212582298893946880",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dreamy",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/intro.png",
+                        "summary": "When senpai notices you."
+                    }
+                ]
+            },
+            {
+                "name": "Saya",
+                "summary": "A mysterious beauty blossoms under the moonlight.",
+                "sku_id": "1252405017688936508",
+                "price": "US$9.99",
+                "price_nitro": "US$7.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Saya",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-06-18/saya/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-06-21/saya/intro.png",
+                        "summary": "A mysterious beauty blossoms under the moonlight."
+                    }
+                ]
             }
         ]
     },
     {
-        "name": "Winter Wonderland",
-        "summary": "tis the season",
+        "name": "Miscellaneous",
+        "summary": "miscellaneous",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
-        "unpublished_at": "2024-01-04T12:00:00.000Z",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 4620287,
@@ -97,40 +420,154 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "New Year",
-                "summary": "Ringing in 2024!",
-                "sku_id": "1174459415924064376",
-                "price": "US$4.99",
-                "price_nitro": "US$3.99",
+                "name": "I\u2019m a Clown",
+                "summary": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Exclusive to April Fools 2024 for a limited time.",
+                "sku_id": "1216908559548289084",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "New Year",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=true",
-                        "summary": "Ringing in 2024!"
+                        "name": "I\u2019m a Clown",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5e1210779d99ece1c0b4f438a5bc6e72.png?size=4096&passthrough=true",
+                        "summary": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Exclusive to April Fools 2024 for a limited time."
                     }
                 ]
             },
             {
-                "name": "Deck the halls",
-                "summary": "Keep out of reach from cats",
-                "sku_id": "1146328960951668776",
-                "price": "US$4.99",
-                "price_nitro": "US$3.99",
+                "name": "Mokoko",
+                "summary": "An affectionate Mokoko wants to give you plenty of hugs! Exclusive to Mokoko Quest 2024 for a limited time.",
+                "sku_id": "1226939756617793606",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "effect",
-                        "name": "Deck the halls",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/deck-the-halls/intro.png",
-                        "summary": "Keep out of reach from cats"
+                        "item_type": "deco",
+                        "name": "Mokoko",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_89cd445201a0c6c64d46876503d0e90e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_89cd445201a0c6c64d46876503d0e90e.png?size=4096&passthrough=true",
+                        "summary": "An affectionate Mokoko wants to give you plenty of hugs! Exclusive to Mokoko Quest 2024 for a limited time."
+                    }
+                ]
+            },
+            {
+                "name": "Gyoiko Sakura",
+                "summary": "A rare blossom only seen by a fortunate few.",
+                "sku_id": "1225876188074082374",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Gyoiko Sakura",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=4096&passthrough=true",
+                        "summary": "A rare blossom only seen by a fortunate few."
+                    }
+                ]
+            },
+            {
+                "name": "Warp Helmet",
+                "summary": "Travelling at the speed of light. Available to use until 9 September 2024.",
+                "sku_id": "1251324401459265537",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Warp Helmet",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb31faaec1be1ef5ff32dcdc5f37efbf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb31faaec1be1ef5ff32dcdc5f37efbf.png?size=4096&passthrough=true",
+                        "summary": "Travelling at the speed of light. Available to use until 9 September 2024."
+                    }
+                ]
+            },
+            {
+                "name": "Fortnite Victory Crown",
+                "summary": "A sparkly crown!",
+                "sku_id": "1252353273256480818",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fortnite Victory Crown",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_65db91cee351e36150a2b506b26eba71.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_65db91cee351e36150a2b506b26eba71.png?size=4096&passthrough=true",
+                        "summary": "A sparkly crown!"
+                    }
+                ]
+            },
+            {
+                "name": "Freezer Bunny Lovebug",
+                "summary": "A Sim\u2019s coolest companion!",
+                "sku_id": "1262457693965258874",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Freezer Bunny Lovebug",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4946d58f2f74d54703a7aa26b494f62b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4946d58f2f74d54703a7aa26b494f62b.png?size=4096&passthrough=true",
+                        "summary": "A Sim\u2019s coolest companion!"
+                    }
+                ]
+            },
+            {
+                "name": "Wingman Boba",
+                "summary": "Your trusty VALORANT buddy, with a refreshing bubbly twist. Available to use until 6 October 2024.",
+                "sku_id": "1262457693965258874",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wingman Boba",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_71b359795488ef63c5c39a46bb8f2e54.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_71b359795488ef63c5c39a46bb8f2e54.png?size=4096&passthrough=true",
+                        "summary": "Your trusty VALORANT buddy, with a refreshing bubbly twist. Available to use until 6 October 2024."
+                    }
+                ]
+            },
+            {
+                "name": "Los Santos",
+                "summary": "Get to the chopper! Los Santos sky-high pursuit!",
+                "sku_id": "1262457693965258874",
+                "price": "US$0.00",
+                "price_nitro": "US$0.00",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Los Santos",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2dc0f4bfa22bd81ea3990c52d29a96.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2dc0f4bfa22bd81ea3990c52d29a96.png?size=4096&passthrough=true",
+                        "summary": "Get to the chopper! Los Santos sky-high pursuit!"
                     }
                 ]
             }
