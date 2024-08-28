@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Popular Picks",
+        "summary": "Most popular products",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404118509719682.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404115686948925.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Cat Ears",
+                "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c",
+                "sku_id": "1212569433839636530",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Cat Ears",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=4096&passthrough=true",
+                        "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c"
+                    }
+                ]
+            },
+            {
+                "name": "Twilight",
+                "summary": "Is the universe winking at me?",
+                "sku_id": "1232073608168472638",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Twilight",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-22/twilight/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-25/twilight/intro_56dbd2384f.png",
+                        "summary": "Is the universe winking at me?"
+                    }
+                ]
+            },
+            {
+                "name": "Constellations",
+                "summary": "What secrets do the stars reveal?",
+                "sku_id": "1232071712695386162",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Constellations",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8552f9857793aed0cf816f370e2df3be.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8552f9857793aed0cf816f370e2df3be.png?size=4096&passthrough=true",
+                        "summary": "What secrets do the stars reveal?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Winter Wonderland",
+        "summary": "tis the season",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
+        "unpublished_at": "2024-01-04T12:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                4620287,
+                1396431
+            ],
+            "button_colors": [
+                4507647,
+                40447
+            ]
+        },
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459327285837915.png?size=4096",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "New Year",
+                "summary": "Ringing in 2024!",
+                "sku_id": "1174459415924064376",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "New Year",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=4096&passthrough=true",
+                        "summary": "Ringing in 2024!"
+                    }
+                ]
+            },
+            {
+                "name": "Deck the halls",
+                "summary": "Keep out of reach from cats",
+                "sku_id": "1146328960951668776",
+                "price": "US$4.99",
+                "price_nitro": "US$3.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Deck the halls",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/deck-the-halls/intro.png",
+                        "summary": "Keep out of reach from cats"
+                    }
+                ]
+            }
+        ]
+    }
+]

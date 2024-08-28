@@ -16,10 +16,10 @@
         "class": "shop-tab"
     },
     {
-        "title": "Popular Picks",
+        "title": "Miscellaneous",
         "isNew": "true",
-        "url": "/popular",
-        "class": "popular-picks-tab"
+        "url": "/miscellaneous",
+        "class": "miscellaneous-tab"
     },
     {
         "title": "Profiles Plus",
