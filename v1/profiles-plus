@@ -3,7 +3,7 @@
         "name": "Bopl Battle",
         "summary": "Ready for the chaos that is about to begin.",
         "summary_black": "true",
-        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/22.png",
+        "banner": "https://cdn.yapper.shop/assets/22.png",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -15,7 +15,7 @@
                 5793266
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
@@ -27,15 +27,15 @@
                     {
                         "item_type": "deco",
                         "name": "Arrows",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
                         "summary": "Steady aim."
                     },
                     {
                         "item_type": "effect",
                         "name": "Arrow Rain",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
                         "summary": "Dodge and weave."
                     }
                 ]
@@ -49,15 +49,15 @@
                     {
                         "item_type": "deco",
                         "name": "Chaos",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
                         "summary": "What\u2019s even happening?!"
                     },
                     {
                         "item_type": "effect",
                         "name": "Engine Madness",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
                         "summary": "Don\u2019t get squished!"
                     }
                 ]
@@ -71,8 +71,8 @@
                     {
                         "item_type": "deco",
                         "name": "Platforms",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/platforms/loop.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/8.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/7.png",
                         "summary": "Ready for the chaos that is about to begin."
                     }
                 ]
@@ -86,8 +86,8 @@
                     {
                         "item_type": "deco",
                         "name": "Arrows",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
                         "summary": "Steady aim."
                     }
                 ]
@@ -101,24 +101,9 @@
                     {
                         "item_type": "deco",
                         "name": "Chaos",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
                         "summary": "What\u2019s even happening?!"
-                    }
-                ]
-            },
-            {
-                "name": "Engine Madness",
-                "summary": "Don\u2019t get squished!",
-                "credits": "TrellTrell",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Engine Madness",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/2/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/engine-madness/3/intro.png",
-                        "summary": "Don\u2019t get squished!"
                     }
                 ]
             },
@@ -131,9 +116,24 @@
                     {
                         "item_type": "effect",
                         "name": "Arrow Rain",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/1/thumbnail.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/effects/arrow-rain/2/intro.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
                         "summary": "Dodge and weave."
+                    }
+                ]
+            },
+            {
+                "name": "Engine Madness",
+                "summary": "Don\u2019t get squished!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Engine Madness",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
+                        "summary": "Don\u2019t get squished!"
                     }
                 ]
             }
@@ -143,7 +143,7 @@
         "name": "WindowKill",
         "summary": "What\u2019s wrong with my windows?",
         "summary_black": "true",
-        "banner": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/20.png",
+        "banner": "https://cdn.yapper.shop/assets/20.png",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -155,7 +155,7 @@
                 5793266
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
@@ -167,15 +167,15 @@
                     {
                         "item_type": "deco",
                         "name": "Orb Array",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
                     },
                     {
                         "item_type": "effect",
                         "name": "Smiley",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
                         "summary": "Hes got my Avatar!"
                     }
                 ]
@@ -189,8 +189,8 @@
                     {
                         "item_type": "deco",
                         "name": "Orb Array",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/frame_apngframe116.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/a_6c3ac6dbc9a8d7fe0564fd019f153b38.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
                     }
                 ]
@@ -204,8 +204,8 @@
                     {
                         "item_type": "effect",
                         "name": "Smiley",
-                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Wouldnt...Right/main/Assets/image%2052.png",
-                        "animated": "https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
                         "summary": "Hes got my Avatar!"
                     }
                 ]
