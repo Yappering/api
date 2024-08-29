@@ -1355,5 +1355,425 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Snowsgiving",
+        "summary": "Add holiday flair to your avatar.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
+        "unpublished_at": "2023-01-6T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                4620287,
+                1396431
+            ],
+            "button_colors": [
+                4507647,
+                40447
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/1bfd23a3bce7dd3602576977d2640c2a.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Winter Blanket",
+                "summary": "To keep yourself warm.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Winter Blanket",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/d18194dde6a25243aac60dbfc96c865e.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/d18194dde6a25243aac60dbfc96c865e.png",
+                        "summary": "To keep yourself warm."
+                    }
+                ]
+            },
+            {
+                "name": "Winter Blanket",
+                "summary": "To keep yourself warm.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Winter Blanket",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/19fb51c7beb224f4b7bd92dfae19eef9.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/19fb51c7beb224f4b7bd92dfae19eef9.png",
+                        "summary": "To keep yourself warm."
+                    }
+                ]
+            },
+            {
+                "name": "Winter Blanket",
+                "summary": "To keep yourself warm.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Winter Blanket",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/e5efdb815dd85d95c7b2b0bc058ae022.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/e5efdb815dd85d95c7b2b0bc058ae022.png",
+                        "summary": "To keep yourself warm."
+                    }
+                ]
+            },
+            {
+                "name": "Winter Blanket",
+                "summary": "To keep yourself warm.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Winter Blanket",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/efcef8651f8610303f4e640ec1d72f32.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/efcef8651f8610303f4e640ec1d72f32.png",
+                        "summary": "To keep yourself warm."
+                    }
+                ]
+            },
+            {
+                "name": "Christmas Gift",
+                "summary": "What\u2019s inside? Oh! It\u2019s you.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Christmas Gift",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/48616578e1ae4b478a348b89295b1291.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/48616578e1ae4b478a348b89295b1291.png",
+                        "summary": "What\u2019s inside? Oh! It\u2019s you."
+                    }
+                ]
+            },
+            {
+                "name": "Christmas Gift",
+                "summary": "What\u2019s inside? Oh! It\u2019s you.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Christmas Gift",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/b7227df1ea3bc0a0ce2d42142661dffd.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/b7227df1ea3bc0a0ce2d42142661dffd.png",
+                        "summary": "What\u2019s inside? Oh! It\u2019s you."
+                    }
+                ]
+            },
+            {
+                "name": "Christmas Gift",
+                "summary": "What\u2019s inside? Oh! It\u2019s you.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Christmas Gift",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/87c2474b0a56e9c865944860acb61eef.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/87c2474b0a56e9c865944860acb61eef.png",
+                        "summary": "What\u2019s inside? Oh! It\u2019s you."
+                    }
+                ]
+            },
+            {
+                "name": "Christmas Gift",
+                "summary": "What\u2019s inside? Oh! It\u2019s you.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Christmas Gift",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/56fe57bd07c18dc619b611d663a94f83.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/56fe57bd07c18dc619b611d663a94f83.png",
+                        "summary": "What\u2019s inside? Oh! It\u2019s you."
+                    }
+                ]
+            },
+            {
+                "name": "Christmas Gift",
+                "summary": "What\u2019s inside? Oh! It\u2019s you.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Christmas Gift",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/96f9d595b550a916d160d1f4830d365e.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/96f9d595b550a916d160d1f4830d365e.png",
+                        "summary": "What\u2019s inside? Oh! It\u2019s you."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/64bf518f7498de884acba06de2d0fffa.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/64bf518f7498de884acba06de2d0fffa.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/8eb0f4a3b624b36aad174610bb4802a0.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/bd9189e9280d3b0514cf14454a043485.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/93e952df46c0e7dfdb3801af041a4760.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/caa099ee0308108e854dd9fa2dcfd2a6.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/e91b79d2b2daabfab14ae6de83733272.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/7d0b4ef2ef73677d34513b015e0eb9d1.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/7f3c45108744e92d8e8847fa7ca5b190.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/d52ff7e94c1374b4df069eee29a989cd.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "String Lights",
+                "summary": "String up some holiday cheer.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "String Lights",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/32c9efb92599a4619ac02d11b882b85e.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/63b0c16f26ec12091437a265de2ac957.png",
+                        "summary": "String up some holiday cheer."
+                    }
+                ]
+            },
+            {
+                "name": "Ice Cube",
+                "summary": "Brrr, it\u2019s cold in here.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ice Cube",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/5cdd1234934a31c5700bd56a94e0668a.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/ff23072b51710ed4f974746381ccd080.png",
+                        "summary": "Brrr, it\u2019s cold in here."
+                    }
+                ]
+            },
+            {
+                "name": "Ice Cave",
+                "summary": "Brrr, it\u2019s cold in here.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ice Cave",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/4c62d2a2f803c796061690160c0e1051.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/ae6f444cc3493d2a6bcb56f174d81fa6.png",
+                        "summary": "Brrr, it\u2019s cold in here."
+                    }
+                ]
+            },
+            {
+                "name": "Ice Cave",
+                "summary": "Brrr, it\u2019s cold in here.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ice Cave",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/4c62d2a2f803c796061690160c0e1051.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/fe827a10fb05e1fdf87cc672118b7e04.png",
+                        "summary": "Brrr, it\u2019s cold in here."
+                    }
+                ]
+            },
+            {
+                "name": "Tea Cup",
+                "summary": "Nothing better than a warm cup of tea.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Tea Cup",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe01.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/d1a04a8d71425e30795c318b9c405b4a.png",
+                        "summary": "Nothing better than a warm cup of tea."
+                    }
+                ]
+            },
+            {
+                "name": "Tea Cup",
+                "summary": "Nothing better than a warm cup of tea.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Tea Cup",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe01%20(2).png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/e1e62ba56c9f267b4185338417beab0e.png",
+                        "summary": "Nothing better than a warm cup of tea."
+                    }
+                ]
+            },
+            {
+                "name": "Tea Cup",
+                "summary": "Nothing better than a warm cup of tea.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Tea Cup",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe01%20(3).png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/eeea4012c5c57b925e7087a8b036c3cb.png",
+                        "summary": "Nothing better than a warm cup of tea."
+                    }
+                ]
+            }
+        ]
     }
 ]
