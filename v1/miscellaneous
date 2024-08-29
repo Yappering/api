@@ -1749,6 +1749,25 @@
                     {
                         "item_type": "deco",
                         "name": "Tea Cup",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe01%20(1).png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/a48630591c4ebf9bebf7bac7e116a885.png",
+                        "summary": "Nothing better than a warm cup of tea."
+                    }
+                ]
+            },
+            {
+                "name": "Tea Cup",
+                "summary": "Nothing better than a warm cup of tea.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Expires Jan 6th 2023",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Tea Cup",
                         "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe01%20(2).png",
                         "animated": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/e1e62ba56c9f267b4185338417beab0e.png",
                         "summary": "Nothing better than a warm cup of tea."
