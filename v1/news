@@ -1,9 +1,26 @@
 [
     {
+        "id": 2,
+        "title": "Paper Beach",
+        "isNew": "true",
+        "url": "/blog",
+        "titleText": "New Paper Beach styles have been added to Shop Archives for you to request and use with Profiles Plus!",
+        "message_content": "New Paper Beach styles have been added to Shop Archives for you to request and use with Profiles Plus \n message",
+        "message_avatar": "https://cdn.discordapp.com/avatars/1049207768785100880/668ebe03073756f650a95168a5106dd2.webp?size=4096",
+        "message_avatar_decoration": "https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=4096&passthrough=true",
+        "message_time": "1/09/2024",
+        "message_username": "TrellTrell"
+    },
+    {
         "id": 1,
         "title": "New UI",
         "isNew": "true",
-        "url": "/blog/1",
-        "titleText": "Shop Archives has just had its biggest update ever!"
+        "url": "/blog",
+        "titleText": "Shop Archives has just had its biggest update ever!",
+        "message_content": "Shop Archives has just had its biggest update ever \n message",
+        "message_avatar": "https://cdn.discordapp.com/avatars/1169899815983915121/a_484412b75e4d51d690b56a4097e82329.webp?size=4096",
+        "message_avatar_decoration": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=true",
+        "message_time": "1/09/2024",
+        "message_username": "DTACat"
     }
 ]
