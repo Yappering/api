@@ -163,220 +163,218 @@
             }
         ]
     },
-    [
-        {
-            "name": "Bopl Battle",
-            "summary": "Ready for the chaos that is about to begin.",
-            "summary_black": "true",
-            "banner": "https://cdn.yapper.shop/assets/22.png",
-            "unpublished_at": null,
-            "styles": {
-                "background_colors": [
-                    4424191,
-                    3104443
-                ],
-                "button_colors": [
-                    5793266,
-                    5793266
-                ]
-            },
-            "logo": "https://cdn.yapper.shop/assets/31.png",
-            "logo_sway": "false",
-            "products": [
-                {
-                    "name": "Arrow Storm Bundle",
-                    "summary": "A bundle of collectibles.",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "bundled_products": [
-                        {
-                            "item_type": "deco",
-                            "name": "Arrows",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
-                            "summary": "Steady aim."
-                        },
-                        {
-                            "item_type": "effect",
-                            "name": "Arrow Rain",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
-                            "summary": "Dodge and weave."
-                        }
-                    ]
-                },
-                {
-                    "name": "Chaotic Bundle",
-                    "summary": "A bundle of collectibles.",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "bundled_products": [
-                        {
-                            "item_type": "deco",
-                            "name": "Chaos",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
-                            "summary": "What\u2019s even happening?!"
-                        },
-                        {
-                            "item_type": "effect",
-                            "name": "Engine Madness",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
-                            "summary": "Don\u2019t get squished!"
-                        }
-                    ]
-                },
-                {
-                    "name": "Platforms",
-                    "summary": "Ready for the chaos that is about to begin.",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "deco",
-                            "name": "Platforms",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/8.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/7.png",
-                            "summary": "Ready for the chaos that is about to begin."
-                        }
-                    ]
-                },
-                {
-                    "name": "Arrows",
-                    "summary": "Steady aim.",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "deco",
-                            "name": "Arrows",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
-                            "summary": "Steady aim."
-                        }
-                    ]
-                },
-                {
-                    "name": "Chaos",
-                    "summary": "What\u2019s even happening?!",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "deco",
-                            "name": "Chaos",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
-                            "summary": "What\u2019s even happening?!"
-                        }
-                    ]
-                },
-                {
-                    "name": "Arrow Rain",
-                    "summary": "Dodge and weave.",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "effect",
-                            "name": "Arrow Rain",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
-                            "summary": "Dodge and weave."
-                        }
-                    ]
-                },
-                {
-                    "name": "Engine Madness",
-                    "summary": "Don\u2019t get squished!",
-                    "credits": "TrellTrell",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "effect",
-                            "name": "Engine Madness",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
-                            "summary": "Don\u2019t get squished!"
-                        }
-                    ]
-                }
+    {
+        "name": "Bopl Battle",
+        "summary": "Ready for the chaos that is about to begin.",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/22.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
             ]
         },
-        {
-            "name": "WindowKill",
-            "summary": "What\u2019s wrong with my windows?",
-            "summary_black": "true",
-            "banner": "https://cdn.yapper.shop/assets/20.png",
-            "unpublished_at": null,
-            "styles": {
-                "background_colors": [
-                    4424191,
-                    3104443
-                ],
-                "button_colors": [
-                    5793266,
-                    5793266
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Arrow Storm Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Arrows",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
+                        "summary": "Steady aim."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Arrow Rain",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
+                        "summary": "Dodge and weave."
+                    }
                 ]
             },
-            "logo": "https://cdn.yapper.shop/assets/31.png",
-            "logo_sway": "false",
-            "products": [
-                {
-                    "name": "WindowKill Bundle",
-                    "summary": "A bundle of collectibles.",
-                    "credits": "DTACat",
-                    "unpublished_at": null,
-                    "bundled_products": [
-                        {
-                            "item_type": "deco",
-                            "name": "Orb Array",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                            "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                        },
-                        {
-                            "item_type": "effect",
-                            "name": "Smiley",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                            "summary": "Hes got my Avatar!"
-                        }
-                    ]
-                },
-                {
-                    "name": "Orb Array",
-                    "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
-                    "credits": "DTACat",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "deco",
-                            "name": "Orb Array",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                            "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                        }
-                    ]
-                },
-                {
-                    "name": "Smiley",
-                    "summary": "Hes got my Avatar!",
-                    "credits": "DTACat",
-                    "unpublished_at": null,
-                    "items": [
-                        {
-                            "item_type": "effect",
-                            "name": "Smiley",
-                            "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                            "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                            "summary": "Hes got my Avatar!"
-                        }
-                    ]
-                }
+            {
+                "name": "Chaotic Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chaos",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
+                        "summary": "What\u2019s even happening?!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Engine Madness",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
+                        "summary": "Don\u2019t get squished!"
+                    }
+                ]
+            },
+            {
+                "name": "Platforms",
+                "summary": "Ready for the chaos that is about to begin.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Platforms",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/8.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/7.png",
+                        "summary": "Ready for the chaos that is about to begin."
+                    }
+                ]
+            },
+            {
+                "name": "Arrows",
+                "summary": "Steady aim.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Arrows",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
+                        "summary": "Steady aim."
+                    }
+                ]
+            },
+            {
+                "name": "Chaos",
+                "summary": "What\u2019s even happening?!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chaos",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/5.png",
+                        "summary": "What\u2019s even happening?!"
+                    }
+                ]
+            },
+            {
+                "name": "Arrow Rain",
+                "summary": "Dodge and weave.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Arrow Rain",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
+                        "summary": "Dodge and weave."
+                    }
+                ]
+            },
+            {
+                "name": "Engine Madness",
+                "summary": "Don\u2019t get squished!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Engine Madness",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
+                        "summary": "Don\u2019t get squished!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WindowKill",
+        "summary": "What\u2019s wrong with my windows?",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/20.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
             ]
-        }
-    ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "WindowKill Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            }
+        ]
+    }
     
 ]
