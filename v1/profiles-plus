@@ -1,5 +1,169 @@
 [
     {
+        "name": "Paper Beach",
+        "summary": "Nothing better than wet and sandy paper.",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/10.png",
+        "unpublished_at": "2024-10-01T00:00:00Z",
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/1.png",
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "Sandy Day Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":hotsprings:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bucket And Shovel",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/2.png",
+                        "summary": "Time to make the biggest sand castel."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Digging",
+                        "static": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/13.png",
+                        "animated": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png",
+                        "summary": "Let\u2019s dig for treasure."
+                    }
+                ]
+            },
+            {
+                "name": "Bucket And Shovel",
+                "summary": "Time to make the biggest sand castel.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":hotsprings:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bucket And Shovel",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/2.png",
+                        "summary": "Time to make the biggest sand castel."
+                    }
+                ]
+            },
+            {
+                "name": "Bikini",
+                "summary": "Am I too sexy?",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bikini",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/8.png",
+                        "summary": "Am I too sexy?"
+                    }
+                ]
+            },
+            {
+                "name": "Beach Ball",
+                "summary": "Used for fun beach activities.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Beach Ball",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/6.png",
+                        "summary": "Used for fun beach activities."
+                    }
+                ]
+            },
+            {
+                "name": "Ocean View",
+                "summary": "What a nice view.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Ocean View",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/9.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/avatar-decorations/10.png",
+                        "summary": "What a nice view."
+                    }
+                ]
+            },
+            {
+                "name": "Sunshine",
+                "summary": "A relaxing day at the beach.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sunshine",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/2.png",
+                        "summary": "A relaxing day at the beach."
+                    }
+                ]
+            },
+            {
+                "name": "Not Today",
+                "summary": "No time for fun beach activities.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Not Today",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/4.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/8.png",
+                        "summary": "No time for fun beach activities."
+                    }
+                ]
+            },
+            {
+                "name": "Digging",
+                "summary": "Let\u2019s dig for treasure.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":hotsprings:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Digging",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/13.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/15.png",
+                        "summary": "Let\u2019s dig for treasure."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Bopl Battle",
         "summary": "Ready for the chaos that is about to begin.",
         "summary_black": "true",
@@ -23,6 +187,8 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":bow_and_arrow:",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -45,6 +211,8 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":rocket:",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -63,25 +231,12 @@
                 ]
             },
             {
-                "name": "Platforms",
-                "summary": "Ready for the chaos that is about to begin.",
-                "credits": "TrellTrell",
-                "unpublished_at": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Platforms",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/8.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/7.png",
-                        "summary": "Ready for the chaos that is about to begin."
-                    }
-                ]
-            },
-            {
                 "name": "Arrows",
                 "summary": "Steady aim.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":bow_and_arrow:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -97,6 +252,8 @@
                 "summary": "What\u2019s even happening?!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":rocket:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -112,6 +269,8 @@
                 "summary": "Dodge and weave.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":bow_and_arrow:",
                 "items": [
                     {
                         "item_type": "effect",
@@ -127,6 +286,8 @@
                 "summary": "Don\u2019t get squished!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":rocket:",
                 "items": [
                     {
                         "item_type": "effect",
@@ -163,6 +324,8 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "DTACat",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -185,6 +348,8 @@
                 "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
                 "credits": "DTACat",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_circle:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -200,6 +365,8 @@
                 "summary": "Hes got my Avatar!",
                 "credits": "DTACat",
                 "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":slight_smile:",
                 "items": [
                     {
                         "item_type": "effect",
@@ -212,4 +379,5 @@
             }
         ]
     }
+    
 ]
