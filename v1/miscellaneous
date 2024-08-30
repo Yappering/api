@@ -574,6 +574,46 @@
         ]
     },
     {
+        "name": "Profile Effects",
+        "summary": "Miscellaneous Profile rffects",
+        "summary_black": "false",
+        "banner": "https://cdn.yapper.shop/assets/31.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4620287,
+                1396431
+            ],
+            "button_colors": [
+                4507647,
+                40447
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Lightning",
+                "summary": "How much electricity does one profile hold?",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": "Lightning",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":cloud_lightning:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Lightning",
+                        "static": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/frame_apngframe05.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/lightning/intro.png",
+                        "summary": "How much electricity does one profile hold?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "8th Birthday",
         "summary": "List of 8th Birthday Avatar Decorations that are not available for purchase.",
         "summary_black": "false",
