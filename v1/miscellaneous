@@ -595,9 +595,9 @@
             {
                 "name": "Lightning",
                 "summary": "How much electricity does one profile hold?",
-                "sku_id": null,
+                "sku_id": "for p+ :cloud_lightning:",
                 "price": null,
-                "price_nitro": "Lightning",
+                "price_nitro": "I\u2019ll update this later",
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": ":cloud_lightning:",
