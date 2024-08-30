@@ -2934,8 +2934,8 @@
                 ]
             },
             {
-                "name": "Starry Eyed",
-                "summary": "Feelin\u2019 sparkly.",
+                "name": "Sweat Drops",
+                "summary": "*laughs nervously*",
                 "sku_id": "1144307257807491094",
                 "price": "US$7.99",
                 "price_nitro": "US$5.49",
@@ -2945,9 +2945,28 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Starry Eyed",
+                        "name": "Sweat Drops",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=true",
+                        "summary": "*laughs nervously*"
+                    }
+                ]
+            },
+            {
+                "name": "Starry-Eyed",
+                "summary": "Feelin\u2019 sparkly.",
+                "sku_id": "1144307629225672846",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Starry-Eyed",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=4096&passthrough=true",
                         "summary": "Feelin\u2019 sparkly."
                     }
                 ]
@@ -4702,8 +4721,8 @@
                 ]
             },
             {
-                "name": "Starry Eyed",
-                "summary": "Feelin\u2019 sparkly.",
+                "name": "Sweat Drops",
+                "summary": "*laughs nervously*",
                 "sku_id": "1144307257807491094",
                 "price": "US$7.99",
                 "price_nitro": "US$5.49",
@@ -4713,9 +4732,28 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Starry Eyed",
+                        "name": "Sweat Drops",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=4096&passthrough=true",
+                        "summary": "*laughs nervously*"
+                    }
+                ]
+            },
+            {
+                "name": "Starry-Eyed",
+                "summary": "Feelin\u2019 sparkly.",
+                "sku_id": "1144307629225672846",
+                "price": "US$7.99",
+                "price_nitro": "US$5.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Starry-Eyed",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=4096&passthrough=true",
                         "summary": "Feelin\u2019 sparkly."
                     }
                 ]
