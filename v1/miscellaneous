@@ -793,7 +793,7 @@
                 "sku_id": "1251324401459265537",
                 "price": null,
                 "price_nitro": "Expires Sep 9th 2024",
-                "unpublished_at": null,
+                "unpublished_at": "2024-09-09T23:59:59+00:00",
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
@@ -811,8 +811,8 @@
                 "summary": "A sparkly crown!",
                 "sku_id": "1252353273256480818",
                 "price": null,
-                "price_nitro": "Expires Sep 3rd 2024",
-                "unpublished_at": null,
+                "price_nitro": "Expires Sep 5th 2024",
+                "unpublished_at": "2024-09-05T17:00:00+00:00",
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
@@ -831,7 +831,7 @@
                 "sku_id": "1262457693965258874",
                 "price": null,
                 "price_nitro": "Expires Sep 30th 2024",
-                "unpublished_at": null,
+                "unpublished_at": "2024-09-30T23:59:59+00:00",
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
@@ -850,7 +850,7 @@
                 "sku_id": "1262473048876122112",
                 "price": null,
                 "price_nitro": "Expires Oct 6th 2024",
-                "unpublished_at": null,
+                "unpublished_at": "2024-10-06T23:59:59+00:00",
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
@@ -869,7 +869,7 @@
                 "sku_id": "1262518692248420434",
                 "price": null,
                 "price_nitro": "Expires Oct 14th 2024",
-                "unpublished_at": null,
+                "unpublished_at": "2024-10-14T23:59:59+00:00",
                 "isNew": "false",
                 "emojiCopy": null,
                 "items": [
@@ -879,6 +879,25 @@
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2dc0f4bfa22bd81ea3990c52d29a96.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2dc0f4bfa22bd81ea3990c52d29a96.png?size=4096&passthrough=true",
                         "summary": "Get to the chopper! Los Santos sky-high pursuit!"
+                    }
+                ]
+            },
+            {
+                "name": "Hailey",
+                "summary": "Worn by the legendary sniper in The First Descendant",
+                "sku_id": "1278392092258734091",
+                "price": null,
+                "price_nitro": "Expires Nov 6th 2024",
+                "unpublished_at": "2024-11-06T23:59:59+00:00",
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Hailey",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5b45aae315729f18693436892dc18f45.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5b45aae315729f18693436892dc18f45.png?size=4096&passthrough=true",
+                        "summary": "Worn by the legendary sniper in The First Descendant"
                     }
                 ]
             }
