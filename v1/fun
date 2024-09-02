@@ -1,12 +1,5 @@
 [
     {
-        "title": "Leaderboard",
-        "isNew": "true",
-        "url": "/leaderboard",
-        "class": "leaderboard-tab",
-        "titleText": "See who has the most collectibles!"
-    },
-    {
         "title": "Old UI",
         "isNew": "false",
         "url": "https://old.yapper.shop/",
