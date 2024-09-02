@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Leaderboard",
+        "isNew": "true",
+        "url": "/leaderboard",
+        "class": "leaderboard-tab",
+        "titleText": "See who has the most collectibles!"
+    },
+    {
+        "title": "Old UI",
+        "isNew": "false",
+        "url": "https://old.yapper.shop/",
+        "class": "old-ui-tab",
+        "titleText": "New UI too much for you? You can still go back to the old UI if you want."
+    }
+]
