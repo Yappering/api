@@ -19,6 +19,32 @@
         "logo_sway": "false",
         "products": [
             {
+                "name": "Etched in Ink Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1280621222496964630",
+                "price": "US$10.99",
+                "price_nitro": "US$8.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Sakura Ink",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_13913a00bd9990ab4102a3bf069f0f3f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_13913a00bd9990ab4102a3bf069f0f3f.png?size=4096&passthrough=true",
+                        "summary": "Fleeting beauty... forever etched in ink."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Of Ink and Steel",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/of-ink-and-steel/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/of-ink-and-steel/intro.png",
+                        "summary": "Words in ink, deeds in steel."
+                    }
+                ]
+            },
+            {
                 "name": "Straw and Steel Bundle",
                 "summary": "A bundle of collectibles.",
                 "sku_id": "1271564593746939904",
