@@ -8,7 +8,7 @@
     {
         "title": "Shop",
         "credits": "By DTACat & TrellTrell",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/shop",
         "url2": "main",
         "image": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/ShopArchives.png",
@@ -17,7 +17,7 @@
     },
     {
         "title": "Miscellaneous",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/miscellaneous",
         "class": "miscellaneous-tab"
     },

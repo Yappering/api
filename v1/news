@@ -16,7 +16,7 @@
     {
         "id": 1,
         "title": "New UI",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/blog",
         "titleText": "Shop Archives has just had its biggest update ever!",
         "message_content_1": "Shop Archives has just had its biggest update ever!",
