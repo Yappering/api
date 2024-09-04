@@ -95,6 +95,25 @@
                 ]
             },
             {
+                "name": "Sakura Katana",
+                "summary": "May the blossoms guide your blade.",
+                "sku_id": "1271175120437641261",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Katana",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/intro.png",
+                        "summary": "May the blossoms guide your blade."
+                    }
+                ]
+            },
+            {
                 "name": "Angry",
                 "summary": "How dare you.",
                 "sku_id": "1144308439720394944",
@@ -898,7 +917,7 @@
                 "price": null,
                 "price_nitro": "Expires Nov 6th 2024",
                 "unpublished_at": "2024-11-06T23:59:59+00:00",
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
