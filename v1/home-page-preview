@@ -19,40 +19,40 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Beamchop",
-                "summary": "Awh it\u2019s so cu- AHHH",
-                "sku_id": null,
-                "price": null,
-                "price_nitro": null,
+                "name": "Ukon Sakura",
+                "summary": "A symbol of standing out with quiet elegance.",
+                "sku_id": "1277733174813921497",
+                "price": "US$9.99",
+                "price_nitro": "US$6.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Beamchop",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e0ec0699e625728a215ac143fca02dfd.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e0ec0699e625728a215ac143fca02dfd.png?size=4096&passthrough=true",
-                        "summary": "Awh it\u2019s so cu- AHHH"
+                        "name": "Ukon Sakura",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_669e4e5337a7ebeffd87fe3f1008535f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_669e4e5337a7ebeffd87fe3f1008535f.png?size=4096&passthrough=true",
+                        "summary": "A symbol of standing out with quiet elegance."
                     }
                 ]
             },
             {
-                "name": "Chocolate Discord-Os",
-                "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it.",
-                "sku_id": "1277733175069773864",
-                "price": null,
-                "price_nitro": null,
+                "name": "Goblin Stinkums",
+                "summary": "Green goblin mode unlocks many abilities... some consider to be unnaturally stinky.",
+                "sku_id": "1277733175027830814",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "effect",
-                        "name": "Chocolate Discord-Os",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/intro.png",
-                        "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it."
+                        "item_type": "deco",
+                        "name": "Goblin Stinkums",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=4096&passthrough=true",
+                        "summary": "Green goblin mode unlocks many abilities... some consider to be unnaturally stinky."
                     }
                 ]
             },
@@ -60,8 +60,8 @@
                 "name": "Heartzilla (Purple)",
                 "summary": "Is this what they mean when they say love hurts?",
                 "sku_id": "1277733175111717006",
-                "price": null,
-                "price_nitro": null,
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
@@ -76,11 +76,11 @@
                 ]
             },
             {
-                "name": "Toasted Bundle",
+                "name": "Brown Breakfast Bundle",
                 "summary": "A bundle of collectibles.",
-                "sku_id": null,
-                "price": null,
-                "price_nitro": null,
+                "sku_id": "1277733175166111949",
+                "price": "US$6.99",
+                "price_nitro": "US$5.49",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
@@ -88,16 +88,16 @@
                     {
                         "item_type": "deco",
                         "name": "Burnt Toast",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_226418c892a53ff0f583b4557cf861c3.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_226418c892a53ff0f583b4557cf861c3.png?size=4096&passthrough=true",
-                        "summary": "Maybe..."
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_280c991d6e124b13e4994941c02e00b4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_280c991d6e124b13e4994941c02e00b4.png?size=4096&passthrough=true",
+                        "summary": "Why did you burn the toast?"
                     },
                     {
                         "item_type": "effect",
-                        "name": "Breakfast Plate",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png",
-                        "summary": "The best meal for any time of day."
+                        "name": "Chocolate Discord-Os",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/intro.png",
+                        "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it."
                     }
                 ]
             }

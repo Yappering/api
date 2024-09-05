@@ -1,12 +1,5 @@
 [
     {
-        "title": "Leaks",
-        "isNew": "true",
-        "url": "/leaks",
-        "class": "leaks-tab",
-        "titleText": "Here you can find the new and upcoming collectibles!"
-    },
-    {
         "title": "Old UI",
         "isNew": "false",
         "url": "https://old.yapper.shop/",
