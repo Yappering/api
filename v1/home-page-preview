@@ -19,32 +19,13 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Chocolate Discord-Os",
-                "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it.",
-                "sku_id": "1277733175069773864",
-                "price": null,
-                "price_nitro": null,
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Chocolate Discord-Os",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/intro.png",
-                        "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it."
-                    }
-                ]
-            },
-            {
                 "name": "Morning Coffee",
                 "summary": "Don\u2019t talk to me until I finish this.",
                 "sku_id": "1144056631374647458",
                 "price": "US$3.99",
                 "price_nitro": "US$2.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -57,32 +38,6 @@
                 ]
             },
             {
-                "name": "Star Collector Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1245481938202918912",
-                "price": "US$10.99",
-                "price_nitro": "US$8.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Pipedream",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=4096&passthrough=true",
-                        "summary": "If you stare at this for 5,461 seconds without blinking, you win."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Twinkle Trails",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/twinkle-trails/intro.png",
-                        "summary": "Chase the stars to collect them all."
-                    }
-                ]
-            },
-            {
                 "name": "Chocolate Discord-Os",
                 "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it.",
                 "sku_id": "1277733175069773864",
@@ -98,6 +53,51 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/intro.png",
                         "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it."
+                    }
+                ]
+            },
+            {
+                "name": "Discord-Os",
+                "summary": "Bet you can\u2019t have just one bowl.",
+                "sku_id": "1139323095744790568",
+                "price": "US$11.99",
+                "price_nitro": "US$8.49",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":name_badge:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Discord-Os",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png",
+                        "summary": "Bet you can\u2019t have just one bowl."
+                    }
+                ]
+            },
+            {
+                "name": "Toasted Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Burnt Toast",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_226418c892a53ff0f583b4557cf861c3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_226418c892a53ff0f583b4557cf861c3.png?size=4096&passthrough=true",
+                        "summary": "Maybe..."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Breakfast Plate",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png",
+                        "summary": "The best meal for any time of day."
                     }
                 ]
             }
