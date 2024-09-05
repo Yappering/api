@@ -1,5 +1,19 @@
 [
     {
+        "id": 3,
+        "title": "The Vault",
+        "isNew": "true",
+        "url": "/blog",
+        "titleText": "New shop category brings back old items along with some new ones!",
+        "message_content_1": "Discord is working on a new shop category called \"The Vault\" which not only gives us new items but some of the old ones too.",
+        "message_content_2": "And by old ones I don't just mean ones that have been in the shop, discord might bring back some of the really old ones.",
+        "message_content_3": "Burnt Toast, Orange Jam, etc.",
+        "message_avatar": "https://cdn.discordapp.com/avatars/1169899815983915121/a_484412b75e4d51d690b56a4097e82329.webp?size=4096",
+        "message_avatar_decoration": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=4096&passthrough=true",
+        "message_time": "5/09/2024",
+        "message_username": "DTACat"
+    },
+    {
         "id": 2,
         "title": "Paper Beach",
         "isNew": "true",
