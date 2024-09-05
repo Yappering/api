@@ -19,21 +19,21 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Morning Coffee",
-                "summary": "Don\u2019t talk to me until I finish this.",
-                "sku_id": "1144056631374647458",
-                "price": "US$3.99",
-                "price_nitro": "US$2.99",
+                "name": "Beamchop",
+                "summary": "Awh it\u2019s so cu- AHHH",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
                 "unpublished_at": null,
-                "isNew": "false",
+                "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Morning Coffee",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2e1c2b3cf05b24f6ec7b8b4141f5fc.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_aa2e1c2b3cf05b24f6ec7b8b4141f5fc.png?size=4096&passthrough=true",
-                        "summary": "Don\u2019t talk to me until I finish this."
+                        "name": "Beamchop",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e0ec0699e625728a215ac143fca02dfd.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e0ec0699e625728a215ac143fca02dfd.png?size=4096&passthrough=true",
+                        "summary": "Awh it\u2019s so cu- AHHH"
                     }
                 ]
             },
@@ -57,21 +57,21 @@
                 ]
             },
             {
-                "name": "Discord-Os",
-                "summary": "Bet you can\u2019t have just one bowl.",
-                "sku_id": "1139323095744790568",
-                "price": "US$11.99",
-                "price_nitro": "US$8.49",
+                "name": "Heartzilla (Purple)",
+                "summary": "Is this what they mean when they say love hurts?",
+                "sku_id": "1277733175111717006",
+                "price": null,
+                "price_nitro": null,
                 "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":name_badge:",
+                "isNew": "true",
+                "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Discord-Os",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png",
-                        "summary": "Bet you can\u2019t have just one bowl."
+                        "name": "Heartzilla (Purple)",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/heartzilla-purple/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-03/heartzilla-purple/intro.png",
+                        "summary": "Is this what they mean when they say love hurts?"
                     }
                 ]
             },
