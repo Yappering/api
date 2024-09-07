@@ -1,5 +1,118 @@
 [
     {
+        "name": "WindowKill",
+        "summary": "What\u2019s wrong with my windows?",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/33.png",
+        "unpublished_at": "2024-11-01T00:00:00Z",
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/24.png",
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "WindowKill Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Attack",
+                "summary": "Slithering madness.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/4.png",
+                        "summary": "Slithering madness."
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Attack (Transparent)",
+                "summary": "Slithering madness.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack (Transparent)",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/6.png",
+                        "summary": "Slithering madness."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Paper Beach",
         "summary": "Nothing better than wet and sandy paper.",
         "summary_black": "true",
@@ -7,8 +120,8 @@
         "unpublished_at": "2024-10-01T00:00:00Z",
         "styles": {
             "background_colors": [
-                4424191,
-                3104443
+                1118740,
+                1118740
             ],
             "button_colors": [
                 5793266,
@@ -171,8 +284,8 @@
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                4424191,
-                3104443
+                1118740,
+                1118740
             ],
             "button_colors": [
                 5793266,
@@ -312,85 +425,6 @@
                         "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
                         "summary": "Don\u2019t get squished!"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "WindowKill",
-        "summary": "What\u2019s wrong with my windows?",
-        "summary_black": "true",
-        "banner": "https://cdn.yapper.shop/assets/20.png",
-        "unpublished_at": null,
-        "styles": {
-            "background_colors": [
-                4424191,
-                3104443
-            ],
-            "button_colors": [
-                5793266,
-                5793266
-            ]
-        },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
-        "logo_sway": "false",
-        "products": [
-            {
-                "name": "WindowKill Bundle",
-                "summary": "A bundle of collectibles.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":purple_heart:",
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                        "summary": "Hes got my Avatar!"
-                    }
-                ]
-            },
-            {
-                "name": "Orb Array",
-                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":purple_circle:",
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    }
-                ]
-            },
-            {
-                "name": "Smiley",
-                "summary": "Hes got my Avatar!",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":slight_smile:",
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                        "summary": "Hes got my Avatar!"
                     }
                 ]
             }
