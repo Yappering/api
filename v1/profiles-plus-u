@@ -19,7 +19,7 @@
         "logo_sway": "true",
         "products": [
             {
-                "name": "WindowKill Bundle",
+                "name": "Smiley Orb Bundle",
                 "summary": "A bundle of collectibles.",
                 "credits": "DTACat",
                 "unpublished_at": null,
@@ -36,9 +36,33 @@
                     {
                         "item_type": "effect",
                         "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
                         "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wyrm",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/4.png",
+                        "summary": "Don\u2019t cut it in half!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "It\u2019s like Centipede, go for the head!"
                     }
                 ]
             },
@@ -47,7 +71,7 @@
                 "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
                 "credits": "DTACat",
                 "unpublished_at": null,
-                "isNew": "false",
+                "isNew": "true",
                 "emojiCopy": ":purple_circle:",
                 "items": [
                     {
@@ -60,8 +84,42 @@
                 ]
             },
             {
+                "name": "Wyrm",
+                "summary": "Don\u2019t cut it in half!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wyrm",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/4.png",
+                        "summary": "Don\u2019t cut it in half!"
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat & TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
                 "name": "Wyrm Attack",
-                "summary": "Slithering madness.",
+                "summary": "It\u2019s like Centipede, go for the head!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
@@ -70,43 +128,9 @@
                     {
                         "item_type": "effect",
                         "name": "Wyrm Attack",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/3.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/4.png",
-                        "summary": "Slithering madness."
-                    }
-                ]
-            },
-            {
-                "name": "Wyrm Attack (Transparent)",
-                "summary": "Slithering madness.",
-                "credits": "TrellTrell",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Wyrm Attack (Transparent)",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/5.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/6.png",
-                        "summary": "Slithering madness."
-                    }
-                ]
-            },
-            {
-                "name": "Smiley",
-                "summary": "Hes got my Avatar!",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":slight_smile:",
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                        "summary": "Hes got my Avatar!"
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "It\u2019s like Centipede, go for the head!"
                     }
                 ]
             }
@@ -129,14 +153,14 @@
             ]
         },
         "logo": "https://cdn.yapper.shop/assets/1.png",
-        "logo_sway": "true",
+        "logo_sway": "false",
         "products": [
             {
                 "name": "Sandy Day Bundle",
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "bundled_products": [
                     {
@@ -160,7 +184,7 @@
                 "summary": "Time to make the biggest sand castel.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
@@ -177,7 +201,7 @@
                 "summary": "Am I too sexy?",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -194,7 +218,7 @@
                 "summary": "Used for fun beach activities.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -211,7 +235,7 @@
                 "summary": "What a nice view.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -228,7 +252,7 @@
                 "summary": "A relaxing day at the beach.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -245,7 +269,7 @@
                 "summary": "No time for fun beach activities.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -262,7 +286,7 @@
                 "summary": "Let\u2019s dig for treasure.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
