@@ -1,7 +1,7 @@
 [
     {
         "name": "WindowKill",
-        "summary": "What\u2019s wrong with my windows?",
+        "summary": "The windows are taking control!",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/33.png",
         "unpublished_at": "2024-11-01T00:00:00Z",
@@ -29,16 +29,16 @@
                     {
                         "item_type": "deco",
                         "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Time to add you to my Cringe Compilation."
                     },
                     {
                         "item_type": "effect",
                         "name": "Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
-                        "summary": "Hes got my Avatar!"
+                        "summary": "Quick! Click the X!"
                     }
                 ]
             },
@@ -68,8 +68,8 @@
             },
             {
                 "name": "Orb Array",
-                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
-                "credits": "DTACat",
+                "summary": "Time to add you to my Cringe Compilation.",
+                "credits": "DTACat & TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":purple_circle:",
@@ -77,9 +77,9 @@
                     {
                         "item_type": "deco",
                         "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Time to add you to my Cringe Compilation."
                     }
                 ]
             },
@@ -102,7 +102,7 @@
             },
             {
                 "name": "Smiley",
-                "summary": "Hes got my Avatar!",
+                "summary": "Quick! Click the X!",
                 "credits": "DTACat & TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
@@ -113,7 +113,7 @@
                         "name": "Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
-                        "summary": "Hes got my Avatar!"
+                        "summary": "Quick! Click the X!"
                     }
                 ]
             },
