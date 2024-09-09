@@ -22,10 +22,10 @@
                 "name": "I Love Stinkums Bundle",
                 "summary": "A bundle of collectibles.",
                 "sku_id": "1277733175132688446",
-                "price": "US$10.99",
-                "price_nitro": "US$8.99",
+                "price": "US$8.99",
+                "price_nitro": "US$6.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -51,7 +51,7 @@
                 "price": "US$6.99",
                 "price_nitro": "US$5.49",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -77,7 +77,7 @@
                 "price": "US$6.99",
                 "price_nitro": "US$5.49",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -103,7 +103,7 @@
                 "price": "US$9.99",
                 "price_nitro": "US$6.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -122,7 +122,7 @@
                 "price": "US$9.99",
                 "price_nitro": "US$6.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -141,7 +141,7 @@
                 "price": "US$9.99",
                 "price_nitro": "US$6.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -160,7 +160,7 @@
                 "price": "US$9.99",
                 "price_nitro": "US$6.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -179,7 +179,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -198,7 +198,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -236,7 +236,7 @@
                 "price": "US$3.99",
                 "price_nitro": "US$2.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -293,7 +293,7 @@
                 "price": "US$3.99",
                 "price_nitro": "US$2.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -331,7 +331,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -369,7 +369,7 @@
                 "price": "US$3.99",
                 "price_nitro": "US$2.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -407,7 +407,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -447,7 +447,7 @@
                 "price": "US$10.99",
                 "price_nitro": "US$8.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
