@@ -161,7 +161,7 @@
                 "price_nitro": "US$6.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":sunflower:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -3759,7 +3759,7 @@
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":octagonal_sign:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -3816,7 +3816,7 @@
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":octagonal_sign:",
                 "items": [
                     {
                         "item_type": "effect",
