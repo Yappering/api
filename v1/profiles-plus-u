@@ -117,7 +117,7 @@
             {
                 "name": "Orb Array 2.0",
                 "summary": "Time to add you to my Cringe Compilation.",
-                "credits": "DTACat & TrellTrell",
+                "credits": "TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":purple_circle:",
@@ -159,8 +159,8 @@
                     {
                         "item_type": "deco",
                         "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
                     }
                 ]
@@ -168,7 +168,7 @@
             {
                 "name": "Smiley 2.0",
                 "summary": "Quick! Click the X!",
-                "credits": "DTACat & TrellTrell",
+                "credits": "TrellTrell",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": ":slight_smile:",
@@ -221,7 +221,7 @@
                 "summary": "Hes got my Avatar!",
                 "credits": "DTACat",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":purple_heart:",
                 "items": [
                     {
