@@ -28,7 +28,7 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array 2.0",
+                        "name": "Orb Array",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
                         "summary": "Time to add you to my Cringe Compilation."
@@ -59,7 +59,7 @@
                     },
                     {
                         "item_type": "effect",
-                        "name": "Smiley 2.0",
+                        "name": "Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
                         "summary": "Quick! Click the X!"
@@ -100,14 +100,14 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array",
+                        "name": "Legacy Orb Array",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
                     },
                     {
                         "item_type": "effect",
-                        "name": "Smiley",
+                        "name": "Legacy Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
                         "summary": "Hes got my Avatar!"
@@ -115,7 +115,7 @@
                 ]
             },
             {
-                "name": "Orb Array 2.0",
+                "name": "Orb Array",
                 "summary": "Time to add you to my Cringe Compilation.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
@@ -124,7 +124,7 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array 2.0",
+                        "name": "Orb Array",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
                         "summary": "Time to add you to my Cringe Compilation."
@@ -149,7 +149,7 @@
                 ]
             },
             {
-                "name": "Orb Array",
+                "name": "Legacy Orb Array",
                 "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
                 "credits": "DTACat",
                 "unpublished_at": null,
@@ -158,7 +158,7 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array",
+                        "name": "Legacy Orb Array",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
@@ -166,7 +166,7 @@
                 ]
             },
             {
-                "name": "Smiley 2.0",
+                "name": "Smiley",
                 "summary": "Quick! Click the X!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
@@ -175,7 +175,7 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Smiley 2.0",
+                        "name": "Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
                         "summary": "Quick! Click the X!"
@@ -217,7 +217,7 @@
                 ]
             },
             {
-                "name": "Smiley",
+                "name": "Legacy Smiley",
                 "summary": "Hes got my Avatar!",
                 "credits": "DTACat",
                 "unpublished_at": null,
@@ -226,7 +226,7 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Smiley",
+                        "name": "Legacy Smiley",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
                         "summary": "Hes got my Avatar!"
