@@ -24,12 +24,11 @@
     {
         "title": "Profiles Plus",
         "credits": "By DTACat & TrellTrell",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/pplus",
         "url2": "https://github.com/DTACat/Discord-Profiles-Plus",
         "image": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/ProfilesPlus.png",
         "desc": "Makes your Discord profile look 100 times better.",
-        "class": "pplus-tab",
-        "titleText": "New Paper Beach styles for you to request and use! Hurry before they're gone!"
+        "class": "pplus-tab"
     }
 ]
