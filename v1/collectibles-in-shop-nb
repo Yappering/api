@@ -363,32 +363,6 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Straw and Steel Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1271564593746939904",
-                "price": "US$10.99",
-                "price_nitro": "US$8.99",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Straw Hat",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=4096&passthrough=true",
-                        "summary": "A must-have for the travelling wanderer."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Sakura Katana",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-08/sakura-katana/intro.png",
-                        "summary": "May the blossoms guide your blade."
-                    }
-                ]
-            },
-            {
                 "name": "Kabuto",
                 "summary": "Donned only by true warriors.",
                 "sku_id": "1271174154514595891",
