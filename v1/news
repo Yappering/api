@@ -1,5 +1,19 @@
 [
     {
+        "id": 4,
+        "title": "DisCoins",
+        "isNew": "true",
+        "url": "/blog",
+        "titleText": "Discord might add their own coin system.",
+        "message_content_1": "Discord might be adding \"Coins\" as a new way to purchase things on Discord.",
+        "message_content_2": "These things include: Collectibles, Nitro, Server Boosts and more!",
+        "message_content_3": "We don\u2019t have much information about coins just yet.",
+        "message_avatar": null,
+        "message_avatar_decoration": null,
+        "message_time": "15/09/2024",
+        "message_username": null
+    },
+    {
         "id": 3,
         "title": "The Vault",
         "isNew": "true",
@@ -15,7 +29,7 @@
     },
     {
         "id": 2,
-        "title": "Paper Beach",
+        "title": "P+ Paper Beach",
         "isNew": "false",
         "url": "/blog",
         "titleText": "New Paper Beach styles have been added to Shop Archives for you to request and use with Profiles Plus!",
