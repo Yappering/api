@@ -1,5 +1,11 @@
 [
     {
+        "title": "Item Tool",
+        "isNew": "true",
+        "url": "/item-debug",
+        "class": "avatar-decorations-debug-tab"
+    },
+    {
         "title": "Old UI",
         "isNew": "false",
         "url": "https://old.yapper.shop/",
