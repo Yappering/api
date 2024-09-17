@@ -331,7 +331,7 @@
                 "price": null,
                 "price_nitro": null,
                 "unpublished_at": null,
-                "isNew": "false",
+                "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -350,7 +350,7 @@
                 "price": null,
                 "price_nitro": null,
                 "unpublished_at": null,
-                "isNew": "false",
+                "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
