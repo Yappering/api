@@ -146,7 +146,7 @@
                         "item_type": "effect",
                         "name": "Twilight Grove",
                         "static": null,
-                        "animated": null,
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/twilight-grove/intro.png",
                         "summary": "Step inside and see autumn\u2019s beauty unfold."
                     }
                 ]
@@ -164,8 +164,8 @@
                     {
                         "item_type": "effect",
                         "name": "Sun and Moon",
-                        "static": null,
-                        "animated": null,
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/intro.png",
                         "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?"
                     }
                 ]
@@ -183,8 +183,8 @@
                     {
                         "item_type": "effect",
                         "name": "Autumn Equinox",
-                        "static": null,
-                        "animated": null,
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/intro.png",
                         "summary": "Autumn\u2019s arrival is written in the stars."
                     }
                 ]
@@ -320,6 +320,44 @@
                         "name": "Lilypad Life",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Lilypad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1285681070196396177",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Midnight Lilypad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro2.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Lilypad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1285681070196396179",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Muddy Lilypad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro3.png",
                         "summary": "Ribbit."
                     }
                 ]
