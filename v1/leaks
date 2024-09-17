@@ -190,5 +190,140 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Fall",
+        "summary": "Leaks",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418783653232642.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16760655,
+                6362384
+            ],
+            "button_colors": [
+                16097602,
+                14972430
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Autumn Leaves",
+                "summary": "Behold nature\u2019s dance.",
+                "sku_id": "1157409074422481023",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Autumn Leaves",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=true",
+                        "summary": "Behold nature\u2019s dance."
+                    }
+                ]
+            },
+            {
+                "name": "Pumpkin Spice",
+                "summary": "Sweets and spice make everything nice.",
+                "sku_id": "1157409869448618016",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Pumpkin Spice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=4096&passthrough=true",
+                        "summary": "Sweets and spice make everything nice."
+                    }
+                ]
+            },
+            {
+                "name": "Frog Hat",
+                "summary": "Frogs and fashion go together and you can\u2019t tell me otherwise.",
+                "sku_id": "1157407831348228139",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Frog Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=4096&passthrough=true",
+                        "summary": "Frogs and fashion go together and you can\u2019t tell me otherwise."
+                    }
+                ]
+            },
+            {
+                "name": "Fox Hat",
+                "summary": "Charming, cosy and a little bit nosy.",
+                "sku_id": "1157407831348228141",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fox Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=true",
+                        "summary": "Charming, cosy and a little bit nosy."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": "1159280677246742548",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Lilypad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1159280847262859364",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Lilypad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            }
+        ]
     }
 ]
