@@ -316,7 +316,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Lilypad Life",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
