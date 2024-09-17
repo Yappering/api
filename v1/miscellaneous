@@ -207,6 +207,25 @@
                         "summary": "Worn by Albion\u2019s speedster, Bunny, in The First Descendant."
                     }
                 ]
+            },
+            {
+                "name": "Torgal Puppy",
+                "summary": "Torgal the puppy is here to keep you company! This reward is exclusive to the FFXVI Quest.",
+                "sku_id": "1280648686736638003",
+                "price": null,
+                "price_nitro": "Expires Nov 23rd 2024",
+                "unpublished_at": "2024-11-23T23:59:59+00:00",
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Torgal Puppy",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_d7428e37c943872da271573c87d90279.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_d7428e37c943872da271573c87d90279.png?size=4096&passthrough=true",
+                        "summary": "Torgal the puppy is here to keep you company! This reward is exclusive to the FFXVI Quest."
+                    }
+                ]
             }
         ]
     },
