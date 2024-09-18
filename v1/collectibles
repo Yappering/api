@@ -280,7 +280,7 @@
                         "summary": "Behold nature\u2019s dance."
                     },
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png",
@@ -306,7 +306,7 @@
                         "summary": "Behold nature\u2019s dance."
                     },
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Scarlet Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/intro-branch.png",
@@ -332,7 +332,7 @@
                         "summary": "Behold nature\u2019s dance."
                     },
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Woodland Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/intro-branch.png",
@@ -465,7 +465,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png",
@@ -484,7 +484,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Scarlet Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/intro-branch.png",
@@ -503,7 +503,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Woodland Autumn Foliage",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/intro-branch.png",
@@ -522,7 +522,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Lily Pad Life",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
@@ -541,7 +541,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Midnight Lily Pad Life",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail2.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro2.png",
@@ -560,7 +560,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Muddy Lily Pad Life",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail3.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro3.png",
