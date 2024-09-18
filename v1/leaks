@@ -306,6 +306,44 @@
                 ]
             },
             {
+                "name": "Midnight Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Midnight Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch2.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Muddy Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Muddy Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch3.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
                 "name": "Lilypad Life",
                 "summary": "Ribbit.",
                 "sku_id": "1159280847262859364",
@@ -344,7 +382,7 @@
                 ]
             },
             {
-                "name": "Midnight Lilypad Life",
+                "name": "Muddy Lilypad Life",
                 "summary": "Ribbit.",
                 "sku_id": "1285681070196396179",
                 "price": null,
