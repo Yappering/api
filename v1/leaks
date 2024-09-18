@@ -145,28 +145,9 @@
                     {
                         "item_type": "effect",
                         "name": "Twilight Grove",
-                        "static": null,
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/twilight-grove/intro.png",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/intro.png",
                         "summary": "Step inside and see autumn\u2019s beauty unfold."
-                    }
-                ]
-            },
-            {
-                "name": "Sun and Moon",
-                "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?",
-                "sku_id": "1282816432026943488",
-                "price": null,
-                "price_nitro": null,
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Sun and Moon",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/intro.png",
-                        "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?"
                     }
                 ]
             },
@@ -186,6 +167,25 @@
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/intro.png",
                         "summary": "Autumn\u2019s arrival is written in the stars."
+                    }
+                ]
+            },
+            {
+                "name": "Sun and Moon",
+                "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?",
+                "sku_id": "1282816432026943488",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sun and Moon",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/intro.png",
+                        "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?"
                     }
                 ]
             }
@@ -306,9 +306,9 @@
                 ]
             },
             {
-                "name": "Midnight Autumn Foliage",
+                "name": "Scarlet Fall Foliage",
                 "summary": "Getting ready for sweater weather.",
-                "sku_id": null,
+                "sku_id": "1282820582408192061",
                 "price": null,
                 "price_nitro": null,
                 "unpublished_at": null,
@@ -317,17 +317,17 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Midnight Autumn Foliage",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail2.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch2.png",
+                        "name": "Scarlet Fall Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/intro-branch.png",
                         "summary": "Getting ready for sweater weather."
                     }
                 ]
             },
             {
-                "name": "Muddy Autumn Foliage",
+                "name": "Woodland Fall Foliage",
                 "summary": "Getting ready for sweater weather.",
-                "sku_id": null,
+                "sku_id": "1282820582429298748",
                 "price": null,
                 "price_nitro": null,
                 "unpublished_at": null,
@@ -336,9 +336,9 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Muddy Autumn Foliage",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail3.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch3.png",
+                        "name": "Woodland Fall Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/intro-branch.png",
                         "summary": "Getting ready for sweater weather."
                     }
                 ]
