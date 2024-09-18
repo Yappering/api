@@ -1,5 +1,446 @@
 [
     {
+        "name": "Autumn Equinox",
+        "summary": "Beauty in balance.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432068886560.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16382457,
+                1184274
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Twilight Chrysanthemums",
+                "summary": "Transformation is a dance where your inner beauty finds its rhythm",
+                "sku_id": "1282816431850782730",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Twilight Chrysanthemums",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=true",
+                        "summary": "Transformation is a dance where your inner beauty finds its rhythm"
+                    }
+                ]
+            },
+            {
+                "name": "Dusk and Dawn",
+                "summary": "Illuminate yourself with the light of the moon and sun.",
+                "sku_id": "1282816431871754281",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dusk and Dawn",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=true",
+                        "summary": "Illuminate yourself with the light of the moon and sun."
+                    }
+                ]
+            },
+            {
+                "name": "Floral Harmony",
+                "summary": "A touch of day and night woven into every petal.",
+                "sku_id": "1282816431901118474",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Floral Harmony",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b63917c64ad44020d2d5877a4f91907f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b63917c64ad44020d2d5877a4f91907f.png?size=4096&passthrough=true",
+                        "summary": "A touch of day and night woven into every petal."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn\u2019s Arbour",
+                "summary": "Where day and night share equal ground.",
+                "sku_id": "1282816431922085888",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Autumn\u2019s Arbour",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=true",
+                        "summary": "Where day and night share equal ground."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Crown",
+                "summary": "A crown of nature\u2019s finest, with autumn\u2019s special touch.",
+                "sku_id": "1282816431943057460",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Autumn Crown",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c509c4760e5e1a50fa341d68f3c1901b.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c509c4760e5e1a50fa341d68f3c1901b.png?size=4096&passthrough=true",
+                        "summary": "A crown of nature\u2019s finest, with autumn\u2019s special touch."
+                    }
+                ]
+            },
+            {
+                "name": "Faces of the Moon",
+                "summary": "The moon tells its tale in shadows and light... listen...",
+                "sku_id": "1282816431964028958",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Faces of the Moon",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_50cfb73a4c52235363491855d3c3c3bc.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_50cfb73a4c52235363491855d3c3c3bc.png?size=4096&passthrough=true",
+                        "summary": "The moon tells its tale in shadows and light... listen..."
+                    }
+                ]
+            },
+            {
+                "name": "Twilight Grove",
+                "summary": "Step inside and see autumn\u2019s beauty unfold.",
+                "sku_id": "1282816431985004594",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Twilight Grove",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/intro.png",
+                        "summary": "Step inside and see autumn\u2019s beauty unfold."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Equinox",
+                "summary": "Autumn\u2019s arrival is written in the stars.",
+                "sku_id": "1282816432001777794",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Autumn Equinox",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/autumn-equinox/intro.png",
+                        "summary": "Autumn\u2019s arrival is written in the stars."
+                    }
+                ]
+            },
+            {
+                "name": "Sun and Moon",
+                "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?",
+                "sku_id": "1282816432026943488",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sun and Moon",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/sun-and-moon/intro.png",
+                        "summary": "When you\u2019re staring at the sky, watching the heavens in motion... do you ever just marvel at the wonder of it all?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Autumn",
+        "summary": "There\u2019s a calm and cozy vibe in the air.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418783653232642.png?size=4096",
+        "unpublished_at": "2023-11-30T00:00:00.000Z",
+        "styles": {
+            "background_colors": [
+                16761447,
+                7084544
+            ],
+            "button_colors": [
+                16097602,
+                14972430
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Fox Hat",
+                "summary": "Charming, cozy, and a little bit nosy.",
+                "sku_id": "1157407831348228141",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Fox Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=4096&passthrough=true",
+                        "summary": "Charming, cozy, and a little bit nosy."
+                    }
+                ]
+            },
+            {
+                "name": "Chestnut Fox Hat",
+                "summary": "Charming, cosy and a little bit nosy.",
+                "sku_id": "1282820582282629171",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chestnut Fox Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_141da6fb7f481b0cdf9dd88fc29514fa.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_141da6fb7f481b0cdf9dd88fc29514fa.png?size=4096&passthrough=true",
+                        "summary": "Charming, cosy and a little bit nosy."
+                    }
+                ]
+            },
+            {
+                "name": "Snow Fox Hat",
+                "summary": "Charming, cosy and a little bit nosy.",
+                "sku_id": "1282820582303334482",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Snow Fox Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8df108e52465c7c7c5e1841fabdda84.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8df108e52465c7c7c5e1841fabdda84.png?size=4096&passthrough=true",
+                        "summary": "Charming, cosy and a little bit nosy."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Leaves",
+                "summary": "Behold nature\u2019s dance.",
+                "sku_id": "1157409074422481023",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Autumn Leaves",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=4096&passthrough=true",
+                        "summary": "Behold nature\u2019s dance."
+                    }
+                ]
+            },
+            {
+                "name": "Scarlet Leaves",
+                "summary": "Behold nature\u2019s dance.",
+                "sku_id": "1282820582345408595",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Scarlet Leaves",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bc63175fe462d8748b68ea5179249418.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bc63175fe462d8748b68ea5179249418.png?size=4096&passthrough=true",
+                        "summary": "Behold nature\u2019s dance."
+                    }
+                ]
+            },
+            {
+                "name": "Woodland Leaves",
+                "summary": "Behold nature\u2019s dance.",
+                "sku_id": "1282820582366511229",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Woodland Leaves",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_720a2045510ec16f9878237d2ff9873f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_720a2045510ec16f9878237d2ff9873f.png?size=4096&passthrough=true",
+                        "summary": "Behold nature\u2019s dance."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": "1159280677246742548",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Scarlet Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": "1282820582408192061",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Scarlet Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/intro-branch.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Woodland Autumn Foliage",
+                "summary": "Getting ready for sweater weather.",
+                "sku_id": "1282820582429298748",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Woodland Autumn Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/intro-branch.png",
+                        "summary": "Getting ready for sweater weather."
+                    }
+                ]
+            },
+            {
+                "name": "Lily Pad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1159280847262859364",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Lily Pad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Lily Pad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1285681070196396177",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Midnight Lily Pad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro2.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            },
+            {
+                "name": "Muddy Lily Pad Life",
+                "summary": "Ribbit.",
+                "sku_id": "1285681070196396179",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Muddy Lily Pad Life",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro3.png",
+                        "summary": "Ribbit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "The Vault",
         "summary": "Long-awaited treasures from times past have made their return… What will you find?",
         "summary_black": "false",
