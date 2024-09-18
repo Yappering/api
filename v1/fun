@@ -1,5 +1,12 @@
 [
     {
+        "title": "Leaks",
+        "isNew": "true",
+        "url": "/leaks",
+        "class": "leaks-tab",
+        "titleText": "2 New categories!"
+    },
+    {
         "title": "Item Tool",
         "isNew": "true",
         "url": "/item-debug",
