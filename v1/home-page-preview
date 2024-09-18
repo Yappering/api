@@ -19,28 +19,9 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Ukon Sakura",
-                "summary": "A symbol of standing out with quiet elegance.",
-                "sku_id": "1277733174813921497",
-                "price": "US$9.99",
-                "price_nitro": "US$6.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Ukon Sakura",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_669e4e5337a7ebeffd87fe3f1008535f.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_669e4e5337a7ebeffd87fe3f1008535f.png?size=4096&passthrough=true",
-                        "summary": "A symbol of standing out with quiet elegance."
-                    }
-                ]
-            },
-            {
-                "name": "Goblin Stinkums",
-                "summary": "Green goblin mode unlocks many abilities... some consider to be unnaturally stinky.",
-                "sku_id": "1277733175027830814",
+                "name": "Twilight Chrysanthemums",
+                "summary": "Transformation is a dance where your inner beauty finds its rhythm",
+                "sku_id": "1282816431850782730",
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
@@ -49,17 +30,17 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Goblin Stinkums",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_aae302f5cec90c98beab424443d0f04d.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_aae302f5cec90c98beab424443d0f04d.png?size=4096&passthrough=true",
-                        "summary": "Green goblin mode unlocks many abilities... some consider to be unnaturally stinky."
+                        "name": "Twilight Chrysanthemums",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=true",
+                        "summary": "Transformation is a dance where your inner beauty finds its rhythm"
                     }
                 ]
             },
             {
-                "name": "Heartzilla (Purple)",
-                "summary": "Is this what they mean when they say love hurts?",
-                "sku_id": "1277733175111717006",
+                "name": "Twilight Grove",
+                "summary": "Step inside and see autumn\u2019s beauty unfold.",
+                "sku_id": "1282816431985004594",
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
@@ -68,36 +49,48 @@
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Heartzilla (Purple)",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/heartzilla-purple/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-03/heartzilla-purple/intro.png",
-                        "summary": "Is this what they mean when they say love hurts?"
+                        "name": "Twilight Grove",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/intro.png",
+                        "summary": "Step inside and see autumn\u2019s beauty unfold."
                     }
                 ]
             },
             {
-                "name": "Brown Breakfast Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1277733175166111949",
-                "price": "US$6.99",
-                "price_nitro": "US$5.49",
+                "name": "Autumn\u2019s Arbour",
+                "summary": "Where day and night share equal ground.",
+                "sku_id": "1282816431922085888",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "bundled_products": [
+                "items": [
                     {
                         "item_type": "deco",
-                        "name": "Burnt Toast",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_280c991d6e124b13e4994941c02e00b4.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_280c991d6e124b13e4994941c02e00b4.png?size=4096&passthrough=true",
-                        "summary": "Why did you burn the toast?"
-                    },
+                        "name": "Autumn\u2019s Arbour",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=true",
+                        "summary": "Where day and night share equal ground."
+                    }
+                ]
+            },
+            {
+                "name": "Dusk and Dawn",
+                "summary": "Illuminate yourself with the light of the moon and sun.",
+                "sku_id": "1282816431871754281",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
                     {
-                        "item_type": "effect",
-                        "name": "Chocolate Discord-Os",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-08-26/chocolate-discordos/intro.png",
-                        "summary": "I know what you\u2019re thinking. But don\u2019t knock it till you try it."
+                        "item_type": "deco",
+                        "name": "Dusk and Dawn",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=true",
+                        "summary": "Illuminate yourself with the light of the moon and sun."
                     }
                 ]
             }
