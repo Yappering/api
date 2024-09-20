@@ -266,6 +266,538 @@
                         "summary": "How much electricity does one profile hold?"
                     }
                 ]
+            },
+            {
+                "name": "Ghoulish Graffiti",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ghoulish Graffiti",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Ghoulish Graffiti",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ghoulish Graffiti",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Zombie Slime",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Zombie Slime",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Zombie Slime",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Zombie Slime",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Dark Omens",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dark Omens",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Dark Omens",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dark Omens",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Fall Foliage",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Fall Foliage",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/leaves/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Hydro Blast",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Hydro Blast",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Hydro Blast",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Hydro Blast",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Dreams",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Dreams",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Dreams",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sakura Dreams",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Mystic Vines",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Mystic Vines",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Mystic Vines",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Mystic Vines",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Pixie Dust",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Pixie Dust",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Pixie Dust",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Pixie Dust",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Magic Hearts",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Magic Hearts",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Shatter",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shatter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Shatter",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shatter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Shuriken Strike",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Shuriken Strike",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "Variation 1",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/intro.png",
+                        "summary": "Variation 1"
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "Variation 5",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro2.png",
+                        "summary": "Variation 5"
+                    }
+                ]
+            },
+            {
+                "name": "Power Surge",
+                "summary": "Variation 6",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Power Surge",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro3.png",
+                        "summary": "Variation 6"
+                    }
+                ]
+            },
+            {
+                "name": "Discord-Os",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Discord-Os",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Discord-Os",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Discord-Os",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
+            },
+            {
+                "name": "Breakfast Plate",
+                "summary": "Variation 2",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Breakfast Plate",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/thumbnail2.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro2.png",
+                        "summary": "Variation 2"
+                    }
+                ]
+            },
+            {
+                "name": "Breakfast Plate",
+                "summary": "Variation 3",
+                "sku_id": null,
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Breakfast Plate",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/thumbnail3.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro3.png",
+                        "summary": "Variation 3"
+                    }
+                ]
             }
         ]
     },
