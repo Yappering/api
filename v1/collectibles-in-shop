@@ -90,6 +90,25 @@
                 ]
             },
             {
+                "name": "Morning Chrysanthemums",
+                "summary": "Transformation is a dance where your inner beauty finds its rhythm",
+                "sku_id": "1286504131325853739",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Morning Chrysanthemums",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a02f615e00ef516c98adf7e93ebe881f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a02f615e00ef516c98adf7e93ebe881f.png?size=4096&passthrough=true",
+                        "summary": "Transformation is a dance where your inner beauty finds its rhythm"
+                    }
+                ]
+            },
+            {
                 "name": "Dusk and Dawn",
                 "summary": "Illuminate yourself with the light of the moon and sun.",
                 "sku_id": "1282816431871754281",
@@ -128,6 +147,25 @@
                 ]
             },
             {
+                "name": "Floral Harmony (Sunburst)",
+                "summary": "A touch of day and night woven into every petal.",
+                "sku_id": "1286504131392962641",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Floral Harmony (Sunburst)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_00c55c9ce142069c7675d25f4b34e487.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_00c55c9ce142069c7675d25f4b34e487.png?size=4096&passthrough=true",
+                        "summary": "A touch of day and night woven into every petal."
+                    }
+                ]
+            },
+            {
                 "name": "Autumn\u2019s Arbour",
                 "summary": "Where day and night share equal ground.",
                 "sku_id": "1282816431922085888",
@@ -142,6 +180,25 @@
                         "name": "Autumn\u2019s Arbour",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=true",
+                        "summary": "Where day and night share equal ground."
+                    }
+                ]
+            },
+            {
+                "name": "Autumn\u2019s Arbour (Aurora)",
+                "summary": "Where day and night share equal ground.",
+                "sku_id": "1286504131439366184",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Autumn\u2019s Arbour (Aurora)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a34bfbc057df1d328d4bf687d6109af8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a34bfbc057df1d328d4bf687d6109af8.png?size=4096&passthrough=true",
                         "summary": "Where day and night share equal ground."
                     }
                 ]
@@ -1756,7 +1813,7 @@
             {
                 "name": "NiCe pRoFiLE",
                 "summary": "uSE tHis EFfeCt.",
-                "sku_id": "1271174907081789524",
+                "sku_id": "1262491690900656267",
                 "price": "US$12.99",
                 "price_nitro": "US$9.99",
                 "unpublished_at": null,
@@ -4209,7 +4266,7 @@
             {
                 "name": "Space Evader",
                 "summary": "That was the best flying I\u2019ve seen to date - right up to the part where you got hit.",
-                "sku_id": "1271174907081789524",
+                "sku_id": "1245088094437507163",
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
@@ -4742,7 +4799,7 @@
             {
                 "name": "Boost Relic",
                 "summary": "Legends say this could power an entire server...",
-                "sku_id": "1271174907081789524",
+                "sku_id": "1139323098370424932",
                 "price": "US$9.99",
                 "price_nitro": "US$0.00",
                 "unpublished_at": null,
