@@ -209,6 +209,25 @@
                 ]
             },
             {
+                "name": "Sunrise Grove",
+                "summary": "Step inside and see autumn\u2019s beauty unfold.",
+                "sku_id": "1286504131518791816",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Sunrise Grove",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/sunrise-grove/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/sunrise-grove/intro.png",
+                        "summary": "Step inside and see autumn\u2019s beauty unfold."
+                    }
+                ]
+            },
+            {
                 "name": "Autumn Equinox",
                 "summary": "Autumn\u2019s arrival is written in the stars.",
                 "sku_id": "1282816432001777794",

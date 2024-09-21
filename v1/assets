@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "name": "store_listing_default",
+        "asset_id": "1116154530145505300"
+    },
+    {
+        "id": 2,
+        "name": "sku_cherry_blossoms",
+        "asset_id": "1116154695279464468"
+    },
+    {
+        "id": 3,
+        "name": "store_listing_default",
+        "asset_id": "1117965271177642054"
+    },
+    {
+        "id": 4,
+        "name": "expressions",
+        "asset_id": "1120837665709883494"
+    },
+    {
+        "id": 5,
+        "name": "fantasy_logo",
+        "asset_id": "1149562562103484467"
+    },
+    {
+        "id": 6,
+        "name": "fantasy_banner",
+        "asset_id": "1149562682983321630"
+    },
+    {
+        "id": 7,
+        "name": "disxcore_logo",
+        "asset_id": "1149562888290320414"
+    },
+    {
+        "id": 8,
+        "name": "disxcore_banner",
+        "asset_id": "1149562891666731108"
+    },
+    {
+        "id": 9,
+        "name": "breakfast_logo",
+        "asset_id": "1149563080074854410"
+    },
+    {
+        "id": 10,
+        "name": "breakfast_banner",
+        "asset_id": "1149563083245768704"
+    },
+    {
+        "id": 11,
+        "name": "anime_logo",
+        "asset_id": "1149563319296995408"
+    },
+    {
+        "id": 12,
+        "name": "anime_banner",
+        "asset_id": "1149563322232995880"
+    },
+    {
+        "id": 13,
+        "name": "fall_logo",
+        "asset_id": "1157407583993339934"
+    },
+    {
+        "id": 14,
+        "name": "fall_banner",
+        "asset_id": "1157407583993339935"
+    },
+    {
+        "id": 15,
+        "name": "halloween_logo",
+        "asset_id": "1157410718711304314"
+    },
+    {
+        "id": 16,
+        "name": "halloween_banner",
+        "asset_id": "1157410718711304315"
+    },
+    {
+        "id": 17,
+        "name": "winter_logo",
+        "asset_id": "1174459327285837915"
+    },
+    {
+        "id": 18,
+        "name": "winter_banner",
+        "asset_id": "1174459349607919687"
+    },
+    {
+        "id": 19,
+        "name": "monsters_logo",
+        "asset_id": "1179493515038818326"
+    },
+    {
+        "id": 20,
+        "name": "monsters_banner",
+        "asset_id": "1179493515038818327"
+    },
+    {
+        "id": 21,
+        "name": "cyberpunk_logo",
+        "asset_id": "1197343875023523930"
+    },
+    {
+        "id": 22,
+        "name": "cyberpunk_banner",
+        "asset_id": "1197343893742694470"
+    },
+    {
+        "id": 23,
+        "name": "lunar_new_year_logo",
+        "asset_id": "1202069746653352057"
+    },
+    {
+        "id": 24,
+        "name": "lunar_new_year_banner",
+        "asset_id": "1202069953306689626"
+    },
+    {
+        "id": 25,
+        "name": "elements_logo",
+        "asset_id": "1207046939544129577"
+    },
+    {
+        "id": 26,
+        "name": "elements_banner",
+        "asset_id": "1207046965909655592"
+    },
+    {
+        "id": 27,
+        "name": "anime_logo_2",
+        "asset_id": "1212565210682884167"
+    },
+    {
+        "id": 28,
+        "name": "anime_banner_2",
+        "asset_id": "1212565236721389588"
+    },
+    {
+        "id": 29,
+        "name": "winter_logo",
+        "asset_id": "1217260340887158784"
+    },
+    {
+        "id": 30,
+        "name": "winter_banner",
+        "asset_id": "1217260346872430592"
+    },
+    {
+        "id": 31,
+        "name": "springtoons_logo",
+        "asset_id": "1217623684777381908"
+    },
+    {
+        "id": 32,
+        "name": "springtoons_banner",
+        "asset_id": "1217623891149586563"
+    },
+    {
+        "id": 33,
+        "name": "anime_mobile",
+        "asset_id": "1217929846513209444"
+    },
+    {
+        "id": 34,
+        "name": "anime_pdp",
+        "asset_id": "1217929860304076890"
+    },
+    {
+        "id": 35,
+        "name": "springtoons_mobile",
+        "asset_id": "1217989856924270713"
+    },
+    {
+        "id": 36,
+        "name": "springtoons_pdp",
+        "asset_id": "1217989864247529564"
+    },
+    {
+        "id": 37,
+        "name": "elements_mobile",
+        "asset_id": "1217989925421584404"
+    },
+    {
+        "id": 38,
+        "name": "elements_pdp",
+        "asset_id": "1217989949152821258"
+    },
+    {
+        "id": 39,
+        "name": "cyberpunk_mobile",
+        "asset_id": "1217989979586695208"
+    },
+    {
+        "id": 40,
+        "name": "cyberpunk_pdp",
+        "asset_id": "1217990008854679602"
+    },
+    {
+        "id": 41,
+        "name": "fantasy_mobile",
+        "asset_id": "1217990041234571274"
+    },
+    {
+        "id": 42,
+        "name": "disxcore_mobile",
+        "asset_id": "1217990175653892166"
+    },
+    {
+        "id": 43,
+        "name": "shy_banner",
+        "asset_id": "1220514092129714176"
+    },
+    {
+        "id": 44,
+        "name": "shy_pdp",
+        "asset_id": "1220514095275708516"
+    },
+    {
+        "id": 45,
+        "name": "shy_logo",
+        "asset_id": "1220514099364892672"
+    },
+    {
+        "id": 46,
+        "name": "springtoons_mobile",
+        "asset_id": "1220535657118699540"
+    },
+    {
+        "id": 47,
+        "name": "anime_mobile",
+        "asset_id": "1220535728166146098"
+    },
+    {
+        "id": 48,
+        "name": "elements_mobile",
+        "asset_id": "1220535765759426700"
+    },
+    {
+        "id": 49,
+        "name": "cyberpunk_mobile",
+        "asset_id": "1220535830246985828"
+    },
+    {
+        "id": 50,
+        "name": "fantasy_mobile",
+        "asset_id": "1220535951852572803"
+    },
+    {
+        "id": 51,
+        "name": "disxcore_mobile",
+        "asset_id": "1220535994281885786"
+    },
+    {
+        "id": 52,
+        "name": "shy_success_modal",
+        "asset_id": "1222628251730710720"
+    },
+    {
+        "id": 53,
+        "name": "shy_mobile_banner",
+        "asset_id": "1224516821692977305"
+    },
+    {
+        "id": 54,
+        "name": "springtoons_mobile_banner",
+        "asset_id": "1224516882611175475"
+    },
+    {
+        "id": 55,
+        "name": "elements_mobile_banner",
+        "asset_id": "1224517292453265439"
+    },
+    {
+        "id": 56,
+        "name": "cyberpunk_mobile_banner",
+        "asset_id": "1224517328536866909"
+    },
+    {
+        "id": 57,
+        "name": "anime_mobile_banner",
+        "asset_id": "1224517355711889439"
+    },
+    {
+        "id": 58,
+        "name": "fantasy_mobile_banner",
+        "asset_id": "1224517389169721434"
+    },
+    {
+        "id": 59,
+        "name": "disxcore_mobile_banner",
+        "asset_id": "1224517415958745179"
+    },
+    {
+        "id": 60,
+        "name": "shy_mobile",
+        "asset_id": "1224826780351860866"
+    },
+    {
+        "id": 61,
+        "name": "shy_mobile",
+        "asset_id": "1227668841199308800"
+    },
+    {
+        "id": 62,
+        "name": "lofi_vibes_logo",
+        "asset_id": "1228245117085679668"
+    },
+    {
+        "id": 63,
+        "name": "lofi_vibes_banner",
+        "asset_id": "1228245273768230943"
+    },
+    {
+        "id": 64,
+        "name": "lofi_vibes_mobile",
+        "asset_id": "1228245377384190022"
+    },
+    {
+        "id": 65,
+        "name": "lofi_vibes_pdp",
+        "asset_id": "1228245524658917417"
+    },
+    {
+        "id": 66,
+        "name": "lofi_vibes_mobile_banner",
+        "asset_id": "1228245604413476935"
+    },
+    {
+        "id": 67,
+        "name": "galaxy_logo",
+        "asset_id": "1232037193464418374"
+    },
+    {
+        "id": 68,
+        "name": "galaxy_banner",
+        "asset_id": "1232037253274927134"
+    },
+    {
+        "id": 69,
+        "name": "galaxy_mobile",
+        "asset_id": "1232037338574491658"
+    },
+    {
+        "id": 70,
+        "name": "galaxy_pdp",
+        "asset_id": "1232037364226985984"
+    },
+    {
+        "id": 71,
+        "name": "galaxy_mobile_banner",
+        "asset_id": "1232037387152916591"
+    },
+    {
+        "id": 72,
+        "name": "feelin_retro_banner",
+        "asset_id": "1237649691953336363"
+    },
+    {
+        "id": 73,
+        "name": "feelin_retro_mobile",
+        "asset_id": "1237649712673325056"
+    },
+    {
+        "id": 74,
+        "name": "feelin_retro_pdp",
+        "asset_id": "1237649746999378041"
+    },
+    {
+        "id": 75,
+        "name": "feelin_retro_mobile_banner",
+        "asset_id": "1237649774312951828"
+    },
+    {
+        "id": 76,
+        "name": "pirates_banner",
+        "asset_id": "1237653638738874408"
+    },
+    {
+        "id": 77,
+        "name": "pirates_mobile",
+        "asset_id": "1237653828287856671"
+    },
+    {
+        "id": 78,
+        "name": "pirates_pdp",
+        "asset_id": "1237653853688827924"
+    },
+    {
+        "id": 79,
+        "name": "pirates_mobile_banner",
+        "asset_id": "1237653899394154536"
+    },
+    {
+        "id": 80,
+        "name": "feelin_retro_logo",
+        "asset_id": "1237937648727756883"
+    },
+    {
+        "id": 81,
+        "name": "pirates_logo",
+        "asset_id": "1237937696991740044"
+    },
+    {
+        "id": 82,
+        "name": "arcade_logo",
+        "asset_id": "1245086730785390793"
+    },
+    {
+        "id": 83,
+        "name": "arcade_banner",
+        "asset_id": "1245087533205819452"
+    },
+    {
+        "id": 84,
+        "name": "arcade_mobile",
+        "asset_id": "1245087580463173734"
+    },
+    {
+        "id": 85,
+        "name": "arcade_pdp",
+        "asset_id": "1245087599966683227"
+    },
+    {
+        "id": 86,
+        "name": "arcade_mobile_banner",
+        "asset_id": "1245087618069168150"
+    },
+    {
+        "id": 87,
+        "name": "tide_logo",
+        "asset_id": "1252404115686948925"
+    },
+    {
+        "id": 88,
+        "name": "tide_banner",
+        "asset_id": "1252404118509719682"
+    },
+    {
+        "id": 89,
+        "name": "tide_mobile",
+        "asset_id": "1252404121252925514"
+    },
+    {
+        "id": 90,
+        "name": "tide_pdp",
+        "asset_id": "1252404123844870224"
+    },
+    {
+        "id": 91,
+        "name": "tide_mobile_banner",
+        "asset_id": "1252404126801727579"
+    }
+]
