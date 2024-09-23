@@ -1,5 +1,12 @@
 [
     {
+        "title": "Leaks",
+        "isNew": "true",
+        "url": "/leaks",
+        "class": "leaks-tab",
+        "titleText": "New Street Fighter Collectibles!"
+    },
+    {
         "title": "Item Tool",
         "isNew": "true",
         "url": "/item-debug",
