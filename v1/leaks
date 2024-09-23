@@ -226,7 +226,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Classic Street Fighter",
                         "static": null,
                         "animated": null,
@@ -245,7 +245,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Street Fighter 6",
                         "static": null,
                         "animated": null,
