@@ -197,6 +197,25 @@
                 ]
             },
             {
+                "name": "Street Fighter 6",
+                "summary": "The award winning Street Fighter 6 theme!",
+                "sku_id": "1285465421239291904",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Street Fighter 6",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/street-fighter-6/graffiti_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-19/street-fighter-6/graffiti_intro.png",
+                        "summary": "The award winning Street Fighter 6 theme!"
+                    }
+                ]
+            },
+            {
                 "name": "Akuma's Wrath",
                 "summary": "Messatsu! Feel the power of the Satsui no hado!",
                 "sku_id": "1285465421260263464",
@@ -209,9 +228,28 @@
                     {
                         "item_type": "effect",
                         "name": "Akuma's Wrath",
-                        "static": null,
-                        "animated": null,
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_intro.png",
                         "summary": "Messatsu! Feel the power of the Satsui no hado!"
+                    }
+                ]
+            },
+            {
+                "name": "M. Bison\u2019s Return",
+                "summary": "For him, it was Tuesday.",
+                "sku_id": "1285465421285429258",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "M. Bison\u2019s Return",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/bisons-return/bison_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-20/bisons-return/bison_intro.png",
+                        "summary": "For him, it was Tuesday."
                     }
                 ]
             },
@@ -228,28 +266,9 @@
                     {
                         "item_type": "effect",
                         "name": "Classic Street Fighter",
-                        "static": null,
-                        "animated": null,
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_intro_[1-2].png",
                         "summary": "Bring it back to the retro streets!"
-                    }
-                ]
-            },
-            {
-                "name": "Street Fighter 6",
-                "summary": "The award winning Street Fighter 6 theme!",
-                "sku_id": "1285465421239291904",
-                "price": null,
-                "price_nitro": null,
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Street Fighter 6",
-                        "static": null,
-                        "animated": null,
-                        "summary": "The award winning Street Fighter 6 theme!"
                     }
                 ]
             }
