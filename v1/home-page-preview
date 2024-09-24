@@ -19,78 +19,85 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Twilight Chrysanthemums",
-                "summary": "Transformation is a dance where your inner beauty finds its rhythm",
-                "sku_id": "1282816431850782730",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "Ryu",
+                "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him.",
+                "sku_id": "1285465421029576704",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Twilight Chrysanthemums",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb003dc2b5c6d85c8e18cc9336fcdad3.png?size=4096&passthrough=true",
-                        "summary": "Transformation is a dance where your inner beauty finds its rhythm"
+                        "name": "Ryu",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
+                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
                     }
                 ]
             },
             {
-                "name": "Twilight Grove",
-                "summary": "Step inside and see autumn\u2019s beauty unfold.",
-                "sku_id": "1282816431985004594",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "Chun-Li",
+                "summary": "A former high-kicking ICPO agent Chun-Li. Never skips leg day.",
+                "sku_id": "1285465421050548345",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Chun-Li",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba133b88b21e1b4a36637335536c3a8.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba133b88b21e1b4a36637335536c3a8.png?size=4096&passthrough=true",
+                        "summary": "A former high-kicking ICPO agent Chun-Li. Never skips leg day."
+                    }
+                ]
+            },
+            {
+                "name": "Akuma's Wrath",
+                "summary": "Messatsu! Feel the power of the Satsui no hado!",
+                "sku_id": "1285465421260263464",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Twilight Grove",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/intro.png",
-                        "summary": "Step inside and see autumn\u2019s beauty unfold."
+                        "name": "Akuma's Wrath",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_intro.png",
+                        "summary": "Messatsu! Feel the power of the Satsui no hado!"
                     }
                 ]
             },
             {
-                "name": "Autumn\u2019s Arbour",
-                "summary": "Where day and night share equal ground.",
-                "sku_id": "1282816431922085888",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "Ryu Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1285465420979245087",
+                "price": "US$23.99",
+                "price_nitro": "US$17.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "items": [
+                "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Autumn\u2019s Arbour",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=4096&passthrough=true",
-                        "summary": "Where day and night share equal ground."
-                    }
-                ]
-            },
-            {
-                "name": "Dusk and Dawn",
-                "summary": "Illuminate yourself with the light of the moon and sun.",
-                "sku_id": "1282816431871754281",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
+                        "name": "Ryu",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
+                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
+                    },
                     {
-                        "item_type": "deco",
-                        "name": "Dusk and Dawn",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=4096&passthrough=true",
-                        "summary": "Illuminate yourself with the light of the moon and sun."
+                        "item_type": "effect",
+                        "name": "Classic Street Fighter",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_intro_[1-2].png",
+                        "summary": "Bring it back to the retro streets!"
                     }
                 ]
             }
