@@ -226,6 +226,25 @@
                         "summary": "Torgal the puppy is here to keep you company! This reward is exclusive to the FFXVI Quest."
                     }
                 ]
+            },
+            {
+                "name": "Street Fighter 6 Battle Field Avatar Decoration",
+                "summary": "Avatar Decoration for the Award winning Street Fighter 6. Exclusive to Street Fighter 6 Quest for a limited time.",
+                "sku_id": "1280648686749352003",
+                "price": null,
+                "price_nitro": "Expires Nov 29th 2024",
+                "unpublished_at": "2024-11-29T11:59:59+00:00",
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Street Fighter 6 Battle Field Avatar Decoration",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_02b093ffabbd814ff310dd32c05063e5.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_02b093ffabbd814ff310dd32c05063e5.png?size=4096&passthrough=true",
+                        "summary": "Avatar Decoration for the Award winning Street Fighter 6. Exclusive to Street Fighter 6 Quest for a limited time."
+                    }
+                ]
             }
         ]
     },
