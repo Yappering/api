@@ -245,6 +245,25 @@
                         "summary": "Avatar Decoration for the Award winning Street Fighter 6. Exclusive to Street Fighter 6 Quest for a limited time."
                     }
                 ]
+            },
+            {
+                "name": "Wolf Morph",
+                "summary": "Your Morph can take on many unique forms and help you move throughout the world in THRONE AND LIBERTY.",
+                "sku_id": "1286046055498252319",
+                "price": null,
+                "price_nitro": "Expires Nov 30th 2024",
+                "unpublished_at": "2024-11-30T23:59:59+00:00",
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wolf Morph",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e493810a0ac505c6584c422e80eed664.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e493810a0ac505c6584c422e80eed664.png?size=4096&passthrough=true",
+                        "summary": "Your Morph can take on many unique forms and help you move throughout the world in THRONE AND LIBERTY."
+                    }
+                ]
             }
         ]
     },
