@@ -2,7 +2,7 @@
     {
         "id": 4,
         "title": "DisCoins",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/blog",
         "titleText": "Discord might add their own coin system.",
         "message_content_1": "Discord might be adding \"Coins\" as a new way to purchase things on Discord.",
@@ -16,7 +16,7 @@
     {
         "id": 3,
         "title": "The Vault",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/blog",
         "titleText": "New shop category brings back old items along with some new ones!",
         "message_content_1": "Discord is working on a new shop category called \"The Vault\" which not only gives us new items but some of the old ones too.",

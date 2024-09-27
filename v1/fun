@@ -1,7 +1,7 @@
 [
     {
         "title": "Item Tool",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/item-debug",
         "class": "avatar-decorations-debug-tab"
     },
