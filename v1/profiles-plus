@@ -1,10 +1,280 @@
 [
     {
+        "name": "WindowKill",
+        "summary": "The windows are taking control!",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/33.png",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo": "https://cdn.yapper.shop/assets/24.png",
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "Orb Array Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":purple_circle:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array Screenshot",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Time to add you to my Cringe Compilation."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "What is this strange formation?"
+                    }
+                ]
+            },
+            {
+                "name": "Smiley Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Smiley Wave",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/8.png",
+                        "summary": "Oh no, he\u2019s got my avatar."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
+                        "summary": "Quick! Click the X!"
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wyrm",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/4.png",
+                        "summary": "Don\u2019t cut it in half!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "It\u2019s like Centipede, go for the head!"
+                    }
+                ]
+            },
+            {
+                "name": "Windowkill Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Legacy Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Legacy Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array Screenshot",
+                "summary": "Time to add you to my Cringe Compilation.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array Screenshot",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Time to add you to my Cringe Compilation."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley Wave",
+                "summary": "Oh no, he\u2019s got my avatar.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Smiley Wave",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/8.png",
+                        "summary": "Oh no, he\u2019s got my avatar."
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm",
+                "summary": "Don\u2019t cut it in half!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wyrm",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/4.png",
+                        "summary": "Don\u2019t cut it in half!"
+                    }
+                ]
+            },
+            {
+                "name": "Legacy Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Legacy Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "What is this strange formation?",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "What is this strange formation?"
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Quick! Click the X!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
+                        "summary": "Quick! Click the X!"
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Attack",
+                "summary": "It\u2019s like Centipede, go for the head!",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "It\u2019s like Centipede, go for the head!"
+                    }
+                ]
+            },
+            {
+                "name": "Miasma",
+                "summary": "Don\u2019t let it infect your profile.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Miasma",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/13.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/14.png",
+                        "summary": "Don\u2019t let it infect your profile."
+                    }
+                ]
+            },
+            {
+                "name": "Legacy Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Legacy Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Paper Beach",
         "summary": "Nothing better than wet and sandy paper.",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/10.png",
-        "unpublished_at": "2024-11-01T00:00:00Z",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 4424191,
@@ -23,7 +293,7 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "bundled_products": [
                     {
@@ -47,7 +317,7 @@
                 "summary": "Time to make the biggest sand castel.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
@@ -64,7 +334,7 @@
                 "summary": "Am I too sexy?",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -81,7 +351,7 @@
                 "summary": "Used for fun beach activities.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -98,7 +368,7 @@
                 "summary": "What a nice view.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -115,7 +385,7 @@
                 "summary": "A relaxing day at the beach.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -132,7 +402,7 @@
                 "summary": "No time for fun beach activities.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -149,7 +419,7 @@
                 "summary": "Let\u2019s dig for treasure.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":hotsprings:",
                 "items": [
                     {
@@ -295,85 +565,6 @@
                         "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
                         "summary": "Don\u2019t get squished!"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "WindowKill",
-        "summary": "What\u2019s wrong with my windows?",
-        "summary_black": "true",
-        "banner": "https://cdn.yapper.shop/assets/20.png",
-        "unpublished_at": null,
-        "styles": {
-            "background_colors": [
-                4424191,
-                3104443
-            ],
-            "button_colors": [
-                5793266,
-                5793266
-            ]
-        },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
-        "logo_sway": "false",
-        "products": [
-            {
-                "name": "WindowKill Bundle",
-                "summary": "A bundle of collectibles.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":purple_heart:",
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                        "summary": "Hes got my Avatar!"
-                    }
-                ]
-            },
-            {
-                "name": "Orb Array",
-                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":purple_circle:",
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
-                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
-                    }
-                ]
-            },
-            {
-                "name": "Smiley",
-                "summary": "Hes got my Avatar!",
-                "credits": "DTACat",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": ":slight_smile:",
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
-                        "summary": "Hes got my Avatar!"
                     }
                 ]
             }
