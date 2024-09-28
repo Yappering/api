@@ -4,7 +4,7 @@
         "summary": "The windows are taking control!",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/33.png",
-        "unpublished_at": "2024-12-01T00:00:00Z",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 1118740,
@@ -28,7 +28,7 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array",
+                        "name": "Orb Array Screenshot",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
                         "summary": "Time to add you to my Cringe Compilation."
@@ -36,9 +36,9 @@
                     {
                         "item_type": "effect",
                         "name": "Orb Array",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/.png",
-                        "summary": "Time to add you to my Cringe Compilation."
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "What is this strange formation?"
                     }
                 ]
             },
@@ -52,9 +52,9 @@
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Smiley",
-                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/.png",
-                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/.png",
+                        "name": "Smiley Wave",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
                         "summary": "Oh no, he\u2019s got my avatar."
                     },
                     {
@@ -115,7 +115,7 @@
                 ]
             },
             {
-                "name": "Orb Array",
+                "name": "Orb Array Screenshot",
                 "summary": "Time to add you to my Cringe Compilation.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
@@ -124,10 +124,27 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Orb Array",
+                        "name": "Orb Array Screenshot",
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
                         "summary": "Time to add you to my Cringe Compilation."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley Wave",
+                "summary": "Oh no, he\u2019s got my avatar.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Smiley Wave",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "Oh no, he\u2019s got my avatar."
                     }
                 ]
             },
@@ -162,6 +179,23 @@
                         "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "What is this strange formation?",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "What is this strange formation?"
                     }
                 ]
             },
@@ -240,7 +274,7 @@
         "summary": "Nothing better than wet and sandy paper.",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/10.png",
-        "unpublished_at": "2024-11-01T00:00:00Z",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 1118740,
