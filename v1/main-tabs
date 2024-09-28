@@ -29,6 +29,6 @@
         "url2": "https://github.com/DTACat/Discord-Profiles-Plus",
         "image": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/ProfilesPlus.png",
         "desc": "Makes your Discord profile look 100 times better.",
-        "class": "pplus-tab windowkill-v2-marketing"
+        "class": "pplus-tab"
     }
 ]
