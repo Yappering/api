@@ -3,7 +3,7 @@
         "title": "Leaks",
         "isNew": "true",
         "url": "/leaks",
-        "class": "old-ui-tab",
+        "class": "leaks-tab",
         "titleText": "Spooky Night"
     },
     {
