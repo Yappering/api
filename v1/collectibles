@@ -4,6 +4,7 @@
         "summary": "Hit the streets with Street Fighter.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285465421356732426.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1289009898176118885.png?size=4096",
         "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285465421377703967.png?size=4096",
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1286854013354250260.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1286854045914366054.png?size=4096",
@@ -19,7 +20,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
@@ -335,6 +335,11 @@
         "summary": "Beauty in balance.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432068886560.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432060633161.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285647084158189668.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432081604660.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432098512907.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432077541386.png?size=4096",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -346,7 +351,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
