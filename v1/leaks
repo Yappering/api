@@ -281,7 +281,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Blazing Ghoulish Graffiti",
                         "static": null,
                         "animated": null,
