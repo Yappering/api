@@ -341,6 +341,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432081604660.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432098512907.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432077541386.png?size=4096",
+        "sku_id": "1282816432056569866",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -665,6 +666,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418924351029248.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418949969969192.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418889605288079.png?size=4096",
+        "sku_id": "1157406994873991284",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -996,6 +998,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1277733175245672540.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1281280718068252824.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1277733175241609216.png?size=4096",
+        "sku_id": "1277733175191277721",
         "unpublished_at": "2024-09-30T03:59:00+00:00",
         "styles": {
             "background_colors": [
@@ -1422,6 +1425,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271174016761200700.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271174064471543878.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271173993042411622.png?size=4096",
+        "sku_id": "1266520267946201099",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -1670,6 +1674,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1266108773022568529.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1266108773035016325.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1270863589091053721.png?size=4096",
+        "sku_id": "1265375293397270650",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -2039,6 +2044,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262491137386614809.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262760748120014868.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262491137386614808.png?size=4096",
+        "sku_id": "1262491137386614805",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -2292,6 +2298,7 @@
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1256321669388308599.png?size=4096",
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1260647017265233950.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1256376187991756820.png?size=4096",
+        "sku_id": "1256321669388308595",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -2538,6 +2545,7 @@
         "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404115686948925.png?size=4096",
         "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404121252925514.png?size=4096",
         "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404123844870224.png?size=4096",
+        "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404126801727579.png?size=4096",
         "sku_id": "1252404112650407998",
         "unpublished_at": "2024-09-24T00:00:00Z",
@@ -2757,6 +2765,12 @@
         "summary": "Press START to play.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087533205819452.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245086730785390793.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087580463173734.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087599966683227.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087618069168150.png?size=4096",
+        "sku_id": "1245086656973901894",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -2768,7 +2782,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245086730785390793.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -2975,6 +2988,12 @@
         "summary": "How ya feelin\u2019 today?",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649691953336363.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937648727756883.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649712673325056.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649746999378041.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649774312951828.png?size=4096",
+        "sku_id": "1237649643073044491",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -2986,7 +3005,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937648727756883.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -3155,6 +3173,12 @@
         "summary": "Don yer finest and set course, ye landlubbers.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653638738874408.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937696991740044.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653828287856671.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653853688827924.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653899394154536.png?size=4096",
+        "sku_id": "1237653589896200272",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -3166,7 +3190,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937696991740044.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -3373,6 +3396,12 @@
         "summary": "Reach for the stars.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037253274927134.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037193464418374.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037338574491658.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037364226985984.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037387152916591.png?size=4096",
+        "sku_id": "1232029045928099922",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -3384,7 +3413,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037193464418374.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -3591,6 +3619,12 @@
         "summary": "Where chill meets mood.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245273768230943.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245117085679668.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245377384190022.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245524658917417.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245604413476935.png?size=4096",
+        "sku_id": "1228243842684162121",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -3602,7 +3636,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245117085679668.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -3809,6 +3842,12 @@
         "summary": "DEFY DEFINITION",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514092129714176.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514099364892672.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1227668841199308800.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514095275708516.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1222628251730710720.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224516821692977305.png?size=4096",
+        "sku_id": "1220513972189663413",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -3820,7 +3859,6 @@
                 16729685
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220514099364892672.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -3982,6 +4020,12 @@
         "summary": "You awaken to find yourself in a springtime wonderland.",
         "summary_black": "true",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217623891149586563.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217623684777381908.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535657118699540.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217989864247529564.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224516882611175475.png?size=4096",
+        "sku_id": "1217622942175727736",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -3993,7 +4037,6 @@
                 16482611
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217623684777381908.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -4200,6 +4243,12 @@
         "summary": "Senpai will definitely notice you.",
         "summary_black": "true",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1212565236721389588.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1212565210682884167.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535728166146098.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217929860304076890.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517355711889439.png?size=4096",
+        "sku_id": "1212565175790473246",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -4211,7 +4260,6 @@
                 8019679
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1212565210682884167.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -4627,6 +4675,12 @@
         "summary": "Which will you unleash?",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1207046965909655592.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1207046939544129577.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535765759426700.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217989949152821258.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517292453265439.png?size=4096",
+        "sku_id": "1207046915880124426",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -4638,7 +4692,6 @@
                 15894798
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1207046939544129577.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -4845,6 +4898,12 @@
         "summary": "Roar into the Year of the Dragon.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1202069953306689626.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1202069746653352057.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1202069709281828935",
         "unpublished_at": "2024-03-07T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -4856,7 +4915,6 @@
                 16747008
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1202069746653352057.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5037,6 +5095,12 @@
         "summary": "Welcome to the neon embrace of the future.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1197343893742694470.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1197343875023523930.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535830246985828.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217990008854679602.png?size=4096",
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517328536866909.png?size=4096",
+        "sku_id": "1197342727608746044",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -5048,7 +5112,6 @@
                 3552948
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1197343875023523930.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5198,6 +5261,12 @@
         "summary": "We\u2019re not a menace, just misunderstood.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1179493515038818327.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1179493515038818326.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1179493515038818325",
         "unpublished_at": "2024-02-06T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -5209,7 +5278,6 @@
                 39804
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1179493515038818326.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5428,6 +5496,12 @@
         "summary": "tis the season",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459327285837915.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1174459301239197856",
         "unpublished_at": "2024-01-04T12:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -5439,7 +5513,6 @@
                 40447
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459327285837915.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5563,6 +5636,12 @@
         "summary": "Fright and delight your friends, strangers, and friendly strangers.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157410718711304315.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157410718711304314.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1157410718711304313",
         "unpublished_at": "2023-11-02T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -5574,7 +5653,6 @@
                 4080053
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157410718711304314.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5717,6 +5795,12 @@
         "summary": "There\u2019s a calm and cozy vibe in the air.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339935.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339934.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1157406994873991284",
         "unpublished_at": "2023-11-30T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -5728,7 +5812,6 @@
                 14972430
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339934.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -5852,6 +5935,12 @@
         "summary": "You\u2019re walking in the forest and notice something magical and shiny.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562682983321630.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562562103484467.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535951852572803.png?size=4096",
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517389169721434.png?size=4096",
+        "sku_id": "1144003461608906824",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -5863,7 +5952,6 @@
                 26954
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562562103484467.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -6127,6 +6215,12 @@
         "summary": "Senpai will definitely notice you.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563322232995880.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563319296995408.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1144302037593497701",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -6138,7 +6232,6 @@
                 1271959
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563319296995408.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -6357,6 +6450,12 @@
         "summary": "Breakfast is definitely the most important meal of the day.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563083245768704.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563080074854410.png?size=4096",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1144054000099012659",
         "unpublished_at": "2024-02-06T00:00:00Z",
         "styles": {
             "background_colors": [
@@ -6368,7 +6467,6 @@
                 16749879
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149563080074854410.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
@@ -6530,6 +6628,12 @@
         "summary": "Available to use with an active Nitro subscription.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562891666731108.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562888290320414.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1220535994281885786.png?size=4096",
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517415958745179.png?size=4096",
+        "sku_id": "1144058340327047249",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -6541,7 +6645,6 @@
                 12076481
             ]
         },
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1149562888290320414.png?size=4096",
         "logo_sway": "false",
         "products": [
             {
