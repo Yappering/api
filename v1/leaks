@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Spookie Night",
+        "summary": "Leaks",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1287835634115022961.png?size=4096",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "sku_id": "1287835634089594972",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                796573,
+                265556
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Spooky Cat Ears (Midnight)",
+                "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c",
+                "sku_id": "1287835633515102228",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Spooky Cat Ears (Midnight)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8fd799df82a523a495b66bdafe6e3c38.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8fd799df82a523a495b66bdafe6e3c38.png?size=4096&passthrough=true",
+                        "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c"
+                    }
+                ]
+            },
+            {
+                "name": "Candlelight",
+                "summary": "Now you can see in the dark. But so can they...",
+                "sku_id": "1287835633536209079",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Candlelight",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=true",
+                        "summary": "Now you can see in the dark. But so can they..."
+                    }
+                ]
+            },
+            {
+                "name": "Crimson Candlelight",
+                "summary": "Now you can see in the dark. But so can they...",
+                "sku_id": "1287835633561239683",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Crimson Candlelight",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_215876f6df5d2ca8502c54512d341c41.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_215876f6df5d2ca8502c54512d341c41.png?size=4096&passthrough=true",
+                        "summary": "Now you can see in the dark. But so can they..."
+                    }
+                ]
+            },
+            {
+                "name": "Dark Candlelight",
+                "summary": "Now you can see in the dark. But so can they...",
+                "sku_id": "1287835633590734848",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dark Candlelight",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_2c992af67565b20350b7e2934415929d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_2c992af67565b20350b7e2934415929d.png?size=4096&passthrough=true",
+                        "summary": "Now you can see in the dark. But so can they..."
+                    }
+                ]
+            },
+            {
+                "name": "Dark Hood",
+                "summary": "You definitely don't look suspicious at all.",
+                "sku_id": "1287835633615765524",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Dark Hood",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_41445f736db3525135b6b9e1122f2254.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_41445f736db3525135b6b9e1122f2254.png?size=4096&passthrough=true",
+                        "summary": "You definitely don't look suspicious at all."
+                    }
+                ]
+            },
+            {
+                "name": "Crimson Hood",
+                "summary": "You definitely don't look suspicious at all.",
+                "sku_id": "1287835633645125653",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Crimson Hood",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a78819f4d41900aa7698a1bafaf6af41.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a78819f4d41900aa7698a1bafaf6af41.png?size=4096&passthrough=true",
+                        "summary": "You definitely don't look suspicious at all."
+                    }
+                ]
+            },
+            {
+                "name": "Plum Witch Hat",
+                "summary": "Mischief looks good on you.",
+                "sku_id": "1287835633674620949",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Plum Witch Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_c53ba231da2fd27c32a6b23021da9085.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_c53ba231da2fd27c32a6b23021da9085.png?size=4096&passthrough=true",
+                        "summary": "Mischief looks good on you."
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Witch Hat",
+                "summary": "Mischief looks good on you.",
+                "sku_id": "1287835633703845888",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Midnight Witch Hat",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8eab0a01db335488819c18d9e4c4a380.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8eab0a01db335488819c18d9e4c4a380.png?size=4096&passthrough=true",
+                        "summary": "Mischief looks good on you."
+                    }
+                ]
+            },
+            {
+                "name": "Zombie Food",
+                "summary": "Looks like you weren't fast enough. Unlucky.",
+                "sku_id": "1287835633733341224",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Zombie Food",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_4f2b75e5adff09709702613ea0e2cb70.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_4f2b75e5adff09709702613ea0e2cb70.png?size=4096&passthrough=true",
+                        "summary": "Looks like you weren't fast enough. Unlucky."
+                    }
+                ]
+            },
+            {
+                "name": "Zombie Food (Purple)",
+                "summary": "Looks like you weren't fast enough. Unlucky.",
+                "sku_id": "1287835633762701382",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Zombie Food (Purple)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_604d1f0f336d41089acc3f82f458a99e.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_604d1f0f336d41089acc3f82f458a99e.png?size=4096&passthrough=true",
+                        "summary": "Looks like you weren't fast enough. Unlucky."
+                    }
+                ]
+            },
+            {
+                "name": "Bloodthirsty",
+                "summary": "Just a bite...",
+                "sku_id": "1287835633787732070",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bloodthirsty",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5cc3476f582a5649e64ab0a95504c4e9.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5cc3476f582a5649e64ab0a95504c4e9.png?size=4096&passthrough=true",
+                        "summary": "Just a bite..."
+                    }
+                ]
+            },
+            {
+                "name": "Bloodthirsty (Green)",
+                "summary": "Just a bite...",
+                "sku_id": "1287835633817227297",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bloodthirsty (Green)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb790a48942b9159224655aca8f4cd51.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_eb790a48942b9159224655aca8f4cd51.png?size=4096&passthrough=true",
+                        "summary": "Just a bite..."
+                    }
+                ]
+            },
+            {
+                "name": "Bloodthirsty (Gold)",
+                "summary": "Just a bite...",
+                "sku_id": "1287835633842258022",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Bloodthirsty (Gold)",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_306d1140ca183b25e3970ee266a8dcfa.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_306d1140ca183b25e3970ee266a8dcfa.png?size=4096&passthrough=true",
+                        "summary": "Just a bite..."
+                    }
+                ]
+            },
+            {
+                "name": "Blazing Ghoulish Graffiti",
+                "summary": "Did I scare you?",
+                "sku_id": "1287835633867559022",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blazing Ghoulish Graffiti",
+                        "static": null,
+                        "animated": null,
+                        "summary": "Did I scare you?"
+                    }
+                ]
+            }
+        ]
+    }
+]
