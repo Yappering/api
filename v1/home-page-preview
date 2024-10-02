@@ -1,103 +1,96 @@
 [
     {
-        "name": "The Vault",
-        "summary": null,
+        "name": "Spooky Night",
+        "summary": "Beware what lurks in the dark...",
         "summary_black": "false",
-        "banner": "https://cdn.yapper.shop/assets/31.png",
+        "banner": "https://cdn.yapper.shop/discord-assets/26.png",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1290863905551155200.png?size=4096",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                1118740,
-                1118740
+                796573,
+                265556
             ],
             "button_colors": [
                 5793266,
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
-                "name": "Ryu",
-                "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him.",
-                "sku_id": "1285465421029576704",
-                "price": "US$12.99",
-                "price_nitro": "US$9.99",
+                "name": "Spooky Cat Ears",
+                "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c",
+                "sku_id": "1287835633485877369",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Ryu",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
-                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
+                        "name": "Spooky Cat Ears",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=true",
+                        "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c"
                     }
                 ]
             },
             {
-                "name": "Chun-Li",
-                "summary": "A former high-kicking ICPO agent Chun-Li. Never skips leg day.",
-                "sku_id": "1285465421050548345",
-                "price": "US$12.99",
-                "price_nitro": "US$9.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Chun-Li",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba133b88b21e1b4a36637335536c3a8.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba133b88b21e1b4a36637335536c3a8.png?size=4096&passthrough=true",
-                        "summary": "A former high-kicking ICPO agent Chun-Li. Never skips leg day."
-                    }
-                ]
-            },
-            {
-                "name": "Akuma's Wrath",
-                "summary": "Messatsu! Feel the power of the Satsui no hado!",
-                "sku_id": "1285465421260263464",
-                "price": "US$12.99",
-                "price_nitro": "US$9.99",
+                "name": "Blazing Ghoulish Graffiti",
+                "summary": "Did I scare you?",
+                "sku_id": "1287835633867559022",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Akuma's Wrath",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_intro.png",
-                        "summary": "Messatsu! Feel the power of the Satsui no hado!"
+                        "name": "Blazing Ghoulish Graffiti",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/blazing-ghoulish-graffiti/intro.png",
+                        "summary": "Did I scare you?"
                     }
                 ]
             },
             {
-                "name": "Ryu Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1285465420979245087",
-                "price": "US$23.99",
-                "price_nitro": "US$17.99",
+                "name": "Candlelight",
+                "summary": "Now you can see in the dark. But so can they...",
+                "sku_id": "1287835633536209079",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "bundled_products": [
+                "items": [
                     {
                         "item_type": "deco",
-                        "name": "Ryu",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
-                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
-                    },
+                        "name": "Candlelight",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=true",
+                        "summary": "Now you can see in the dark. But so can they..."
+                    }
+                ]
+            },
+            {
+                "name": "Dark Omens",
+                "summary": "Who keeps summoning these things?",
+                "sku_id": "1158572275507937342",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
                     {
                         "item_type": "effect",
-                        "name": "Classic Street Fighter",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_intro_[1-2].png",
-                        "summary": "Bring it back to the retro streets!"
+                        "name": "Dark Omens",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/dark-omens/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png",
+                        "summary": "Who keeps summoning these things?"
                     }
                 ]
             }
