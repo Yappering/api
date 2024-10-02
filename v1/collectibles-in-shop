@@ -2975,7 +2975,7 @@
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":low_brightness:",
                 "items": [
                     {
                         "item_type": "effect",
