@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Collctibles Marketing",
+        "summary": "download discords collectible marketing",
+        "downloadables": [
+            {
+                "name": "1 Valorant Champions",
+                "url": "https://item.yapper.shop/marketing/1/data.zip"
+            },
+            {
+                "name": "2 Dojo",
+                "url": "https://item.yapper.shop/marketing/2/data.zip"
+            },
+            {
+                "name": "3 The Vault",
+                "url": "https://item.yapper.shop/marketing/3/data.zip"
+            },
+            {
+                "name": "4 Autumn Equinox",
+                "url": "https://item.yapper.shop/marketing/4/data.zip"
+            },
+            {
+                "name": "5 Street Fighter",
+                "url": "https://item.yapper.shop/marketing/5/data.zip"
+            },
+            {
+                "name": "6 Spooky Night",
+                "url": "https://item.yapper.shop/marketing/6/data.zip"
+            }
+        ]
+    }
+]
