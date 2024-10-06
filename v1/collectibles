@@ -3912,7 +3912,7 @@
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":part_alternation_mark:",
                 "items": [
                     {
                         "item_type": "deco",
@@ -7009,7 +7009,7 @@
                 ]
             },
             {
-                "name": "Donut",
+                "name": "Doughnut",
                 "summary": "Never enough sprinkles.",
                 "sku_id": "1144057486203158560",
                 "price": "US$3.99",
@@ -7020,7 +7020,7 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Donut",
+                        "name": "Doughnut",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b0d858b65a81ea0c537091a4650a6d4.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8b0d858b65a81ea0c537091a4650a6d4.png?size=4096&passthrough=true",
                         "summary": "Never enough sprinkles."

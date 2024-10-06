@@ -2306,7 +2306,7 @@
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":part_alternation_mark:",
                 "items": [
                     {
                         "item_type": "deco",
