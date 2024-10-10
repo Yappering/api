@@ -5,10 +5,13 @@
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217260346872430592.png?size=4096",
         "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1217260340887158784.png?size=4096",
+        "hero_ranking": null,
         "mobile_bg": null,
         "pdp_bg": null,
         "success_modal_bg": null,
         "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
         "sku_id": "1217175518781243583",
         "unpublished_at": null,
         "styles": {
@@ -353,6 +356,15 @@
         "summary": "List of 8th Birthday Avatar Decorations that are not available for purchase.",
         "summary_black": "false",
         "banner": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/8th-birthday-banner.png",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": "2023-06-15T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -364,7 +376,6 @@
                 12076481
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
@@ -735,6 +746,15 @@
         "summary": "Add more flair to your avatar.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1157407583993339935.png?size=4096",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": "2023-05-10T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -746,7 +766,6 @@
                 14972430
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
@@ -1136,6 +1155,15 @@
         "summary": "Add holiday flair to your avatar.",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1174459349607919687.png?size=4096",
+        "logo": "https://cdn.yapper.shop/discord-assets/30.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": "2023-01-6T00:00:00.000Z",
         "styles": {
             "background_colors": [
@@ -1147,7 +1175,6 @@
                 40447
             ]
         },
-        "logo": "https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/1bfd23a3bce7dd3602576977d2640c2a.png",
         "logo_sway": "false",
         "products": [
             {
@@ -1575,6 +1602,15 @@
         "summary": "Miscellaneous profile effects",
         "summary_black": "false",
         "banner": "https://cdn.yapper.shop/assets/31.png",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -1586,7 +1622,6 @@
                 40447
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {

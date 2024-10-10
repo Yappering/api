@@ -4,6 +4,15 @@
         "summary": "The windows are taking control!",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/33.png",
+        "logo": "https://cdn.yapper.shop/assets/24.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -15,7 +24,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/24.png",
         "logo_sway": "true",
         "products": [
             {
@@ -274,6 +282,15 @@
         "summary": "Nothing better than wet and sandy paper.",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/10.png",
+        "logo": "https://cdn.yapper.shop/assets/1.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -285,7 +302,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/1.png",
         "logo_sway": "true",
         "products": [
             {
@@ -438,6 +454,15 @@
         "summary": "Ready for the chaos that is about to begin.",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/22.png",
+        "logo": "https://cdn.yapper.shop/assets/31.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -449,7 +474,6 @@
                 5793266
             ]
         },
-        "logo": "https://cdn.yapper.shop/assets/31.png",
         "logo_sway": "false",
         "products": [
             {
