@@ -3,7 +3,7 @@
         "name": "Five Nights at Freddys",
         "summary": "I always come back.",
         "summary_black": "false",
-        "banner": "https://cdn.yapper.shop/assets/64.png",
+        "banner": "https://cdn.yapper.shop/assets/72.png",
         "logo": "https://cdn.yapper.shop/assets/67.png",
         "hero_ranking": null,
         "mobile_bg": "https://cdn.yapper.shop/assets/69.png",
@@ -24,7 +24,7 @@
                 5793266
             ]
         },
-        "logo_sway": "true",
+        "logo_sway": "false",
         "products": [
             {
                 "name": "Placeholder Bundle",
