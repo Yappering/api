@@ -1,5 +1,92 @@
 [
     {
+        "name": "Five Nights at Freddys",
+        "summary": "I always come back.",
+        "summary_black": "false",
+        "banner": "https://cdn.yapper.shop/assets/64.png",
+        "logo": "https://cdn.yapper.shop/assets/67.png",
+        "hero_ranking": null,
+        "mobile_bg": "https://cdn.yapper.shop/assets/69.png",
+        "pdp_bg": "https://cdn.yapper.shop/assets/70.png",
+        "success_modal_bg": "https://cdn.yapper.shop/assets/71.png",
+        "mobile_banner": "https://cdn.yapper.shop/assets/68.png",
+        "featured_block": "https://cdn.yapper.shop/assets/65.png",
+        "hero_banner": "https://cdn.yapper.shop/assets/66.png",
+        "sku_id": null,
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "Placeholder Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Placeholder Deco",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Placeholder Deco"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Placeholder Effect",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "Placeholder Effect"
+                    }
+                ]
+            },
+            {
+                "name": "Placeholder Deco",
+                "summary": "Placeholder Deco",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Placeholder Deco",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Placeholder Deco"
+                    }
+                ]
+            },
+            {
+                "name": "Placeholder Effect",
+                "summary": "Placeholder Effect",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Placeholder Effect",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "Placeholder Effect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "WindowKill",
         "summary": "The windows are taking control!",
         "summary_black": "true",
@@ -31,7 +118,7 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":purple_circle:",
                 "bundled_products": [
                     {
@@ -55,7 +142,7 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":slight_smile:",
                 "bundled_products": [
                     {
@@ -79,7 +166,7 @@
                 "summary": "A bundle of collectibles.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -127,7 +214,7 @@
                 "summary": "Time to add you to my Cringe Compilation.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":purple_circle:",
                 "items": [
                     {
@@ -144,7 +231,7 @@
                 "summary": "Oh no, he\u2019s got my avatar.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":slight_smile:",
                 "items": [
                     {
@@ -161,7 +248,7 @@
                 "summary": "Don\u2019t cut it in half!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -195,7 +282,7 @@
                 "summary": "What is this strange formation?",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":purple_circle:",
                 "items": [
                     {
@@ -212,7 +299,7 @@
                 "summary": "Quick! Click the X!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": ":slight_smile:",
                 "items": [
                     {
@@ -229,7 +316,7 @@
                 "summary": "It\u2019s like Centipede, go for the head!",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -246,7 +333,7 @@
                 "summary": "Don\u2019t let it infect your profile.",
                 "credits": "TrellTrell",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
