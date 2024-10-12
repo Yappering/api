@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Spooky Night",
+        "summary": "Beware what lurks in the dark...",
+        "summary_black": "false",
+        "banner": "https://cdn.yapper.shop/discord-assets/26.png",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1290863905551155200.png?size=4096",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                796573,
+                265556
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Spooky Cat Ears",
+                "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c",
+                "sku_id": "1287835633485877369",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Spooky Cat Ears",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=true",
+                        "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c"
+                    }
+                ]
+            },
+            {
+                "name": "Blazing Ghoulish Graffiti",
+                "summary": "Did I scare you?",
+                "sku_id": "1287835633867559022",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Blazing Ghoulish Graffiti",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/blazing-ghoulish-graffiti/intro.png",
+                        "summary": "Did I scare you?"
+                    }
+                ]
+            },
+            {
+                "name": "Candlelight",
+                "summary": "Now you can see in the dark. But so can they...",
+                "sku_id": "1287835633536209079",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Candlelight",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=4096&passthrough=true",
+                        "summary": "Now you can see in the dark. But so can they..."
+                    }
+                ]
+            },
+            {
+                "name": "Dark Omens",
+                "summary": "Who keeps summoning these things?",
+                "sku_id": "1158572275507937342",
+                "price": "US$5.99",
+                "price_nitro": "US$4.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Dark Omens",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/dark-omens/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png",
+                        "summary": "Who keeps summoning these things?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WindowKill",
+        "summary": "The windows are taking control!",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/33.png",
+        "logo": "https://cdn.yapper.shop/assets/53.png",
+        "hero_ranking": null,
+        "mobile_bg": "https://cdn.yapper.shop/assets/55.png",
+        "pdp_bg": "https://cdn.yapper.shop/assets/56.png",
+        "success_modal_bg": "https://cdn.yapper.shop/assets/57.png",
+        "mobile_banner": "https://cdn.yapper.shop/assets/54.png",
+        "featured_block": "https://cdn.yapper.shop/assets/51.png",
+        "hero_banner": "https://cdn.yapper.shop/assets/58.png",
+        "sku_id": null,
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "true",
+        "products": [
+            {
+                "name": "Orb Array Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":purple_circle:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array Screenshot",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png",
+                        "summary": "Time to add you to my Cringe Compilation."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                        "summary": "What is this strange formation?"
+                    }
+                ]
+            },
+            {
+                "name": "Wyrm Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wyrm",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/3.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/4.png",
+                        "summary": "Don\u2019t cut it in half!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Wyrm Attack",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                        "summary": "It\u2019s like Centipede, go for the head!"
+                    }
+                ]
+            },
+            {
+                "name": "Smiley Wave",
+                "summary": "Oh no, he\u2019s got my avatar.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Smiley Wave",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/7.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/8.png",
+                        "summary": "Oh no, he\u2019s got my avatar."
+                    }
+                ]
+            },
+            {
+                "name": "Miasma",
+                "summary": "Don\u2019t let it infect your profile.",
+                "credits": "TrellTrell",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Miasma",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/13.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/14.png",
+                        "summary": "Don\u2019t let it infect your profile."
+                    }
+                ]
+            }
+        ]
+    }
+]
