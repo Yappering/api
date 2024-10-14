@@ -1,6 +1,6 @@
 [
     {
-        "name": "WindowKill",
+        "name": "WindowKill V2",
         "summary": "The windows are taking control!",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/33.png",
@@ -12,7 +12,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/54.png",
         "featured_block": "https://cdn.yapper.shop/assets/51.png",
         "hero_banner": "https://cdn.yapper.shop/assets/58.png",
-        "sku_id": null,
+        "sku_id": "profiles-plus-4",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -290,7 +290,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/46.png",
         "featured_block": "https://cdn.yapper.shop/assets/40.png",
         "hero_banner": "https://cdn.yapper.shop/assets/43.png",
-        "sku_id": null,
+        "sku_id": "profiles-plus-3",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -462,7 +462,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/61.png",
         "featured_block": null,
         "hero_banner": null,
-        "sku_id": null,
+        "sku_id": "profiles-plus-2",
         "unpublished_at": null,
         "styles": {
             "background_colors": [

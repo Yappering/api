@@ -1,6 +1,6 @@
 [
     {
-        "name": "Five Nights at Freddys",
+        "name": "Five Nights at Freddy's",
         "summary": "I always come back.",
         "summary_black": "false",
         "banner": "https://cdn.yapper.shop/assets/72.png",
@@ -12,7 +12,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/68.png",
         "featured_block": "https://cdn.yapper.shop/assets/65.png",
         "hero_banner": "https://cdn.yapper.shop/assets/66.png",
-        "sku_id": null,
+        "sku_id": "profiles-plus-5",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "name": "WindowKill",
+        "name": "WindowKill V2",
         "summary": "The windows are taking control!",
         "summary_black": "true",
         "banner": "https://cdn.yapper.shop/assets/33.png",
@@ -99,7 +99,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/54.png",
         "featured_block": "https://cdn.yapper.shop/assets/51.png",
         "hero_banner": "https://cdn.yapper.shop/assets/58.png",
-        "sku_id": null,
+        "sku_id": "profiles-plus-4",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -111,7 +111,7 @@
                 5793266
             ]
         },
-        "logo_sway": "true",
+        "logo_sway": "false",
         "products": [
             {
                 "name": "Orb Array Bundle",
@@ -377,7 +377,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/46.png",
         "featured_block": "https://cdn.yapper.shop/assets/40.png",
         "hero_banner": "https://cdn.yapper.shop/assets/43.png",
-        "sku_id": null,
+        "sku_id": "profiles-plus-3",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -549,7 +549,7 @@
         "mobile_banner": "https://cdn.yapper.shop/assets/61.png",
         "featured_block": null,
         "hero_banner": null,
-        "sku_id": null,
+        "sku_id": "profiles-plus-2",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -693,6 +693,93 @@
                         "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
                         "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
                         "summary": "Don\u2019t get squished!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WindowKill",
+        "summary": "What\u2019s wrong with my windows?",
+        "summary_black": "true",
+        "banner": "https://cdn.yapper.shop/assets/20.png",
+        "logo": "https://cdn.yapper.shop/assets/24.png",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": "profiles-plus-1",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "WindowKill Bundle",
+                "summary": "A bundle of collectibles.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_heart:",
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
+                    }
+                ]
+            },
+            {
+                "name": "Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Orb Array",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+                        "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+                    }
+                ]
+            },
+            {
+                "name": "Smiley",
+                "summary": "Hes got my Avatar!",
+                "credits": "DTACat",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": ":slight_smile:",
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Smiley",
+                        "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+                        "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                        "summary": "Hes got my Avatar!"
                     }
                 ]
             }

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "windowkill",
+        "logo": "24",
+        "banner": "20"
+    },
+    {
+        "id": 2,
+        "name": "paper_beach",
+        "logo": "45",
+        "banner": "10",
+        "hero": "43",
+        "featured": "44",
+        "mobile_banner": "46",
+        "mobile": "47",
+        "pdp": "48",
+        "success": "49"
+    },
+    {
+        "id": 3,
+        "name": "bopl_battle",
+        "logo": "60",
+        "banner": "59",
+        "mobile_banner": "61",
+        "pdp": "62"
+    },
+    {
+        "id": 4,
+        "name": "windowkill2",
+        "logo": "53",
+        "banner": "33",
+        "hero": "58",
+        "featured": "51",
+        "mobile_banner": "54",
+        "mobile": "55",
+        "pdp": "56",
+        "success": "57"
+    },
+    {
+        "id": 5,
+        "name": "fnaf",
+        "logo": "67",
+        "banner": "72",
+        "hero": "66",
+        "featured": "65",
+        "mobile_banner": "68",
+        "mobile": "69",
+        "pdp": "70",
+        "success": "71"
+    }
+]
