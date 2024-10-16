@@ -1,16 +1,37 @@
 [
     {
-        "name": "Spooky Night",
-        "summary": "Beware what lurks in the dark...",
+        "name": "Dungeons & Dragons",
+        "summary": "The ultimate adventurer\u2019s pack.",
         "summary_black": "false",
-        "banner": "https://cdn.yapper.shop/discord-assets/26.png",
-        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1291165218348601385.png?size=4096",
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1290863905551155200.png?size=4096",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295972927975587840.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563507703829.png?size=4096",
+        "hero_ranking": [
+            "1293373563432341574",
+            "1293373563407175680",
+            "1293373563302318110",
+            "1293373563121696891",
+            "1293373563159449653",
+            "1293373563184877618",
+            "1293373563210043442",
+            "1293373563239272458",
+            "1293373563264569416",
+            "1293373563327483984",
+            "1293373563352649961",
+            "1293373563381878836",
+            "1293373563457507463"
+        ],
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563545587712.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563532738684.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563553714186.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563528548352.png?size=4096",
+        "featured_block": null,
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295900849083781161.png?size=4096",
+        "sku_id": "1293373563494993952",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                796573,
-                265556
+                13843636,
+                5519536
             ],
             "button_colors": [
                 5793266,
@@ -20,78 +41,85 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Spooky Cat Ears",
-                "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c",
-                "sku_id": "1287835633485877369",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Spooky Cat Ears",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=4096&passthrough=true",
-                        "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c"
-                    }
-                ]
-            },
-            {
-                "name": "Bloodthirsty",
-                "summary": "Just a bite...",
-                "sku_id": "1287835633787732070",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Bloodthirsty",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5cc3476f582a5649e64ab0a95504c4e9.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5cc3476f582a5649e64ab0a95504c4e9.png?size=4096&passthrough=true",
-                        "summary": "Just a bite..."
-                    }
-                ]
-            },
-            {
-                "name": "Plum Witch Hat",
-                "summary": "Mischief looks good on you.",
-                "sku_id": "1287835633674620949",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Plum Witch Hat",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_5e8abacc7a7454d6b08b5cc84cac1d80.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_5e8abacc7a7454d6b08b5cc84cac1d80.png?size=4096&passthrough=true",
-                        "summary": "Mischief looks good on you."
-                    }
-                ]
-            },
-            {
-                "name": "Blazing Ghoulish Graffiti",
-                "summary": "Did I scare you?",
-                "sku_id": "1287835633867559022",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "Beholder",
+                "summary": "Aren\u2019t you a sight to behold!",
+                "sku_id": "1293373563432341574",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Blazing Ghoulish Graffiti",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/blazing-ghoulish-graffiti/intro.png",
-                        "summary": "Did I scare you?"
+                        "name": "Beholder",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/intro.png",
+                        "summary": "Aren\u2019t you a sight to behold!"
+                    }
+                ]
+            },
+            {
+                "name": "Red Dragon",
+                "summary": "Let\u2019s play with fire.",
+                "sku_id": "1293373563407175680",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Red Dragon",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/intro.png",
+                        "summary": "Let\u2019s play with fire."
+                    }
+                ]
+            },
+            {
+                "name": "Owlbear Cub",
+                "summary": "Your very own feathery friend!",
+                "sku_id": "1293373563302318110",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Owlbear Cub",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c5743cedcb72131c58278278a97c143.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c5743cedcb72131c58278278a97c143.png?size=4096&passthrough=true",
+                        "summary": "Your very own feathery friend!"
+                    }
+                ]
+            },
+            {
+                "name": "Violet Dice Roll Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1293373563121696891",
+                "price": "US$23.99",
+                "price_nitro": "US$17.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Violet Dice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=true",
+                        "summary": "Let\u2019s roll!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "D20 Roll",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                        "summary": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes."
                     }
                 ]
             }
