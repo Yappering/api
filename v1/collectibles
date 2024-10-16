@@ -1,5 +1,309 @@
 [
     {
+        "name": "Dungeons & Dragons",
+        "summary": "The ultimate adventurer\u2019s pack.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295972927975587840.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563507703829.png?size=4096",
+        "hero_ranking": [
+            "1293373563432341574",
+            "1293373563407175680",
+            "1293373563302318110",
+            "1293373563121696891",
+            "1293373563159449653",
+            "1293373563184877618",
+            "1293373563210043442",
+            "1293373563239272458",
+            "1293373563264569416",
+            "1293373563327483984",
+            "1293373563352649961",
+            "1293373563381878836",
+            "1293373563457507463"
+        ],
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563545587712.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563532738684.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563553714186.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563528548352.png?size=4096",
+        "featured_block": null,
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295900849083781161.png?size=4096",
+        "sku_id": "1293373563494993952",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                13843636,
+                5519536
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Violet Dice Roll Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1293373563121696891",
+                "price": "US$23.99",
+                "price_nitro": "US$17.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Violet Dice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=true",
+                        "summary": "Let\u2019s roll!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "D20 Roll",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                        "summary": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes."
+                    }
+                ]
+            },
+            {
+                "name": "Azure Dice Roll Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1293373563159449653",
+                "price": "US$23.99",
+                "price_nitro": "US$17.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "Azure Dice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8ffeba6f389d1475c8794ca88b59785.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8ffeba6f389d1475c8794ca88b59785.png?size=4096&passthrough=true",
+                        "summary": "Let\u2019s roll!"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "D20 Roll",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                        "summary": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes."
+                    }
+                ]
+            },
+            {
+                "name": "Violet Dice",
+                "summary": "Let\u2019s roll!",
+                "sku_id": "1293373563184877618",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Violet Dice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=4096&passthrough=true",
+                        "summary": "Let\u2019s roll!"
+                    }
+                ]
+            },
+            {
+                "name": "Azure Dice",
+                "summary": "Let\u2019s roll!",
+                "sku_id": "1293373563210043442",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Azure Dice",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8ffeba6f389d1475c8794ca88b59785.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8ffeba6f389d1475c8794ca88b59785.png?size=4096&passthrough=true",
+                        "summary": "Let\u2019s roll!"
+                    }
+                ]
+            },
+            {
+                "name": "Green Gelatinous Cube",
+                "summary": "It\u2019s not edible, but YOU are.",
+                "sku_id": "1293373563239272458",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Green Gelatinous Cube",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_66604bb5c9351541f30c20a4e78c239c.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_66604bb5c9351541f30c20a4e78c239c.png?size=4096&passthrough=true",
+                        "summary": "It\u2019s not edible, but YOU are."
+                    }
+                ]
+            },
+            {
+                "name": "Blue Gelatinous Cube",
+                "summary": "It\u2019s not edible, but YOU are.",
+                "sku_id": "1293373563264569416",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Blue Gelatinous Cube",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b6b12e8efc35001b4b50593dca937332.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b6b12e8efc35001b4b50593dca937332.png?size=4096&passthrough=true",
+                        "summary": "It\u2019s not edible, but YOU are."
+                    }
+                ]
+            },
+            {
+                "name": "Owlbear Cub",
+                "summary": "Your very own feathery friend!",
+                "sku_id": "1293373563302318110",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Owlbear Cub",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c5743cedcb72131c58278278a97c143.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c5743cedcb72131c58278278a97c143.png?size=4096&passthrough=true",
+                        "summary": "Your very own feathery friend!"
+                    }
+                ]
+            },
+            {
+                "name": "Snowy Owlbear Cub",
+                "summary": "Your very own feathery friend!",
+                "sku_id": "1293373563327483984",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Snowy Owlbear Cub",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_54e28505a2ec1052857e15fa9d07ca4f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_54e28505a2ec1052857e15fa9d07ca4f.png?size=4096&passthrough=true",
+                        "summary": "Your very own feathery friend!"
+                    }
+                ]
+            },
+            {
+                "name": "Baby Displacer Beast",
+                "summary": "Here, kitty, kitty…",
+                "sku_id": "1293373563352649961",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Baby Displacer Beast",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a842a9cf76fdaf91a6354937b31ecdef.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a842a9cf76fdaf91a6354937b31ecdef.png?size=4096&passthrough=true",
+                        "summary": "Here, kitty, kitty…"
+                    }
+                ]
+            },
+            {
+                "name": "D20 Roll",
+                "summary": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes.",
+                "sku_id": "1293373563381878836",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "D20 Roll",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                        "summary": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes."
+                    }
+                ]
+            },
+            {
+                "name": "Red Dragon",
+                "summary": "Let\u2019s play with fire.",
+                "sku_id": "1293373563407175680",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Red Dragon",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/intro.png",
+                        "summary": "Let\u2019s play with fire."
+                    }
+                ]
+            },
+            {
+                "name": "Beholder",
+                "summary": "Aren\u2019t you a sight to behold!",
+                "sku_id": "1293373563432341574",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Beholder",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/intro.png",
+                        "summary": "Aren\u2019t you a sight to behold!"
+                    }
+                ]
+            },
+            {
+                "name": "Mimic",
+                "summary": "Surprise!",
+                "sku_id": "1293373563457507463",
+                "price": "US$12.99",
+                "price_nitro": "US$9.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Mimic",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/intro.png",
+                        "summary": "Surprise!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Spooky Night",
         "summary": "Beware what lurks in the dark...",
         "summary_black": "false",
@@ -50,7 +354,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -69,7 +373,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -88,7 +392,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -107,7 +411,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -126,7 +430,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -145,7 +449,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -164,7 +468,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -183,7 +487,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -202,7 +506,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -221,7 +525,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -240,7 +544,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -259,7 +563,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -278,7 +582,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -297,7 +601,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -335,7 +639,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -354,7 +658,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -392,7 +696,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -411,7 +715,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -449,7 +753,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -468,7 +772,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -5834,7 +6138,7 @@
                 "price_nitro": "US$3.99",
                 "unpublished_at": null,
                 "isNew": "false",
-                "emojiCopy": null,
+                "emojiCopy": ":fleur_de_lis:",
                 "items": [
                     {
                         "item_type": "deco",

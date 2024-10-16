@@ -48,5 +48,10 @@
         "mobile": "69",
         "pdp": "70",
         "success": "71"
+    },
+    {
+        "id": 6,
+        "name": "special",
+        "banner": "66"
     }
 ]
