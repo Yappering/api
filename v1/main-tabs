@@ -16,16 +16,16 @@
         "class": "shop-tab"
     },
     {
-        "title": "Miscellaneous",
-        "isNew": "false",
-        "url": "/miscellaneous",
-        "class": "miscellaneous-tab"
-    },
-    {
         "title": "Potions",
         "isNew": "true",
         "url": "/potions",
         "class": "potions-tab"
+    },
+    {
+        "title": "Miscellaneous",
+        "isNew": "false",
+        "url": "/miscellaneous",
+        "class": "miscellaneous-tab"
     },
     {
         "title": "Profiles Plus",
