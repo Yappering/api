@@ -22,6 +22,12 @@
         "class": "miscellaneous-tab"
     },
     {
+        "title": "Potions",
+        "isNew": "true",
+        "url": "/potions",
+        "class": "potions-tab"
+    },
+    {
         "title": "Profiles Plus",
         "credits": "By DTACat & TrellTrell",
         "isNew": "false",
