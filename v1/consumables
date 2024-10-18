@@ -1,11 +1,9 @@
 [
     {
-        "id": "1296562634950312038",
-        "item_id": "1296562634950312037",
         "sku_id": "1285377810587979827",
         "price": "US$0.99",
-        "name": "HD Splash Potion",
-        "summary": "Give your friends the gift of Nitro HD Streaming for your gaming or viewing session!",
+        "name": "HD Streaming Potion",
+        "summary": "Give your friends HD Streaming!",
         "preview": "https://cdn.yapper.shop/discord-assets/33.png"
     }
 ]
