@@ -39,8 +39,8 @@
                     {
                         "item_type": "effect",
                         "name": "Spirit of the Kitsune",
-                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/intro.png",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/intro.png",
                         "summary": "Like the moon, kitsune are just full of secrets."
                     }
                 ]
@@ -58,8 +58,8 @@
                     {
                         "item_type": "effect",
                         "name": "Flutter and Frolic",
-                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
                         "summary": "Don\u2019t blink - you'll miss the magic."
                     }
                 ]
@@ -77,8 +77,8 @@
                     {
                         "item_type": "effect",
                         "name": "Mermaid Whisperer",
-                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/mermaid-whisperer/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/mermaid-whisperer/intro.png",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/intro.png",
                         "summary": "Got no troubles when life is bubbles!"
                     }
                 ]
