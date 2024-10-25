@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Mythical Creatures",
+        "summary": "Leaks",
+        "summary_black": "false",
+        "banner": null,
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "sku_id": "1298033986811068497",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1118740,
+                1118740
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "Spirit of the Kitsune",
+                "summary": "Like the moon, kitsune are just full of secrets.",
+                "sku_id": "1298033986727055370",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Spirit of the Kitsune",
+                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/intro.png",
+                        "summary": "Like the moon, kitsune are just full of secrets."
+                    }
+                ]
+            },
+            {
+                "name": "Flutter and Frolic",
+                "summary": "Don\u2019t blink - you'll miss the magic.",
+                "sku_id": "1298033986752221204",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Flutter and Frolic",
+                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
+                        "summary": "Don\u2019t blink - you'll miss the magic."
+                    }
+                ]
+            },
+            {
+                "name": "Mermaid Whisperer",
+                "summary": "Got no troubles when life is bubbles!",
+                "sku_id": "1298033986777387059",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Mermaid Whisperer",
+                        "static": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/mermaid-whisperer/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/collectibles/profile_effects/effects/2024-10-21/mermaid-whisperer/intro.png",
+                        "summary": "Got no troubles when life is bubbles!"
+                    }
+                ]
+            }
+        ]
+    }
+]
