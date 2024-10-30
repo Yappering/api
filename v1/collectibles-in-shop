@@ -48,7 +48,7 @@
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "items": [
+                "bundled_products": [
                     {
                         "item_type": "deco",
                         "name": "Kitsune",
@@ -74,7 +74,7 @@
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "items": [
+                "bundled_products": [
                     {
                         "item_type": "deco",
                         "name": "Dancing Fairies",
@@ -100,7 +100,7 @@
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
-                "items": [
+                "bundled_products": [
                     {
                         "item_type": "deco",
                         "name": "Mermaid Serenade",
