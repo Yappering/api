@@ -1,0 +1,28 @@
+{
+    "pplus_id": "pplus-1",
+    "credits": "DTACat",
+    "name": "Legacy Orb Array",
+    "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+    "banner": "https://cdn.yapper.shop/assets/33.png",
+    "category_sku_id": "profiles-plus-4",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            1118740,
+            1118740
+        ],
+        "button_colors": [
+            5793266,
+            5793266
+        ]
+    },
+    "items": [
+        {
+            "item_type": "deco",
+            "name": "Legacy Orb Array",
+            "static": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png",
+            "animated": "https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png",
+            "summary": "The pointer clicks and drags then screenshots an area to deal damage."
+        }
+    ]
+}

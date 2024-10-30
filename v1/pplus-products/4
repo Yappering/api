@@ -1,0 +1,28 @@
+{
+    "pplus_id": "pplus-4",
+    "credits": "TrellTrell",
+    "name": "Platforms",
+    "summary": "Ready for the chaos that is about to begin.",
+    "banner": "https://cdn.yapper.shop/assets/66.png",
+    "category_sku_id": "profiles-plus-6",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            1118740,
+            1118740
+        ],
+        "button_colors": [
+            5793266,
+            5793266
+        ]
+    },
+    "items": [
+        {
+            "item_type": "deco",
+            "name": "Platforms",
+            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/8.png",
+            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/7.png",
+            "summary": "Ready for the chaos that is about to begin."
+        }
+    ]
+}

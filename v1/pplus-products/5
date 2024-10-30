@@ -1,0 +1,28 @@
+{
+    "pplus_id": "pplus-5",
+    "credits": "TrellTrell",
+    "name": "Arrows",
+    "summary": "Steady aim.",
+    "banner": "https://cdn.yapper.shop/assets/22.png",
+    "category_sku_id": "profiles-plus-2",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            1118740,
+            1118740
+        ],
+        "button_colors": [
+            5793266,
+            5793266
+        ]
+    },
+    "items": [
+        {
+            "item_type": "deco",
+            "name": "Arrows",
+            "static": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/3.png",
+            "animated": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/avatar-decorations/1.png",
+            "summary": "Steady aim."
+        }
+    ]
+}
