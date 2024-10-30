@@ -16,8 +16,8 @@
         "class": "shop-tab"
     },
     {
-        "title": "Potions",
-        "isNew": "true",
+        "title": "Consumables",
+        "isNew": "false",
         "url": "/potions",
         "class": "potions-tab"
     },
