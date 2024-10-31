@@ -1448,6 +1448,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
