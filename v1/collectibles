@@ -647,6 +647,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -723,6 +724,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -742,6 +744,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -780,6 +783,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -856,6 +860,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -913,6 +918,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -932,6 +938,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -970,6 +977,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": ":trident:",
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1305,6 +1313,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -1362,6 +1371,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1475,6 +1485,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -1501,6 +1512,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -1520,6 +1532,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -1539,6 +1552,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -1653,6 +1667,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -1672,6 +1687,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1691,6 +1707,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1729,6 +1746,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1803,6 +1821,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -1969,6 +1988,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -1988,6 +2008,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -2542,6 +2563,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -2632,6 +2654,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -2651,6 +2674,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -2727,6 +2751,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -3533,6 +3558,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -4542,6 +4568,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "bundled_products": [
                     {
                         "item_type": "deco",
@@ -4587,6 +4614,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -4606,6 +4634,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -4720,6 +4749,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -5427,6 +5457,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -5465,6 +5496,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -5617,6 +5649,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -5655,6 +5688,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -6888,6 +6922,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -6926,6 +6961,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": ":trident:",
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -7314,6 +7350,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "effect",
@@ -7476,6 +7513,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
@@ -7514,6 +7552,7 @@
                 "unpublished_at": null,
                 "isNew": "false",
                 "emojiCopy": null,
+                "popular": "true",
                 "items": [
                     {
                         "item_type": "deco",
