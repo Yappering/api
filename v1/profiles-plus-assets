@@ -53,5 +53,17 @@
         "id": 6,
         "name": "special",
         "banner": "66"
+    },
+    {
+        "id": 7,
+        "name": "geometry_dash",
+        "logo": "79",
+        "banner": "75",
+        "hero": "78",
+        "featured": "77",
+        "mobile_banner": "80",
+        "mobile": "81",
+        "pdp": "82",
+        "success": "83"
     }
 ]
