@@ -1,10 +1,11 @@
 [
     {
-        "name": "fnaf",
-        "src": "https://cdn.yapper.shop/assets/74.png"
-    },
-    {
         "name": "windowkill2",
         "src": "https://cdn.yapper.shop/assets/51.png"
+    },
+    {
+        "name": "paper_beach",
+        "src": "https://cdn.yapper.shop/assets/44.png"
     }
+    
 ]
