@@ -6,6 +6,18 @@
         "class": "avatar-decorations-debug-tab"
     },
     {
+        "title": "Category Assets",
+        "isNew": "true",
+        "url": "/shop/assets",
+        "class": "shop-assets-tab"
+    },
+    {
+        "title": "Published Items",
+        "isNew": "true",
+        "url": "/shop/published",
+        "class": "published-listings-tab"
+    },
+    {
         "title": "Old UI",
         "isNew": "false",
         "url": "https://old.yapper.shop/",
