@@ -6,13 +6,13 @@
         "class": "avatar-decorations-debug-tab"
     },
     {
-        "title": "Category Assets",
+        "title": "Shop Assets",
         "isNew": "true",
         "url": "/shop/assets",
         "class": "shop-assets-tab"
     },
     {
-        "title": "Published Items",
+        "title": "Published SKU",
         "isNew": "true",
         "url": "/shop/published",
         "class": "published-listings-tab"
