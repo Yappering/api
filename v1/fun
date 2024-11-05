@@ -3,19 +3,22 @@
         "title": "Item Tool",
         "isNew": "false",
         "url": "/item-debug",
-        "class": "avatar-decorations-debug-tab"
+        "class": "avatar-decorations-debug-tab",
+        "titleText": "Tool used for debugging the front-end and back-end of Shop Archives."
     },
     {
         "title": "Shop Assets",
         "isNew": "true",
         "url": "/shop/assets",
-        "class": "shop-assets-tab"
+        "class": "shop-assets-tab",
+        "titleText": "List of all the assets for a shop category."
     },
     {
         "title": "Published SKU",
         "isNew": "true",
         "url": "/shop/published",
-        "class": "published-listings-tab"
+        "class": "published-listings-tab",
+        "titleText": "Keep an eye on the items that are still purchasable."
     },
     {
         "title": "Old UI",
