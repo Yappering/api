@@ -8,7 +8,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986861400145.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986840428614.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1299075805392928778.png?size=4096",
-        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986886569984.png?size=4096"
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986886569984.png?size=4096",
+        "hero_logo": null
     },
     {
         "name": "Dungeons & Dragons",
@@ -19,7 +20,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563553714186.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563528548352.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1299075805392928779.png?size=4096",
-        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295900849083781161.png?size=4096"
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295900849083781161.png?size=4096",
+        "hero_logo": null
     },
     {
         "name": "Spooky Night",
@@ -30,7 +32,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1287835634144121005.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1287835634123149343.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293423539159961731.png?size=4096",
-        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293345334847606824.png?size=4096"
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293345334847606824.png?size=4096",
+        "hero_logo": null
     },
     {
         "name": "Street Fighter 6",
@@ -42,6 +45,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285465421364858880.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293681072642457660.png?size=4096",
         "hero_banner": "https://cdn.yapper.shop/discord-assets/6.jpg",
+        "hero_logo": null,
         "surprise_assets": [
             "https://cdn.yapper.shop/discord-assets/19.png"
         ]
@@ -55,7 +59,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432098512907.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432077541386.png?size=4096",
         "featured_block": "https://cdn.yapper.shop/discord-assets/featured_block/5.png",
-        "hero_banner": "https://cdn.yapper.shop/discord-assets/4.jpg"
+        "hero_banner": "https://cdn.yapper.shop/discord-assets/4.jpg",
+        "hero_logo": null
     },
     {
         "name": "Autumn",
@@ -66,7 +71,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418949969969192.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418889605288079.png?size=4096",
         "featured_block": "https://cdn.yapper.shop/discord-assets/featured_block/3.png",
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "The Vault",
@@ -77,7 +83,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1281280718068252824.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1277733175241609216.png?size=4096",
         "featured_block": null,
-        "hero_banner": "https://cdn.yapper.shop/discord-assets/1.jpg"
+        "hero_banner": "https://cdn.yapper.shop/discord-assets/1.jpg",
+        "hero_logo": null
     },
     {
         "name": "Dojo",
@@ -88,7 +95,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271174064471543878.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271173993042411622.png?size=4096",
         "featured_block": "https://cdn.yapper.shop/discord-assets/featured_block/1.png",
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "VALORANT Champions",
@@ -100,6 +108,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1270863589091053721.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "surprise_assets": [
             "https://cdn.yapper.shop/discord-assets/25.jpg",
             "https://cdn.yapper.shop/discord-assets/34.png"
@@ -114,7 +123,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262760748120014868.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262491137386614808.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Dark Fantasy",
@@ -125,7 +135,8 @@
         "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1260647017265233950.png?size=4096",
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1256376187991756820.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Palworld",
@@ -137,6 +148,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1252404126801727579.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "surprise_assets": [
             "https://cdn.yapper.shop/discord-assets/9.png",
             "https://cdn.yapper.shop/discord-assets/10.png",
@@ -156,7 +168,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087618069168150.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Feelin\u2019 Retro",
@@ -167,7 +180,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649774312951828.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Pirates",
@@ -178,7 +192,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653899394154536.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Galaxy",
@@ -189,7 +204,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037387152916591.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Lo-Fi Vibes",
@@ -200,7 +216,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245604413476935.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "VALORANT",
@@ -212,6 +229,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224516821692977305.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "surprise_assets": [
             "https://cdn.yapper.shop/discord-assets/20.png",
             "https://cdn.yapper.shop/discord-assets/21.png",
@@ -228,7 +246,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224516882611175475.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Anime",
@@ -239,7 +258,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517355711889439.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1294418600781938790.png?size=4096",
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Elements",
@@ -250,7 +270,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517292453265439.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Lunar New Year",
@@ -261,7 +282,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Cyberpunk",
@@ -272,7 +294,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517328536866909.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Monsters",
@@ -283,7 +306,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Winter Wonderland",
@@ -294,7 +318,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Halloween",
@@ -305,7 +330,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Fall",
@@ -316,7 +342,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Fantasy",
@@ -327,7 +354,8 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517389169721434.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Anime",
@@ -338,7 +366,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "Breakfast",
@@ -349,7 +378,8 @@
         "success_modal_bg": null,
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     },
     {
         "name": "DISXCORE",
@@ -360,6 +390,7 @@
         "success_modal_bg": null,
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517415958745179.png?size=4096",
         "featured_block": null,
-        "hero_banner": null
+        "hero_banner": null,
+        "hero_logo": null
     }
 ]

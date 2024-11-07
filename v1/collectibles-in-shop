@@ -25,6 +25,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986840428614.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1299075805392928778.png?size=4096",
         "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986886569984.png?size=4096",
+        "hero_logo": null,
         "sku_id": "1298033986811068497",
         "unpublished_at": null,
         "styles": {
@@ -317,6 +318,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293373563528548352.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1299075805392928779.png?size=4096",
         "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1295900849083781161.png?size=4096",
+        "hero_logo": null,
         "sku_id": "1293373563494993952",
         "unpublished_at": null,
         "styles": {
@@ -624,6 +626,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1287835634123149343.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293423539159961731.png?size=4096",
         "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293345334847606824.png?size=4096",
+        "hero_logo": null,
         "sku_id": "1287835634089594972",
         "unpublished_at": null,
         "styles": {
@@ -1090,6 +1093,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285465421364858880.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1293681072642457660.png?size=4096",
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1285465421339693076",
         "unpublished_at": null,
         "styles": {
@@ -1425,6 +1429,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1282816432077541386.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1282816432056569866",
         "unpublished_at": null,
         "styles": {
@@ -1753,6 +1758,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1285418889605288079.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1157406994873991284",
         "unpublished_at": null,
         "styles": {
@@ -2088,6 +2094,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1271173993042411622.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1266520267946201099",
         "unpublished_at": null,
         "styles": {
@@ -2340,6 +2347,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1270863589091053721.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1265375293397270650",
         "unpublished_at": null,
         "styles": {
@@ -2713,6 +2721,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1262491137386614808.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1262491137386614805",
         "unpublished_at": null,
         "styles": {
@@ -2970,6 +2979,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1256376187991756820.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1256321669388308595",
         "unpublished_at": null,
         "styles": {
@@ -3222,6 +3232,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1232037387152916591.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1232029045928099922",
         "unpublished_at": null,
         "styles": {
@@ -3448,6 +3459,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517355711889439.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1294418600781938790.png?size=4096",
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1212565175790473246",
         "unpublished_at": null,
         "styles": {
@@ -3883,6 +3895,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1228245604413476935.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1228243842684162121",
         "unpublished_at": null,
         "styles": {
@@ -4109,6 +4122,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517389169721434.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1144003461608906824",
         "unpublished_at": null,
         "styles": {
@@ -4392,6 +4406,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517328536866909.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1197342727608746044",
         "unpublished_at": null,
         "styles": {
@@ -4561,6 +4576,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517292453265439.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1207046915880124426",
         "unpublished_at": null,
         "styles": {
@@ -4787,6 +4803,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237653899394154536.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1237653589896200272",
         "unpublished_at": null,
         "styles": {
@@ -5013,6 +5030,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1245087618069168150.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1245086656973901894",
         "unpublished_at": null,
         "styles": {
@@ -5239,6 +5257,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224516882611175475.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1217622942175727736",
         "unpublished_at": null,
         "styles": {
@@ -5465,6 +5484,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649774312951828.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1237649643073044491",
         "unpublished_at": null,
         "styles": {
@@ -5653,6 +5673,7 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1224517415958745179.png?size=4096",
         "featured_block": null,
         "hero_banner": null,
+        "hero_logo": null,
         "sku_id": "1144058340327047249",
         "unpublished_at": null,
         "styles": {
