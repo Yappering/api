@@ -1,0 +1,26 @@
+{
+    "marketings": {
+        "0": {
+            "type": 0,
+            "version": 8,
+            "title": "Check out new Mythical Creatures arrivals.",
+            "body": null,
+            "avatar": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png",
+            "decorations": [
+                "a_4a7fd84b7eb866a3dacacfbcebb47673",
+                "a_98c7600d304b86ca3b18272e1da05559",
+                "a_0e839cd79500e7b68e2bbbed54790c28"
+            ],
+            "dismissible_content": 422,
+            "ref_target_background": null
+        },
+        "2": {
+            "type": 2,
+            "version": 8,
+            "title": "Give your profile a fresh look",
+            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+            "asset": "https://cdn.discordapp.com/assets/content/11769ab41ab8d426b770ba72d0d25d2e344565133fe4ca057b503b6fb86220e3.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/c5df4b28a6624c28e2b70507fd14b5af8b6fc9074ff79002ed42fc82343e4925.png"
+        }
+    }
+}
