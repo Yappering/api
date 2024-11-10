@@ -8,14 +8,14 @@
     },
     {
         "title": "Shop Assets",
-        "isNew": "true",
+        "isNew": "false",
         "url": "/shop/assets",
         "class": "shop-assets-tab",
         "titleText": "List of all the assets for a shop category."
     },
     {
-        "title": "Published SKU",
-        "isNew": "true",
+        "title": "Published Listings",
+        "isNew": "false",
         "url": "/shop/published",
         "class": "published-listings-tab",
         "titleText": "Keep an eye on the items that are still purchasable."
