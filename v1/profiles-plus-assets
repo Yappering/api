@@ -16,7 +16,7 @@
         "mobile": "47",
         "pdp": "48",
         "success": "49",
-        "category": "88"
+        "category": "91"
     },
     {
         "id": 3,
@@ -24,7 +24,8 @@
         "logo": "60",
         "banner": "59",
         "mobile_banner": "61",
-        "pdp": "62"
+        "pdp": "62",
+        "category": "89"
     },
     {
         "id": 4,
@@ -37,7 +38,7 @@
         "mobile": "55",
         "pdp": "56",
         "success": "57",
-        "category": "85"
+        "category": "90"
     },
     {
         "id": 5,
@@ -79,6 +80,6 @@
         "mobile": "47",
         "pdp": "48",
         "success": "49",
-        "category": "88"
+        "category": "91"
     }
 ]
