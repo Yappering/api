@@ -35,7 +35,8 @@
         "mobile_banner": "54",
         "mobile": "55",
         "pdp": "56",
-        "success": "57"
+        "success": "57",
+        "category": "85"
     },
     {
         "id": 5,
@@ -65,5 +66,18 @@
         "mobile": "81",
         "pdp": "82",
         "success": "83"
+    },
+    {
+        "id": 8,
+        "name": "paper_beach2",
+        "logo": "45",
+        "banner": "10",
+        "hero": "43",
+        "featured": "44",
+        "mobile_banner": "46",
+        "mobile": "47",
+        "pdp": "48",
+        "success": "49",
+        "category": "84"
     }
 ]
