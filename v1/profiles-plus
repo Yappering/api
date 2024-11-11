@@ -306,7 +306,7 @@
             ]
         },
         "logo_sway": "false",
-        "category_bg": null,
+        "category_bg": "https://cdn.yapper.shop/assets/88.png",
         "products": [
             {
                 "name": "Sandy Day Bundle",
