@@ -26,7 +26,7 @@
             ]
         },
         "logo_sway": "true",
-        "category_bg": "https://cdn.yapper.shop/assets/85.png",
+        "category_bg": "https://cdn.yapper.shop/assets/90.png",
         "products": [
             {
                 "name": "Orb Array Bundle",
@@ -306,7 +306,7 @@
             ]
         },
         "logo_sway": "false",
-        "category_bg": "https://cdn.yapper.shop/assets/88.png",
+        "category_bg": "https://cdn.yapper.shop/assets/91.png",
         "products": [
             {
                 "name": "Sandy Day Bundle",
@@ -480,7 +480,7 @@
             ]
         },
         "logo_sway": "false",
-        "category_bg": null,
+        "category_bg": "https://cdn.yapper.shop/assets/89.png",
         "products": [
             {
                 "name": "Arrow Storm Bundle",
