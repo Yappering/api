@@ -39,6 +39,32 @@
         "logo_sway": "false",
         "products": [
             {
+                "name": "Arcane Jinx Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1303490165045727317",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Monster You Created",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=true",
+                        "summary": "\u2018Powder fell down a well.\u2019"
+                    },
+                    {
+                        "item_type": "effect",
+                        "name": "Jinx and Pow-Pow",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/intro.png",
+                        "summary": "Come on, shoot faster\u2026"
+                    }
+                ]
+            },
+            {
                 "name": "The Monster You Created",
                 "summary": "\u2018Powder fell down a well.\u2019",
                 "sku_id": "1303490165074825296",

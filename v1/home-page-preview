@@ -1,36 +1,35 @@
 [
     {
-        "name": "Mythical Creatures",
-        "summary": "Wonders lost to time, found again.",
+        "name": "Arcane",
+        "summary": "The hunt is on.",
         "summary_black": "false",
-        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986831912961.png?size=4096",
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986823520337.png?size=4096",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165297123358.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165288730724.png?size=4096",
         "hero_ranking": [
-            "1298033986508951685",
-            "1298033986592837754",
-            "1298033986622328842",
-            "1298033986752221204",
-            "1298033986668335135",
-            "1298033986693500960",
-            "1298033986538569781",
-            "1298033986555351132",
-            "1298033986571866112",
-            "1298033986643169360",
-            "1298033986727055370",
-            "1298033986777387059"
+            "1303490165045727317",
+            "1303490165099991143",
+            "1303490165234208810",
+            "1303490165171294268",
+            "1303490165074825296",
+            "1303490165213237338",
+            "1303490165150322698",
+            "1303490165192265799",
+            "1303490165120962651",
+            "1303490165255180298"
         ],
-        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986852884633.png?size=4096",
-        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986848948224.png?size=4096",
-        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986861400145.png?size=4096",
-        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986840428614.png?size=4096",
-        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1299075805392928778.png?size=4096",
-        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986886569984.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165318094958.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165314158692.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165326745641.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
+        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096",
         "sku_id": "1298033986811068497",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                1270372,
-                2828415
+                724282,
+                18
             ],
             "button_colors": [
                 5793266,
@@ -40,85 +39,85 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Kitsune Dream Bundle",
+                "name": "Arcane Jinx Bundle",
                 "summary": "A bundle of collectibles.",
-                "sku_id": "1298033986508951685",
-                "price": "US$10.99",
-                "price_nitro": "US$8.99",
+                "sku_id": "1303490165045727317",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Kitsune",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_be111e4303d634c55500202a61656e0b.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_be111e4303d634c55500202a61656e0b.png?size=4096&passthrough=true",
-                        "summary": "Legends say playful chaos is their specialty."
+                        "name": "The Monster You Created",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=true",
+                        "summary": "\u2018Powder fell down a well.\u2019"
                     },
                     {
                         "item_type": "effect",
-                        "name": "Spirit of the Kitsune",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/intro.png",
-                        "summary": "Like the moon, kitsune are just full of secrets."
+                        "name": "Jinx and Pow-Pow",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/intro.png",
+                        "summary": "Come on, shoot faster\u2026"
                     }
                 ]
             },
             {
-                "name": "Unicorn",
-                "summary": "Unicorns love two things: magic and your vibe.",
-                "sku_id": "1298033986592837754",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "The Atlas Gauntlets",
+                "summary": "Meant for mining, better for punching.",
+                "sku_id": "1303490165099991143",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Unicorn",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_47c0f4b4a837894998d5a316acf74f87.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_47c0f4b4a837894998d5a316acf74f87.png?size=4096&passthrough=true",
-                        "summary": "Unicorns love two things: magic and your vibe."
+                        "name": "The Atlas Gauntlets",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc1aab519baf2ab8cfa0151bed5263df.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc1aab519baf2ab8cfa0151bed5263df.png?size=4096&passthrough=true",
+                        "summary": "Meant for mining, better for punching."
                     }
                 ]
             },
             {
-                "name": "Phoenix",
-                "summary": "The symbol of running it back.",
-                "sku_id": "1298033986622328842",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Phoenix",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_0e839cd79500e7b68e2bbbed54790c28.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_0e839cd79500e7b68e2bbbed54790c28.png?size=4096&passthrough=true",
-                        "summary": "The symbol of running it back."
-                    }
-                ]
-            },
-            {
-                "name": "Flutter and Frolic",
-                "summary": "Don\u2019t blink - you'll miss the magic.",
-                "sku_id": "1298033986752221204",
-                "price": "US$5.99",
-                "price_nitro": "US$4.99",
+                "name": "Ekko\u2019s Aeroglider Stunts",
+                "summary": "Ekko makes that look easier than it is.",
+                "sku_id": "1303490165234208810",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Flutter and Frolic",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
-                        "summary": "Don\u2019t blink - you'll miss the magic."
+                        "name": "Ekko\u2019s Aeroglider Stunts",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/intro.png",
+                        "summary": "Ekko makes that look easier than it is."
+                    }
+                ]
+            },
+            {
+                "name": "The Monster You Created",
+                "summary": "\u2018Powder fell down a well.\u2019",
+                "sku_id": "1303490165074825296",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Monster You Created",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=true",
+                        "summary": "\u2018Powder fell down a well.\u2019"
                     }
                 ]
             }
