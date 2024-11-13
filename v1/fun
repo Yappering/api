@@ -1,5 +1,12 @@
 [
     {
+        "title": "League of Legends Arcane",
+        "isNew": "true",
+        "url": "/leaks",
+        "class": "leaks-tab",
+        "titleText": "Mythical Creatures"
+    },
+    {
         "title": "Item Tool",
         "isNew": "false",
         "url": "/item-debug",
