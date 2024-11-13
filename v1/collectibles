@@ -1,5 +1,217 @@
 [
     {
+        "name": "Arcane",
+        "summary": "The hunt is on.",
+        "summary_black": "false",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165297123358.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165288730724.png?size=4096",
+        "hero_ranking": [
+            "1303490165045727317",
+            "1303490165099991143",
+            "1303490165234208810",
+            "1303490165171294268",
+            "1303490165074825296",
+            "1303490165213237338",
+            "1303490165150322698",
+            "1303490165192265799",
+            "1303490165120962651",
+            "1303490165255180298"
+        ],
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165318094958.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165314158692.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165326745641.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
+        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096",
+        "sku_id": "1298033986811068497",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                724282,
+                18
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ]
+        },
+        "logo_sway": "false",
+        "products": [
+            {
+                "name": "The Monster You Created",
+                "summary": "\u2018Powder fell down a well.\u2019",
+                "sku_id": "1303490165074825296",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Monster You Created",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=true",
+                        "summary": "\u2018Powder fell down a well.\u2019"
+                    }
+                ]
+            },
+            {
+                "name": "The Atlas Gauntlets",
+                "summary": "Meant for mining, better for punching.",
+                "sku_id": "1303490165099991143",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Atlas Gauntlets",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc1aab519baf2ab8cfa0151bed5263df.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc1aab519baf2ab8cfa0151bed5263df.png?size=4096&passthrough=true",
+                        "summary": "Meant for mining, better for punching."
+                    }
+                ]
+            },
+            {
+                "name": "Flame Chompers",
+                "summary": "Jinx names each and every one.",
+                "sku_id": "1303490165120962651",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Flame Chompers",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_8396e9830e3e288cd3aaa6daf18b605a.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_8396e9830e3e288cd3aaa6daf18b605a.png?size=4096&passthrough=true",
+                        "summary": "Jinx names each and every one."
+                    }
+                ]
+            },
+            {
+                "name": "FISHBONES!",
+                "summary": "And now: the grand finale.",
+                "sku_id": "1303490165150322698",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "FISHBONES!",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_84a67b33ef5b75e17f858a95648c973f.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_84a67b33ef5b75e17f858a95648c973f.png?size=4096&passthrough=true",
+                        "summary": "And now: the grand finale."
+                    }
+                ]
+            },
+            {
+                "name": "The Hexcore",
+                "summary": "It\u2019s changing, adapting\u2026 but to what end?",
+                "sku_id": "1303490165171294268",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Hexcore",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_46413fe0982bae2035d340d906b0bffa.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_46413fe0982bae2035d340d906b0bffa.png?size=4096&passthrough=true",
+                        "summary": "It\u2019s changing, adapting\u2026 but to what end?"
+                    }
+                ]
+            },
+            {
+                "name": "Powered by Shimmer",
+                "summary": "Breathe it in. That\u2019s power.",
+                "sku_id": "1303490165192265799",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Powered by Shimmer",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_609fb5c17a4d5ff2e2bec1a1931a9caa.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_609fb5c17a4d5ff2e2bec1a1931a9caa.png?size=4096&passthrough=true",
+                        "summary": "Breathe it in. That\u2019s power."
+                    }
+                ]
+            },
+            {
+                "name": "Jinx and Pow-Pow",
+                "summary": "Come on, shoot faster\u2026",
+                "sku_id": "1303490165213237338",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Jinx and Pow-Pow",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/intro.png",
+                        "summary": "Come on, shoot faster\u2026"
+                    }
+                ]
+            },
+            {
+                "name": "Ekko\u2019s Aeroglider Stunts",
+                "summary": "Ekko makes that look easier than it is.",
+                "sku_id": "1303490165234208810",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Ekko\u2019s Aeroglider Stunts",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/intro.png",
+                        "summary": "Ekko makes that look easier than it is."
+                    }
+                ]
+            },
+            {
+                "name": "Paint the Town Blue",
+                "summary": "And red, and green, and orange, and\u2026",
+                "sku_id": "1303490165255180298",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "effect",
+                        "name": "Paint the Town Blue",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/intro.png",
+                        "summary": "And red, and green, and orange, and\u2026"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Mythical Creatures",
         "summary": "Wonders lost to time, found again.",
         "summary_black": "false",
@@ -47,7 +259,7 @@
                 "price": "US$10.99",
                 "price_nitro": "US$8.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -73,7 +285,7 @@
                 "price": "US$10.99",
                 "price_nitro": "US$8.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -99,7 +311,7 @@
                 "price": "US$10.99",
                 "price_nitro": "US$8.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
@@ -125,7 +337,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -144,7 +356,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -163,7 +375,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -182,7 +394,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -201,7 +413,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -220,7 +432,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -239,7 +451,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -258,7 +470,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -277,7 +489,7 @@
                 "price": "US$5.99",
                 "price_nitro": "US$4.99",
                 "unpublished_at": null,
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
@@ -501,7 +713,7 @@
             },
             {
                 "name": "Baby Displacer Beast",
-                "summary": "Here, kitty, kitty…",
+                "summary": "Here, kitty, kitty\u2026",
                 "sku_id": "1293373563352649961",
                 "price": "US$12.99",
                 "price_nitro": "US$9.99",
@@ -514,7 +726,7 @@
                         "name": "Baby Displacer Beast",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_a842a9cf76fdaf91a6354937b31ecdef.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_a842a9cf76fdaf91a6354937b31ecdef.png?size=4096&passthrough=true",
-                        "summary": "Here, kitty, kitty…"
+                        "summary": "Here, kitty, kitty\u2026"
                     }
                 ]
             },
@@ -1131,7 +1343,7 @@
                         "name": "Ryu",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
-                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
+                        "summary": "Ever training, Ryu seeks true strength\u2026 just keep spiders away from him."
                     },
                     {
                         "item_type": "effect",
@@ -1196,7 +1408,7 @@
             },
             {
                 "name": "Ryu",
-                "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him.",
+                "summary": "Ever training, Ryu seeks true strength\u2026 just keep spiders away from him.",
                 "sku_id": "1285465421029576704",
                 "price": "US$12.99",
                 "price_nitro": "US$9.99",
@@ -1209,7 +1421,7 @@
                         "name": "Ryu",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=4096&passthrough=true",
-                        "summary": "Ever training, Ryu seeks true strength… just keep spiders away from him."
+                        "summary": "Ever training, Ryu seeks true strength\u2026 just keep spiders away from him."
                     }
                 ]
             },
@@ -2105,7 +2317,7 @@
     },
     {
         "name": "The Vault",
-        "summary": "Long-awaited treasures from times past have made their return… What will you find?",
+        "summary": "Long-awaited treasures from times past have made their return\u2026 What will you find?",
         "summary_black": "false",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1280605031003066378.png?size=4096",
         "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1277733175224701010.png?size=4096",
