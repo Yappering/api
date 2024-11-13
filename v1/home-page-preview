@@ -45,7 +45,7 @@
                 "price": "US$28.99",
                 "price_nitro": "US$21.99",
                 "unpublished_at": null,
-                "isNew": "false",
+                "isNew": "true",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
