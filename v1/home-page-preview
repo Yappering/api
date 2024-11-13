@@ -103,9 +103,9 @@
                 ]
             },
             {
-                "name": "The Monster You Created",
-                "summary": "\u2018Powder fell down a well.\u2019",
-                "sku_id": "1303490165074825296",
+                "name": "The Hexcore",
+                "summary": "It\u2019s changing, adapting\u2026 but to what end?",
+                "sku_id": "1303490165171294268",
                 "price": "US$15.99",
                 "price_nitro": "US$11.99",
                 "unpublished_at": null,
@@ -114,10 +114,10 @@
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "The Monster You Created",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=4096&passthrough=true",
-                        "summary": "\u2018Powder fell down a well.\u2019"
+                        "name": "The Hexcore",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_46413fe0982bae2035d340d906b0bffa.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_46413fe0982bae2035d340d906b0bffa.png?size=4096&passthrough=true",
+                        "summary": "It\u2019s changing, adapting\u2026 but to what end?"
                     }
                 ]
             }
