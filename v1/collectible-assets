@@ -9,7 +9,10 @@
         "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
         "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
         "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
-        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096"
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096",
+        "surprise_assets": [
+            "https://cdn.yapper.shop/discord-assets/35.png"
+        ]
     },
     {
         "name": "Mythical Creatures",
