@@ -141,7 +141,7 @@
                     {
                         "sku_id": "1298033986571866112",
                         "name": "Kitsune",
-                        "summary": "Legends say playful chaos is their specialty.",
+                        "summary": "Legends say playful chaos is their speciality.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -407,7 +407,7 @@
                     {
                         "sku_id": "1298033986752221204",
                         "name": "Flutter and Frolic",
-                        "summary": "Don't blink - you'll miss the magic.",
+                        "summary": "Don\u2019t blink \u2013 you\u2019ll miss the magic.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -676,7 +676,7 @@
             {
                 "sku_id": "1298033986571866112",
                 "name": "Kitsune",
-                "summary": "Legends say playful chaos is their specialty.",
+                "summary": "Legends say playful chaos is their speciality.",
                 "store_listing_id": "1298033986580381696",
                 "banner": "1298033986831912961",
                 "unpublished_at": null,
@@ -1311,7 +1311,7 @@
             {
                 "sku_id": "1298033986752221204",
                 "name": "Flutter and Frolic",
-                "summary": "Don't blink - you'll miss the magic.",
+                "summary": "Don\u2019t blink \u2013 you\u2019ll miss the magic.",
                 "store_listing_id": "1298033986760736788",
                 "banner": "1298033986831912961",
                 "unpublished_at": null,
@@ -1491,7 +1491,7 @@
     {
         "sku_id": "1293373563494993952",
         "name": "Dungeons & Dragons",
-        "summary": "The ultimate adventurer's pack.",
+        "summary": "The ultimate adventurer\u2019s pack.",
         "store_listing_id": "1293373563486867486",
         "banner": "1295972927975587840",
         "unpublished_at": null,
@@ -6227,7 +6227,7 @@
             {
                 "sku_id": "1285465421193154560",
                 "name": "Juri",
-                "summary": "A sadistic thrill seeker. Never misses a pedicure.",
+                "summary": "A sadistic thrill-seeker. Never misses a pedicure.",
                 "store_listing_id": "1285465421201281024",
                 "banner": "1285465421356732426",
                 "unpublished_at": null,
