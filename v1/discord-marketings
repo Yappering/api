@@ -231,5 +231,52 @@
                 "popout_asset": "https://cdn.discordapp.com/assets/content/c5df4b28a6624c28e2b70507fd14b5af8b6fc9074ff79002ed42fc82343e4925.png"
             }
         ]
+    },
+    {
+        "version": 9,
+        "name": "arcane",
+        "marketing": [
+            {
+                "type": 0,
+                "title": "Arcane",
+                "body": "Jinx, Ekko, Vi and more to be revealed\u2026",
+                "avatar": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png",
+                "decorations": [
+                "a_9bc421cef4bdcfffeb2344b44ad91b44",
+                "a_cc1aab519baf2ab8cfa0151bed5263df",
+                "a_46413fe0982bae2035d340d906b0bffa"
+            ]
+            },
+            {
+                "type": 1,
+                "style": {
+                    "resting": {
+                        "light": "linear-gradient(90deg, rgba(200, 91, 241, 0.00) 18.75%, #C85BF1 108.26%)",
+                        "dark": "linear-gradient(90deg, rgba(200, 91, 241, 0.00) 18.75%, #C85BF1 108.26%)"
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/assets/content/7de83817a8ac73d5086feb1a3b4cf3871e0328e6436a6e3d82e0141c0912d900.png",
+                        "dark": "https://cdn.discordapp.com/assets/content/7de83817a8ac73d5086feb1a3b4cf3871e0328e6436a6e3d82e0141c0912d900.png"
+                    }
+                }
+            },
+            {
+                "type": 2,
+                "title": "Unleash the world of Arcane on your profile",
+                "body": "Bring the madness and mayhem to your profile with new Arcane avatar decorations and profile effects.",
+                "asset": "https://cdn.discordapp.com/assets/content/aed161cb12d09b6f647f743cac557af1e3ed00dd3d9c55a9aa8c32d96b49324a.png",
+                "popout_asset": "https://cdn.discordapp.com/assets/content/2f91da30e4b0a684dabfb9f66684a18d250665fcc49cfd735cd455103605f792.png"
+            }
+        ]
     }
 ]

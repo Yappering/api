@@ -34,6 +34,10 @@
             {
                 "name": "8 Mythical Creatures",
                 "url": "https://item.yapper.shop/marketing/8/data.zip"
+            },
+            {
+                "name": "9 Arcane",
+                "url": "https://item.yapper.shop/marketing/9/data.zip"
             }
         ]
     }
