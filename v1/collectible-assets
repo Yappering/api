@@ -1,5 +1,17 @@
 [
     {
+        "name": "Arcane",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165297123358.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165288730724.png?size=4096",
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165318094958.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165314158692.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165326745641.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
+        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096"
+    },
+    {
         "name": "Mythical Creatures",
         "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986831912961.png?size=4096",
         "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1298033986823520337.png?size=4096",
