@@ -316,7 +316,8 @@
                 "premium_type": 0,
                 "category_sku_id": "1303490165284802580",
                 "google_sku_ids": {
-                    "5": "1303490165074825296_1305972543290871879"
+                    "5": "1303490165074825296_1305972543290871879",
+                    "7": "1303490165074825296_1306334597860167700"
                 }
             },
             {
@@ -497,7 +498,8 @@
                 "premium_type": 0,
                 "category_sku_id": "1303490165284802580",
                 "google_sku_ids": {
-                    "5": "1303490165120962651_1305972096094175252"
+                    "5": "1303490165120962651_1305972096094175252",
+                    "7": "1303490165120962651_1306333318224150598"
                 }
             },
             {
@@ -858,7 +860,8 @@
                 "premium_type": 0,
                 "category_sku_id": "1303490165284802580",
                 "google_sku_ids": {
-                    "5": "1303490165213237338_1305972844227989504"
+                    "5": "1303490165213237338_1305972844227989504",
+                    "7": "1303490165213237338_1306331776498532352"
                 }
             },
             {
@@ -5023,7 +5026,7 @@
                 "sku_id": "1287835633787732070",
                 "name": "Bloodthirsty",
                 "summary": "Just a bite...",
-                "store_listing_id": "1287835633800187946",
+                "store_listing_id": "1303073882709823508",
                 "banner": "1287835634115022961",
                 "unpublished_at": null,
                 "styles": {
@@ -5093,22 +5096,62 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1287835633808707614",
-                        "sku_id": "1287835633787732070",
-                        "asset": "a_5cc3476f582a5649e64ab0a95504c4e9",
-                        "label": "Sharp vampire vangs close in around the avatar, while fresh blood slowly trickles down the teeth and drips off the tips."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1287835634089594972",
-                "google_sku_ids": {
-                    "5": "1287835633787732070_1290454173959192698",
-                    "7": "1287835633787732070_1290454183962738710"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1287835633787732070",
+                        "name": "Bloodthirsty",
+                        "name_localizations": null,
+                        "summary": "Just a bite...",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1287835633800187946",
+                        "category_sku_id": "1287835634089594972",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1287835633808707614",
+                                "sku_id": "1287835633787732070",
+                                "asset": "a_5cc3476f582a5649e64ab0a95504c4e9",
+                                "label": "Sharp vampire vangs close in around the avatar, while fresh blood slowly trickles down the teeth and drips off the tips."
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Original",
+                        "variant_value": "#F1E4E3",
+                        "base_variant_sku_id": "1287835633787732070",
+                        "base_variant_name": "Bloodthirsty"
+                    },
+                    {
+                        "sku_id": "1287835633842258022",
+                        "name": "Bloodthirsty (Gold)",
+                        "name_localizations": null,
+                        "summary": "Just a bite...",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1287835633850519624",
+                        "category_sku_id": "1287835634089594972",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1287835633859039285",
+                                "sku_id": "1287835633842258022",
+                                "asset": "a_306d1140ca183b25e3970ee266a8dcfa",
+                                "label": "Sharp, golden vampire vangs close in around the avatar, while fresh blood slowly trickles down the teeth and drips off the tips."
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Gold",
+                        "variant_value": "#FEB624",
+                        "base_variant_sku_id": "1287835633787732070",
+                        "base_variant_name": "Bloodthirsty"
+                    }
+                ]
             },
             {
                 "sku_id": "1287835633817227297",
@@ -5199,97 +5242,6 @@
                 "google_sku_ids": {
                     "5": "1287835633817227297_1290453290571661456",
                     "7": "1287835633817227297_1290453302169042945"
-                }
-            },
-            {
-                "sku_id": "1287835633842258022",
-                "name": "Bloodthirsty (Gold)",
-                "summary": "Just a bite...",
-                "store_listing_id": "1287835633850519624",
-                "banner": "1287835634115022961",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        796573,
-                        265556
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 600,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 500,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1287835633859039285",
-                        "sku_id": "1287835633842258022",
-                        "asset": "a_306d1140ca183b25e3970ee266a8dcfa",
-                        "label": "Sharp, golden vampire vangs close in around the avatar, while fresh blood slowly trickles down the teeth and drips off the tips."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1287835634089594972",
-                "google_sku_ids": {
-                    "5": "1287835633842258022_1290453673922789376",
-                    "7": "1287835633842258022_1290453683817152603"
                 }
             },
             {
@@ -5830,7 +5782,7 @@
                 "sku_id": "1158572263411556373",
                 "name": "Zombie Slime",
                 "summary": "I don\u2019t think you should touch that.",
-                "store_listing_id": "1158572263411556372",
+                "store_listing_id": "1303075044687220797",
                 "banner": "1287835634115022961",
                 "unpublished_at": null,
                 "styles": {
@@ -5900,20 +5852,35 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1139323094431973427",
-                        "sku_id": "1158572263411556373"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1287835634089594972",
-                "google_sku_ids": {
-                    "5": "1158572263411556373_1259923665160634438",
-                    "7": "1158572263411556373_1259923674933235722"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1158572263411556373",
+                        "name": "Zombie Slime",
+                        "name_localizations": null,
+                        "summary": "I don\u2019t think you should touch that.",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1158572263411556372",
+                        "category_sku_id": "1287835634089594972",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1139323094431973427",
+                                "sku_id": "1158572263411556373"
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Original",
+                        "variant_value": "#21EA0B",
+                        "base_variant_sku_id": "1158572263411556373",
+                        "base_variant_name": "Zombie Slime"
+                    }
+                ]
             },
             {
                 "sku_id": "1287835634005970994",
@@ -10100,7 +10067,7 @@
                 "sku_id": "1157407831348228141",
                 "name": "Fox Hat",
                 "summary": "Charming, cosy and a little bit nosy.",
-                "store_listing_id": "1157407831348228140",
+                "store_listing_id": "1304492274067050577",
                 "banner": "1285418783653232642",
                 "unpublished_at": null,
                 "styles": {
@@ -10170,22 +10137,37 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1157409074422481021",
-                        "sku_id": "1157407831348228141",
-                        "asset": "a_7d305bca6cf371df98c059f9d2ef05e4",
-                        "label": "The avatar wears a cute, orange fox hat! Wait... did the hat just blink?!"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1157406994873991284",
-                "google_sku_ids": {
-                    "5": "1157407831348228141_1259923871948079124",
-                    "7": "1157407831348228141_1259923882169733120"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1157407831348228141",
+                        "name": "Fox Hat",
+                        "name_localizations": null,
+                        "summary": "Charming, cosy and a little bit nosy.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1157407831348228140",
+                        "category_sku_id": "1157406994873991284",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1157409074422481021",
+                                "sku_id": "1157407831348228141",
+                                "asset": "a_7d305bca6cf371df98c059f9d2ef05e4",
+                                "label": "The avatar wears a cute, orange fox hat! Wait... did the hat just blink?!"
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Original",
+                        "variant_value": "#AD5B22",
+                        "base_variant_sku_id": "1157407831348228141",
+                        "base_variant_name": "Fox Hat"
+                    }
+                ]
             },
             {
                 "sku_id": "1282820582282629171",
@@ -10373,7 +10355,7 @@
                 "sku_id": "1157409074422481023",
                 "name": "Autumn Leaves",
                 "summary": "Behold nature\u2019s dance.",
-                "store_listing_id": "1157409074422481022",
+                "store_listing_id": "1304493403748302858",
                 "banner": "1285418783653232642",
                 "unpublished_at": null,
                 "styles": {
@@ -10443,22 +10425,37 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1157409074422481024",
-                        "sku_id": "1157409074422481023",
-                        "asset": "a_5087f7f988bd1b2819cac3e33d0150f5",
-                        "label": "Chestnut autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1157406994873991284",
-                "google_sku_ids": {
-                    "5": "1157409074422481023_1259923799797927998",
-                    "7": "1157409074422481023_1259923817556480040"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1157409074422481023",
+                        "name": "Autumn Leaves",
+                        "name_localizations": null,
+                        "summary": "Behold nature\u2019s dance.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1157409074422481022",
+                        "category_sku_id": "1157406994873991284",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1157409074422481024",
+                                "sku_id": "1157409074422481023",
+                                "asset": "a_5087f7f988bd1b2819cac3e33d0150f5",
+                                "label": "Chestnut autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Original",
+                        "variant_value": "#AB5E36",
+                        "base_variant_sku_id": "1157409074422481023",
+                        "base_variant_name": "Fall Leaves"
+                    }
+                ]
             },
             {
                 "sku_id": "1282820582345408595",
