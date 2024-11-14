@@ -27,82 +27,6 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Graveyard Cat",
-                "summary": "Just a cat on graveyard duty.",
-                "sku_id": "1157411984371880118",
-                "price": null,
-                "price_nitro": "Expires Never",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Graveyard Cat",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=4096&passthrough=true",
-                        "summary": "Just a cat on graveyard duty."
-                    }
-                ]
-            },
-            {
-                "name": "Ghosts",
-                "summary": "Look at them just spinning and grinning all day...",
-                "sku_id": "1157411685687115858",
-                "price": null,
-                "price_nitro": "Expires Never",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Ghosts",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=4096&passthrough=true",
-                        "summary": "Look at them just spinning and grinning all day..."
-                    }
-                ]
-            },
-            {
-                "name": "Minions",
-                "summary": "Name a more iconic duo.",
-                "sku_id": "1157412779335090267",
-                "price": null,
-                "price_nitro": "Expires Never",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Minions",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=4096&passthrough=true",
-                        "summary": "Name a more iconic duo."
-                    }
-                ]
-            },
-            {
-                "name": "Jack-o\u2019-lantern",
-                "summary": "You can practically hear its eerie cackle...",
-                "sku_id": "1157412388509864068",
-                "price": null,
-                "price_nitro": "Expires Never",
-                "unpublished_at": null,
-                "isNew": "false",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "deco",
-                        "name": "Jack-o\u2019-lantern",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=4096&passthrough=true",
-                        "summary": "You can practically hear its eerie cackle..."
-                    }
-                ]
-            },
-            {
                 "name": "I\u2019m a Clown",
                 "summary": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Exclusive to April Fools 2024 for a limited time.",
                 "sku_id": "1216908559548289084",
@@ -346,6 +270,25 @@
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_e493810a0ac505c6584c422e80eed664.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_e493810a0ac505c6584c422e80eed664.png?size=4096&passthrough=true",
                         "summary": "Your Morph can take on many unique forms and help you move throughout the world in THRONE AND LIBERTY."
+                    }
+                ]
+            },
+            {
+                "name": "Wallach IX Spaceport",
+                "summary": "The Wallach IX Spaceport is a dynamic port for space travel on the planet Wallach IX. This reward is exclusive to the Dune: Prophecy Quest.",
+                "sku_id": "1305905202578325535",
+                "price": null,
+                "price_nitro": "Expires Jan 25th 2025",
+                "unpublished_at": "2025-01-25T08:00:00+00:00",
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Wallach IX Spaceport",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f1a6455d390697420e8b3af663143b3.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f1a6455d390697420e8b3af663143b3.png?size=4096&passthrough=true",
+                        "summary": "The Wallach IX Spaceport is a dynamic port for space travel on the planet Wallach IX. This reward is exclusive to the Dune: Prophecy Quest."
                     }
                 ]
             }
