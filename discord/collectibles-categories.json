@@ -4413,7 +4413,7 @@
                         "variant_label": "Midnight",
                         "variant_value": "#264AA3",
                         "base_variant_sku_id": "1287835633674620949",
-                        "base_variant_name": "Plum Witch Hat"
+                        "base_variant_name": "Witch Hat"
                     }
                 ]
             },
@@ -7421,7 +7421,7 @@
                         "variant_label": "Twilight",
                         "variant_value": "#2E53C4",
                         "base_variant_sku_id": "1282816431850782730",
-                        "base_variant_name": "Twilight Chrysanthemums"
+                        "base_variant_name": "Chrysanthemums"
                     },
                     {
                         "sku_id": "1286504131325853739",
