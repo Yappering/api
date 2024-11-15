@@ -3077,7 +3077,7 @@
                         "variant_label": "Violet",
                         "variant_value": "#843ACF",
                         "base_variant_sku_id": "1293373563184877618",
-                        "base_variant_name": "Violet Dice"
+                        "base_variant_name": "Dice"
                     },
                     {
                         "sku_id": "1293373563210043442",
@@ -3102,7 +3102,7 @@
                         "variant_label": "Azure",
                         "variant_value": "#2572E7",
                         "base_variant_sku_id": "1293373563184877618",
-                        "base_variant_name": "Violet Dice"
+                        "base_variant_name": "Dice"
                     }
                 ]
             },
@@ -3208,7 +3208,7 @@
                         "variant_label": "Green",
                         "variant_value": "#4D9B63",
                         "base_variant_sku_id": "1293373563239272458",
-                        "base_variant_name": "Green Gelatinous Cube"
+                        "base_variant_name": "Gelatinous Cube"
                     },
                     {
                         "sku_id": "1293373563264569416",
@@ -3233,7 +3233,7 @@
                         "variant_label": "Blue",
                         "variant_value": "#1E7AB3",
                         "base_variant_sku_id": "1293373563239272458",
-                        "base_variant_name": "Green Gelatinous Cube"
+                        "base_variant_name": "Gelatinous Cube"
                     }
                 ]
             },
@@ -4388,7 +4388,7 @@
                         "variant_label": "Plum",
                         "variant_value": "#5C3B63",
                         "base_variant_sku_id": "1287835633674620949",
-                        "base_variant_name": "Plum Witch Hat"
+                        "base_variant_name": "Witch Hat"
                     },
                     {
                         "sku_id": "1287835633703845888",
@@ -7446,7 +7446,7 @@
                         "variant_label": "Morning",
                         "variant_value": "#C69B8D",
                         "base_variant_sku_id": "1282816431850782730",
-                        "base_variant_name": "Twilight Chrysanthemums"
+                        "base_variant_name": "Chrysanthemums"
                     }
                 ]
             },
@@ -8085,7 +8085,7 @@
                         "variant_label": "Twilight",
                         "variant_value": "#372C72",
                         "base_variant_sku_id": "1282816431985004594",
-                        "base_variant_name": "Twilight Grove"
+                        "base_variant_name": "Grove"
                     },
                     {
                         "sku_id": "1286504131518791816",
@@ -8108,7 +8108,7 @@
                         "variant_label": "Sunrise",
                         "variant_value": "#938A57",
                         "base_variant_sku_id": "1282816431985004594",
-                        "base_variant_name": "Twilight Grove"
+                        "base_variant_name": "Grove"
                     }
                 ]
             },
