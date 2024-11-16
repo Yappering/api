@@ -274,13 +274,32 @@
                 ]
             },
             {
+                "name": "Gear Spin",
+                "summary": "Spinning at the speed of sound",
+                "sku_id": "1304519765917696011",
+                "price": null,
+                "price_nitro": "Expires Never",
+                "unpublished_at": null,
+                "isNew": "false",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Gear Spin",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=4096&passthrough=true",
+                        "summary": "Spinning at the speed of sound"
+                    }
+                ]
+            },
+            {
                 "name": "Wallach IX Spaceport",
                 "summary": "The Wallach IX Spaceport is a dynamic port for space travel on the planet Wallach IX. This reward is exclusive to the Dune: Prophecy Quest.",
                 "sku_id": "1305905202578325535",
                 "price": null,
                 "price_nitro": "Expires Jan 25th 2025",
                 "unpublished_at": "2025-01-25T08:00:00+00:00",
-                "isNew": "true",
+                "isNew": "false",
                 "emojiCopy": null,
                 "items": [
                     {
