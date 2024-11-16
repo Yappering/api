@@ -5254,16 +5254,16 @@
                 },
                 "items": [
                     {
-                        "type": 1,
-                        "id": "1285465421322911765",
-                        "sku_id": "1285465421306400858"
-                    },
-                    {
                         "type": 0,
                         "id": "1285465421046087690",
                         "sku_id": "1285465421029576704",
                         "asset": "a_68cb6c21d6222cd9285c08068f39873d",
                         "label": "With Ryu's hair and iconic red headband, the avatar brings its hands together to charge up and fire his signature ki blast."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1285465421322911765",
+                        "sku_id": "1285465421306400858"
                     }
                 ],
                 "type": 1000,
