@@ -1,19 +1,30 @@
 [
     {
-        "name": "Multiple Leaks",
-        "summary": "Leaks",
+        "name": "Arcane",
+        "summary": "The hunt is on.",
         "summary_black": "false",
-        "banner": "https://cdn.yapper.shop/assets/95.gif",
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1306330663225397249.png?size=4096",
-        "hero_ranking": null,
-        "mobile_bg": null,
-        "pdp_bg": null,
-        "success_modal_bg": null,
-        "mobile_banner": null,
-        "featured_block": null,
-        "hero_banner": null,
-        "hero_logo": null,
-        "sku_id": "1306330663213072494",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165297123358.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165288730724.png?size=4096",
+        "hero_ranking": [
+            "1303490165045727317",
+            "1303490165099991143",
+            "1303490165234208810",
+            "1303490165171294268",
+            "1303490165074825296",
+            "1303490165213237338",
+            "1303490165150322698",
+            "1303490165192265799",
+            "1303490165120962651",
+            "1303490165255180298"
+        ],
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165318094958.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165314158692.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165326745641.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
+        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096",
+        "sku_id": "1303490165284802580",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -27,25 +38,6 @@
         },
         "logo_sway": "false",
         "products": [
-            {
-                "name": "Kawaii Mode",
-                "summary": null,
-                "sku_id": null,
-                "price": null,
-                "price_nitro": null,
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "items": [
-                    {
-                        "item_type": "effect",
-                        "name": "Kawaii Mode",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/intro.png",
-                        "summary": null
-                    }
-                ]
-            },
             {
                 "name": "Arcane Epiphany",
                 "summary": "\u2018What have we done\u2026?\u2019",
