@@ -56,7 +56,7 @@
                         "summary": "Beautiful. Impossible. Inevitable."
                     },
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Arcane Epiphany",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
@@ -113,7 +113,7 @@
                 "emojiCopy": null,
                 "items": [
                     {
-                        "item_type": "deco",
+                        "item_type": "effect",
                         "name": "Arcane Epiphany",
                         "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
                         "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
