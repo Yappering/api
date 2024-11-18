@@ -39,6 +39,89 @@
         "logo_sway": "false",
         "products": [
             {
+                "name": "Anomaly Bundle",
+                "summary": "A bundle of collectibles.",
+                "sku_id": "1306752744228524052",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "bundled_products": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Anomaly",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=true",
+                        "summary": "Beautiful. Impossible. Inevitable."
+                    },
+                    {
+                        "item_type": "deco",
+                        "name": "Arcane Epiphany",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
+                        "summary": "\u2018What have we done…?\u2019"
+                    }
+                ]
+            },
+            {
+                "name": "The Anomaly",
+                "summary": "Beautiful. Impossible. Inevitable.",
+                "sku_id": "1306752744258011166",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Anomaly",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=true",
+                        "summary": "Beautiful. Impossible. Inevitable."
+                    }
+                ]
+            },
+            {
+                "name": "The Mark",
+                "summary": "An act of desperation. This changes nothing.",
+                "sku_id": "1306752744278982737",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Mark",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_04ae300464c572430e64a4b251e81de6.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_04ae300464c572430e64a4b251e81de6.png?size=4096&passthrough=true",
+                        "summary": "An act of desperation. This changes nothing."
+                    }
+                ]
+            },
+            {
+                "name": "Arcane Epiphany",
+                "summary": "\u2018What have we done…?\u2019",
+                "sku_id": "1306752744299954306",
+                "price": null,
+                "price_nitro": null,
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "Arcane Epiphany",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
+                        "summary": "\u2018What have we done…?\u2019"
+                    }
+                ]
+            },
+            {
                 "name": "Arcane Jinx Bundle",
                 "summary": "A bundle of collectibles.",
                 "sku_id": "1303490165045727317",
