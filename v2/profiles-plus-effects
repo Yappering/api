@@ -1,0 +1,31 @@
+{
+    "profile_effect_configs": [
+        {
+            "type": 1,
+            "id": "pplus-2-id",
+            "sku_id": "pplus-2",
+            "title": "Legacy Smiley",
+            "description": "Hes got my Avatar!",
+            "accessibilityLabel": "Hes got my Avatar!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        }
+    ]
+}

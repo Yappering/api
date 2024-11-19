@@ -1,0 +1,108 @@
+[
+    {
+        "sku_id": "profiles-plus-1",
+        "name": "Windowkill",
+        "summary": "What\u2019s wrong with my windows?",
+        "banner": "20",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4424191,
+                3104443
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                16069235,
+                9803263,
+                11008590,
+                3350191
+            ]
+        },
+        "logo": "24",
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "pplus-1",
+                "credits": "DTACat",
+                "name": "Legacy Orb Array",
+                "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
+                "banner": "22",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4424191,
+                        3104443
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        16069235,
+                        9803263,
+                        11008590,
+                        3350191
+                    ]
+                },
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "pplus-1-id",
+                        "sku_id": "pplus-1",
+                        "static": "windowkill/avatar-decorations/1",
+                        "animated": "windowkill/avatar-decorations/2"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "profiles-plus-2"
+            },
+            {
+                "sku_id": "pplus-2",
+                "credits": "DTACat",
+                "name": "Legacy Smiley",
+                "summary": "Hes got my Avatar!",
+                "banner": "22",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4424191,
+                        3104443
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        16069235,
+                        9803263,
+                        11008590,
+                        3350191
+                    ]
+                },
+                "emojiCopy": ":purple_circle:",
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "pplus-2-id",
+                        "sku_id": "pplus-2"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "profiles-plus-2"
+            }
+        ]
+    }
+]
