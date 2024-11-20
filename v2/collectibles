@@ -30607,6 +30607,728 @@
                     "5": "1202070083816661043_1259922471436681296",
                     "7": "1202070083816661043_1259922490457591891"
                 }
+            },
+            {
+                "sku_id": "1202073882111266846",
+                "name": "Lunar Lanterns",
+                "summary": "Light the night.",
+                "store_listing_id": "1202073842453848134",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202073907918798848",
+                        "sku_id": "1202073882111266846",
+                        "asset": "a_63b29ec5b1ea6bb01c2251049838d822",
+                        "label": "From on top of the avatar, a tiled roof sits with lanterns swinging back and forth in the breeze."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202073882111266846_1259922500494557235",
+                    "7": "1202073882111266846_1259922510699561121"
+                }
+            },
+            {
+                "sku_id": "1202073775840178206",
+                "name": "Firecrackers",
+                "summary": "Don\u2019t try this at home!",
+                "store_listing_id": "1202073751051567184",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202073807658164295",
+                        "sku_id": "1202073775840178206",
+                        "asset": "a_0f4f1b40921ce680b60007e94427d1f2",
+                        "label": "A string of firecrackers appears to the left of the avatar, and after a moment, lights off with a flurry of sparks!"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202073775840178206_1259922520870490182",
+                    "7": "1202073775840178206_1259922531171696710"
+                }
+            },
+            {
+                "sku_id": "1202073975178665984",
+                "name": "Dragon\u2019s Smile",
+                "summary": "A dragon\u2019s grin fills your year with laughs.",
+                "store_listing_id": "1202073966538403890",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202073979167461406",
+                        "sku_id": "1202073975178665984",
+                        "asset": "a_445566ed965b2c1632a5b45c92f32d11",
+                        "label": "A dragon's mouth perches precariously around the avatar. In a swift movement, the dragon chomps down, smiling and revealing its face."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202073975178665984_1259922541699661917",
+                    "7": "1202073975178665984_1259922553938382958"
+                }
+            },
+            {
+                "sku_id": "1202445890909110323",
+                "name": "Lucky Envelopes",
+                "summary": "Capacity: 888 coins.",
+                "store_listing_id": "1202445845954297956",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202445980377817179",
+                        "sku_id": "1202445890909110323",
+                        "asset": "a_1b1df0ae8c2d34afd85da5c22a0d761a",
+                        "label": "Two red envelopes sit on the left side of the avatar. One envelope moves forward and opens up to ingest a number of gold coins."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202445890909110323_1259922564323475497",
+                    "7": "1202445890909110323_1259922574939521085"
+                }
+            },
+            {
+                "sku_id": "1202074101343322184",
+                "name": "Koi Pond",
+                "summary": "Swimming in an eternal, peaceful circle.",
+                "store_listing_id": "1202074096133734461",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202074104945971311",
+                        "sku_id": "1202074101343322184",
+                        "asset": "a_50b440810b1bbd89f6284f36d40ad0af",
+                        "label": "Two koi fish swimming beneath the water covering the avatar surface, and dive down repeatedly as they swim in circles."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202074101343322184_1259922585240473730",
+                    "7": "1202074101343322184_1259922595080306750"
+                }
+            },
+            {
+                "sku_id": "1202061726212947968",
+                "name": "Dragon Dance",
+                "summary": "No evil spirits on my watch.",
+                "store_listing_id": "1202074313809723402",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1202061575339376741",
+                        "sku_id": "1202061726212947968"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202061726212947968_1259922605687963658",
+                    "7": "1202061726212947968_1259922616051830984"
+                }
+            },
+            {
+                "sku_id": "1202059628112777256",
+                "name": "Fortune Flurry",
+                "summary": "May fortune come your way!",
+                "store_listing_id": "1202074292540674118",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1202058906738622514",
+                        "sku_id": "1202059628112777256"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202059628112777256_1259922626277539920",
+                    "7": "1202059628112777256_1259922636318965888"
+                }
+            },
+            {
+                "sku_id": "1202061510529257522",
+                "name": "Midnight Celebration",
+                "summary": "Protection and prosperity guaranteed.",
+                "store_listing_id": "1202074296223289355",
+                "banner": "1202069953306689626",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        9240576,
+                        5963776
+                    ],
+                    "button_colors": [
+                        16756998,
+                        16747008
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1202061433689350204",
+                        "sku_id": "1202061510529257522"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "google_sku_ids": {
+                    "5": "1202061510529257522_1259922646145962024",
+                    "7": "1202061510529257522_1259922656501694534"
+                }
             }
         ]
     },
