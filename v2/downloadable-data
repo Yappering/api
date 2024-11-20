@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Collctibles Marketing",
+        "summary": "download discords collectible marketing",
+        "downloadables": [
+            {
+                "id": 1,
+                "name": "Valorant Champions"
+            },
+            {
+                "id": 2,
+                "name": "Dojo"
+            },
+            {
+                "id": 3,
+                "name": "The Vault"
+            },
+            {
+                "id": 4,
+                "name": "Autumn Equinox"
+            },
+            {
+                "id": 5,
+                "name": "Street Fighter"
+            },
+            {
+                "id": 6,
+                "name": "Spooky Night"
+            },
+            {
+                "id": 7,
+                "name": "Dungeons & Dragons"
+            },
+            {
+                "id": 8,
+                "name": "Mythical Creatures"
+            },
+            {
+                "id": 9,
+                "name": "Arcane"
+            }
+        ]
+    }
+]

@@ -9,6 +9,7 @@
             "accessibilityLabel": "Hes got my Avatar!",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
             "effects": [
                 {
                     "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
@@ -36,6 +37,7 @@
             "accessibilityLabel": "Dodge and weave.",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/8.png",
             "effects": [
                 {
                     "src": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
@@ -63,6 +65,7 @@
             "accessibilityLabel": "Don\u2019t get squished!",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/9.png",
             "effects": [
                 {
                     "src": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
