@@ -33,6 +33,93 @@
         "hero_logo": null,
         "products": [
             {
+                "sku_id": "1144012281076793467",
+                "name": "Snek",
+                "summary": null,
+                "store_listing_id": null,
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": null,
+                        "sku_id": "1216908559548289084",
+                        "asset": "0de222a8fa7a94e2469c3f1b66ac4f44",
+                        "label": null
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {}
+            },
+            {
                 "sku_id": "1216908559548289084",
                 "name": "I\u2019m a Clown",
                 "summary": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Available to use until May 2024.",
