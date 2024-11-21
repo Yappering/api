@@ -9697,7 +9697,7 @@
                         "variant_label": "Original",
                         "variant_value": "#ED4525",
                         "base_variant_sku_id": "1282816431922085888",
-                        "base_variant_name": "Autumn's Arbor"
+                        "base_variant_name": "Autumn\u2019s Arbour"
                     },
                     {
                         "sku_id": "1286504131439366184",
@@ -9722,7 +9722,7 @@
                         "variant_label": "Aurora",
                         "variant_value": "#73069C",
                         "base_variant_sku_id": "1282816431922085888",
-                        "base_variant_name": "Autumn's Arbor"
+                        "base_variant_name": "Autumn\u2019s Arbour"
                     }
                 ]
             },
@@ -11134,7 +11134,7 @@
                         "variant_label": "Original",
                         "variant_value": "#AB5E36",
                         "base_variant_sku_id": "1157409074422481023",
-                        "base_variant_name": "Fall Leaves"
+                        "base_variant_name": "Autumn Leaves"
                     },
                     {
                         "sku_id": "1282820582345408595",
@@ -11159,7 +11159,7 @@
                         "variant_label": "Scarlet",
                         "variant_value": "#AF2227",
                         "base_variant_sku_id": "1157409074422481023",
-                        "base_variant_name": "Fall Leaves"
+                        "base_variant_name": "Autumn Leaves"
                     },
                     {
                         "sku_id": "1282820582366511229",
@@ -11184,7 +11184,7 @@
                         "variant_label": "Woodland",
                         "variant_value": "#7B7C26",
                         "base_variant_sku_id": "1157409074422481023",
-                        "base_variant_name": "Fall Leaves"
+                        "base_variant_name": "Autumn Leaves"
                     }
                 ]
             },
@@ -11288,7 +11288,7 @@
                         "variant_label": "Original",
                         "variant_value": "#AD602C",
                         "base_variant_sku_id": "1159280677246742548",
-                        "base_variant_name": "Fall Foliage"
+                        "base_variant_name": "Autumn Foliage"
                     },
                     {
                         "sku_id": "1282820582408192061",
@@ -11311,7 +11311,7 @@
                         "variant_label": "Scarlet",
                         "variant_value": "#B02123",
                         "base_variant_sku_id": "1159280677246742548",
-                        "base_variant_name": "Fall Foliage"
+                        "base_variant_name": "Autumn Foliage"
                     },
                     {
                         "sku_id": "1282820582429298748",
@@ -11334,7 +11334,7 @@
                         "variant_label": "Woodland",
                         "variant_value": "#708234",
                         "base_variant_sku_id": "1159280677246742548",
-                        "base_variant_name": "Fall Foliage"
+                        "base_variant_name": "Autumn Foliage"
                     }
                 ]
             },
@@ -11438,7 +11438,7 @@
                         "variant_label": "Original",
                         "variant_value": "#8D8C4F",
                         "base_variant_sku_id": "1159280847262859364",
-                        "base_variant_name": "Lilypad Life"
+                        "base_variant_name": "Lily Pad Life"
                     },
                     {
                         "sku_id": "1285681070196396177",
@@ -11461,7 +11461,7 @@
                         "variant_label": "Midnight",
                         "variant_value": "#744573",
                         "base_variant_sku_id": "1159280847262859364",
-                        "base_variant_name": "Lilypad Life"
+                        "base_variant_name": "Lily Pad Life"
                     },
                     {
                         "sku_id": "1285681070196396179",
@@ -11484,7 +11484,7 @@
                         "variant_label": "Muddy",
                         "variant_value": "#866044",
                         "base_variant_sku_id": "1159280847262859364",
-                        "base_variant_name": "Lilypad Life"
+                        "base_variant_name": "Lily Pad Life"
                     }
                 ]
             }
