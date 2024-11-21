@@ -1265,6 +1265,267 @@
                 "google_sku_ids": {}
             },
             {
+                "sku_id": "1301993378484850769",
+                "name": "2025 Balloons",
+                "summary": "Cheers to 2025!!",
+                "store_listing_id": "1301993378484850768",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1302012142530334760",
+                        "sku_id": "1301993378484850769",
+                        "asset": "a_b1da12c72766c550c1759bf5c9dc6c7a",
+                        "label": "Gold, metallic, balloon-style numbers arranged to spell 2025."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1301993378484850771",
+                "name": "Holiday Cat Ears",
+                "summary": "\u227d^ \u1d16 \u03c9 \u1d16 ^\u227c",
+                "store_listing_id": "1301993378484850770",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1302012142530334761",
+                        "sku_id": "1301993378484850771",
+                        "asset": "a_98428c5298a8a6791fe4d577eba9da9c",
+                        "label": "A Santa hat with a red, pointed top and fluffy white trim, designed with two prominent cat ears that stick up on either side"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1301993378484850773",
+                "name": "Snowfall",
+                "summary": "A frosty swirl of winter magic and snowflake sparkle.",
+                "store_listing_id": "1301993378484850772",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1302012142530334762",
+                        "sku_id": "1301993378484850773",
+                        "asset": "a_65cce62b814c5d0c17ee2be00e5f2f77",
+                        "label": "Snowflakes fall gently around the avatar, creating a winter wonderland."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {}
+            },
+            {
                 "sku_id": "1304519765917696011",
                 "name": "Gear Spin",
                 "summary": "Spinning at the speed of sound",
