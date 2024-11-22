@@ -1,0 +1,27 @@
+{
+    "marketings": {
+        "0": {
+            "type": 0,
+            "version": 11,
+            "title": "Check out new Kawaii Mode arrivals.",
+            "body": null,
+            "avatar": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png",
+            "decorations": [
+                "a_5b1319abfc9f928479b68a73635f591d",
+                "a_f081c6b2c85c5ebe5df42f1c24d45bb5",
+                "a_09bb4197c743ea31b7eb052eddd3e892"
+            ],
+            "dismissible_content": 422,
+            "ref_target_background": null
+        },
+        "2": {
+            "type": 2,
+            "version": 11,
+            "title": "Give your profile a fresh look",
+            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+            "asset": "https://cdn.discordapp.com/assets/content/8b90a7feb8e3a61a9703ea4de9b9d39d9e266fefe2d3d38afdffef39d2452985.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/f854bcb36abd7edfc64c219e1d531971ebc18eac8b69af3fe8b0e5e25d96114c.png",
+            "revert_text_color": true
+        }
+    }
+}

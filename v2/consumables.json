@@ -1,0 +1,13 @@
+[
+    {
+        "sku_id": "1285377810587979827",
+        "name": "HD Streaming Potion",
+        "summary": "Give your friends HD Streaming!",
+        "price": {
+            "amount": 99,
+            "currency": "usd",
+            "currency_exponent": 2
+        },
+        "src": "36"
+    }
+]
