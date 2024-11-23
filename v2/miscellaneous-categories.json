@@ -291,7 +291,7 @@
                     }
                 ],
                 "type": 0,
-                "premium_type": 0,
+                "premium_type": 2,
                 "category_sku_id": "1217175518781243583",
                 "google_sku_ids": {
                     "5": "1225876188074082374_1259921478934331463"
