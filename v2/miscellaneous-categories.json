@@ -22,7 +22,7 @@
                 3350191
             ]
         },
-        "logo": null,
+        "logo": "1217260340887158784",
         "hero_ranking": null,
         "mobile_bg": null,
         "pdp_bg": null,
@@ -38,7 +38,8 @@
                 "summary": "The Batarang is Batman\u2019s legendary throwing weapon, blending precision and versatility to instill fear in his enemies. This reward is exclusive to the Become the Knight Quest.",
                 "store_listing_id": "1309270800099971124",
                 "banner": "1309310034387271730",
-                "unpublished_at": "2025-02-08T08:00:00+00:00",
+                "unpublished_at": null,
+                "expires_at": "2025-02-08T08:00:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
