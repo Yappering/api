@@ -120,6 +120,366 @@
                 "google_sku_ids": {}
             },
             {
+                "sku_id": "1157411685687115858",
+                "name": "Ghosts",
+                "summary": "Look at them just spinning and grinning all day...",
+                "store_listing_id": "1157411685687115857",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157411685687115859",
+                        "sku_id": "1157411685687115858",
+                        "asset": "a_b9a64088e30fd3a6f2456c2e0f44f173",
+                        "label": "You notice two spooky ghosts twirling around each other in an eternal dance. Are they friend or foe?"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {
+                    "5": "1157411685687115858_1259923583447076915",
+                    "7": "1157411685687115858_1259923596415995955"
+                }
+            },
+            {
+                "sku_id": "1157411984371880118",
+                "name": "Graveyard Cat",
+                "summary": "Just a cat on graveyard duty.",
+                "store_listing_id": "1157411984371880117",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157411984371880119",
+                        "sku_id": "1157411984371880118",
+                        "asset": "a_ad4e2cad924bbb3a2fddf5c527370479",
+                        "label": "Bathed in the glow of a full moon, a mysterious black cat is perched upon a tombstone, playfully pawing the tomb's exterior."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {
+                    "5": "1157411984371880118_1259923550580641802",
+                    "7": "1157411984371880118_1259923572919500871"
+                }
+            },
+            {
+                "sku_id": "1157412388509864068",
+                "name": "Jack-o\u2019-lantern",
+                "summary": "You can practically hear its eerie cackle...",
+                "store_listing_id": "1157412388509864067",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157412388509864069",
+                        "sku_id": "1157412388509864068",
+                        "asset": "a_50939e8f95b0ddfa596809480b0eb3e1",
+                        "label": "A gleeful jack-o'-lantern cackles atop a dark, twisted branch, with bats swirling above to join in on the spooky shenanigans."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {
+                    "5": "1157412388509864068_1259923625524592690",
+                    "7": "1157412388509864068_1259923635389464758"
+                }
+            },
+            {
+                "sku_id": "1157412779335090267",
+                "name": "Minions",
+                "summary": "Name a more iconic duo.",
+                "store_listing_id": "1157412779335090266",
+                "banner": "1217260346872430592",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157412779335090268",
+                        "sku_id": "1157412779335090267",
+                        "asset": "a_f979ba5f9c2ba83db3149cc02f489f7c",
+                        "label": "A one-eyed magic cauldron hovers in the air, bubbling with a strange, green brew. Its winged jack-o'-lantern companion flaps nearby. What mischief are they brewing?"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1217175518781243583",
+                "google_sku_ids": {
+                    "5": "1157412779335090267_1259923605937061950",
+                    "7": "1157412779335090267_1259923615483170846"
+                }
+            },
+            {
                 "sku_id": "1216908559548289084",
                 "name": "I\u2019m a Clown",
                 "summary": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Available to use until May 2024.",
