@@ -1,5 +1,127 @@
 [
     {
+        "sku_id": "1309309974266118144",
+        "name": "Special Events 2",
+        "summary": null,
+        "store_listing_id": null,
+        "banner": "1309310034387271730",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                7546213,
+                1121600
+            ],
+            "button_colors": [
+                8734662,
+                12076481
+            ],
+            "confetti_colors": [
+                16069235,
+                9803263,
+                11008590,
+                3350191
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1309270800099971122",
+                "name": "Batarang",
+                "summary": "The Batarang is Batman\u2019s legendary throwing weapon, blending precision and versatility to instill fear in his enemies. This reward is exclusive to the Become the Knight Quest.",
+                "store_listing_id": "1309270800099971124",
+                "banner": "1309310034387271730",
+                "unpublished_at": "2025-02-08T08:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1309270800099971123",
+                        "sku_id": "1309270800099971122",
+                        "asset": "a_e132d6014f2075d9fc2a8ece507ef5cf",
+                        "label": "A spinning, bat-shaped metallic projectile hurtles into and impacts the screen, leaving a massive crack."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            }
+        ]
+    },
+    {
         "sku_id": "1217175518781243583",
         "name": "Special Events",
         "summary": null,
