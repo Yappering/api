@@ -249,6 +249,7 @@
                 "store_listing_id": "1157411685687115857",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -339,6 +340,7 @@
                 "store_listing_id": "1157411984371880117",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -429,6 +431,7 @@
                 "store_listing_id": "1157412388509864067",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -519,6 +522,7 @@
                 "store_listing_id": "1157412779335090266",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -609,6 +613,7 @@
                 "store_listing_id": "1216908510969725138",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -698,6 +703,7 @@
                 "store_listing_id": "1225876160542675075",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -787,6 +793,7 @@
                 "store_listing_id": "1226937118748577926",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -876,6 +883,7 @@
                 "store_listing_id": "1251324200996569178",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-09-09T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -965,6 +973,7 @@
                 "store_listing_id": "1253712879912484925",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-09-05T17:00:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1054,6 +1063,7 @@
                 "store_listing_id": "1262457676625875075",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-09-30T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1143,6 +1153,7 @@
                 "store_listing_id": "1262467379783401562",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-10-06T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1232,6 +1243,7 @@
                 "store_listing_id": "1270100768363515914",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-10-14T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1319,6 +1331,7 @@
                 "store_listing_id": "1278392092258734092",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-11-06T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1406,6 +1419,7 @@
                 "store_listing_id": "1280648686736638005",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-11-23T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1493,6 +1507,7 @@
                 "store_listing_id": "1280648686749352005",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-11-29T11:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1580,6 +1595,7 @@
                 "store_listing_id": "1280648686749352009",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-11-12T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1667,6 +1683,7 @@
                 "store_listing_id": "1286046055498252320",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2024-11-30T23:59:59+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1754,6 +1771,7 @@
                 "store_listing_id": "1301993378484850768",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1841,6 +1859,7 @@
                 "store_listing_id": "1301993378484850770",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1928,6 +1947,7 @@
                 "store_listing_id": "1301993378484850772",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2015,6 +2035,7 @@
                 "store_listing_id": "1304519765917696010",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2102,6 +2123,7 @@
                 "store_listing_id": "1305905202578325534",
                 "banner": "1217260346872430592",
                 "unpublished_at": null,
+                "expires_at": "2025-01-25T08:00:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,

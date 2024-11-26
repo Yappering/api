@@ -1,0 +1,37 @@
+{
+    "sku_id": "1301993378484850773",
+    "name": "Snowfall",
+    "summary": "From chill to chilly.",
+    "store_listing_id": "1301993378484850772",
+    "banner": "1217260346872430592",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            4620287,
+            1396431
+        ],
+        "button_colors": [
+            4507647,
+            40447
+        ],
+        "confetti_colors": [
+            4047871,
+            2718463,
+            16616447,
+            16727029
+        ]
+    },
+    "items": [
+        {
+            "type": 0,
+            "id": "1302012142530334762",
+            "sku_id": "1301993378484850773",
+            "asset": "a_65cce62b814c5d0c17ee2be00e5f2f77",
+            "label": "Snowflakes fall gently around the avatar, creating a winter wonderland."
+        }
+    ],
+    "type": 0,
+    "premium_type": 0,
+    "category_sku_id": "1217175518781243583",
+    "google_sku_ids": {}
+}

@@ -1,0 +1,37 @@
+{
+    "sku_id": "1301993378484850769",
+    "name": "2025 Balloons",
+    "summary": "Cheers to 2025!!",
+    "store_listing_id": "1301993378484850768",
+    "banner": "1217260346872430592",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            4620287,
+            1396431
+        ],
+        "button_colors": [
+            4507647,
+            40447
+        ],
+        "confetti_colors": [
+            4047871,
+            2718463,
+            16616447,
+            16727029
+        ]
+    },
+    "items": [
+        {
+            "type": 0,
+            "id": "1302012142530334760",
+            "sku_id": "1301993378484850769",
+            "asset": "a_b1da12c72766c550c1759bf5c9dc6c7a",
+            "label": "Gold, metallic, balloon-style numbers arranged to spell 2025."
+        }
+    ],
+    "type": 0,
+    "premium_type": 0,
+    "category_sku_id": "1217175518781243583",
+    "google_sku_ids": {}
+}

@@ -1,0 +1,37 @@
+{
+    "sku_id": "1301993378484850771",
+    "name": "Holiday Cat Ears",
+    "summary": "o<\u227d^\u1d16 \u03c9\u1d16^\u227c",
+    "store_listing_id": "1301993378484850770",
+    "banner": "1217260346872430592",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            4620287,
+            1396431
+        ],
+        "button_colors": [
+            4507647,
+            40447
+        ],
+        "confetti_colors": [
+            4047871,
+            2718463,
+            16616447,
+            16727029
+        ]
+    },
+    "items": [
+        {
+            "type": 0,
+            "id": "1302012142530334761",
+            "sku_id": "1301993378484850771",
+            "asset": "a_643e26a948548adb435b1078f273c426",
+            "label": "A Santa hat with a red, pointed top and fluffy white trim, designed with two prominent cat ears that stick up on either side"
+        }
+    ],
+    "type": 0,
+    "premium_type": 0,
+    "category_sku_id": "1217175518781243583",
+    "google_sku_ids": {}
+}
