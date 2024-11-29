@@ -119,6 +119,94 @@
                 "premium_type": 0,
                 "category_sku_id": "1309309974266118144",
                 "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1308169595055771749",
+                "name": "Rift Butterfly",
+                "summary": "The Rift Butterfly is a type of sentient Rift that is shaped like a butterfly. This reward is exclusive to the Fortnite Quest.",
+                "store_listing_id": "1308169595055771750",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-02-05T08:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1308169595055771751",
+                        "sku_id": "1308169595055771749",
+                        "asset": "a_3131e3e1f48493f2ccea616ba686c15e",
+                        "label": "A rift butterfly shines in the center of the avatar, flutters its wings, and returns to the top of the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
             }
         ]
     },
