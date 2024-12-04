@@ -1,0 +1,398 @@
+[
+    {
+        "sku_id": "1309668861943218229",
+        "name": "Lofi Girl",
+        "summary": null,
+        "store_listing_id": "1144058340327047248",
+        "banner": "1309668861964193803",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                2431770,
+                6761267
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": [
+            "1309668861817393263",
+            "1309668861846753372",
+            "1309668861871919316",
+            "1309668861901279422"
+        ],
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1309668861817393263",
+                "name": "Lofi Girl Snow Angel",
+                "summary": "Childhood memories...",
+                "store_listing_id": "1309668861829971968",
+                "banner": "1309668861964193803",
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861838233681",
+                        "sku_id": "1309668861817393263"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861817393263_1313328940605116497",
+                    "7": "1309668861817393263_1313328967142473789"
+                }
+            },
+            {
+                "sku_id": "1309668861846753372",
+                "name": "Lofi Girl Study Break",
+                "summary": "Everyone deserves a break, right?",
+                "store_listing_id": "1309668861859069983",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861863399565",
+                        "sku_id": "1309668861846753372"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861846753372_1313332010659479733",
+                    "7": "1309668861846753372_1313332024920117318"
+                }
+            },
+            {
+                "sku_id": "1309668861871919316",
+                "name": "Lofi Cat Zoomies (Festive)",
+                "summary": "Let the zoomies begin!",
+                "store_listing_id": "1309668861884497930",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861892759642",
+                        "sku_id": "1309668861871919316"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861871919316_1313329571533164624",
+                    "7": "1309668861871919316_1313329584548220988"
+                }
+            },
+            {
+                "sku_id": "1309668861901279422",
+                "name": "Lofi Cat Zoomies",
+                "summary": "Let the zoomies begin!",
+                "store_listing_id": "1313614969903775744",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861922119762",
+                        "sku_id": "1309668861901279422"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861901279422_1313329311918325800",
+                    "7": "1309668861901279422_1313329325361336370"
+                }
+            }
+        ]
+    }
+]
