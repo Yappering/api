@@ -585,6 +585,97 @@
                 }
             },
             {
+                "sku_id": "1309668861788033074",
+                "name": "Cozy Post-It",
+                "summary": "Light up your day.",
+                "store_listing_id": "1313615645484515328",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1309668861808869447",
+                        "sku_id": "1309668861788033074",
+                        "asset": "a_e671277ab6d18c0de00871347eed94a7",
+                        "label": "Decorative warm white stringlights and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861788033074_1313330074551848981",
+                    "7": "1309668861788033074_1313330088040992789"
+                }
+            },
+            {
                 "sku_id": "1309668861817393263",
                 "name": "Lofi Girl Snow Angel",
                 "summary": "Childhood memories...",

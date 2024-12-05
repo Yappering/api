@@ -18577,7 +18577,7 @@
         "benefits": []
     },
     {
-        "id": "1303068522821189662",
+        "id": "1287835633544331379",
         "summary": "Now you can see in the dark. But so can they...",
         "sku": {
             "id": "1287835633536209079",
@@ -18883,7 +18883,7 @@
         "benefits": []
     },
     {
-        "id": "1303074291713314816",
+        "id": "1158572178179108967",
         "summary": "Did I scare you?",
         "sku": {
             "id": "1158572178179108968",
@@ -18951,7 +18951,7 @@
         "benefits": []
     },
     {
-        "id": "1158572275507937341",
+        "id": "1290456274357456917",
         "summary": "Who keeps summoning these things?",
         "sku": {
             "id": "1158572275507937342",
@@ -19291,7 +19291,7 @@
         "benefits": []
     },
     {
-        "id": "1304489068570087496",
+        "id": "1282816431926546494",
         "summary": "Where day and night share equal ground.",
         "sku": {
             "id": "1282816431922085888",
@@ -19394,4 +19394,312 @@
     },
     {
         "id": "1304494262691565688",
-        "summary": "Getting r
+        "summary": "Getting ready for sweater weather.",
+        "sku": {
+            "id": "1159280677246742548",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Fall Foliage",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "fall-foliage",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Getting ready for sweater weather.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1159280844796596335",
+        "summary": "Ribbit.",
+        "sku": {
+            "id": "1159280847262859364",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lilypad Life",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lilypad-life",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Ribbit.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1285681070196396180",
+        "summary": "Ribbit.",
+        "sku": {
+            "id": "1285681070196396177",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Midnight Lilypad Life",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "midnight-lilypad-life",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Ribbit.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1306330662931927192",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1306330662927859723",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Bubble Tea Fanatic Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "bubble-tea-fanatic-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1099,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 899,
+                        "percentage": 18
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1306330662965477478",
+                "1306330663162609685"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1306330663074660544",
+        "summary": "One does not simply turn off munchie mode.",
+        "sku": {
+            "id": "1306330663070334996",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Neon Nibbles",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "neon-nibbles",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "One does not simply turn off munchie mode.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1286504131443298325",
+        "summary": "Where day and night share equal ground.",
+        "sku": {
+            "id": "1286504131439366184",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Autumn's Arbor (Aurora)",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "autumn-s-arbor-aurora",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Where day and night share equal ground.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1282816431989461013",
+        "summary": "Step inside and see autumn's beauty unfold.",
+        "sku": {
+            "id": "1282816431985004594",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Twilight Grove",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "twilight-grove",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Step inside and see autumn's beauty unfold.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1282820582353932318",
+        "summary": "Behold nature's dance.",
+        "sku": {
+            "id": "1282820582345408595",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Scarlet Leaves",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "scarlet-leaves",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Behold nature's dance.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1293373563193004062",
+        "summary": "Let\u2019s roll!",
+        "sku": {
+            "id": "1293373563184877618",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Violet Dice",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "violet-dice",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1299,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 999,
+                        "percentage": 23
+                    }
+                }
+            }
+        },
+        "description": "Let\u2019s roll!",
+        "published": true,
+        "benefits": []
+    }
+]
