@@ -1202,31 +1202,6 @@
                 "category_sku_id": "1309668861943218229",
                 "variants": [
                     {
-                        "sku_id": "1309668861758672997",
-                        "name": "Cozy Post-It (Festive)",
-                        "name_localizations": null,
-                        "summary": "Light up your day.",
-                        "summary_localizations": null,
-                        "type": 0,
-                        "store_listing_id": "1309668861771251722",
-                        "category_sku_id": "1309668861943218229",
-                        "premium_type": 0,
-                        "items": [
-                            {
-                                "type": 0,
-                                "id": "1309668861779513414",
-                                "sku_id": "1309668861758672997",
-                                "asset": "a_eeedc607577a90be18c61e27dbe0008e",
-                                "label": "Decorative stringlights in greens and yellows and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
-                            }
-                        ],
-                        "prices": null,
-                        "variant_label": "Cozy Post-It (Festive)",
-                        "variant_value": "#CC0C0B",
-                        "base_variant_sku_id": "1309668861788033074",
-                        "base_variant_name": "Cozy Post-It"
-                    },
-                    {
                         "sku_id": "1309668861788033074",
                         "name": "Cozy Post-It",
                         "name_localizations": null,
@@ -1248,6 +1223,31 @@
                         "prices": null,
                         "variant_label": "Original",
                         "variant_value": "#9DC8DF",
+                        "base_variant_sku_id": "1309668861788033074",
+                        "base_variant_name": "Cozy Post-It"
+                    },
+                    {
+                        "sku_id": "1309668861758672997",
+                        "name": "Cozy Post-It (Festive)",
+                        "name_localizations": null,
+                        "summary": "Light up your day.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1309668861771251722",
+                        "category_sku_id": "1309668861943218229",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1309668861779513414",
+                                "sku_id": "1309668861758672997",
+                                "asset": "a_eeedc607577a90be18c61e27dbe0008e",
+                                "label": "Decorative stringlights in greens and yellows and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Cozy Post-It (Festive)",
+                        "variant_value": "#CC0C0B",
                         "base_variant_sku_id": "1309668861788033074",
                         "base_variant_name": "Cozy Post-It"
                     }
@@ -1511,29 +1511,6 @@
                 "category_sku_id": "1309668861943218229",
                 "variants": [
                     {
-                        "sku_id": "1309668861871919316",
-                        "name": "Lofi Cat Zoomies (Festive)",
-                        "name_localizations": null,
-                        "summary": "Let the zoomies begin!",
-                        "summary_localizations": null,
-                        "type": 1,
-                        "store_listing_id": "1309668861884497930",
-                        "category_sku_id": "1309668861943218229",
-                        "premium_type": 0,
-                        "items": [
-                            {
-                                "type": 1,
-                                "id": "1309668861892759642",
-                                "sku_id": "1309668861871919316"
-                            }
-                        ],
-                        "prices": null,
-                        "variant_label": "Lofi Cat Zoomies (Festive)",
-                        "variant_value": "#CC0C0B",
-                        "base_variant_sku_id": "1309668861901279422",
-                        "base_variant_name": "Lofi Cat Zoomies"
-                    },
-                    {
                         "sku_id": "1309668861901279422",
                         "name": "Lofi Cat Zoomies",
                         "name_localizations": null,
@@ -1553,6 +1530,29 @@
                         "prices": null,
                         "variant_label": "Original",
                         "variant_value": "#FEE578",
+                        "base_variant_sku_id": "1309668861901279422",
+                        "base_variant_name": "Lofi Cat Zoomies"
+                    },
+                    {
+                        "sku_id": "1309668861871919316",
+                        "name": "Lofi Cat Zoomies (Festive)",
+                        "name_localizations": null,
+                        "summary": "Let the zoomies begin!",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1309668861884497930",
+                        "category_sku_id": "1309668861943218229",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1309668861892759642",
+                                "sku_id": "1309668861871919316"
+                            }
+                        ],
+                        "prices": null,
+                        "variant_label": "Lofi Cat Zoomies (Festive)",
+                        "variant_value": "#CC0C0B",
                         "base_variant_sku_id": "1309668861901279422",
                         "base_variant_name": "Lofi Cat Zoomies"
                     }
