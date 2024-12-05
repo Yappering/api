@@ -1,15 +1,15 @@
 [
     {
-        "sku_id": "1306330663213072494",
-        "name": "Kawaii Mode",
-        "summary": "When :3 is your game face.",
-        "store_listing_id": "1306330663208747008",
-        "banner": "1306330663229718579",
+        "sku_id": "1309668861943218229",
+        "name": "Lofi Girl",
+        "summary": "Cozy vibes with Lofi Girl.",
+        "store_listing_id": "1309668861934833704",
+        "banner": "1309668861964193803",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                15910626,
-                16355804
+                2431770,
+                6761267
             ],
             "button_colors": [
                 5793266,
@@ -23,41 +23,34 @@
                 9739511
             ]
         },
-        "logo": "1306330663225397249",
+        "logo": "1309668861951479888",
         "hero_ranking": [
-            "1306330662898372639",
-            "1306330662927859723",
-            "1306330663015809024",
-            "1306330662940311726",
-            "1306330663137443991",
-            "1306330662990643252",
-            "1306330663183581247",
-            "1306330663036780695",
-            "1306330662965477478",
-            "1306330663162609685",
-            "1306330663070334996",
-            "1306330663116472371",
-            "1306330663091306608"
+            "1309668861548957738",
+            "1309668861578186803",
+            "1309668861674786877",
+            "1309668861704146984",
+            "1309668861645426729",
+            "1309668861599285249"
         ],
-        "mobile_bg": "1306330663254884372",
-        "pdp_bg": "1306330663242305656",
-        "success_modal_bg": "1306330663263404102",
-        "mobile_banner": "1313681337064095825",
-        "featured_block": "1306330663271665694",
-        "hero_banner": "1306330663280050186",
-        "hero_logo": "1306330663284375663",
+        "mobile_bg": "1309668861989359757",
+        "pdp_bg": "1309668861980839999",
+        "success_modal_bg": "1309668861997744231",
+        "mobile_banner": "1309668861972578345",
+        "featured_block": "1309668862010200146",
+        "hero_banner": "1309668862018719844",
+        "hero_logo": "1309668862031036487",
         "products": [
             {
-                "sku_id": "1306330662898372639",
-                "name": "Cuddly Squad Bundle",
+                "sku_id": "1309668861548957738",
+                "name": "Lofi Girl Bundle",
                 "summary": "A bundle of collectibles.",
-                "store_listing_id": "1306330662910951536",
-                "banner": "1306330663229718579",
+                "store_listing_id": "1309668861565730866",
+                "banner": "1309668861964193803",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        15910626,
-                        16355804
+                        2431770,
+                        6761267
                     ],
                     "button_colors": [
                         5793266,
@@ -77,7 +70,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1099,
+                                    "amount": 1799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -89,7 +82,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 899,
+                                    "amount": 1399,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -101,7 +94,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1100,
+                                    "amount": 1800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -113,7 +106,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 900,
+                                    "amount": 1400,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -124,25 +117,25 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1306330663007424512",
-                        "sku_id": "1306330662990643252",
-                        "asset": "a_f081c6b2c85c5ebe5df42f1c24d45bb5",
-                        "label": "A cuddly pink bunny plopped comfortably atop the avatar is awoken by sounds coming from a nearby matching pink bunny microphone. The bunny frets not and resumes slumber."
+                        "id": "1313682954589044736",
+                        "sku_id": "1309668861620260874",
+                        "asset": "a_60cb281fac6d8f558efaf6dd9fe4dbe4",
+                        "label": "The avatar wears Lofi Girl's signature red scarf while listening to lofi music playing from lofi-branded headphones, mastering the 'chill and cozy' look."
                     },
                     {
                         "type": 1,
-                        "id": "1306330663154225194",
-                        "sku_id": "1306330663137443991"
+                        "id": "1309668861838233681",
+                        "sku_id": "1309668861817393263"
                     }
                 ],
                 "type": 1000,
                 "premium_type": 0,
-                "category_sku_id": "1306330663213072494",
+                "category_sku_id": "1309668861943218229",
                 "bundled_products": [
                     {
-                        "sku_id": "1306330662990643252",
-                        "name": "Bunny Zzzs",
-                        "summary": "Can the snoozers hop in voice already?!",
+                        "sku_id": "1309668861620260874",
+                        "name": "Lofi Girl Outfit",
+                        "summary": "Embrace your inner Lofi Girl.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -151,7 +144,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -163,7 +156,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -175,7 +168,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -187,7 +180,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -197,9 +190,9 @@
                         }
                     },
                     {
-                        "sku_id": "1306330663137443991",
-                        "name": "Plushie Party",
-                        "summary": "If the party never ends... the plushie limit does not exist!!",
+                        "sku_id": "1309668861817393263",
+                        "name": "Lofi Girl Snow Angel",
+                        "summary": "Childhood memories...",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -208,7 +201,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -220,7 +213,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -232,7 +225,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -244,7 +237,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -257,16 +250,16 @@
                 "google_sku_ids": {}
             },
             {
-                "sku_id": "1306330662927859723",
-                "name": "Bubble Tea Fanatic Bundle",
+                "sku_id": "1309668861578186803",
+                "name": "Lofi Cat Bundle",
                 "summary": "A bundle of collectibles.",
-                "store_listing_id": "1306330662931927192",
-                "banner": "1306330663229718579",
+                "store_listing_id": "1309668861586706482",
+                "banner": "1309668861964193803",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        15910626,
-                        16355804
+                        2431770,
+                        6761267
                     ],
                     "button_colors": [
                         5793266,
@@ -286,7 +279,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1099,
+                                    "amount": 1799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -298,7 +291,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 899,
+                                    "amount": 1399,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -310,7 +303,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1100,
+                                    "amount": 1800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -322,7 +315,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 900,
+                                    "amount": 1400,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -333,25 +326,25 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1306330662982258758",
-                        "sku_id": "1306330662965477478",
-                        "asset": "a_5b1319abfc9f928479b68a73635f591d",
-                        "label": "The avatar looks as sweet as ever as it sits inside a plastic cup of delicious pink bubble tea filled with vibrant, purple pearls. A brightly colored straw is poked into the top of the lid."
+                        "id": "1313683034377031680",
+                        "sku_id": "1309668861645426729",
+                        "asset": "a_96f65d0aacc4a94b50ef7fb656d5826d",
+                        "label": "Lofi Girl's friendly orange cat companion lies happily on its back, hugging your avatar on its belly, eyes closed as it playfully gnaws on your avatar like a chew toy."
                     },
                     {
                         "type": 1,
-                        "id": "1306330663175196753",
-                        "sku_id": "1306330663162609685"
+                        "id": "1309668861922119762",
+                        "sku_id": "1309668861901279422"
                     }
                 ],
                 "type": 1000,
                 "premium_type": 0,
-                "category_sku_id": "1306330663213072494",
+                "category_sku_id": "1309668861943218229",
                 "bundled_products": [
                     {
-                        "sku_id": "1306330662965477478",
-                        "name": "Bubble Tea",
-                        "summary": "Of course I need bubble tea every day. It\u2019s called self-care.",
+                        "sku_id": "1309668861645426729",
+                        "name": "Playful Lofi Cat",
+                        "summary": "Goofy, fluffy, chunky...",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -360,7 +353,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -372,7 +365,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -384,7 +377,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -396,7 +389,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -406,9 +399,9 @@
                         }
                     },
                     {
-                        "sku_id": "1306330663162609685",
-                        "name": "Bubble Tea Bliss",
-                        "summary": "Straws in, pearls out.",
+                        "sku_id": "1309668861901279422",
+                        "name": "Lofi Cat Zoomies",
+                        "summary": "Let the zoomies begin!",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -417,7 +410,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -429,7 +422,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -441,7 +434,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -453,7 +446,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -466,16 +459,16 @@
                 "google_sku_ids": {}
             },
             {
-                "sku_id": "1306330663015809024",
-                "name": "Sproutling",
-                "summary": "Your very own bud who\u2019ll always root for you!",
-                "store_listing_id": "1306330663020134492",
-                "banner": "1306330663229718579",
+                "sku_id": "1309668861674786877",
+                "name": "Sleepy ChilledCow",
+                "summary": "Zzzzzzzzzzzzzzzzzzzz",
+                "store_listing_id": "1309668861687103528",
+                "banner": "1309668861964193803",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        15910626,
-                        16355804
+                        2431770,
+                        6761267
                     ],
                     "button_colors": [
                         5793266,
@@ -495,7 +488,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 599,
+                                    "amount": 999,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -507,7 +500,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 499,
+                                    "amount": 799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -519,7 +512,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 600,
+                                    "amount": 1000,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -531,7 +524,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 500,
+                                    "amount": 800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -542,31 +535,31 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1306330663028396144",
-                        "sku_id": "1306330663015809024",
-                        "asset": "a_3012fad396abbf24e325431800b51510",
-                        "label": "Atop the avatar sits an adorably tiny green sprout that dances and wiggles happily from side to side, emitting sparkles of joy."
+                        "id": "1309668861691433070",
+                        "sku_id": "1309668861674786877",
+                        "asset": "a_6649e251a23f24935471ee02c212675b",
+                        "label": "Lofi Girl's sleepy cow companion dozes on top of your avatar, orange headphones fitted snugly on its head while snoozing out Zzz's, probably dreaming of mellow beats."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1306330663213072494",
+                "category_sku_id": "1309668861943218229",
                 "google_sku_ids": {
-                    "5": "1306330663015809024_1307049713325047878",
-                    "7": "1306330663015809024_1307049741342871653"
+                    "5": "1309668861674786877_1313331269957976155",
+                    "7": "1309668861674786877_1313331283455377489"
                 }
             },
             {
-                "sku_id": "1306330662940311726",
-                "name": "Cat Ear Headset",
-                "summary": "(O)\u227d^ \u1d16 \u03c9 \u1d16 ^\u227c (O)",
-                "store_listing_id": "1306330662948831365",
-                "banner": "1306330663229718579",
+                "sku_id": "1309668861704146984",
+                "name": "Study Session",
+                "summary": "The student starter pack.",
+                "store_listing_id": "1309668861712531508",
+                "banner": "1309668861964193803",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        15910626,
-                        16355804
+                        2431770,
+                        6761267
                     ],
                     "button_colors": [
                         5793266,
@@ -586,7 +579,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 599,
+                                    "amount": 999,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -598,7 +591,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 499,
+                                    "amount": 799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -610,7 +603,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 600,
+                                    "amount": 1000,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -622,7 +615,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 500,
+                                    "amount": 800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -633,18 +626,18 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1306330662957092976",
-                        "sku_id": "1306330662940311726",
-                        "asset": "a_fa39ba4d9eff38d2eeb47ebcb623e4ca",
-                        "label": "The avatar wears a snug pink headset with cat ears, perfect for those cozy gaming vibes."
+                        "id": "1313683086050988114",
+                        "sku_id": "1309668861704146984",
+                        "asset": "a_28fbe43ba1ee217576dee69712bbb628",
+                        "label": "Lofi Girl's iconic study desk lamp shines its light on a pen scribbling notes onto a notebook. Her red-striped cup filled with pencils sits nearby, all guarded by her loyal moose plushie."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1306330663213072494",
+                "category_sku_id": "1309668861943218229",
                 "google_sku_ids": {
-                    "5": "1306330662940311726_1307050912342216785",
-                    "7": "1306330662940311726_1308165888154931292"
+                    "5": "1309668861704146984_1313328911941111861",
+                    "7": "1309668861704146984_1313328938755428352"
                 }
             }
         ]
