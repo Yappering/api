@@ -1246,7 +1246,7 @@
                             }
                         ],
                         "prices": null,
-                        "variant_label": "Cozy Post-It (Festive)",
+                        "variant_label": "Festive",
                         "variant_value": "#CC0C0B",
                         "base_variant_sku_id": "1309668861788033074",
                         "base_variant_name": "Cozy Post-It"
@@ -1551,7 +1551,7 @@
                             }
                         ],
                         "prices": null,
-                        "variant_label": "Lofi Cat Zoomies (Festive)",
+                        "variant_label": "Festive",
                         "variant_value": "#CC0C0B",
                         "base_variant_sku_id": "1309668861901279422",
                         "base_variant_name": "Lofi Cat Zoomies"

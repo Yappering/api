@@ -12,7 +12,28 @@
                 "a_96f65d0aacc4a94b50ef7fb656d5826d"
             ],
             "dismissible_content": 422,
-            "ref_target_background": null
+            "ref_target_background": {
+                "style": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/assets/content/8655d05d0c4a393a46a82905a66c5ff8723cf807051b37229fc49008fcddbd09.png",
+                        "dark": "https://cdn.discordapp.com/assets/content/8655d05d0c4a393a46a82905a66c5ff8723cf807051b37229fc49008fcddbd09.png"
+                    }
+                }
+            }
         },
         "2": {
             "type": 2,
