@@ -550,10 +550,10 @@
                 }
             },
             {
-                "sku_id": "1309668861704146984",
-                "name": "Study Session",
-                "summary": "The student starter pack.",
-                "store_listing_id": "1309668861712531508",
+                "sku_id": "1309668861758672997",
+                "name": "Cozy Post-It (Festive)",
+                "summary": "Light up your day.",
+                "store_listing_id": "1309668861771251722",
                 "banner": "1309668861964193803",
                 "unpublished_at": null,
                 "styles": {
@@ -626,18 +626,18 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1313683086050988114",
-                        "sku_id": "1309668861704146984",
-                        "asset": "a_28fbe43ba1ee217576dee69712bbb628",
-                        "label": "Lofi Girl's iconic study desk lamp shines its light on a pen scribbling notes onto a notebook. Her red-striped cup filled with pencils sits nearby, all guarded by her loyal moose plushie."
+                        "id": "1309668861779513414",
+                        "sku_id": "1309668861758672997",
+                        "asset": "a_eeedc607577a90be18c61e27dbe0008e",
+                        "label": "Decorative stringlights in greens and yellows and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1309668861943218229",
                 "google_sku_ids": {
-                    "5": "1309668861704146984_1313328911941111861",
-                    "7": "1309668861704146984_1313328938755428352"
+                    "5": "1309668861758672997_1313331853981122672",
+                    "7": "1309668861758672997_1313331880078217247"
                 }
             }
         ]
