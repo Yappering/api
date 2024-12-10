@@ -235,6 +235,136 @@
                 }
             },
             {
+                "sku_id": "1314020996776329279",
+                "name": "Aurora Dreams",
+                "summary": "The perfect sky to dream under.",
+                "store_listing_id": "1314020996822601798",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020996856152104",
+                        "sku_id": "1314020996776329279"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020996776329279_1315916174801899623",
+                    "7": "1314020996776329279_1315916189540683798"
+                }
+            },
+            {
+                "sku_id": "1314020996864413717",
+                "name": "Penguins on Ice",
+                "summary": "Living life on thin ice and loving every moment.",
+                "store_listing_id": "1314020996872933437",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020996881318009",
+                        "sku_id": "1314020996864413717"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020996864413717_1315916118417866836",
+                    "7": "1314020996864413717_1315916133454581760"
+                }
+            },
+            {
                 "sku_id": "1146328960951668776",
                 "name": "Deck the Halls",
                 "summary": "Keep out of reach from cats.",
@@ -300,6 +430,266 @@
                 }
             },
             {
+                "sku_id": "1314020996927328276",
+                "name": "Deck the Halls (Aurora)",
+                "summary": "Keep out of reach from cats.",
+                "store_listing_id": "1314020996940042290",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020996952621138",
+                        "sku_id": "1314020996927328276"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020996927328276_1315918024452083732",
+                    "7": "1314020996927328276_1315918052289679400"
+                }
+            },
+            {
+                "sku_id": "1314020996960882789",
+                "name": "Deck the Halls (Dusk)",
+                "summary": "Keep out of reach from cats.",
+                "store_listing_id": "1314020996973334600",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020996981981185",
+                        "sku_id": "1314020996960882789"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020996960882789_1315916830547902465",
+                    "7": "1314020996960882789_1315916845123112960"
+                }
+            },
+            {
+                "sku_id": "1314020996990242816",
+                "name": "Deck the Halls (Ember)",
+                "summary": "Keep out of reach from cats.",
+                "store_listing_id": "1314020997002956810",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997011341372",
+                        "sku_id": "1314020996990242816"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020996990242816_1315915507567693875",
+                    "7": "1314020996990242816_1315915531626483783"
+                }
+            },
+            {
+                "sku_id": "1314020997019602984",
+                "name": "Deck the Halls (Mix)",
+                "summary": "Keep out of reach from cats.",
+                "store_listing_id": "1314020997028122706",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997036507268",
+                        "sku_id": "1314020997019602984"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020997019602984_1315915620662906880",
+                    "7": "1314020997019602984_1315915647276027954"
+                }
+            },
+            {
                 "sku_id": "1146328961417224193",
                 "name": "Snowy Shenanigans",
                 "summary": "Gone in a flurry.",
@@ -362,6 +752,266 @@
                 "google_sku_ids": {
                     "5": "1146328961417224193_1259923433572012124",
                     "7": "1146328961417224193_1259923444334858300"
+                }
+            },
+            {
+                "sku_id": "1314020997078323200",
+                "name": "Snowy Shenanigans (Giddy)",
+                "summary": "Gone in a flurry.",
+                "store_listing_id": "1314020997091037254",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997099421796",
+                        "sku_id": "1314020997078323200"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020997078323200_1315915153270771734",
+                    "7": "1314020997078323200_1315915178256109569"
+                }
+            },
+            {
+                "sku_id": "1314020997107683411",
+                "name": "Snowy Shenanigans (Jolly)",
+                "summary": "Gone in a flurry.",
+                "store_listing_id": "1314020997120397344",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997132714015",
+                        "sku_id": "1314020997107683411"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020997107683411_1315915974964416572",
+                    "7": "1314020997107683411_1315916000520310834"
+                }
+            },
+            {
+                "sku_id": "1314020997137043578",
+                "name": "Snowy Shenanigans (Smooch)",
+                "summary": "Gone in a flurry.",
+                "store_listing_id": "1314020997145563197",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997158141996",
+                        "sku_id": "1314020997137043578"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020997137043578_1315915196035764234",
+                    "7": "1314020997137043578_1315915210665492490"
+                }
+            },
+            {
+                "sku_id": "1314020997166403624",
+                "name": "Snowy Shenanigans (Suave)",
+                "summary": "Gone in a flurry.",
+                "store_listing_id": "1314020997174923326",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1314020997187239996",
+                        "sku_id": "1314020997166403624"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1314020997166403624_1315917813931577394",
+                    "7": "1314020997166403624_1315917826871267389"
                 }
             }
         ]
