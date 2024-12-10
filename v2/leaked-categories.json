@@ -1,0 +1,369 @@
+[
+    {
+        "sku_id": "1314020997204283476",
+        "name": "Winter Wonderland",
+        "summary": null,
+        "store_listing_id": "1174459250668490833",
+        "banner": "1314020997225123841",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                4620287,
+                1396431
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1174459480348565554",
+                "name": "Fresh Pine",
+                "summary": "Ah... the smell of winter.",
+                "store_listing_id": "1314036495266611202",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1174459501873745940",
+                        "sku_id": "1174459480348565554",
+                        "asset": "a_a0fafb7c7ee7f1e5b1442f44f3aa14b7",
+                        "label": "A pine branch crown made of acorns, cones, and pine branches sprinkled with snow decorates this user's profile. Winter is here"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1174459480348565554_1259923348557926463",
+                    "7": "1174459480348565554_1259923359068717126"
+                }
+            },
+            {
+                "sku_id": "1174459546748600481",
+                "name": "Snow Globe",
+                "summary": "Try not to shake too hard.",
+                "store_listing_id": "1314036495266611201",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1184292714846621768",
+                        "sku_id": "1174459546748600481",
+                        "asset": "a_2ca5fb1ecf0dac410b38d76cb4aae7f9",
+                        "label": "The avatar is trapped in a snowglobe. Don't ask me how to get it out."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1174459546748600481_1259923370816835595",
+                    "7": "1174459546748600481_1259923380837290004"
+                }
+            },
+            {
+                "sku_id": "1174460780842856588",
+                "name": "Fairy Lights",
+                "summary": "String up some holiday cheer.",
+                "store_listing_id": "1314036495266611200",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1174460802946834503",
+                        "sku_id": "1174460780842856588",
+                        "asset": "a_88f42fb7360d8224a670a50c3496f315",
+                        "label": "Festive string lights wrap around the profile photo, twinkling into the night."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1174460780842856588_1259923390450499755",
+                    "7": "1174460780842856588_1259923400789332008"
+                }
+            },
+            {
+                "sku_id": "1146328960951668776",
+                "name": "Deck the Halls",
+                "summary": "Keep out of reach from cats.",
+                "store_listing_id": "1314036495266611203",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1146328960481886318",
+                        "sku_id": "1146328960951668776"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1146328960951668776_1259923411074027661",
+                    "7": "1146328960951668776_1259923421156999248"
+                }
+            },
+            {
+                "sku_id": "1146328961417224193",
+                "name": "Snowy Shenanigans",
+                "summary": "Gone in a flurry.",
+                "store_listing_id": "1314036495266611204",
+                "banner": "1314020997225123841",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1146328960951668777",
+                        "sku_id": "1146328961417224193"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1314020997204283476",
+                "google_sku_ids": {
+                    "5": "1146328961417224193_1259923433572012124",
+                    "7": "1146328961417224193_1259923444334858300"
+                }
+            }
+        ]
+    }
+]
