@@ -161,7 +161,7 @@
                     {
                         "sku_id": "1314020996327542894",
                         "name": "Aurora",
-                        "summary": "Even the stars can't help but admire the view.",
+                        "summary": "Even the stars can\u2019t help but admire the view.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -427,7 +427,7 @@
                     {
                         "sku_id": "1146328960951668776",
                         "name": "Deck the Halls",
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -636,7 +636,7 @@
                     {
                         "sku_id": "1314020996927328276",
                         "name": "Deck the Halls (Aurora)",
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -845,7 +845,7 @@
                     {
                         "sku_id": "1314020996990242816",
                         "name": "Deck the Halls (Ember)",
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -1054,7 +1054,7 @@
                     {
                         "sku_id": "1314020996960882789",
                         "name": "Deck the Halls (Dusk)",
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -1263,7 +1263,7 @@
                     {
                         "sku_id": "1314020997019602984",
                         "name": "Deck the Halls (Mix)",
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -1323,7 +1323,7 @@
             {
                 "sku_id": "1314020996327542894",
                 "name": "Aurora",
-                "summary": "Even the stars can't help but admire the view.",
+                "summary": "Even the stars can\u2019t help but admire the view.",
                 "store_listing_id": "1314020996340256808",
                 "banner": "1314020997225123841",
                 "unpublished_at": null,
@@ -1414,7 +1414,7 @@
             {
                 "sku_id": "1314020996361093171",
                 "name": "Polar Bear Hat",
-                "summary": "Soft, cuddly, and a little bit snuffly.",
+                "summary": "Soft, cuddly and a little bit snuffly.",
                 "store_listing_id": "1314020996369616896",
                 "banner": "1314020997225123841",
                 "unpublished_at": null,
@@ -2251,7 +2251,7 @@
             {
                 "sku_id": "1146328960951668776",
                 "name": "Deck the Halls",
-                "summary": "Keep out of reach from cats.",
+                "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1314036495266611203",
                 "banner": "1314020997225123841",
                 "unpublished_at": null,
@@ -2331,7 +2331,7 @@
                         "sku_id": "1146328960951668776",
                         "name": "Deck the Halls",
                         "name_localizations": null,
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "summary_localizations": null,
                         "type": 1,
                         "store_listing_id": "1146328960481886319",
@@ -2354,7 +2354,7 @@
                         "sku_id": "1314020996927328276",
                         "name": "Deck the Halls (Aurora)",
                         "name_localizations": null,
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "summary_localizations": null,
                         "type": 1,
                         "store_listing_id": "1314020996940042290",
@@ -2377,7 +2377,7 @@
                         "sku_id": "1314020996960882789",
                         "name": "Deck the Halls (Dusk)",
                         "name_localizations": null,
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "summary_localizations": null,
                         "type": 1,
                         "store_listing_id": "1314020996973334600",
@@ -2400,7 +2400,7 @@
                         "sku_id": "1314020996990242816",
                         "name": "Deck the Halls (Ember)",
                         "name_localizations": null,
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "summary_localizations": null,
                         "type": 1,
                         "store_listing_id": "1314020997002956810",
@@ -2423,7 +2423,7 @@
                         "sku_id": "1314020997019602984",
                         "name": "Deck the Halls (Mix)",
                         "name_localizations": null,
-                        "summary": "Keep out of reach from cats.",
+                        "summary": "Keep out of reach of cats.",
                         "summary_localizations": null,
                         "type": 1,
                         "store_listing_id": "1314020997028122706",
@@ -2680,7 +2680,7 @@
         "success_modal_bg": "1309668861997744231",
         "mobile_banner": "1309668861972578345",
         "featured_block": "1309668862010200146",
-        "hero_banner": "1309668862018719844",
+        "hero_banner": null,
         "hero_logo": "1309668862031036487",
         "products": [
             {
@@ -4201,7 +4201,15 @@
                     }
                 ]
             }
-        ]
+        ],
+        "banner_asset": {
+            "animated": "https://cdn.discordapp.com/assets/content/c9418e682254ba6e0b02ed0368c0cdfd87c237932a70f318d4ac2996e09522da.webm",
+            "static": "https://cdn.discordapp.com/assets/content/362340065b48f91b7008c6f0fb082b7b971ae775da48bf159539ac8384093ed9.jpg"
+        },
+        "hero_banner_asset": {
+            "animated": "https://cdn.discordapp.com/assets/content/781968526c01228e7f75a671189720801a825d21e3815c013aff401d13058d3b.webm",
+            "static": "https://cdn.discordapp.com/assets/content/550df6ef54259a4c6790e35b42f043c0236ecfa266fad2dc63a57e0405054197.jpg"
+        }
     },
     {
         "sku_id": "1306330663213072494",
@@ -5666,7 +5674,7 @@
             }
         ],
         "banner_asset": {
-            "animated": "https://cdn.discordapp.com/assets/content/6d65dc8e86ffdeed50ea47de3770044e6e65ee9b87eb89486cb6af8a55c7caf0.webm",
+            "animated": "https://cdn.discordapp.com/assets/content/7a496dad23ec14aedf77b708d6824211c9eb6a19808dd6d50dc08abd3290c5f6.webm",
             "static": "https://cdn.discordapp.com/assets/content/6866ff41f51bce49fba9d8a40b8eacd8989d0ad6c070e01fcbdac0d1f7dac7fc.jpg"
         },
         "hero_banner_asset": {
