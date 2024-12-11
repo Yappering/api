@@ -1205,7 +1205,7 @@
                 "bundled_products": [
                     {
                         "sku_id": "1314020996516286485",
-                        "name": "String Lights (Mix)",
+                        "name": "Fairy Lights (Mix)",
                         "summary": "String up some holiday cheer.",
                         "type": 0,
                         "premium_type": 0,
@@ -1683,7 +1683,7 @@
                     },
                     {
                         "sku_id": "1314020996516286485",
-                        "name": "String Lights (Mix)",
+                        "name": "Fairy Lights (Mix)",
                         "name_localizations": null,
                         "summary": "String up some holiday cheer.",
                         "summary_localizations": null,
