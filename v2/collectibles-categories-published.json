@@ -1,7 +1,7 @@
 [
     {
         "sku_id": "1314020997204283476",
-        "name": "Winter",
+        "name": "Winter Wonderland",
         "summary": "Tis the season.",
         "store_listing_id": "1314020997195763753",
         "banner": "1314020997225123841",
@@ -277,7 +277,7 @@
             },
             {
                 "sku_id": "1314020996227006484",
-                "name": "String Lights Bundle",
+                "name": "Fairy Lights Bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996239462463",
                 "banner": "1314020997225123841",
@@ -486,7 +486,7 @@
             },
             {
                 "sku_id": "1314020996252176444",
-                "name": "Aurora String Lights Bundle",
+                "name": "Aurora Fairy Lights Bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996264755210",
                 "banner": "1314020997225123841",
@@ -578,7 +578,7 @@
                 "bundled_products": [
                     {
                         "sku_id": "1314020996432400404",
-                        "name": "String Lights (Aurora)",
+                        "name": "Fairy Lights (Aurora)",
                         "summary": "String up some holiday cheer.",
                         "type": 0,
                         "premium_type": 0,
@@ -695,7 +695,7 @@
             },
             {
                 "sku_id": "1314020996273016863",
-                "name": "Ember String Lights Bundle",
+                "name": "Ember Fairy Lights Bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996281536574",
                 "banner": "1314020997225123841",
@@ -787,7 +787,7 @@
                 "bundled_products": [
                     {
                         "sku_id": "1314020996461760542",
-                        "name": "String Lights (Ember)",
+                        "name": "Fairy Lights (Ember)",
                         "summary": "String up some holiday cheer.",
                         "type": 0,
                         "premium_type": 0,
@@ -904,7 +904,7 @@
             },
             {
                 "sku_id": "1314020996289921154",
-                "name": "Dusk String Lights Bundle",
+                "name": "Dusk Fairy Lights Bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996302376960",
                 "banner": "1314020997225123841",
@@ -996,7 +996,7 @@
                 "bundled_products": [
                     {
                         "sku_id": "1314020996491116575",
-                        "name": "String Lights (Dusk)",
+                        "name": "Fairy Lights (Dusk)",
                         "summary": "String up some holiday cheer.",
                         "type": 0,
                         "premium_type": 0,
@@ -1113,7 +1113,7 @@
             },
             {
                 "sku_id": "1314020996310896672",
-                "name": "Mix String Lights Bundle",
+                "name": "Mix Fairy Lights Bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996319281292",
                 "banner": "1314020997225123841",
@@ -1595,7 +1595,7 @@
             },
             {
                 "sku_id": "1314020996432400404",
-                "name": "String Lights (Aurora)",
+                "name": "Fairy Lights (Aurora)",
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996440920114",
                 "banner": "1314020997225123841",
@@ -1686,7 +1686,7 @@
             },
             {
                 "sku_id": "1314020996461760542",
-                "name": "String Lights (Ember)",
+                "name": "Fairy Lights (Ember)",
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996470280202",
                 "banner": "1314020997225123841",
@@ -1777,7 +1777,7 @@
             },
             {
                 "sku_id": "1314020996491116575",
-                "name": "String Lights (Dusk)",
+                "name": "Fairy Lights (Dusk)",
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996495446157",
                 "banner": "1314020997225123841",
@@ -2141,7 +2141,7 @@
             },
             {
                 "sku_id": "1314020996600172554",
-                "name": "Snowglobe (Pink)",
+                "name": "Snow Globe (Pink)",
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996608692284",
                 "banner": "1314020997225123841",
@@ -2232,7 +2232,7 @@
             },
             {
                 "sku_id": "1314020996629532686",
-                "name": "Snowglobe (Blue)",
+                "name": "Snow Globe (Blue)",
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996638052392",
                 "banner": "1314020997225123841",
@@ -2323,7 +2323,7 @@
             },
             {
                 "sku_id": "1314020996663087154",
-                "name": "Snowglobe (Green)",
+                "name": "Snow Globe (Green)",
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996671606895",
                 "banner": "1314020997225123841",
@@ -21703,7 +21703,7 @@
         "pdp_bg": "1262491137386614809",
         "success_modal_bg": "1262760748120014868",
         "mobile_banner": "1262491137386614808",
-        "featured_block": null,
+        "featured_block": "1316515217014001665",
         "hero_banner": null,
         "hero_logo": null,
         "products": [
