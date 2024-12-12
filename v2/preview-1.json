@@ -1,7 +1,7 @@
 [
     {
         "sku_id": "1314020997204283476",
-        "name": "Winter",
+        "name": "Winter Wonderland",
         "summary": "Tis the season.",
         "store_listing_id": "1314020997195763753",
         "banner": "1314020997225123841",
@@ -72,7 +72,7 @@
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996214427648",
                 "banner": "1314020997225123841",
-                "unpublished_at": null,
+                "unpublished_at": "2025-01-15T03:59:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -281,7 +281,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1174460755660247182",
                 "banner": "1314020997225123841",
-                "unpublished_at": null,
+                "unpublished_at": "2025-01-15T03:59:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -372,7 +372,7 @@
                 "summary": "Living life on thin ice and loving every moment.",
                 "store_listing_id": "1314020996872933437",
                 "banner": "1314020997225123841",
-                "unpublished_at": null,
+                "unpublished_at": "2025-01-15T03:59:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -461,7 +461,7 @@
                 "summary": "Soft, cuddly, and a little bit snuffly.",
                 "store_listing_id": "1314020996369616896",
                 "banner": "1314020997225123841",
-                "unpublished_at": null,
+                "unpublished_at": "2025-01-15T03:59:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
