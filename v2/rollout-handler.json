@@ -144,5 +144,20 @@
             }
         ],
         "rolled_out_treatment": -1
+    },
+    {
+        "id": 9,
+        "name": "Profiles Plus Marketing Variants",
+        "handle": "2024-12_profiles_plus_marketing_variants",
+        "treatments": [
+            {
+                "id": -1
+            },
+            {
+                "id": 1,
+                "title": "Paper Beach V2"
+            }
+        ],
+        "rolled_out_treatment": -1
     }
 ]
