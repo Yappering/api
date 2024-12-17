@@ -10657,44 +10657,6 @@
         "benefits": []
     },
     {
-        "id": "1314020996319281292",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1314020996310896672",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Mix String Lights Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "mix-string-lights-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1099,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 899,
-                        "percentage": 18
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1314020996516286485",
-                "1314020997019602984"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
         "id": "1314020996340256808",
         "summary": "Even the stars can't help but admire the view.",
         "sku": {
@@ -11034,74 +10996,6 @@
         "benefits": []
     },
     {
-        "id": "1309668861653811294",
-        "summary": "Goofy, fluffy, chunky...",
-        "sku": {
-            "id": "1309668861645426729",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Playful Lofi Cat",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "playful-lofi-cat",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Goofy, fluffy, chunky...",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861712531508",
-        "summary": "The student starter pack.",
-        "sku": {
-            "id": "1309668861704146984",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Study Session",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "study-session",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "The student starter pack.",
-        "published": true,
-        "benefits": []
-    },
-    {
         "id": "1314020996440920114",
         "summary": "String up some holiday cheer.",
         "sku": {
@@ -11238,7 +11132,7 @@
         "benefits": []
     },
     {
-        "id": "1314036495266611203",
+        "id": "1146328960481886319",
         "summary": "Keep out of reach from cats.",
         "sku": {
             "id": "1146328960951668776",
@@ -11302,40 +11196,6 @@
             }
         },
         "description": "Keep out of reach from cats.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1314020997091037254",
-        "summary": "Gone in a flurry.",
-        "sku": {
-            "id": "1314020997078323200",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Snowy Shenanigans (Giddy)",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "snowy-shenanigans-giddy",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 599,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 499,
-                        "percentage": 17
-                    }
-                }
-            }
-        },
-        "description": "Gone in a flurry.",
         "published": true,
         "benefits": []
     },
@@ -12212,358 +12072,6 @@
         "benefits": []
     },
     {
-        "id": "1309668861565730866",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1309668861548957738",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Girl Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-girl-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1799,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 1399,
-                        "percentage": 22
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1309668861620260874",
-                "1309668861817393263"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861586706482",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1309668861578186803",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Cat Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-cat-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1799,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 1399,
-                        "percentage": 22
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1309668861645426729",
-                "1309668861901279422"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861607546902",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1309668861599285249",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Study Session Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "study-session-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1799,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 1399,
-                        "percentage": 22
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1309668861704146984",
-                "1309668861846753372"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861624451162",
-        "summary": "Embrace your inner Lofi Girl.",
-        "sku": {
-            "id": "1309668861620260874",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Girl Outfit",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-girl-outfit",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Embrace your inner Lofi Girl.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861687103528",
-        "summary": "Zzzzzzzzzzzzzzzzzzzz",
-        "sku": {
-            "id": "1309668861674786877",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Sleepy ChilledCow",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "sleepy-chilledcow",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Zzzzzzzzzzzzzzzzzzzz",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861741891624",
-        "summary": "Warm hugs from Mochi, Froggy and Birdie!",
-        "sku": {
-            "id": "1309668861729312898",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Group Hug",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "group-hug",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Warm hugs from Mochi, Froggy and Birdie!",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1313615645484515328",
-        "summary": "Light up your day.",
-        "sku": {
-            "id": "1309668861788033074",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Cozy Post-It",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "cozy-post-it",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Light up your day.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861829971968",
-        "summary": "Childhood memories...",
-        "sku": {
-            "id": "1309668861817393263",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Girl Snow Angel",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-girl-snow-angel",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Childhood memories...",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861859069983",
-        "summary": "Everyone deserves a break, right?",
-        "sku": {
-            "id": "1309668861846753372",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Girl Study Break",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-girl-study-break",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Everyone deserves a break, right?",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861909663925",
-        "summary": "Let the zoomies begin!",
-        "sku": {
-            "id": "1309668861901279422",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Cat Zoomies",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-cat-zoomies",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 999,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 799,
-                        "percentage": 20
-                    }
-                }
-            }
-        },
-        "description": "Let the zoomies begin!",
-        "published": true,
-        "benefits": []
-    },
-    {
         "id": "1298033986546831481",
         "summary": "A bundle of collectibles.",
         "sku": {
@@ -12704,7 +12212,7 @@
         "benefits": []
     },
     {
-        "id": "1304485468141781004",
+        "id": "1293373563247788106",
         "summary": "It\u2019s not edible, but YOU are.",
         "sku": {
             "id": "1293373563239272458",
@@ -13180,7 +12688,7 @@
         "benefits": []
     },
     {
-        "id": "1287835633741467648",
+        "id": "1303072627061166090",
         "summary": "Looks like you weren't fast enough. Unlucky.",
         "sku": {
             "id": "1287835633733341224",
@@ -13248,7 +12756,7 @@
         "benefits": []
     },
     {
-        "id": "1287835633800187946",
+        "id": "1303073882709823508",
         "summary": "Just a bite...",
         "sku": {
             "id": "1287835633787732070",
@@ -13384,7 +12892,7 @@
         "benefits": []
     },
     {
-        "id": "1290456274357456917",
+        "id": "1158572275507937341",
         "summary": "Who keeps summoning these things?",
         "sku": {
             "id": "1158572275507937342",
@@ -13452,7 +12960,7 @@
         "benefits": []
     },
     {
-        "id": "1158572263411556372",
+        "id": "1303075044687220797",
         "summary": "I don't think you should touch that.",
         "sku": {
             "id": "1158572263411556373",
@@ -13758,7 +13266,7 @@
         "benefits": []
     },
     {
-        "id": "1157407831348228140",
+        "id": "1304492274067050577",
         "summary": "Charming, cozy, and a little bit nosy.",
         "sku": {
             "id": "1157407831348228141",
@@ -13826,7 +13334,7 @@
         "benefits": []
     },
     {
-        "id": "1159280674004549682",
+        "id": "1304494262691565688",
         "summary": "Getting ready for sweater weather.",
         "sku": {
             "id": "1159280677246742548",
@@ -14451,7 +13959,7 @@
         "benefits": []
     },
     {
-        "id": "1293373563193004062",
+        "id": "1304483427906621550",
         "summary": "Let\u2019s roll!",
         "sku": {
             "id": "1293373563184877618",
@@ -14845,409 +14353,6 @@
         },
         "description": "Let the zoomies begin!",
         "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1309668861934833704",
-        "summary": "Cozy vibes with Lofi Girl.",
-        "sku": {
-            "id": "1309668861943218229",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Lofi Girl",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "lofi-girl",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Cozy vibes with Lofi Girl.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1309668861548957738",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Girl Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-girl-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1399,
-                            "percentage": 22
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861578186803",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Cat Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-cat-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1399,
-                            "percentage": 22
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861599285249",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Study Session Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "study-session-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1399,
-                            "percentage": 22
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861620260874",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Girl Outfit",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-girl-outfit",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861645426729",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Playful Lofi Cat",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "playful-lofi-cat",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861674786877",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sleepy ChilledCow",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sleepy-chilledcow",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861704146984",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Study Session",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "study-session",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861729312898",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Group Hug",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "group-hug",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861788033074",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Cozy Post-It",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "cozy-post-it",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861758672997",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Cozy Post-It (Festive)",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "cozy-post-it-festive",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861817393263",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Girl Snow Angel",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-girl-snow-angel",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861846753372",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Girl Study Break",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-girl-study-break",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861901279422",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Cat Zoomies",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-cat-zoomies",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1309668861871919316",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Lofi Cat Zoomies (Festive)",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "lofi-cat-zoomies-festive",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 799,
-                            "percentage": 20
-                        }
-                    }
-                }
-            }
-        ],
         "benefits": []
     },
     {
@@ -15735,382 +14840,6 @@
         "benefits": []
     },
     {
-        "id": "1144003461608906823",
-        "summary": "You're walking in the forest and notice something magical and shiny.",
-        "sku": {
-            "id": "1144003461608906824",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Fantasy",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "fantasy",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "You're walking in the forest and notice something magical and shiny.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1243620329331626044",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Fairy & Pixie Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "fairy-pixie-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1399,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144003752978829455",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Flaming Sword",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "flaming-sword",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144006094134456352",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Magical Potion",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "magical-potion",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144046002110738634",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Fairy Sprites",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "fairy-sprites",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144048390594908212",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Wizard's Staff",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "wizard-s-staff",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144048977138946230",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Glowing Runes",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "glowing-runes",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144049316009353338",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Defensive Shield",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "defensive-shield",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144049603109470370",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Skull Medallion",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "skull-medallion",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144049924397334651",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Treasure and Key",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "treasure-and-key",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 999,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 699,
-                            "percentage": 30
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323092645183591",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Hydro Blast",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "hydro-blast",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323093991575696",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sakura Dreams",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sakura-dreams",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323099251232828",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Mystic Vines",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "mystic-vines",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323099687436419",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Pixie Dust",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "pixie-dust",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            }
-        ],
-        "benefits": []
-    },
-    {
         "id": "1314020996214427648",
         "summary": "A bundle of collectibles.",
         "sku": {
@@ -16149,44 +14878,6 @@
         "benefits": []
     },
     {
-        "id": "1314020996239462463",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1314020996227006484",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "String Lights Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "string-lights-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1099,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 899,
-                        "percentage": 18
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1174460780842856588",
-                "1146328960951668776"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
         "id": "1314020996264755210",
         "summary": "A bundle of collectibles.",
         "sku": {
@@ -16218,82 +14909,6 @@
             "bundled_sku_ids": [
                 "1314020996432400404",
                 "1314020996927328276"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1314020996281536574",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1314020996273016863",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Ember String Lights Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "ember-string-lights-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1099,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 899,
-                        "percentage": 18
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1314020996461760542",
-                "1314020996990242816"
-            ]
-        },
-        "description": "A bundle of collectibles.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1314020996302376960",
-        "summary": "A bundle of collectibles.",
-        "sku": {
-            "id": "1314020996289921154",
-            "type": 4,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Dusk String Lights Bundle",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "dusk-string-lights-bundle",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1099,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 899,
-                        "percentage": 18
-                    }
-                }
-            },
-            "bundled_sku_ids": [
-                "1314020996491116575",
-                "1314020996960882789"
             ]
         },
         "description": "A bundle of collectibles.",
@@ -16739,40 +15354,6 @@
             }
         },
         "description": "Keep out of reach from cats.",
-        "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1314020997120397344",
-        "summary": "Gone in a flurry.",
-        "sku": {
-            "id": "1314020997107683411",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Snowy Shenanigans (Jolly)",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "snowy-shenanigans-jolly",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 599,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 499,
-                        "percentage": 17
-                    }
-                }
-            }
-        },
-        "description": "Gone in a flurry.",
         "published": true,
         "benefits": []
     },
@@ -17359,948 +15940,6 @@
                         "2": {
                             "amount": 1199,
                             "percentage": 25
-                        }
-                    }
-                }
-            }
-        ],
-        "benefits": []
-    },
-    {
-        "id": "1262491137386614804",
-        "summary": "Celebrate 25 years of nautical nonsense!",
-        "sku": {
-            "id": "1262491137386614805",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "SpongeBob",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "spongebob",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Celebrate 25 years of nautical nonsense!",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1316087100260483174",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Flower Clouds Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "flower-clouds-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1316087100260483176",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "SpongeBob Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "spongebob-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1316087100260483178",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Patrick Star Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "patrick-star-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1316087100260483180",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sandy Cheeks Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sandy-cheeks-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1316087100260483182",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Gary the Snail Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "gary-the-snail-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1316087100277395607",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "DoodleBob Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "doodlebob-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1699,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1299,
-                            "percentage": 24
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491137386614812",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "SpongeBob",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "spongebob",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491137394868305",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Imagination",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "imagination",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491137394868308",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Patrick Star",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "patrick-star",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491137394868311",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Flower Clouds",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "flower-clouds",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491690900656258",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Gary The Snail",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "gary-the-snail",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491690900656261",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sandy Cheeks",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sandy-cheeks",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491690900656264",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "MuscleBob",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "musclebob",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491690900656267",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "NiCe pRoFiLE",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "nice-profile",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262491690971955284",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Handsome Squidward",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "handsome-squidward",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262492035558932604",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "DoodleBob Takeover",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "doodlebob-takeover",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262492035558932607",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Plankton Splat",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "plankton-splat",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1262492035558932610",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ocean Flowers",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ocean-flowers",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 23
-                        }
-                    }
-                }
-            }
-        ],
-        "unpublished_at": "2025-01-15T23:59:00+00:00",
-        "benefits": []
-    },
-    {
-        "id": "1285465421331566613",
-        "summary": "Hit the streets with Street Fighter.",
-        "sku": {
-            "id": "1285465421339693076",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Street Fighter 6",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "street-fighter-6",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Hit the streets with Street Fighter.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1285465420979245087",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ryu Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ryu-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 2399,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1799,
-                            "percentage": 25
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465420995756065",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Akuma Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "akuma-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 2399,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1799,
-                            "percentage": 25
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421016862730",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "M. Bison Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "m-bison-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 2399,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 1799,
-                            "percentage": 25
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421029576704",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ryu",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ryu",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421050548345",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Chun-Li",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "chun-li",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421071519825",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ken",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ken",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421096685639",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Akuma",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "akuma",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421121851445",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Cammy",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "cammy",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421167988758",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Guile",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "guile",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421193154560",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Juri",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "juri",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421214126100",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "M. Bison",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "m-bison",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421239291904",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Street Fighter 6",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "street-fighter-6",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421260263464",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Akuma's Wrath",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "akuma-s-wrath",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421285429258",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "M. Bison's Return",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "m-bison-s-return",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1285465421306400858",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Classic Street Fighter",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "classic-street-fighter",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1299,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 999,
-                            "percentage": 23
                         }
                     }
                 }
@@ -21082,6 +18721,1016 @@
         "benefits": []
     },
     {
+        "id": "1282816432047915029",
+        "summary": "Beauty in balance.",
+        "sku": {
+            "id": "1282816432056569866",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Autumn Equinox",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "autumn-equinox",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Beauty in balance.",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1282816431813169272",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Twilight Chrysanthemums Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "twilight-chrysanthemums-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431830077542",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Autumn Equinox Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "autumn-equinox-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431850782730",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Twilight Chrysanthemums",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "twilight-chrysanthemums",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1286504131325853739",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Morning Chrysanthemums",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "morning-chrysanthemums",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431871754281",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Dusk and Dawn",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "dusk-and-dawn",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431901118474",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Floral Harmony",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "floral-harmony",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1286504131392962641",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Floral Harmony (Sunburst)",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "floral-harmony-sunburst",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431922085888",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Autumn's Arbor",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "autumn-s-arbor",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1286504131439366184",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Autumn's Arbor (Aurora)",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "autumn-s-arbor-aurora",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431943057460",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Autumn Crown",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "autumn-crown",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431964028958",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Faces of the Moon",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "faces-of-the-moon",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816431985004594",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Twilight Grove",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "twilight-grove",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1286504131518791816",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sunrise Grove",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sunrise-grove",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816432001777794",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Autumn Equinox",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "autumn-equinox",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1282816432026943488",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sun and Moon",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sun-and-moon",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            }
+        ],
+        "benefits": []
+    },
+    {
+        "id": "1144058340327047248",
+        "summary": "Available to use with an active Nitro subscription.",
+        "sku": {
+            "id": "1144058340327047249",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "DISXCORE",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "disxcore",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Available to use with an active Nitro subscription.",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1144058522808614923",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "DISXCORE Headset",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "disxcore-headset",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 0,
+                            "percentage": 100
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144058844004233369",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Futuristic UI",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "futuristic-ui",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 0,
+                            "percentage": 100
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144059132517826601",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Smoke",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "smoke",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 0,
+                            "percentage": 100
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323098370424932",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Boost Relic",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "boost-relic",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 0,
+                            "percentage": 100
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323103193878569",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cyberspace",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cyberspace",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 0,
+                            "percentage": 100
+                        }
+                    }
+                }
+            }
+        ],
+        "benefits": []
+    },
+    {
+        "id": "1309668861565730866",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1309668861548957738",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Girl Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-girl-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1799,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 1399,
+                        "percentage": 22
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1309668861620260874",
+                "1309668861817393263"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861586706482",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1309668861578186803",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Cat Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-cat-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1799,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 1399,
+                        "percentage": 22
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1309668861645426729",
+                "1309668861901279422"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861607546902",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1309668861599285249",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Study Session Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "study-session-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1799,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 1399,
+                        "percentage": 22
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1309668861704146984",
+                "1309668861846753372"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861624451162",
+        "summary": "Embrace your inner Lofi Girl.",
+        "sku": {
+            "id": "1309668861620260874",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Girl Outfit",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-girl-outfit",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Embrace your inner Lofi Girl.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861653811294",
+        "summary": "Goofy, fluffy, chunky...",
+        "sku": {
+            "id": "1309668861645426729",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Playful Lofi Cat",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "playful-lofi-cat",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Goofy, fluffy, chunky...",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861687103528",
+        "summary": "Zzzzzzzzzzzzzzzzzzzz",
+        "sku": {
+            "id": "1309668861674786877",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Sleepy ChilledCow",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "sleepy-chilledcow",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Zzzzzzzzzzzzzzzzzzzz",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861712531508",
+        "summary": "The student starter pack.",
+        "sku": {
+            "id": "1309668861704146984",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Study Session",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "study-session",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "The student starter pack.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861741891624",
+        "summary": "Warm hugs from Mochi, Froggy and Birdie!",
+        "sku": {
+            "id": "1309668861729312898",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Group Hug",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "group-hug",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Warm hugs from Mochi, Froggy and Birdie!",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1313615645484515328",
+        "summary": "Light up your day.",
+        "sku": {
+            "id": "1309668861788033074",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Cozy Post-It",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "cozy-post-it",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Light up your day.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861829971968",
+        "summary": "Childhood memories...",
+        "sku": {
+            "id": "1309668861817393263",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Girl Snow Angel",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-girl-snow-angel",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Childhood memories...",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861859069983",
+        "summary": "Everyone deserves a break, right?",
+        "sku": {
+            "id": "1309668861846753372",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Girl Study Break",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-girl-study-break",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Everyone deserves a break, right?",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1309668861909663925",
+        "summary": "Let the zoomies begin!",
+        "sku": {
+            "id": "1309668861901279422",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Lofi Cat Zoomies",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "lofi-cat-zoomies",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 999,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 799,
+                        "percentage": 20
+                    }
+                }
+            }
+        },
+        "description": "Let the zoomies begin!",
+        "published": true,
+        "benefits": []
+    },
+    {
         "id": "1314020997195763753",
         "summary": "Tis the season.",
         "sku": {
@@ -21995,432 +20644,377 @@
                 }
             }
         ],
-        "unpublished_at": "2025-01-15T03:59:00+00:00",
         "benefits": []
     },
     {
-        "id": "1282816432047915029",
-        "summary": "Beauty in balance.",
+        "id": "1144003461608906823",
+        "summary": "You're walking in the forest and notice something magical and shiny.",
         "sku": {
-            "id": "1282816432056569866",
+            "id": "1144003461608906824",
             "type": 2,
             "product_line": 7,
             "dependent_sku_id": null,
             "application_id": "1096190356233670716",
             "manifest_labels": null,
             "access_type": 1,
-            "name": "Autumn Equinox",
+            "name": "Fantasy",
             "features": [],
             "release_date": null,
             "premium": false,
-            "slug": "autumn-equinox",
+            "slug": "fantasy",
             "flags": 0,
             "show_age_gate": false
         },
-        "description": "Beauty in balance.",
+        "description": "You're walking in the forest and notice something magical and shiny.",
         "published": true,
         "child_skus": [
             {
-                "id": "1282816431813169272",
+                "id": "1243620329331626044",
                 "type": 4,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Twilight Chrysanthemums Bundle",
+                "name": "Fairy & Pixie Bundle",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "twilight-chrysanthemums-bundle",
+                "slug": "fairy-pixie-bundle",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 1099,
+                    "amount": 1999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 899,
-                            "percentage": 18
+                            "amount": 1399,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431830077542",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Autumn Equinox Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "autumn-equinox-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 899,
-                            "percentage": 18
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1282816431850782730",
+                "id": "1144003752978829455",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Twilight Chrysanthemums",
+                "name": "Flaming Sword",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "twilight-chrysanthemums",
+                "slug": "flaming-sword",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1286504131325853739",
+                "id": "1144006094134456352",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Morning Chrysanthemums",
+                "name": "Magical Potion",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "morning-chrysanthemums",
+                "slug": "magical-potion",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431871754281",
+                "id": "1144046002110738634",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Dusk and Dawn",
+                "name": "Fairy Sprites",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "dusk-and-dawn",
+                "slug": "fairy-sprites",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431901118474",
+                "id": "1144048390594908212",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Floral Harmony",
+                "name": "Wizard's Staff",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "floral-harmony",
+                "slug": "wizard-s-staff",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1286504131392962641",
+                "id": "1144048977138946230",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Floral Harmony (Sunburst)",
+                "name": "Glowing Runes",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "floral-harmony-sunburst",
+                "slug": "glowing-runes",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431922085888",
+                "id": "1144049316009353338",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Autumn's Arbor",
+                "name": "Defensive Shield",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "autumn-s-arbor",
+                "slug": "defensive-shield",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1286504131439366184",
+                "id": "1144049603109470370",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Autumn's Arbor (Aurora)",
+                "name": "Skull Medallion",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "autumn-s-arbor-aurora",
+                "slug": "skull-medallion",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431943057460",
+                "id": "1144049924397334651",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Autumn Crown",
+                "name": "Treasure and Key",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "autumn-crown",
+                "slug": "treasure-and-key",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 999,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 699,
+                            "percentage": 30
                         }
                     }
                 }
             },
             {
-                "id": "1282816431964028958",
+                "id": "1139323092645183591",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Faces of the Moon",
+                "name": "Hydro Blast",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "faces-of-the-moon",
+                "slug": "hydro-blast",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 1199,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 849,
+                            "percentage": 29
                         }
                     }
                 }
             },
             {
-                "id": "1282816431985004594",
+                "id": "1139323093991575696",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Twilight Grove",
+                "name": "Sakura Dreams",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "twilight-grove",
+                "slug": "sakura-dreams",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 1199,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 849,
+                            "percentage": 29
                         }
                     }
                 }
             },
             {
-                "id": "1286504131518791816",
+                "id": "1139323099251232828",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Sunrise Grove",
+                "name": "Mystic Vines",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "sunrise-grove",
+                "slug": "mystic-vines",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 1199,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 849,
+                            "percentage": 29
                         }
                     }
                 }
             },
             {
-                "id": "1282816432001777794",
+                "id": "1139323099687436419",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Autumn Equinox",
+                "name": "Pixie Dust",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "autumn-equinox",
+                "slug": "pixie-dust",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 599,
+                    "amount": 1199,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1282816432026943488",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sun and Moon",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sun-and-moon",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
+                            "amount": 849,
+                            "percentage": 29
                         }
                     }
                 }
@@ -22429,121 +21023,121 @@
         "benefits": []
     },
     {
-        "id": "1144058340327047248",
-        "summary": "Available to use with an active Nitro subscription.",
+        "id": "1309668861934833704",
+        "summary": "Cozy vibes with Lofi Girl.",
         "sku": {
-            "id": "1144058340327047249",
+            "id": "1309668861943218229",
             "type": 2,
             "product_line": 7,
             "dependent_sku_id": null,
             "application_id": "1096190356233670716",
             "manifest_labels": null,
             "access_type": 1,
-            "name": "DISXCORE",
+            "name": "Lofi Girl",
             "features": [],
             "release_date": null,
             "premium": false,
-            "slug": "disxcore",
+            "slug": "lofi-girl",
             "flags": 0,
             "show_age_gate": false
         },
-        "description": "Available to use with an active Nitro subscription.",
+        "description": "Cozy vibes with Lofi Girl.",
         "published": true,
         "child_skus": [
             {
-                "id": "1144058522808614923",
-                "type": 2,
+                "id": "1309668861548957738",
+                "type": 4,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "DISXCORE Headset",
+                "name": "Lofi Girl Bundle",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "disxcore-headset",
+                "slug": "lofi-girl-bundle",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 999,
+                    "amount": 1799,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 0,
-                            "percentage": 100
+                            "amount": 1399,
+                            "percentage": 22
                         }
                     }
                 }
             },
             {
-                "id": "1144058844004233369",
-                "type": 2,
+                "id": "1309668861578186803",
+                "type": 4,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Futuristic UI",
+                "name": "Lofi Cat Bundle",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "futuristic-ui",
+                "slug": "lofi-cat-bundle",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 999,
+                    "amount": 1799,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 0,
-                            "percentage": 100
+                            "amount": 1399,
+                            "percentage": 22
                         }
                     }
                 }
             },
             {
-                "id": "1144059132517826601",
-                "type": 2,
+                "id": "1309668861599285249",
+                "type": 4,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Smoke",
+                "name": "Study Session Bundle",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "smoke",
+                "slug": "study-session-bundle",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
-                    "amount": 999,
+                    "amount": 1799,
                     "currency": "usd",
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 0,
-                            "percentage": 100
+                            "amount": 1399,
+                            "percentage": 22
                         }
                     }
                 }
             },
             {
-                "id": "1139323098370424932",
+                "id": "1309668861620260874",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Boost Relic",
+                "name": "Lofi Girl Outfit",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "boost-relic",
+                "slug": "lofi-girl-outfit",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -22552,25 +21146,25 @@
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 0,
-                            "percentage": 100
+                            "amount": 799,
+                            "percentage": 20
                         }
                     }
                 }
             },
             {
-                "id": "1139323103193878569",
+                "id": "1309668861645426729",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Cyberspace",
+                "name": "Playful Lofi Cat",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "cyberspace",
+                "slug": "playful-lofi-cat",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -22579,8 +21173,1413 @@
                     "currency_exponent": 2,
                     "premium": {
                         "2": {
-                            "amount": 0,
-                            "percentage": 100
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861674786877",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sleepy ChilledCow",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sleepy-chilledcow",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861704146984",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Study Session",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "study-session",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861729312898",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Group Hug",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "group-hug",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861788033074",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cozy Post-It",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cozy-post-it",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861758672997",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cozy Post-It (Festive)",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cozy-post-it-festive",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861817393263",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Lofi Girl Snow Angel",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "lofi-girl-snow-angel",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861846753372",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Lofi Girl Study Break",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "lofi-girl-study-break",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861901279422",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Lofi Cat Zoomies",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "lofi-cat-zoomies",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1309668861871919316",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Lofi Cat Zoomies (Festive)",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "lofi-cat-zoomies-festive",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 999,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 799,
+                            "percentage": 20
+                        }
+                    }
+                }
+            }
+        ],
+        "benefits": []
+    },
+    {
+        "id": "1314020996239462463",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1314020996227006484",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "String Lights Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "string-lights-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1099,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 899,
+                        "percentage": 18
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1174460780842856588",
+                "1146328960951668776"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1314020996281536574",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1314020996273016863",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Ember String Lights Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "ember-string-lights-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1099,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 899,
+                        "percentage": 18
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1314020996461760542",
+                "1314020996990242816"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1314020996302376960",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1314020996289921154",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Dusk String Lights Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "dusk-string-lights-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1099,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 899,
+                        "percentage": 18
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1314020996491116575",
+                "1314020996960882789"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1314020996319281292",
+        "summary": "A bundle of collectibles.",
+        "sku": {
+            "id": "1314020996310896672",
+            "type": 4,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Mix String Lights Bundle",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "mix-string-lights-bundle",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1099,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 899,
+                        "percentage": 18
+                    }
+                }
+            },
+            "bundled_sku_ids": [
+                "1314020996516286485",
+                "1314020997019602984"
+            ]
+        },
+        "description": "A bundle of collectibles.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1314020997091037254",
+        "summary": "Gone in a flurry.",
+        "sku": {
+            "id": "1314020997078323200",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Snowy Shenanigans (Giddy)",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "snowy-shenanigans-giddy",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Gone in a flurry.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1314020997120397344",
+        "summary": "Gone in a flurry.",
+        "sku": {
+            "id": "1314020997107683411",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Snowy Shenanigans (Jolly)",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "snowy-shenanigans-jolly",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 599,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 499,
+                        "percentage": 17
+                    }
+                }
+            }
+        },
+        "description": "Gone in a flurry.",
+        "published": true,
+        "benefits": []
+    },
+    {
+        "id": "1262491137386614804",
+        "summary": "Celebrate 25 years of nautical nonsense!",
+        "sku": {
+            "id": "1262491137386614805",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "SpongeBob",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "spongebob",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Celebrate 25 years of nautical nonsense!",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1316087100260483174",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Flower Clouds Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "flower-clouds-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1316087100260483176",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "SpongeBob Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "spongebob-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1316087100260483178",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Patrick Star Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "patrick-star-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1316087100260483180",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sandy Cheeks Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sandy-cheeks-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1316087100260483182",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Gary the Snail Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "gary-the-snail-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1316087100277395607",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "DoodleBob Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "doodlebob-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1699,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1299,
+                            "percentage": 24
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491137386614812",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "SpongeBob",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "spongebob",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491137394868305",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Imagination",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "imagination",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491137394868308",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Patrick Star",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "patrick-star",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491137394868311",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Flower Clouds",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "flower-clouds",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491690900656258",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Gary The Snail",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "gary-the-snail",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491690900656261",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sandy Cheeks",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sandy-cheeks",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491690900656264",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "MuscleBob",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "musclebob",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491690900656267",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "NiCe pRoFiLE",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "nice-profile",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262491690971955284",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Handsome Squidward",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "handsome-squidward",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262492035558932604",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "DoodleBob Takeover",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "doodlebob-takeover",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262492035558932607",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Plankton Splat",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "plankton-splat",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1262492035558932610",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ocean Flowers",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ocean-flowers",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 23
+                        }
+                    }
+                }
+            }
+        ],
+        "unpublished_at": "2025-01-15T23:59:00+00:00",
+        "benefits": []
+    },
+    {
+        "id": "1285465421331566613",
+        "summary": "Hit the streets with Street Fighter.",
+        "sku": {
+            "id": "1285465421339693076",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Street Fighter 6",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "street-fighter-6",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Hit the streets with Street Fighter.",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1285465420979245087",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ryu Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ryu-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 2399,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1799,
+                            "percentage": 25
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465420995756065",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Akuma Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "akuma-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 2399,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1799,
+                            "percentage": 25
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421016862730",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "M. Bison Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "m-bison-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 2399,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 1799,
+                            "percentage": 25
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421029576704",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ryu",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ryu",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421050548345",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Chun-Li",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "chun-li",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421071519825",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ken",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ken",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421096685639",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Akuma",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "akuma",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421121851445",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cammy",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cammy",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421167988758",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Guile",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "guile",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421193154560",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Juri",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "juri",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421214126100",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "M. Bison",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "m-bison",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421239291904",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Street Fighter 6",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "street-fighter-6",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421260263464",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Akuma's Wrath",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "akuma-s-wrath",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421285429258",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "M. Bison's Return",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "m-bison-s-return",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1285465421306400858",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Classic Street Fighter",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "classic-street-fighter",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1299,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 999,
+                            "percentage": 23
                         }
                     }
                 }
