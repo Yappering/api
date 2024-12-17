@@ -2,6 +2,7 @@
     {
         "name": "Collctibles Marketing",
         "summary": "download discords collectible marketing",
+        "id": "discord_marketing",
         "downloadables": [
             {
                 "id": 1,
@@ -50,6 +51,17 @@
             {
                 "id": 13,
                 "name": "Winter Wonderland"
+            }
+        ]
+    },
+    {
+        "name": "Profiles Plus Marketing",
+        "summary": "download profiles plus marketing",
+        "id": "profiles_plus_marketing",
+        "downloadables": [
+            {
+                "id": 1,
+                "name": "WindowKill V2"
             }
         ]
     }
