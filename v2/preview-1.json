@@ -5,7 +5,7 @@
         "summary": "Tis the season.",
         "store_listing_id": "1314020997195763753",
         "banner": "1314020997225123841",
-        "unpublished_at": "2025-01-15T03:59:00+00:00",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 4620287,
@@ -72,7 +72,7 @@
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996214427648",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -161,7 +161,7 @@
                     {
                         "sku_id": "1314020996327542894",
                         "name": "Aurora",
-                        "summary": "Even the stars can't help but admire the view.",
+                        "summary": "Even the stars can\u2019t help but admire the view.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -279,9 +279,9 @@
                 "sku_id": "1174460780842856588",
                 "name": "Fairy Lights",
                 "summary": "String up some holiday cheer.",
-                "store_listing_id": "1174460755660247182",
+                "store_listing_id": "1314036495266611200",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -349,22 +349,382 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1174460802946834503",
-                        "sku_id": "1174460780842856588",
-                        "asset": "a_88f42fb7360d8224a670a50c3496f315",
-                        "label": "Festive string lights wrap around the profile photo, twinkling into the night."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1314020997204283476",
-                "google_sku_ids": {
-                    "5": "1174460780842856588_1259923390450499755",
-                    "7": "1174460780842856588_1259923400789332008"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1174460780842856588",
+                        "name": "Fairy Lights",
+                        "name_localizations": null,
+                        "summary": "String up some holiday cheer.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1174460755660247182",
+                        "category_sku_id": "1314020997204283476",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1174460802946834503",
+                                "sku_id": "1174460780842856588",
+                                "asset": "a_88f42fb7360d8224a670a50c3496f315",
+                                "label": "Festive string lights wrap around the profile photo, twinkling into the night."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FF0FEB",
+                        "base_variant_sku_id": "1174460780842856588",
+                        "base_variant_name": "Fairy Lights"
+                    },
+                    {
+                        "sku_id": "1314020996432400404",
+                        "name": "Fairy Lights (Aurora)",
+                        "name_localizations": null,
+                        "summary": "String up some holiday cheer.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1314020996440920114",
+                        "category_sku_id": "1314020997204283476",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1314020996453236806",
+                                "sku_id": "1314020996432400404",
+                                "asset": "a_47136c333dc989a0f0f9852e878d3844",
+                                "label": "Festive green and blue string lights wrap around the profile photo, twinkling into the night."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Aurora",
+                        "variant_value": "#00C100",
+                        "base_variant_sku_id": "1174460780842856588",
+                        "base_variant_name": "Fairy Lights"
+                    },
+                    {
+                        "sku_id": "1314020996461760542",
+                        "name": "Fairy Lights (Ember)",
+                        "name_localizations": null,
+                        "summary": "String up some holiday cheer.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1314020996470280202",
+                        "category_sku_id": "1314020997204283476",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1314020996478664774",
+                                "sku_id": "1314020996461760542",
+                                "asset": "a_63d17f42ee46a843d99a58655910bc6a",
+                                "label": "Festive red and orange string lights wrap around the profile photo, twinkling into the night."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Ember",
+                        "variant_value": "#F97F38",
+                        "base_variant_sku_id": "1174460780842856588",
+                        "base_variant_name": "Fairy Lights"
+                    },
+                    {
+                        "sku_id": "1314020996491116575",
+                        "name": "Fairy Lights (Dusk)",
+                        "name_localizations": null,
+                        "summary": "String up some holiday cheer.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1314020996495446157",
+                        "category_sku_id": "1314020997204283476",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1314020996508024832",
+                                "sku_id": "1314020996491116575",
+                                "asset": "a_28e531da18a80b8287837332154c5f58",
+                                "label": "Festive blue and yellow string lights wrap around the profile photo, twinkling into the night."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Dusk",
+                        "variant_value": "#0834FF",
+                        "base_variant_sku_id": "1174460780842856588",
+                        "base_variant_name": "Fairy Lights"
+                    },
+                    {
+                        "sku_id": "1314020996516286485",
+                        "name": "Fairy Lights (Mix)",
+                        "name_localizations": null,
+                        "summary": "String up some holiday cheer.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1314020996524806185",
+                        "category_sku_id": "1314020997204283476",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1314020996533190808",
+                                "sku_id": "1314020996516286485",
+                                "asset": "a_dff769a0f922bb56ab0d4ba2bcbacfae",
+                                "label": "Festive red, blue, and yellow string lights wrap around the profile photo, twinkling into the night."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Mix",
+                        "variant_value": "#E7BE42",
+                        "base_variant_sku_id": "1174460780842856588",
+                        "base_variant_name": "Fairy Lights"
+                    }
+                ]
             },
             {
                 "sku_id": "1314020996864413717",
@@ -372,7 +732,7 @@
                 "summary": "Living life on thin ice and loving every moment.",
                 "store_listing_id": "1314020996872933437",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -458,10 +818,10 @@
             {
                 "sku_id": "1314020996361093171",
                 "name": "Polar Bear Hat",
-                "summary": "Soft, cuddly, and a little bit snuffly.",
+                "summary": "Soft, cuddly and a little bit snuffly.",
                 "store_listing_id": "1314020996369616896",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,

@@ -5,7 +5,7 @@
         "summary": "Tis the season.",
         "store_listing_id": "1314020997195763753",
         "banner": "1314020997225123841",
-        "unpublished_at": "2025-01-15T03:59:00+00:00",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 4620287,
@@ -72,7 +72,7 @@
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996214427648",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -277,11 +277,11 @@
             },
             {
                 "sku_id": "1314020996227006484",
-                "name": "Fairy Lights Bundle",
+                "name": "Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996239462463",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -482,15 +482,18 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996227006484_1318400283537051688",
+                    "7": "1314020996227006484_1318400315367882842"
+                }
             },
             {
                 "sku_id": "1314020996252176444",
-                "name": "Aurora Fairy Lights Bundle",
+                "name": "Aurora Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996264755210",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -691,15 +694,18 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996252176444_1318399582295691316",
+                    "7": "1314020996252176444_1318399604445806632"
+                }
             },
             {
                 "sku_id": "1314020996273016863",
-                "name": "Ember Fairy Lights Bundle",
+                "name": "Ember Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996281536574",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -900,15 +906,18 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996273016863_1318400370363338773",
+                    "7": "1314020996273016863_1318400397961990194"
+                }
             },
             {
                 "sku_id": "1314020996289921154",
-                "name": "Dusk Fairy Lights Bundle",
+                "name": "Dusk Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996302376960",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1109,15 +1118,18 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996289921154_1318399853973209170",
+                    "7": "1314020996289921154_1318399879634092132"
+                }
             },
             {
                 "sku_id": "1314020996310896672",
-                "name": "Mix Fairy Lights Bundle",
+                "name": "Mix Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996319281292",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1318,7 +1330,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996310896672_1318399186034495488",
+                    "7": "1314020996310896672_1318399211460362240"
+                }
             },
             {
                 "sku_id": "1314020996327542894",
@@ -1326,7 +1341,7 @@
                 "summary": "Even the stars can\u2019t help but admire the view.",
                 "store_listing_id": "1314020996340256808",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1417,7 +1432,7 @@
                 "summary": "Soft, cuddly and a little bit snuffly.",
                 "store_listing_id": "1314020996369616896",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1508,7 +1523,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1174460755660247182",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1599,7 +1614,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996440920114",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1690,7 +1705,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996470280202",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1781,7 +1796,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996495446157",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1872,7 +1887,7 @@
                 "summary": "String up some holiday cheer.",
                 "store_listing_id": "1314020996524806185",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -1963,7 +1978,7 @@
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1174459523092713642",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2054,7 +2069,7 @@
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996579332166",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2145,7 +2160,7 @@
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996608692284",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2236,7 +2251,7 @@
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996638052392",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2327,7 +2342,7 @@
                 "summary": "Try not to shake too hard.",
                 "store_listing_id": "1314020996671606895",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2418,7 +2433,7 @@
                 "summary": "Ah... the smell of winter.",
                 "store_listing_id": "1174459459339288617",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2509,7 +2524,7 @@
                 "summary": "Ah... the smell of winter.",
                 "store_listing_id": "1314020996700966922",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2600,7 +2615,7 @@
                 "summary": "Ah... the smell of winter.",
                 "store_listing_id": "1314020996730327050",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2691,7 +2706,7 @@
                 "summary": "The perfect sky to dream under.",
                 "store_listing_id": "1314020996822601798",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2780,7 +2795,7 @@
                 "summary": "Living life on thin ice and loving every moment.",
                 "store_listing_id": "1314020996872933437",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2869,7 +2884,7 @@
                 "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1146328960481886319",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -2958,7 +2973,7 @@
                 "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1314020996940042290",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3047,7 +3062,7 @@
                 "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1314020996973334600",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3136,7 +3151,7 @@
                 "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1314020997002956810",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3225,7 +3240,7 @@
                 "summary": "Keep out of reach of cats.",
                 "store_listing_id": "1314020997028122706",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3314,7 +3329,7 @@
                 "summary": "Gone in a flurry.",
                 "store_listing_id": "1146328961417224192",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3403,7 +3418,7 @@
                 "summary": "Gone in a flurry.",
                 "store_listing_id": "1314020997091037254",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3492,7 +3507,7 @@
                 "summary": "Gone in a flurry.",
                 "store_listing_id": "1314020997120397344",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3581,7 +3596,7 @@
                 "summary": "Gone in a flurry.",
                 "store_listing_id": "1314020997145563197",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -3670,7 +3685,7 @@
                 "summary": "Gone in a flurry.",
                 "store_listing_id": "1314020997174923326",
                 "banner": "1314020997225123841",
-                "unpublished_at": "2025-01-15T03:59:00+00:00",
+                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         4620287,
@@ -4003,7 +4018,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861548957738_1318348371483955271",
+                    "7": "1309668861548957738_1318348385639600180"
+                }
             },
             {
                 "sku_id": "1309668861578186803",
@@ -4212,7 +4230,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861578186803_1318347912476098620",
+                    "7": "1309668861578186803_1318347937872478299"
+                }
             },
             {
                 "sku_id": "1309668861599285249",
@@ -4421,7 +4442,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861599285249_1318347136810876928",
+                    "7": "1309668861599285249_1318347171342454874"
+                }
             },
             {
                 "sku_id": "1309668861620260874",

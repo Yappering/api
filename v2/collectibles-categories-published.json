@@ -5,7 +5,7 @@
         "summary": "Tis the season.",
         "store_listing_id": "1314020997195763753",
         "banner": "1314020997225123841",
-        "unpublished_at": "2025-01-15T03:59:00+00:00",
+        "unpublished_at": null,
         "styles": {
             "background_colors": [
                 4620287,
@@ -277,7 +277,7 @@
             },
             {
                 "sku_id": "1314020996227006484",
-                "name": "Fairy Lights Bundle",
+                "name": "Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996239462463",
                 "banner": "1314020997225123841",
@@ -482,11 +482,14 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996227006484_1318400283537051688",
+                    "7": "1314020996227006484_1318400315367882842"
+                }
             },
             {
                 "sku_id": "1314020996252176444",
-                "name": "Aurora Fairy Lights Bundle",
+                "name": "Aurora Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996264755210",
                 "banner": "1314020997225123841",
@@ -691,11 +694,14 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996252176444_1318399582295691316",
+                    "7": "1314020996252176444_1318399604445806632"
+                }
             },
             {
                 "sku_id": "1314020996273016863",
-                "name": "Ember Fairy Lights Bundle",
+                "name": "Ember Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996281536574",
                 "banner": "1314020997225123841",
@@ -900,11 +906,14 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996273016863_1318400370363338773",
+                    "7": "1314020996273016863_1318400397961990194"
+                }
             },
             {
                 "sku_id": "1314020996289921154",
-                "name": "Dusk Fairy Lights Bundle",
+                "name": "Dusk Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996302376960",
                 "banner": "1314020997225123841",
@@ -1109,11 +1118,14 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996289921154_1318399853973209170",
+                    "7": "1314020996289921154_1318399879634092132"
+                }
             },
             {
                 "sku_id": "1314020996310896672",
-                "name": "Mix Fairy Lights Bundle",
+                "name": "Mix Fairy Lights bundle",
                 "summary": "A bundle of collectibles.",
                 "store_listing_id": "1314020996319281292",
                 "banner": "1314020997225123841",
@@ -1318,7 +1330,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1314020996310896672_1318399186034495488",
+                    "7": "1314020996310896672_1318399211460362240"
+                }
             },
             {
                 "sku_id": "1314020996327542894",
@@ -4003,7 +4018,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861548957738_1318348371483955271",
+                    "7": "1309668861548957738_1318348385639600180"
+                }
             },
             {
                 "sku_id": "1309668861578186803",
@@ -4212,7 +4230,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861578186803_1318347912476098620",
+                    "7": "1309668861578186803_1318347937872478299"
+                }
             },
             {
                 "sku_id": "1309668861599285249",
@@ -4421,7 +4442,10 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1309668861599285249_1318347136810876928",
+                    "7": "1309668861599285249_1318347171342454874"
+                }
             },
             {
                 "sku_id": "1309668861620260874",
