@@ -1,0 +1,229 @@
+{
+    "sku_id": "1",
+    "name": "Name 1",
+    "summary": "Description.",
+    "store_listing_id": "2",
+    "banner": "3",
+    "unpublished_at": null,
+    "styles": {
+        "background_colors": [
+            1118740,
+            1118740
+        ],
+        "button_colors": [
+            5793266,
+            5793266
+        ],
+        "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+        ]
+    },
+    "prices": {
+        "0": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 599,
+                        "currency": "usd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        },
+        "4": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 499,
+                        "currency": "usd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        },
+        "5": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 600,
+                        "currency": "nzd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        },
+        "7": {
+            "country_prices": {
+                "country_code": "US",
+                "prices": [
+                    {
+                        "amount": 500,
+                        "currency": "nzd",
+                        "exponent": 2
+                    }
+                ]
+            }
+        }
+    },
+    "items": [],
+    "type": 2000,
+    "premium_type": 0,
+    "category_sku_id": "1",
+    "variants": [
+        {
+            "sku_id": "4",
+            "name": "Name 1",
+            "name_localizations": null,
+            "summary": "Description.",
+            "summary_localizations": null,
+            "type": 0,
+            "store_listing_id": "6",
+            "category_sku_id": "1",
+            "premium_type": 0,
+            "items": [
+                {
+                    "type": 0,
+                    "id": "5",
+                    "sku_id": "4",
+                    "asset": "a_fed43ab12698df65902ba06727e20c0e",
+                    "label": "Text."
+                }
+            ],
+            "prices": {
+                "0": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 599,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "4": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 499,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "5": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 600,
+                                "currency": "nzd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "7": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 500,
+                                "currency": "nzd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "variant_label": "First",
+            "variant_value": "#FEC371",
+            "base_variant_sku_id": "4",
+            "base_variant_name": "Name 1"
+        },
+        {
+            "sku_id": "7",
+            "name": "Name 2",
+            "name_localizations": null,
+            "summary": "Description.",
+            "summary_localizations": null,
+            "type": 0,
+            "store_listing_id": "9",
+            "category_sku_id": "1",
+            "premium_type": 0,
+            "items": [
+                {
+                    "type": 0,
+                    "id": "8",
+                    "sku_id": "7",
+                    "asset": "a_fbe9b75665ee364ff5759d8821d52373",
+                    "label": "Text."
+                }
+            ],
+            "prices": {
+                "0": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 599,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "4": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 499,
+                                "currency": "usd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "5": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 600,
+                                "currency": "nzd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                },
+                "7": {
+                    "country_prices": {
+                        "country_code": "US",
+                        "prices": [
+                            {
+                                "amount": 500,
+                                "currency": "nzd",
+                                "exponent": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "variant_label": "Second",
+            "variant_value": "#FEC371",
+            "base_variant_sku_id": "4",
+            "base_variant_name": "Name 1"
+        }
+    ]
+}
