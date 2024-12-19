@@ -16,11 +16,11 @@
         },
         "2": {
             "type": 2,
-            "version": 12,
-            "title": "Cozy vibes with Lofi Girl.",
-            "body": "Check out the latest avatar decorations and profile effects by Lofi Girl!",
-            "asset": "https://cdn.discordapp.com/assets/content/f5eec43d49ecd413b56b668257ada6397675d775233e6306950dfeae93c075d4.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/4d28996ac08a02aa75b9b5e7f1beaefe104573a304e5452493aafa4a712eb68d.png"
+            "version": 13,
+            "title": "Give your profile a fresh look",
+            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+            "asset": "https://cdn.discordapp.com/assets/content/667f85a3377eb9ec171a3a111ef1b1301c1dfa3b4fe8ecb951e5ae0e77532bf1.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/cba8307684fcc2524dfb700ff7a21c455db1e0fc6a94691bfb4f67eef1f1bee7.png"
         }
     }
 }
