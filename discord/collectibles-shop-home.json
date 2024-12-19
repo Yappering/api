@@ -11,6 +11,8 @@
             },
             "fallback_banner_url": "",
             "logo_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1314020997292363807.png?size=480",
+            "unpublished_at": null,
+            "summary": "Tis the season.",
             "ranked_sku_ids": [
                 "1314020996201713685",
                 "1174460780842856588",
@@ -53,12 +55,14 @@
                     "type": 0,
                     "category_store_listing_id": "1309668861934833704",
                     "name": "Lofi Girl",
+                    "unpublished_at": null,
                     "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1309668862010200146.png?size=1280"
                 },
                 {
                     "type": 0,
                     "category_store_listing_id": "1212565150280974377",
                     "name": "Anime",
+                    "unpublished_at": null,
                     "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1294418600781938790.png?size=1280"
                 }
             ]
