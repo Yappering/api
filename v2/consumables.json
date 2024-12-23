@@ -1,5 +1,16 @@
 [
     {
+        "sku_id": "1316162456959057920",
+        "name": "Confetti Potion",
+        "summary": "Spruce up your message with confetti!",
+        "price": {
+            "amount": 99,
+            "currency": "usd",
+            "currency_exponent": 2
+        },
+        "src": null
+    },
+    {
         "sku_id": "1285377810587979827",
         "name": "HD Streaming Potion",
         "summary": "Give your friends HD Streaming!",
