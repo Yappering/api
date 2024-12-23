@@ -159,5 +159,19 @@
             }
         ],
         "rolled_out_treatment": -1
+    },
+    {
+        "id": 10,
+        "name": "Theme Picker",
+        "handle": "2024-12_theme_picker",
+        "treatments": [
+            {
+                "id": -1
+            },
+            {
+                "id": 1
+            }
+        ],
+        "rolled_out_treatment": -1
     }
 ]
