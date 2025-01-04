@@ -21847,6 +21847,188 @@
                         "base_variant_name": "Lily Pad Life"
                     }
                 ]
+            },
+            {
+                "sku_id": "1157409869448618016",
+                "name": "Pumpkin Spice",
+                "summary": "Sweets and spice make everything nice.",
+                "store_listing_id": "1157409869448618015",
+                "banner": "1157407583993339935",
+                "unpublished_at": "2023-11-30T00:00:00.000Z",
+                "styles": {
+                    "background_colors": [
+                        16760655,
+                        6362384
+                    ],
+                    "button_colors": [
+                        16097602,
+                        14972430
+                    ],
+                    "confetti_colors": [
+                        16740664,
+                        9582092,
+                        16163636,
+                        16762246,
+                        16747008
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 549,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 800,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 559,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157409869448618017",
+                        "sku_id": "1157409869448618016",
+                        "asset": "a_145dffeb81bcfff96be683fd9f6db20a",
+                        "label": "Orange pumpkins growing from a vine can only mean one thing... the flavor of fall - pumpkin spice - has arrived!"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1157406994873991284",
+                "google_sku_ids": {
+                    "5": "1157409869448618016_1259923828348420136",
+                    "7": "1157409869448618016_1259923838737580162"
+                }
+            },
+            {
+                "sku_id": "1157407831348228139",
+                "name": "Frog Hat",
+                "summary": "Frogs and fashion go together and you can\u2019t tell me otherwise.",
+                "store_listing_id": "1157407831348228138",
+                "banner": "1157407583993339935",
+                "unpublished_at": "2023-11-30T00:00:00.000Z",
+                "styles": {
+                    "background_colors": [
+                        16760655,
+                        6362384
+                    ],
+                    "button_colors": [
+                        16097602,
+                        14972430
+                    ],
+                    "confetti_colors": [
+                        16740664,
+                        9582092,
+                        16163636,
+                        16762246,
+                        16747008
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1157457289872146472",
+                        "sku_id": "1157407831348228139",
+                        "asset": "a_4936aa6c33a101b593f9607d48d686ec",
+                        "label": "Mushrooms are growing underneath a cute green hat that looks suspiciously like a live, smiling frog."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1157406994873991284",
+                "google_sku_ids": {
+                    "5": "1157407831348228139_1259923850469183598",
+                    "7": "1157407831348228139_1259923861462450208"
+                }
             }
         ]
     },
