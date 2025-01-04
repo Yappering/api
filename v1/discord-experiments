@@ -1,0 +1,62 @@
+[
+    {
+        "exp_name": "Profile Effects User Experiment",
+        "exp_id": "2023-08_profile_effects",
+        "treatments": [
+            {
+                "treatment": "Treatment 1: Enables profile effects",
+                "description": "This treatment, when enabled, will render lighting profile effect on all profiles and show profile effects tab in the profile customization tab"
+            }
+        ]
+    },
+    {
+        "exp_name": "Collectible Nitro Avatar Decorations IAP",
+        "exp_id": "2023-08_collectiblesnitroavatardecoiap",
+        "treatments": [
+            {
+                "treatment": "Treatment 1: Collectibles IAP",
+                "description": "This treatment, when enabled, will show the Avatar Decorations tab in the profile customization tab"
+            }
+        ]
+    },
+    {
+        "exp_name": "Collectibles",
+        "exp_id": "2023-05_collectibles",
+        "treatments": [
+            {
+                "treatment": "Treatment 1: Nitro with collecting",
+                "description": "This treatment, when enabled, will allow the client to render the Avatar Decorations in the profile customization tab"
+            },
+            {
+                "treatment": "Treatment 2: Non-nitro with collecting upsells",
+                "description": "This treatment exists, but we are unsure of its origins"
+            },
+            {
+                "treatment": "Treatment 3: Non-nitro with temporary avatar decorations upsells",
+                "description": "This treatment exists, but we are unsure of its origins"
+            },
+            {
+                "treatment": "Treatment 100: collecting with uploading",
+                "description": "This treatment exists, but we are unsure of its origins"
+            }
+        ]
+    },
+    {
+        "exp_name": "Avatar Decorations Birthday 2023",
+        "exp_id": "2023-05_avatar_decorations",
+        "treatments": [
+            {
+                "treatment": "Treatment 1: Allow use of avatar decorations nitro",
+                "description": "This treatment, when enabled, will allow you to use Avatar Decorations with Nitro (avatar decorations are api gated and no longer exists)"
+            },
+            {
+                "treatment": "Treatment 2: Allow use of avatar decorations non-nitro",
+                "description": "This treatment, when enabled, will allow you to use Avatar Decorations (avatar decorations are api gated and no longer exists)"
+            },
+            {
+                "treatment": "Treatment 100: Debug",
+                "description": "This treatment exists, but we are unsure of its origins"
+            }
+        ]
+    }
+]
