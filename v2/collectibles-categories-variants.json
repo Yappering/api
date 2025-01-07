@@ -21878,7 +21878,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 799,
+                                    "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -21890,7 +21890,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 549,
+                                    "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -21902,7 +21902,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 800,
+                                    "amount": 600,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -21914,7 +21914,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 559,
+                                    "amount": 500,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
