@@ -15420,8 +15420,20 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 2199,
-                                    "currency": "usd",
+                                    "amount": 2900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2200,
+                                    "currency": "nzd",
                                     "exponent": 2
                                 }
                             ]
@@ -15878,6 +15890,30 @@
                                 {
                                     "amount": 2199,
                                     "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2200,
+                                    "currency": "nzd",
                                     "exponent": 2
                                 }
                             ]
@@ -18420,6 +18456,18 @@
                             ]
                         }
                     },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2400,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
                     "7": {
                         "country_prices": {
                             "country_code": "US",
@@ -18612,6 +18660,18 @@
                                 {
                                     "amount": 1799,
                                     "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2400,
+                                    "currency": "nzd",
                                     "exponent": 2
                                 }
                             ]
@@ -22450,6 +22510,18 @@
                             ]
                         }
                     },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2400,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
                     "7": {
                         "country_prices": {
                             "country_code": "US",
@@ -22647,6 +22719,18 @@
                             ]
                         }
                     },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2400,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
                     "7": {
                         "country_prices": {
                             "country_code": "US",
@@ -22839,6 +22923,18 @@
                                 {
                                     "amount": 1799,
                                     "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2400,
+                                    "currency": "nzd",
                                     "exponent": 2
                                 }
                             ]
@@ -31490,6 +31586,30 @@
                                 }
                             ]
                         }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2200,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
                     }
                 },
                 "items": [
@@ -31675,6 +31795,30 @@
                                 }
                             ]
                         }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2200,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
                     }
                 },
                 "items": [
@@ -31856,6 +32000,30 @@
                                 {
                                     "amount": 2199,
                                     "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2200,
+                                    "currency": "nzd",
                                     "exponent": 2
                                 }
                             ]
