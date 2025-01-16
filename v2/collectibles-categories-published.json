@@ -654,7 +654,7 @@
             {
                 "sku_id": "1326333074082107483",
                 "name": "Bowler Hat",
-                "summary": "I'd tip my hat, but I fear its legs outrun my courtesy.",
+                "summary": "I\u2019d tip my hat, but I fear its legs outrun my courtesy.",
                 "store_listing_id": "1326333074090491924",
                 "banner": "1326333074254073926",
                 "unpublished_at": null,
@@ -745,7 +745,7 @@
             {
                 "sku_id": "1326333074103078973",
                 "name": "Brass Beats",
-                "summary": "Tune in, turn up, and let off a little steam.",
+                "summary": "Tune in, turn up and let off a little steam.",
                 "store_listing_id": "1326333074111463434",
                 "banner": "1326333074254073926",
                 "unpublished_at": null,
@@ -927,7 +927,7 @@
             {
                 "sku_id": "1326333074153410650",
                 "name": "Flux Alchemy",
-                "summary": "Would you care to be the centerpiece of a most daring concoction?",
+                "summary": "Would you care to be the centrepiece of a most daring concoction?",
                 "store_listing_id": "1326333074157600859",
                 "banner": "1326333074254073926",
                 "unpublished_at": null,
@@ -1196,7 +1196,7 @@
             {
                 "sku_id": "1326333074212130859",
                 "name": "Innovator's Masterwork",
-                "summary": "One may ask: Is it functional? Or is it art? The answer, my dear, is both.",
+                "summary": "One may ask: is it functional? Or is it art? The answer, my dear, is both.",
                 "store_listing_id": "1326333074220515388",
                 "banner": "1326333074254073926",
                 "unpublished_at": null,
@@ -12734,7 +12734,9 @@
                         }
                     }
                 ],
-                "google_sku_ids": {}
+                "google_sku_ids": {
+                    "5": "1306752744228524052_1329591194933526608"
+                }
             },
             {
                 "sku_id": "1306752744258011166",
