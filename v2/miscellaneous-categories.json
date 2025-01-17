@@ -1002,6 +1002,94 @@
                 "premium_type": 0,
                 "category_sku_id": "1309309974266118144",
                 "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1329309467619229797",
+                "name": "Fuchsia Agent",
+                "summary": "Exclusive to the Strinova Fuchsia Quest for a limited time.",
+                "store_listing_id": "1329309467619229799",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-03-24T01:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1329309467619229798",
+                        "sku_id": "1329309467619229797",
+                        "asset": "a_656d8fd0b54767e784e0463a85d04b60",
+                        "label": "A Fuchsia Agent character with a red shark swimming around the character's gray headband."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
             }
         ]
     },
