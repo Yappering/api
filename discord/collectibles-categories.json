@@ -835,7 +835,7 @@
             },
             {
                 "sku_id": "1326333074132176916",
-                "name": "Timekeeper's Clock",
+                "name": "Timekeeper\u2019s Clock",
                 "summary": "Capable of time travel by keystroke. Mind your misspellings.",
                 "store_listing_id": "1326333074136629319",
                 "banner": "1326333074254073926",
@@ -1195,7 +1195,7 @@
             },
             {
                 "sku_id": "1326333074212130859",
-                "name": "Innovator's Masterwork",
+                "name": "Innovator\u2019s Masterwork",
                 "summary": "One may ask: is it functional? Or is it art? The answer, my dear, is both.",
                 "store_listing_id": "1326333074220515388",
                 "banner": "1326333074254073926",
@@ -13202,7 +13202,8 @@
                     }
                 ],
                 "google_sku_ids": {
-                    "5": "1306752744228524052_1329591194933526608"
+                    "5": "1306752744228524052_1329591194933526608",
+                    "7": "1306752744228524052_1329597428508262574"
                 }
             },
             {
