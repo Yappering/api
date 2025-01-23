@@ -2,26 +2,24 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 16,
-            "title": "Check out new Steampunk arrivals.",
+            "version": 17,
+            "title": "Check out new Lunar New Year arrivals.",
             "body": null,
-            "avatar": "https://cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png",
+            "avatar": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png",
             "decorations": [
-                "a_1acbe609daec21fa5b866df9e5a42cb7",
-                "a_459cf2afde41f01559a4a4204ab81767",
-                "a_a67833d0f3138d7dcdee98c39eae33d7",
-                "a_bfaeda83edb41e78250eedc71bed31fc"
+                "a_d859cee893cffd5dd0fa17a6caea44e0",
+                "a_709938d62b9ef579baa7cc319ac73bf4"
             ],
             "dismissible_content": 422,
             "ref_target_background": null
         },
         "2": {
             "type": 2,
-            "version": 16,
+            "version": 17,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/4a19c62e82148f79cf966fcd42095834e6fcc9ed8cb234865fa533cd9018abf2.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/44d11881f98fa87201592ebe6e830716c37ea6ab93d2121fd77098d6c9138ed6.png"
+            "asset": "https://cdn.discordapp.com/assets/content/395518d61f60298061b8fd22e0f730406c32669feee22d4b920be497b5a12174.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/c9f4db28a78824570332952273bb3af78c2467e7cf719d1b5987e790b2e84a59.png"
         }
     }
 }
