@@ -170,11 +170,6 @@
                             "sku_id": "1329609528525979658",
                             "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
                             "label": "A red snake in lunar year colors coils gracefully around your avatar for a scaly hug."
-                        },
-                        {
-                            "type": 1,
-                            "id": "1329611507398610955",
-                            "sku_id": "1329611507381829702"
                         }
                     ],
                     "type": 1000,
@@ -382,11 +377,6 @@
                             "sku_id": "1202074101343322184",
                             "asset": "a_50b440810b1bbd89f6284f36d40ad0af",
                             "label": "Two koi fish swimming beneath the water covering the avatar surface, and dive down repeatedly as they swim in circles."
-                        },
-                        {
-                            "type": 1,
-                            "id": "1329611507419582515",
-                            "sku_id": "1329611507402801312"
                         }
                     ],
                     "type": 1000,
@@ -1843,184 +1833,6 @@
                     "google_sku_ids": {
                         "5": "1202061726212947968_1259922605687963658",
                         "7": "1202061726212947968_1259922616051830984"
-                    }
-                },
-                {
-                    "sku_id": "1329611507381829702",
-                    "name": "Twist of Luck",
-                    "summary": "A rare meeting of Fate and Fortune. This may be a sign that good luck is heading your way.",
-                    "store_listing_id": "1329609528764792897",
-                    "banner": "1329609528915791873",
-                    "unpublished_at": null,
-                    "styles": {
-                        "background_colors": [
-                            6752006,
-                            2491653
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "5": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 600,
-                                        "currency": "nzd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "7": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 500,
-                                        "currency": "nzd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "items": [
-                        {
-                            "type": 1,
-                            "id": "1329611507398610955",
-                            "sku_id": "1329611507381829702"
-                        }
-                    ],
-                    "type": 1,
-                    "premium_type": 0,
-                    "category_sku_id": "1202069709281828935",
-                    "google_sku_ids": {
-                        "5": "1329611507381829702_1331782031226572841",
-                        "7": "1329611507381829702_1331825524259160154"
-                    }
-                },
-                {
-                    "sku_id": "1329611507402801312",
-                    "name": "Koi Garden",
-                    "summary": "Go with the flow and good things will follow.",
-                    "store_listing_id": "1329609528794152960",
-                    "banner": "1329609528915791873",
-                    "unpublished_at": null,
-                    "styles": {
-                        "background_colors": [
-                            6752006,
-                            2491653
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "5": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 600,
-                                        "currency": "nzd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "7": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 500,
-                                        "currency": "nzd",
-                                        "exponent": 2
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "items": [
-                        {
-                            "type": 1,
-                            "id": "1329611507419582515",
-                            "sku_id": "1329611507402801312"
-                        }
-                    ],
-                    "type": 1,
-                    "premium_type": 0,
-                    "category_sku_id": "1202069709281828935",
-                    "google_sku_ids": {
-                        "5": "1329611507402801312_1331782678403616932",
-                        "7": "1329611507402801312_1331825553598320682"
                     }
                 },
                 {
