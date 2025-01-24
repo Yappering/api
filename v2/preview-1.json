@@ -44,6 +44,430 @@
         "hero_logo": "1329609528970313811",
         "products": [
             {
+                "sku_id": "1329609528441831537",
+                "name": "Year of the Snake 2025 Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1329609528450486435",
+                "banner": "1329609528915791873",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        6752006,
+                        2491653
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1100,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1329609528538566698",
+                        "sku_id": "1329609528525979658",
+                        "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
+                        "label": "A red snake in lunar year colors coils gracefully around your avatar for a scaly hug."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1329611507398610955",
+                        "sku_id": "1329611507381829702"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "bundled_products": [
+                    {
+                        "sku_id": "1329609528525979658",
+                        "name": "Snake\u2019s Hug",
+                        "summary": "Trying to ward off bad luck? Your snake companion\u2019s got you covered.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1329611507381829702",
+                        "name": "Twist of Luck",
+                        "summary": "A rare meeting of Fate and Fortune. This may be a sign that good luck is heading your way.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1329609528441831537_1331747702425256036",
+                    "7": "1329609528441831537_1331825106498093216"
+                }
+            },
+            {
+                "sku_id": "1329609528471195659",
+                "name": "Koi Fish Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1329609528483774504",
+                "banner": "1329609528915791873",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        6752006,
+                        2491653
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1100,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 900,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1202074104945971311",
+                        "sku_id": "1202074101343322184",
+                        "asset": "a_50b440810b1bbd89f6284f36d40ad0af",
+                        "label": "Two koi fish swimming beneath the water covering the avatar surface, and dive down repeatedly as they swim in circles."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1329611507419582515",
+                        "sku_id": "1329611507402801312"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1202069709281828935",
+                "bundled_products": [
+                    {
+                        "sku_id": "1202074101343322184",
+                        "name": "Koi Pond",
+                        "summary": "Swimming in an eternal, peaceful circle.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1329611507402801312",
+                        "name": "Koi Garden",
+                        "summary": "Go with the flow and good things will follow.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1329609528471195659_1331748515143221409",
+                    "7": "1329609528471195659_1331825135115833456"
+                }
+            },
+            {
                 "sku_id": "1329609528546693170",
                 "name": "Lotus Flower",
                 "summary": "Every petal, a promise of new beginnings.",
@@ -223,430 +647,6 @@
                 "google_sku_ids": {
                     "5": "1329609528571858975_1331749923447767110",
                     "7": "1329609528571858975_1331825274161201182"
-                }
-            },
-            {
-                "sku_id": "1329609528492429332",
-                "name": "Lunar Celebration Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1329609528500555796",
-                "banner": "1329609528915791873",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        6752006,
-                        2491653
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1099,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 899,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1100,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 900,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1202073807658164295",
-                        "sku_id": "1202073775840178206",
-                        "asset": "a_0f4f1b40921ce680b60007e94427d1f2",
-                        "label": "A string of firecrackers appears to the left of the avatar, and after a moment, lights off with a flurry of sparks!"
-                    },
-                    {
-                        "type": 1,
-                        "id": "1202061433689350204",
-                        "sku_id": "1202061510529257522"
-                    }
-                ],
-                "type": 1000,
-                "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
-                "bundled_products": [
-                    {
-                        "sku_id": "1202073775840178206",
-                        "name": "Firecrackers",
-                        "summary": "Don\u2019t try this at home!",
-                        "type": 0,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    },
-                    {
-                        "sku_id": "1202061510529257522",
-                        "name": "Midnight Celebration",
-                        "summary": "Protection and prosperity guaranteed.",
-                        "type": 1,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    }
-                ],
-                "google_sku_ids": {
-                    "5": "1329609528492429332_1331749674457235487",
-                    "7": "1329609528492429332_1331825162206576660"
-                }
-            },
-            {
-                "sku_id": "1329609528504746075",
-                "name": "Lucky Envelopes Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1329609528513400945",
-                "banner": "1329609528915791873",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        6752006,
-                        2491653
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1099,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 899,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1100,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 900,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1202445980377817179",
-                        "sku_id": "1202445890909110323",
-                        "asset": "a_1b1df0ae8c2d34afd85da5c22a0d761a",
-                        "label": "Two red envelopes sit on the left side of the avatar. One envelope moves forward and opens up to ingest a number of gold coins."
-                    },
-                    {
-                        "type": 1,
-                        "id": "1202058906738622514",
-                        "sku_id": "1202059628112777256"
-                    }
-                ],
-                "type": 1000,
-                "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
-                "bundled_products": [
-                    {
-                        "sku_id": "1202445890909110323",
-                        "name": "Lucky Envelopes",
-                        "summary": "Capacity: 888 coins.",
-                        "type": 0,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    },
-                    {
-                        "sku_id": "1202059628112777256",
-                        "name": "Fortune Flurry",
-                        "summary": "May fortune come your way!",
-                        "type": 1,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    }
-                ],
-                "google_sku_ids": {
-                    "5": "1329609528504746075_1331747458761494678",
-                    "7": "1329609528504746075_1331825189935382558"
                 }
             }
         ],
