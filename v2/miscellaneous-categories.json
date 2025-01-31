@@ -1090,6 +1090,94 @@
                 "premium_type": 0,
                 "category_sku_id": "1309309974266118144",
                 "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1334270711790833776",
+                "name": "Fortnite Boogie Bomb",
+                "summary": "Exclusive to the Fortnite OG S2 Quest for a limited time.",
+                "store_listing_id": "1334270711790833777",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-04-05T00:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1334270711790833775",
+                        "sku_id": "1334270711790833776",
+                        "asset": "a_786b0867026fcf4ecded83fd5da34f19",
+                        "label": "A Boogie Bomb explodes, lowering a disco ball causing a festive disco light show"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
             }
         ]
     },
