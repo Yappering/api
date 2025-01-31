@@ -30,6 +30,7 @@
         "mobile_banner": null,
         "featured_block": null,
         "hero_banner": null,
+        "wide_banner": null,
         "hero_logo": null,
         "products": [
             {
@@ -1212,6 +1213,7 @@
         "mobile_banner": null,
         "featured_block": null,
         "hero_banner": null,
+        "wide_banner": null,
         "hero_logo": null,
         "products": [
             {

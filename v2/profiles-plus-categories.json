@@ -29,6 +29,7 @@
         "mobile_banner": "54",
         "featured_block": "51",
         "hero_banner": "58",
+        "wide_banner": null,
         "hero_logo": null,
         "category_bg": "90",
         "products": [
@@ -889,6 +890,7 @@
         "mobile_banner": "46",
         "featured_block": "40",
         "hero_banner": "43",
+        "wide_banner": null,
         "hero_logo": null,
         "category_bg": "91",
         "products": [
@@ -1296,6 +1298,7 @@
         "mobile_banner": "61",
         "featured_block": null,
         "hero_banner": null,
+        "wide_banner": null,
         "hero_logo": null,
         "category_bg": "89",
         "products": [
