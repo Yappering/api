@@ -1,0 +1,26 @@
+[
+    {
+        "sku_id": "1",
+        "name": "Name Plate",
+        "summary": "Placeholder",
+        "price": {
+            "amount": 50,
+            "currency": "discord_orb",
+            "currency_exponent": 0
+        },
+        "src": null,
+        "support_id": null
+    },
+    {
+        "sku_id": "2",
+        "name": "50 Orbs",
+        "summary": "Placeholder",
+        "price": {
+            "amount": 499,
+            "currency": "usd",
+            "currency_exponent": 2
+        },
+        "src": null,
+        "support_id": null
+    }
+]
