@@ -1,26 +1,77 @@
 [
     {
-        "sku_id": "1",
+        "sku_id": null,
+        "name": "Nitro",
+        "summary": "Placeholder | Nothing here is official",
+        "price": {
+            "amount": 100,
+            "currency": "discord_orb",
+            "currency_exponent": 0
+        },
+        "src": "56",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
+        "support_id": null
+    },
+    {
+        "sku_id": null,
         "name": "Name Plate",
-        "summary": "Placeholder",
+        "summary": "Placeholder | Nothing here is official",
         "price": {
             "amount": 50,
             "currency": "discord_orb",
             "currency_exponent": 0
         },
-        "src": null,
+        "src": "49",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
         "support_id": null
     },
     {
-        "sku_id": "2",
+        "sku_id": null,
         "name": "50 Orbs",
-        "summary": "Placeholder",
+        "summary": "Placeholder | Nothing here is official",
         "price": {
             "amount": 499,
             "currency": "usd",
             "currency_exponent": 2
         },
-        "src": null,
+        "src": "121",
+        "format": "svg",
+        "endpoint": "assets",
+        "new_text": null,
+        "support_id": null
+    },
+    {
+        "sku_id": null,
+        "name": "120 Orbs",
+        "summary": "Placeholder | Nothing here is official",
+        "price": {
+            "amount": 999,
+            "currency": "usd",
+            "currency_exponent": 2
+        },
+        "src": "122",
+        "format": "svg",
+        "endpoint": "assets",
+        "new_text": "+20 EXTRA",
+        "support_id": null
+    },
+    {
+        "sku_id": null,
+        "name": "300 Orbs",
+        "summary": "Placeholder | Nothing here is official",
+        "price": {
+            "amount": 1999,
+            "currency": "usd",
+            "currency_exponent": 2
+        },
+        "src": "123",
+        "format": "svg",
+        "endpoint": "assets",
+        "new_text": "+100 EXTRA",
         "support_id": null
     }
 ]
