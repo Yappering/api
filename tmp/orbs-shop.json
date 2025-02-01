@@ -1,5 +1,35 @@
 [
     {
+        "sku_id": "1316162456959057920",
+        "name": "Confetti Potion",
+        "summary": "Placeholder | Nothing here is official",
+        "price": {
+            "amount": 10,
+            "currency": "discord_orb",
+            "currency_exponent": 0
+        },
+        "src": "47",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
+        "support_id": "29133681590679"
+    },
+    {
+        "sku_id": "1285377810587979827",
+        "name": "HD Streaming Potion",
+        "summary": "Placeholder | Nothing here is official",
+        "price": {
+            "amount": 10,
+            "currency": "discord_orb",
+            "currency_exponent": 0
+        },
+        "src": "48",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
+        "support_id": "27343254089623"
+    },
+    {
         "sku_id": null,
         "name": "Nitro",
         "summary": "Placeholder | Nothing here is official",
