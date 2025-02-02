@@ -9,6 +9,9 @@
             "currency_exponent": 2
         },
         "src": "47",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
         "support_id": "29133681590679"
     },
     {
@@ -21,6 +24,9 @@
             "currency_exponent": 2
         },
         "src": "48",
+        "format": "svg",
+        "endpoint": "discord-assets",
+        "new_text": null,
         "support_id": "27343254089623"
     }
 ]
