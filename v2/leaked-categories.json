@@ -1,0 +1,307 @@
+[
+    {
+        "leaks_type": "1",
+        "sku_id": "1333278032999485461",
+        "name": "Civilization 7",
+        "summary": null,
+        "store_listing_id": null,
+        "banner": "1333278033011933275",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                7847144,
+                12509931
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "wide_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1333278032915464263",
+                "name": "Fog of War",
+                "summary": "Explore the far reaches of the unknown world.",
+                "store_listing_id": "1333278032923988038",
+                "banner": "1333278033011933275",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1333278032932110407",
+                        "sku_id": "1333278032915464263"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1333278032999485461",
+                "google_sku_ids": {
+                    "5": "1333278032915464263_1335034559385042954",
+                    "7": "1333278032915464263_1335034587490942986"
+                }
+            },
+            {
+                "sku_id": "1333278032940630046",
+                "name": "Wonder Construction",
+                "summary": "Build something wonderful.",
+                "store_listing_id": "1333278032949153792",
+                "banner": "1333278033011933275",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1333278032953081928",
+                        "sku_id": "1333278032940630046"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1333278032999485461",
+                "google_sku_ids": {
+                    "5": "1333278032940630046_1335034845339975690",
+                    "7": "1333278032940630046_1335034858845638676"
+                }
+            },
+            {
+                "sku_id": "1333278032965795972",
+                "name": "Science Victory",
+                "summary": "One small step. One giant leap.",
+                "store_listing_id": "1333278032974188645",
+                "banner": "1333278033011933275",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1333278032982442026",
+                        "sku_id": "1333278032965795972"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1333278032999485461",
+                "google_sku_ids": {
+                    "5": "1333278032965795972_1335034788633116744",
+                    "7": "1333278032965795972_1335034801031221288"
+                }
+            }
+        ]
+    }
+]
