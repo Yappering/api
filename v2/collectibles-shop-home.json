@@ -9,7 +9,7 @@
                 "animated": "https://cdn.discordapp.com/assets/content/34e0436df01663caaac9585ef16fec77d1a5d7542b8931b25a67bc01f6001146.webm",
                 "static": "https://cdn.discordapp.com/assets/content/bb7e41f242d55a4155c91f96bed8393e71d1b9ce09543c05bc57df679a004ab6.jpg"
             },
-            "logo_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1333278033066594396.png?size=1024",
+            "logo_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336756819380404284.png?size=1024",
             "unpublished_at": null,
             "summary": "Build something you believe in.",
             "ranked_sku_ids": [
@@ -384,10 +384,10 @@
             "pdp_bg": "1333278033028579358",
             "success_modal_bg": "1333278033045622824",
             "mobile_banner": "1333278033020456992",
-            "featured_block": "1333278033053745152",
+            "featured_block": "1336756819380404285",
             "hero_banner": null,
             "wide_banner": null,
-            "hero_logo": "1333278033066594396",
+            "hero_logo": "1336756819380404284",
             "products": [
                 {
                     "sku_id": "1333278032709943368",
