@@ -1,15 +1,15 @@
 [
     {
-        "sku_id": "1202069709281828935",
-        "name": "Lunar New Year",
-        "summary": "Shed the old, embrace the new. Happy Year of the Snake!",
-        "store_listing_id": "1202069648351170580",
-        "banner": "1329609528915791873",
+        "sku_id": "1333278032999485461",
+        "name": "Civilization VII",
+        "summary": "Build something you believe in.",
+        "store_listing_id": "1333278032990834779",
+        "banner": "1333278033011933275",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                6752006,
-                2491653
+                7847144,
+                12509931
             ],
             "button_colors": [
                 5793266,
@@ -23,38 +23,41 @@
                 9739511
             ]
         },
-        "logo": "1329609528907665468",
+        "logo": "1333278033007869983",
         "hero_ranking": [
-            "1329609528441831537",
-            "1329609528471195659",
-            "1329609528546693170",
-            "1329609528571858975",
-            "1329609528492429332",
-            "1329609528504746075",
-            "1329609528525979658",
-            "1202074101343322184",
-            "1202061510529257522"
+            "1333278032709943368",
+            "1333278032734978172",
+            "1333278032768536596",
+            "1333278032965795972",
+            "1333278032752021515",
+            "1333278032915464263",
+            "1333278032814673940",
+            "1333278032835645450",
+            "1333278032789635082",
+            "1333278032940630046",
+            "1333278032852549705",
+            "1333278032877715467"
         ],
-        "mobile_bg": "1329609528936763503",
-        "pdp_bg": "1329609528928637009",
-        "success_modal_bg": "1329609528945147986",
-        "mobile_banner": "1329609528919982216",
-        "featured_block": "1329609528953802772",
+        "mobile_bg": "1333278033037099038",
+        "pdp_bg": "1333278033028579358",
+        "success_modal_bg": "1333278033045622824",
+        "mobile_banner": "1333278033020456992",
+        "featured_block": "1333278033053745152",
         "hero_banner": null,
         "wide_banner": null,
-        "hero_logo": "1329609528970313811",
+        "hero_logo": "1333278033066594396",
         "products": [
             {
-                "sku_id": "1329609528441831537",
-                "name": "Year of the Snake 2025 Bundle",
+                "sku_id": "1333278032709943368",
+                "name": "Build Your Empire Bundle",
                 "summary": "A bundle of collectibles.",
-                "store_listing_id": "1329609528450486435",
-                "banner": "1329609528915791873",
+                "store_listing_id": "1333278032722661490",
+                "banner": "1333278033011933275",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        6752006,
-                        2491653
+                        7847144,
+                        12509931
                     ],
                     "button_colors": [
                         5793266,
@@ -74,7 +77,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1099,
+                                    "amount": 1799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -86,7 +89,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 899,
+                                    "amount": 1399,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -98,7 +101,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1100,
+                                    "amount": 1800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -110,7 +113,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 900,
+                                    "amount": 1400,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -121,25 +124,25 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1329609528538566698",
-                        "sku_id": "1329609528525979658",
-                        "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
-                        "label": "A red snake in lunar year colors coils gracefully around your avatar for a scaly hug."
+                        "id": "1333278032802086983",
+                        "sku_id": "1333278032789635082",
+                        "asset": "a_ccee9031d66bc0f2d7ed0c6178d01784",
+                        "label": "A hex tile made of gold outlines your avatar like a glorious portrait frame."
                     },
                     {
                         "type": 1,
-                        "id": "1329611507398610955",
-                        "sku_id": "1329611507381829702"
+                        "id": "1333278032953081928",
+                        "sku_id": "1333278032940630046"
                     }
                 ],
                 "type": 1000,
                 "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
+                "category_sku_id": "1333278032999485461",
                 "bundled_products": [
                     {
-                        "sku_id": "1329609528525979658",
-                        "name": "Snake\u2019s Hug",
-                        "summary": "Trying to ward off bad luck? Your snake companion\u2019s got you covered.",
+                        "sku_id": "1333278032789635082",
+                        "name": "Golden Hex",
+                        "summary": "The building blocks of Civilization.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -148,7 +151,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -160,7 +163,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -172,7 +175,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -184,7 +187,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -194,9 +197,9 @@
                         }
                     },
                     {
-                        "sku_id": "1329611507381829702",
-                        "name": "Twist of Luck",
-                        "summary": "A rare meeting of Fate and Fortune. This may be a sign that good luck is heading your way.",
+                        "sku_id": "1333278032940630046",
+                        "name": "Wonder Construction",
+                        "summary": "Build something wonderful.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -205,7 +208,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -217,7 +220,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -229,7 +232,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -241,7 +244,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -252,21 +255,21 @@
                     }
                 ],
                 "google_sku_ids": {
-                    "5": "1329609528441831537_1331747702425256036",
-                    "7": "1329609528441831537_1331825106498093216"
+                    "5": "1333278032709943368_1335034162637307952",
+                    "7": "1333278032709943368_1335034195101356072"
                 }
             },
             {
-                "sku_id": "1329609528471195659",
-                "name": "Koi Fish Bundle",
+                "sku_id": "1333278032734978172",
+                "name": "Land and Sea Bundle",
                 "summary": "A bundle of collectibles.",
-                "store_listing_id": "1329609528483774504",
-                "banner": "1329609528915791873",
+                "store_listing_id": "1333278032743497758",
+                "banner": "1333278033011933275",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        6752006,
-                        2491653
+                        7847144,
+                        12509931
                     ],
                     "button_colors": [
                         5793266,
@@ -286,7 +289,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1099,
+                                    "amount": 1799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -298,7 +301,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 899,
+                                    "amount": 1399,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -310,7 +313,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1100,
+                                    "amount": 1800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -322,7 +325,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 900,
+                                    "amount": 1400,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -333,25 +336,25 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1202074104945971311",
-                        "sku_id": "1202074101343322184",
-                        "asset": "a_50b440810b1bbd89f6284f36d40ad0af",
-                        "label": "Two koi fish swimming beneath the water covering the avatar surface, and dive down repeatedly as they swim in circles."
+                        "id": "1333278032827252798",
+                        "sku_id": "1333278032814673940",
+                        "asset": "a_9d95e36bc282523fddc63d31a8d01091",
+                        "label": "Your avatar\u2019s hex tile morphs through desert, lush forests, and oceanic blues - perfect for those who love to explore."
                     },
                     {
                         "type": 1,
-                        "id": "1329611507419582515",
-                        "sku_id": "1329611507402801312"
+                        "id": "1333278032932110407",
+                        "sku_id": "1333278032915464263"
                     }
                 ],
                 "type": 1000,
                 "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
+                "category_sku_id": "1333278032999485461",
                 "bundled_products": [
                     {
-                        "sku_id": "1202074101343322184",
-                        "name": "Koi Pond",
-                        "summary": "Swimming in an eternal, peaceful circle.",
+                        "sku_id": "1333278032814673940",
+                        "name": "Terrain Tiles",
+                        "summary": "Land, sea and everything in between.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -360,7 +363,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -372,7 +375,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -384,7 +387,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -396,7 +399,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -406,9 +409,9 @@
                         }
                     },
                     {
-                        "sku_id": "1329611507402801312",
-                        "name": "Koi Garden",
-                        "summary": "Go with the flow and good things will follow.",
+                        "sku_id": "1333278032915464263",
+                        "name": "Fog of War",
+                        "summary": "Explore the far reaches of the unknown world.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -417,7 +420,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 599,
+                                            "amount": 999,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -429,7 +432,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 499,
+                                            "amount": 799,
                                             "currency": "usd",
                                             "exponent": 2
                                         }
@@ -441,7 +444,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 600,
+                                            "amount": 1000,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -453,7 +456,7 @@
                                     "country_code": "US",
                                     "prices": [
                                         {
-                                            "amount": 500,
+                                            "amount": 800,
                                             "currency": "nzd",
                                             "exponent": 2
                                         }
@@ -464,21 +467,21 @@
                     }
                 ],
                 "google_sku_ids": {
-                    "5": "1329609528471195659_1331748515143221409",
-                    "7": "1329609528471195659_1331825135115833456"
+                    "5": "1333278032734978172_1335034375032803388",
+                    "7": "1333278032734978172_1335034388634796124"
                 }
             },
             {
-                "sku_id": "1329609528546693170",
-                "name": "Lotus Flower",
-                "summary": "Every petal, a promise of new beginnings.",
-                "store_listing_id": "1329609528555077653",
-                "banner": "1329609528915791873",
+                "sku_id": "1333278032768536596",
+                "name": "Gold Laurel Wreath",
+                "summary": "An emperor\u2019s favourite accessory.",
+                "store_listing_id": "1333278032772993054",
+                "banner": "1333278033011933275",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        6752006,
-                        2491653
+                        7847144,
+                        12509931
                     ],
                     "button_colors": [
                         5793266,
@@ -498,7 +501,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 599,
+                                    "amount": 999,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -510,7 +513,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 499,
+                                    "amount": 799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -522,7 +525,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 600,
+                                    "amount": 1000,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -534,7 +537,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 500,
+                                    "amount": 800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -545,31 +548,31 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1329609528563732521",
-                        "sku_id": "1329609528546693170",
-                        "asset": "a_2e55d644e11acb6253dfa422eff16dfd",
-                        "label": "Delicate petals of a beautiful pink lotus flower bloom around your avatar."
+                        "id": "1333278032781115402",
+                        "sku_id": "1333278032768536596",
+                        "asset": "a_fcb0de14da228879b455f1f1d3919749",
+                        "label": "A regal laurel wreath of gold encircles your avatar, symbolizing the grandeur of civilization's mightiest rulers."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
+                "category_sku_id": "1333278032999485461",
                 "google_sku_ids": {
-                    "5": "1329609528546693170_1331748821776203798",
-                    "7": "1329609528546693170_1331825245044080692"
+                    "5": "1333278032768536596_1335035464956252281",
+                    "7": "1333278032768536596_1335035477811658804"
                 }
             },
             {
-                "sku_id": "1329609528571858975",
-                "name": "Red Lantern",
-                "summary": "May you shine brightly and boldly.",
-                "store_listing_id": "1329609528580243546",
-                "banner": "1329609528915791873",
+                "sku_id": "1333278032965795972",
+                "name": "Science Victory",
+                "summary": "One small step. One giant leap.",
+                "store_listing_id": "1333278032974188645",
+                "banner": "1333278033011933275",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        6752006,
-                        2491653
+                        7847144,
+                        12509931
                     ],
                     "button_colors": [
                         5793266,
@@ -589,7 +592,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 599,
+                                    "amount": 999,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -601,7 +604,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 499,
+                                    "amount": 799,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -613,7 +616,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 600,
+                                    "amount": 1000,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -625,7 +628,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 500,
+                                    "amount": 800,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -635,29 +638,27 @@
                 },
                 "items": [
                     {
-                        "type": 0,
-                        "id": "1329609528588898516",
-                        "sku_id": "1329609528571858975",
-                        "asset": "a_9e16d86b2887eb2a3bed36a5b8876935",
-                        "label": "An ornamental red new year lantern frames your avatar, symbolizing good luck and joy for your year ahead."
+                        "type": 1,
+                        "id": "1333278032982442026",
+                        "sku_id": "1333278032965795972"
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1202069709281828935",
+                "category_sku_id": "1333278032999485461",
                 "google_sku_ids": {
-                    "5": "1329609528571858975_1331749923447767110",
-                    "7": "1329609528571858975_1331825274161201182"
+                    "5": "1333278032965795972_1335034788633116744",
+                    "7": "1333278032965795972_1335034801031221288"
                 }
             }
         ],
         "banner_asset": {
-            "animated": null,
-            "static": "https://cdn.discordapp.com/assets/content/dc0e0d37f19f1f2a3358780ec2d744c1f1019e23eb7c1f99800d5c76843379e4.jpg"
+            "animated": "https://cdn.discordapp.com/assets/content/820f18e91d9b8c75a02c9a732f7e81e47d661be3168ab4d594db02ad9b4421b0.webm",
+            "static": "https://cdn.discordapp.com/assets/content/4cecdc171138fdbf4601c630df66fb4ccf7d3518f9f46ee5fccc183c2467c519.jpg"
         },
         "hero_banner_asset": {
             "animated": null,
-            "static": "https://cdn.discordapp.com/assets/content/cf5c310039f9b57255f4d60ca336a884f7cd5f68784f4209fd7a18994932f3a9.jpg"
+            "static": "https://cdn.discordapp.com/assets/content/bb7e41f242d55a4155c91f96bed8393e71d1b9ce09543c05bc57df679a004ab6.jpg"
         }
     }
 ]

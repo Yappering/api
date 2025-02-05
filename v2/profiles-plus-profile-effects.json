@@ -279,6 +279,34 @@
                     "randomizedSources": []
                 }
             ]
+        },
+        {
+            "type": 1,
+            "id": "pplus-42-id",
+            "sku_id": "pplus-42",
+            "title": "Guiding lights",
+            "description": "Here to guide you on your journey.",
+            "accessibilityLabel": "Here to guide you on your journey.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/1.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/1.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/2.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 2880,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
         }
     ]
 }
