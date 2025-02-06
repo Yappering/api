@@ -1,13 +1,5 @@
 [
     {
-        "sku_id": "1316162456959057920",
-        "price": "US$0.99",
-        "name": "Confetti Potion",
-        "summary": "Spruce up your message with confetti!",
-        "preview": "https://cdn.yapper.shop/discord-assets/46.png",
-        "giftable_sku": "false"
-    },
-    {
         "sku_id": "1285377810587979827",
         "price": "US$0.99",
         "name": "HD Streaming Potion",

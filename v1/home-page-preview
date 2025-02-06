@@ -1,10 +1,29 @@
 [
     {
-        "name": "Civilization VII",
-        "summary": "Build something you believe in.",
+        "name": "Arcane",
+        "summary": "The hunt is on.",
         "summary_black": "false",
-        "banner": "https://cdn.discordapp.com/assets/content/bb7e41f242d55a4155c91f96bed8393e71d1b9ce09543c05bc57df679a004ab6.jpg",
-        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1333278033066594396.png?size=4096",
+        "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165297123358.png?size=4096",
+        "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165288730724.png?size=4096",
+        "hero_ranking": [
+            "1303490165045727317",
+            "1303490165099991143",
+            "1303490165234208810",
+            "1303490165171294268",
+            "1303490165074825296",
+            "1303490165213237338",
+            "1303490165150322698",
+            "1303490165192265799",
+            "1303490165120962651",
+            "1303490165255180298"
+        ],
+        "mobile_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165318094958.png?size=4096",
+        "pdp_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165314158692.png?size=4096",
+        "success_modal_bg": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165326745641.png?size=4096",
+        "mobile_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165301579908.png?size=4096",
+        "featured_block": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165335130182.png?size=4096",
+        "hero_banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303490165339066469.png?size=4096",
+        "hero_logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1303890398137290793.png?size=4096",
         "sku_id": "1303490165284802580",
         "unpublished_at": null,
         "styles": {
@@ -20,92 +39,85 @@
         "logo_sway": "false",
         "products": [
             {
-                "name": "Build Your Empire Bundle",
+                "name": "Anomaly Bundle",
                 "summary": "A bundle of collectibles.",
-                "sku_id": "1333278032709943368",
-                "price": "US$17.99",
-                "price_nitro": "US$13.99",
+                "sku_id": "1306752744228524052",
+                "price": "US$28.99",
+                "price_nitro": "US$21.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "bundled_products": [
                     {
                         "item_type": "deco",
-                        "name": "Golden Hex",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_ccee9031d66bc0f2d7ed0c6178d01784.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_ccee9031d66bc0f2d7ed0c6178d01784.png?size=4096&passthrough=true",
+                        "name": "The Anomaly",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=true",
                         "summary": "Beautiful. Impossible. Inevitable."
                     },
                     {
                         "item_type": "effect",
-                        "name": "Wonder Construction",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/intro.png",
+                        "name": "Arcane Epiphany",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
                         "summary": "\u2018What have we done…?\u2019"
                     }
                 ]
             },
             {
-                "name": "Land and Sea Bundle",
-                "summary": "A bundle of collectibles.",
-                "sku_id": "1333278032734978172",
-                "price": "US$17.99",
-                "price_nitro": "US$13.99",
-                "unpublished_at": null,
-                "isNew": "true",
-                "emojiCopy": null,
-                "bundled_products": [
-                    {
-                        "item_type": "deco",
-                        "name": "Terrain Tiles",
-                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d95e36bc282523fddc63d31a8d01091.png?size=4096&passthrough=false",
-                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d95e36bc282523fddc63d31a8d01091.png?size=4096&passthrough=true",
-                        "summary": "Beautiful. Impossible. Inevitable."
-                    },
-                    {
-                        "item_type": "effect",
-                        "name": "Fog of War",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/intro.png",
-                        "summary": "\u2018What have we done…?\u2019"
-                    }
-                ]
-            },
-            {
-                "name": "Gold Laurel Wreath",
-                "summary": "An emperor\u2019s favourite accessory.",
-                "sku_id": "1333278032768536596",
-                "price": "US$9.99",
-                "price_nitro": "US$7.99",
+                "name": "The Anomaly",
+                "summary": "Beautiful. Impossible. Inevitable.",
+                "sku_id": "1306752744258011166",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "deco",
-                        "name": "Gold Laurel Wreath",
+                        "name": "The Anomaly",
+                        "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=false",
+                        "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=4096&passthrough=true",
+                        "summary": "Beautiful. Impossible. Inevitable."
+                    }
+                ]
+            },
+            {
+                "name": "The Mark",
+                "summary": "An act of desperation. This changes nothing.",
+                "sku_id": "1306752744278982737",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
+                "unpublished_at": null,
+                "isNew": "true",
+                "emojiCopy": null,
+                "items": [
+                    {
+                        "item_type": "deco",
+                        "name": "The Mark",
                         "static": "https://cdn.discordapp.com/avatar-decoration-presets/a_27f77b8147892bc271658ba19e4ecc06.png?size=4096&passthrough=false",
                         "animated": "https://cdn.discordapp.com/avatar-decoration-presets/a_27f77b8147892bc271658ba19e4ecc06.png?size=4096&passthrough=true",
-                        "summary": "An emperor\u2019s favourite accessory."
+                        "summary": "An act of desperation. This changes nothing."
                     }
                 ]
             },
             {
-                "name": "Science Victory",
-                "summary": "One small step. One giant leap.",
-                "sku_id": "1333278032965795972",
-                "price": "US$9.99",
-                "price_nitro": "US$7.99",
+                "name": "Arcane Epiphany",
+                "summary": "\u2018What have we done…?\u2019",
+                "sku_id": "1306752744299954306",
+                "price": "US$15.99",
+                "price_nitro": "US$11.99",
                 "unpublished_at": null,
                 "isNew": "true",
                 "emojiCopy": null,
                 "items": [
                     {
                         "item_type": "effect",
-                        "name": "Science Victory",
-                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/thumbnail.png",
-                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/intro.png",
-                        "summary": "One small step. One giant leap."
+                        "name": "Arcane Epiphany",
+                        "static": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+                        "animated": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
+                        "summary": "\u2018What have we done…?\u2019"
                     }
                 ]
             }
