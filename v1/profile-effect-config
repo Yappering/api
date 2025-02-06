@@ -528,7 +528,7 @@
             "description": "Did I scare you?",
             "accessibilityLabel": "Graffiti-esque stars are strobing across the profile. But wait, you notice there\u2019s something written in the stars... \u2018BOO!\u2019 Did we get ya?",
             "animationType": 2,
-            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/punk-girl/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/punk-girl/reducedMotion.png",
             "effects": [
                 {
@@ -571,7 +571,7 @@
             "description": "Who keeps summoning these things?",
             "accessibilityLabel": "A ghastly portal suddenly appears, summoning three ghostly spirits to haunt your enemies \u2013 no one gets to beat you in a game and get away with it.",
             "animationType": 2,
-            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/thumbnail.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/dark-omens/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/reducedMotion.png",
             "effects": [
                 {
@@ -614,7 +614,7 @@
             "description": "I don\u2019t think you should touch that.",
             "accessibilityLabel": "Out of nowhere, a glob of slime suddenly drops from above, forming into a skull before vaporising in the air. Has someone just cursed you?",
             "animationType": 2,
-            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/thumbnail.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/zombie-slime/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/reducedMotion.png",
             "effects": [
                 {
@@ -677,7 +677,7 @@
                     "randomizedSources": []
                 },
                 {
-                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/fall-foliage/intro-leaves.png",
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-04/fall-foliage/intro-leaves.png",
                     "loop": false,
                     "height": 880,
                     "width": 450,
@@ -3665,7 +3665,7 @@
                     "randomizedSources": []
                 },
                 {
-                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/scarlet-fall-foliage/intro-leaves.png",
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-04/scarlet-fall-foliage/intro-leaves.png",
                     "loop": false,
                     "height": 880,
                     "width": 450,
@@ -3724,7 +3724,7 @@
                     "randomizedSources": []
                 },
                 {
-                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-09/woodland-fall-foliage/intro-leaves.png",
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-04/woodland-fall-foliage/intro-leaves.png",
                     "loop": false,
                     "height": 880,
                     "width": 450,
@@ -3746,6 +3746,2395 @@
                     "duration": 3083,
                     "start": 5920,
                     "loopDelay": 6166,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1285465421251608638",
+            "sku_id": "1285465421239291904",
+            "title": "Street Fighter 6",
+            "description": "The award-winning Street Fighter 6 theme!",
+            "accessibilityLabel": "The Street Fighter 6 wordmark is splashed across the profile with a vibrant, graffiti-like art style, adding a street-savvy flair to the profile.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/street-fighter-6/graffiti_thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/street-fighter-6/graffiti_reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-26/street-fighter-6/graffiti_intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4240,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/street-fighter-6/graffiti_idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 5976,
+                    "loopDelay": 5976,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1285465421276905582",
+            "sku_id": "1285465421260263464",
+            "title": "Akuma\u2019s Wrath",
+            "description": "Messatsu! Feel the power of the Satsui no hado!",
+            "accessibilityLabel": "Akuma\u2019s imposing figure appears over the profile, his back turned as dark, demonic energy radiates from him. His presence makes him a mighty ally for imposing fear and respect amongst one\u2019s profile admirers.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 5976,
+                    "loopDelay": 5976,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1285465421297745961",
+            "sku_id": "1285465421285429258",
+            "title": "M. Bison\u2019s Return",
+            "description": "For him, it was Tuesday.",
+            "accessibilityLabel": "M. Bison hovers menacingly over the profile in his signature red military uniform, radiating purple energy with his arms crossed, eyes glowing fiercely and his iconic devilish grin on his face.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/bisons-return/bison_thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/bisons-return/bison_reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-20/bisons-return/bison_intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/bisons-return/bison_idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 5976,
+                    "loopDelay": 5976,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1285465421322911765",
+            "sku_id": "1285465421306400858",
+            "title": "Classic Street Fighter",
+            "description": "Bring it back to the retro streets!",
+            "accessibilityLabel": "Ryu\u2019s classic retro portrait from Street Fighter 2 appears over the profile, with the legendary phrase \u2018You must defeat Sheng Long to stand a chance\u2019 written out beneath it.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-26/classic-street-fighter/continue_intro_[1-2].png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3760,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": [
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-26/classic-street-fighter/continue_intro_1.png"
+                        },
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-26/classic-street-fighter/continue_intro_2.png"
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/classic-street-fighter/continue_idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 5976,
+                    "loopDelay": 5976,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835633888526448",
+            "sku_id": "1287835633867559022",
+            "title": "Blazing Ghoulish Graffiti",
+            "description": "Did I scare you?",
+            "accessibilityLabel": "Graffiti-esque stars in burnt orange are strobing across the profile. But wait, you notice there\u2019s something written in the stars... \u2018BOO!\u2019 Did we get ya?",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/blazing-ghoulish-graffiti/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2573,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2000,
+                    "start": 5146,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835633938858065",
+            "sku_id": "1287835633896783952",
+            "title": "Neon Ghoulish Graffiti",
+            "description": "Did I scare you?",
+            "accessibilityLabel": "Graffiti-esque stars in neon blues and yellows are strobing across the profile. But wait, you notice there\u2019s something written in the stars... \u2018BOO!\u2019 Did we get ya?",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/neon-ghoulish-graffiti/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2573,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2000,
+                    "start": 5146,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835633964023910",
+            "sku_id": "1287835633947115570",
+            "title": "Infernal Dark Omens",
+            "description": "Who keeps summoning these things?",
+            "accessibilityLabel": "A ghastly infernal portal suddenly appears, summoning three blazing, ghostly spirits to haunt your enemies \u2013 no one gets to beat you in a game and get away with it.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 5760,
+                    "loopDelay": 5760,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835633997451387",
+            "sku_id": "1287835633980669972",
+            "title": "Midnight Dark Omens",
+            "description": "Who keeps summoning these things?",
+            "accessibilityLabel": "A ghastly blue portal suddenly appears, summoning three ghostly spirits to haunt your enemies \u2013 no one gets to beat you in a game and get away with it.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 5760,
+                    "loopDelay": 5760,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835634026811414",
+            "sku_id": "1287835634005970994",
+            "title": "Bubble Gum Zombie Slime",
+            "description": "I don\u2019t think you should touch that.",
+            "accessibilityLabel": "Out of nowhere, a glob of pink slime suddenly drops from above, forming into a skull before vaporising in the air. Has someone just cursed you?",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 5760,
+                    "loopDelay": 5760,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1287835634073075726",
+            "sku_id": "1287835634035331072",
+            "title": "Midnight Zombie Slime",
+            "description": "I don\u2019t think you should touch that.",
+            "accessibilityLabel": "Out of nowhere, a glob of blue slime suddenly drops from above, forming into a skull before vaporising in the air. Has someone just cursed you?",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 5760,
+                    "loopDelay": 5760,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1293373563398520832",
+            "sku_id": "1293373563381878836",
+            "title": "D20 Roll",
+            "description": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes.",
+            "accessibilityLabel": "A 20-sided dice rolls into view, displaying \u2018Critical Failure\u2019 when landing on a 1 and \u2018Critical Success\u2019 when rolling a 20. The outcome it decides remains unknown to this day.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/reduced_motion_success.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3250,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": [
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_success.png"
+                        },
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_failure.png"
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_[1-2].png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 3000,
+                    "loopDelay": 4500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": [
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_success.png"
+                        },
+                        {
+                            "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_failure.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1293373563423686676",
+            "sku_id": "1293373563407175680",
+            "title": "Red Dragon",
+            "description": "Let\u2019s play with fire.",
+            "accessibilityLabel": "A fearsome red dragon swoops into view, breathing flames that engulf the entire profile in a fiery inferno before vanishing in the flames.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2988,
+                    "start": 5000,
+                    "loopDelay": 4500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1293373563448852613",
+            "sku_id": "1293373563432341574",
+            "title": "Beholder",
+            "description": "Aren\u2019t you a sight to behold!",
+            "accessibilityLabel": "Multiple glowing eyes appear until a menacing Beholder fully reveals itself in the dark, firing a deadly laser of arcane energy from its central eye.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3333,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 4500,
+                    "loopDelay": 6000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1293373563478212608",
+            "sku_id": "1293373563457507463",
+            "title": "Mimic",
+            "description": "Surprise!",
+            "accessibilityLabel": "A treasure chest falls from above but... surprise! The treasure chest reveals itself to be a Mimic that lashes its giant purple tongue out and bares rows upon rows of razor-sharp teeth.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3250,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 3000,
+                    "loopDelay": 6000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1298033986743828531",
+            "sku_id": "1298033986727055370",
+            "title": "Spirit of the Kitsune",
+            "description": "Like the moon, kitsune are just full of secrets.",
+            "accessibilityLabel": "Under a glowing full moon surrounded by scarlet and blue clouds, a rare kitsune with fiery red fur and blue-tipped tails suddenly prances into view before dashing off into the night.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-25/spirit-of-the-kitsune/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6640,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-25/spirit-of-the-kitsune/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5810,
+                    "start": 11140,
+                    "loopDelay": 4500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1298033986769256479",
+            "sku_id": "1298033986752221204",
+            "title": "Flutter and Frolic",
+            "description": "Don\u2019t blink \u2013 you\u2019ll miss the magic.",
+            "accessibilityLabel": "Bright magical fairies playfully skim across water as they flutter and frolic off into the horizon.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3405,
+                    "start": 0,
+                    "loopDelay": 5000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3154,
+                    "start": 3405,
+                    "loopDelay": 3500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1298033986794422313",
+            "sku_id": "1298033986777387059",
+            "title": "Mermaid Whisperer",
+            "description": "Got no troubles when life is bubbles!",
+            "accessibilityLabel": "A rare mermaid with vibrant purple hair and a tail of shimmering blue and white scales makes a brief, magical appearance as she swims across the screen.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-25/mermaid-whisperer/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4318,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-25/mermaid-whisperer/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5810,
+                    "start": 5318,
+                    "loopDelay": 3250,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1303490165225816125",
+            "sku_id": "1303490165213237338",
+            "title": "Jinx and Pow-Pow",
+            "description": "Come on, shoot faster\u2026",
+            "accessibilityLabel": "Clouds of smoke slowly dissipate, revealing Jinx wildly firing her minigun Pow-Pow in all directions with reckless abandon.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4333,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1303490165246787706",
+            "sku_id": "1303490165234208810",
+            "title": "Ekko\u2019s Aeroglider Stunts",
+            "description": "Ekko makes that look easier than it is.",
+            "accessibilityLabel": "Ekko swoops in on his hoverboard, flying and swerving effortlessly around with his trusty bat in hand.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3083,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/idle_1.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1500,
+                    "start": 7000,
+                    "loopDelay": 9167,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/idle_2.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1167,
+                    "start": 12500,
+                    "loopDelay": 9500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1303490165267759214",
+            "sku_id": "1303490165255180298",
+            "title": "Paint the Town Blue",
+            "description": "And red, and green, and orange, and\u2026",
+            "accessibilityLabel": "Clouds of smoke in vibrant colours explode around the avatar, creating a dazzling smokescreen.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4250,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1306752744312541315",
+            "sku_id": "1306752744299954306",
+            "title": "Arcane Epiphany",
+            "description": "\u2018What have we done\u2026?\u2019",
+            "accessibilityLabel": "Waves of colourful, shadow-like wisps swirl and shift across the profile like clouds.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4167,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4167,
+                    "start": 7000,
+                    "loopDelay": 2500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1306330663154225194",
+            "sku_id": "1306330663137443991",
+            "title": "Plushie Party",
+            "description": "If the party never ends... the plushie limit does not exist!!",
+            "accessibilityLabel": "A collection of cute and cosy animal plushies \u2013 bunny, bear, squid, puppy, cat and more \u2013 are playfully tossed into the air for a fun plushy party.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1958,
+                    "start": 4200,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1306330663175196753",
+            "sku_id": "1306330663162609685",
+            "title": "Bubble Tea Bliss",
+            "description": "Straws in, pearls out.",
+            "accessibilityLabel": "Pink bubble tea floods in, with vibrant purple pearls swirling about. A straw appears from the heavens and starts drinking all the tasty goodness down to the last pearl.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4500,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2833,
+                    "start": 5000,
+                    "loopDelay": 4500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1306330663200362527",
+            "sku_id": "1306330663183581247",
+            "title": "Kawaii Mode",
+            "description": "When :3 is your game face.",
+            "accessibilityLabel": "An assortment of gaming trinkets \u2013 a headset, controllers, hex lights and adorably cosy plushies \u2013 appear, signalling must-have items every gaming enthusiast should have in their dream setup.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4375,
+                    "start": 0,
+                    "loopDelay": 2000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/loop_mouseright.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4375,
+                    "start": 0,
+                    "loopDelay": 15125,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/loop_mouseleft.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4375,
+                    "start": 8750,
+                    "loopDelay": 15125,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1309668861838233681",
+            "sku_id": "1309668861817393263",
+            "title": "Lofi Girl Snow Angel",
+            "description": "Childhood memories...",
+            "accessibilityLabel": "Lofi Girl lies in the snow, happily making a snow angel while her orange cat curls snuggly into a fluffy ball atop her winter coat.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-snow-angel/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-snow-angel/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-snow-angel/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-snow-angel/idle_snow.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 9917,
+                    "start": 5000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-snow-angel/idle_star.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 5000,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1309668861863399565",
+            "sku_id": "1309668861846753372",
+            "title": "Lofi Girl Study Break",
+            "description": "Everyone deserves a break, right?",
+            "accessibilityLabel": "Lofi Girl\u2019s desk setup appears, showing off her signature headphones, study lamp, laptop, notebook and pens. All the essentials for a productive study session!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-study-break/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-study-break/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-study-break/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-study-break/idle_cattail.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 5000,
+                    "loopDelay": 5000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-girl-study-break/idle_light.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 10000,
+                    "start": 5000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1309668861892759642",
+            "sku_id": "1309668861871919316",
+            "title": "Lofi Cat Zoomies (Festive)",
+            "description": "Let the zoomies begin!",
+            "accessibilityLabel": "Lofi Girl\u2019s orange cat dashes and frolics in the snow, playing joyfully with the colourful blue, green, red and yellow fairy lights entangled around its body as they twinkle in the frost.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/intro_lights.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 7250,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/intro_pocky.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/intro_snow.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies-festive/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8417,
+                    "start": 7000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1309668861922119762",
+            "sku_id": "1309668861901279422",
+            "title": "Lofi Cat Zoomies",
+            "description": "Let the zoomies begin!",
+            "accessibilityLabel": "Lofi Girl\u2019s orange cat dashes and frolics in the snow, playing joyfully with the glowing warm white fairy lights entangled around its body as they twinkle in the frost.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/intro_lights.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 7250,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/intro_pocky.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/intro_snow.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-22/lofi-cat-zoomies/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8417,
+                    "start": 7000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020996856152104",
+            "sku_id": "1314020996776329279",
+            "title": "Aurora Dreams",
+            "description": "The perfect sky to dream under.",
+            "accessibilityLabel": "A glowing polar light display shimmers beautifully in the sky, blending lights in pinks, oranges, cyan and fuchsia under twinkling stars.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-08/aurora_dreams/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-08/aurora_dreams/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-08/aurora_dreams/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4980,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-08/aurora_dreams/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 6500,
+                    "loopDelay": 1500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020996881318009",
+            "sku_id": "1314020996864413717",
+            "title": "Penguins on Ice",
+            "description": "Living life on thin ice and loving every moment.",
+            "accessibilityLabel": "Three adorable penguins dressed in cosy winter hats and scarves slide and skid around on thin ice, clearly having the time of their lives.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/penguins_on_ice/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/penguins_on_ice/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/penguins_on_ice/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/penguins_on_ice/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 5900,
+                    "loopDelay": 2500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020996952621138",
+            "sku_id": "1314020996927328276",
+            "title": "Deck the Halls (Aurora)",
+            "description": "Keep out of reach of cats.",
+            "accessibilityLabel": "Festive green and blue fairy lights wrap around this profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_aurora/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_aurora/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_aurora/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-09/deck_the_halls_aurora/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_aurora/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1250,
+                    "start": 1750,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020996981981185",
+            "sku_id": "1314020996960882789",
+            "title": "Deck the Halls (Dusk)",
+            "description": "Keep out of reach of cats.",
+            "accessibilityLabel": "Festive blue and yellow fairy lights wrap around this profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_dusk/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_dusk/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_dusk/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-09/deck_the_halls_dusk/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_dusk/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1250,
+                    "start": 1750,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997011341372",
+            "sku_id": "1314020996990242816",
+            "title": "Deck the Halls (Ember)",
+            "description": "Keep out of reach of cats.",
+            "accessibilityLabel": "Festive red and orange fairy lights wrap around this profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_ember/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_ember/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_ember/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-09/deck_the_halls_ember/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_ember/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1250,
+                    "start": 1750,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997036507268",
+            "sku_id": "1314020997019602984",
+            "title": "Deck the Halls (Mix)",
+            "description": "Keep out of reach of cats.",
+            "accessibilityLabel": "Festive red, blue and yellow fairy lights wrap around this profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_mix/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_mix/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_mix/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-09/deck_the_halls_mix/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/deck_the_halls_mix/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 1250,
+                    "start": 1750,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997099421796",
+            "sku_id": "1314020997078323200",
+            "title": "Snowy Shenanigans (Giddy)",
+            "description": "Gone in a flurry.",
+            "accessibilityLabel": "In a sudden gust of snow and wind, a snowman with a giddy expression sweeps into and out of view, leaving behind a flurry of snow in his wake. Who knows if we\u2019ll ever see him again...",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_giddy/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_giddy/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_giddy/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_giddy/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_giddy/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8334,
+                    "start": 4168,
+                    "loopDelay": 8334,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997132714015",
+            "sku_id": "1314020997107683411",
+            "title": "Snowy Shenanigans (Jolly)",
+            "description": "Gone in a flurry.",
+            "accessibilityLabel": "In a sudden gust of snow and wind, a snowman with a jolly expression sweeps into and out of view, leaving behind a flurry of snow in his wake. Who knows if we\u2019ll ever see him again...",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_jolly/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_jolly/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_jolly/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_jolly/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_jolly/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8334,
+                    "start": 4168,
+                    "loopDelay": 8334,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997158141996",
+            "sku_id": "1314020997137043578",
+            "title": "Snowy Shenanigans (Smooch)",
+            "description": "Gone in a flurry.",
+            "accessibilityLabel": "In a sudden gust of snow and wind, a snowman with a smoochy face sweeps into and out of view, leaving behind a flurry of snow in his wake. Who knows if we\u2019ll ever see him again...",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_smooch/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_smooch/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_smooch/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_smooch/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_smooch/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8334,
+                    "start": 4168,
+                    "loopDelay": 8334,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1314020997187239996",
+            "sku_id": "1314020997166403624",
+            "title": "Snowy Shenanigans (Suave)",
+            "description": "Gone in a flurry.",
+            "accessibilityLabel": "In a sudden gust of snow and wind, a snowman with sunglasses and a cool demeanour sweeps into and out of view, leaving behind a flurry of snow in his wake. Who knows if we\u2019ll ever see him again...",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_suave/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_suave/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_suave/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_suave/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-12-06/snowy_shenanigans_suave/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 8334,
+                    "start": 4168,
+                    "loopDelay": 8334,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1324454241112166448",
+            "sku_id": "1324454241095647351",
+            "title": "Enchanted Forest",
+            "description": "You\u2019re walking in the forest and notice something magical and shiny.",
+            "accessibilityLabel": "A luminous fairy sprite suddenly emerges from an enchanted forest of lush, colourful plants, fluttering in view for a fleeting moment before darting back into the forest.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3333,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/enchanted-forest/new_idle_bg.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6750,
+                    "start": 3083,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/enchanted-forest/new_idle_fg.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6750,
+                    "start": 3083,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1324454241133138042",
+            "sku_id": "1324454241120813056",
+            "title": "Portal Beyond (Purple)",
+            "description": "Let\u2019s see what\u2019s on the other side, shall we?",
+            "accessibilityLabel": "A mysterious vortex of purple energy swirls in view, forming a magical portal for the briefest of moments before fading away without a trace.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4083,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3083,
+                    "start": 4083,
+                    "loopDelay": 3500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1324454241191858186",
+            "sku_id": "1324454241141784697",
+            "title": "Portal Beyond (Blue)",
+            "description": "Let\u2019s see what\u2019s on the other side, shall we?",
+            "accessibilityLabel": "A mysterious vortex of blue energy swirls in view, forming a magical portal for the briefest of moments before fading away without a trace.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4083,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3083,
+                    "start": 4083,
+                    "loopDelay": 3500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1324454241212829817",
+            "sku_id": "1324454241196310685",
+            "title": "Mooncap Forest (Pink)",
+            "description": "Their gentle glows mark safe passage for those lost at night.",
+            "accessibilityLabel": "Clusters of fuchsia pink, luminescent mushrooms and green forest foliage frame your profile, bathing it with an enchanting glow.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5383,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/mooncap-forest-pink/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5710,
+                    "start": 5083,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1324454241237995630",
+            "sku_id": "1324454241221476525",
+            "title": "Mooncap Forest (Blue)",
+            "description": "Their gentle glows mark safe passage for those lost at night.",
+            "accessibilityLabel": "Clusters of blue, luminescent mushrooms and green forest foliage frame your profile, bathing it with an enchanting glow.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5383,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/mooncap-forest-blue/new_idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5710,
+                    "start": 5083,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1326333074186829864",
+            "sku_id": "1326333074174382111",
+            "title": "Clockwork Butterflies",
+            "description": "Mechanical marvels! See how they flutter... as if nature and industry struck a most pleasant deal.",
+            "accessibilityLabel": "A flock of glistening, clockwork butterflies flutter into the horizon.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/clockwork-butterflies/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/clockwork-butterflies/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/clockwork-butterflies/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/clockwork-butterflies/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 6500,
+                    "loopDelay": 2000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1326333074207801344",
+            "sku_id": "1326333074191159439",
+            "title": "Cloud Zeppelin",
+            "description": "Full steam ahead, let the heavens be our domain!",
+            "accessibilityLabel": "A majestic steampunk zeppelin, complete with a wooden gondola, zooms excitedly across the sky belching clouds of steam in its wake.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/cloud-zeppelin/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/cloud-zeppelin/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/cloud-zeppelin/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/cloud-zeppelin/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 6750,
+                    "loopDelay": 4500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1326333074224578702",
+            "sku_id": "1326333074212130859",
+            "title": "Innovator\u2019s Masterwork",
+            "description": "One may ask: is it functional? Or is it art? The answer, my dear, is both.",
+            "accessibilityLabel": "An impressive machine of golden-copper clockwork gears, tubes filled with a mysterious glowing purple liquid, and pressure gauges frames your profile, gently puffing out small clouds of steam.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/innovators-masterwork/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/innovators-masterwork/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/innovators-masterwork/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/innovators-masterwork/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 5000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1329611507398610955",
+            "sku_id": "1329611507381829702",
+            "title": "Twist of Luck",
+            "description": "A rare meeting of Fate and Fortune. This may be a sign that good luck is heading your way.",
+            "accessibilityLabel": "Two snakes \u2013 one red and one golden orange \u2013 wrap and intertwine with each other to form different shapes and patterns in a mesmerising display of dance.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/entry.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 5000,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1329611507419582515",
+            "sku_id": "1329611507402801312",
+            "title": "Koi Garden",
+            "description": "Go with the flow and good things will follow.",
+            "accessibilityLabel": "In a koi pond with clear water and floating lily pads, you spot a red koi fish swimming with its orange companion, circling each other in perfect calm and harmony.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/entry.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/idleA.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 7000,
+                    "loopDelay": 10000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/idleB.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 14500,
+                    "loopDelay": 10000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333278032932110407",
+            "sku_id": "1333278032915464263",
+            "title": "Fog of War",
+            "description": "Explore the far reaches of the unknown world.",
+            "accessibilityLabel": "A collection of hex tiles - some oceanic, some verdant, and others barren plains - appear over your profile, awaiting your expansion.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333278032953081928",
+            "sku_id": "1333278032940630046",
+            "title": "Wonder Construction",
+            "description": "Build something wonderful.",
+            "accessibilityLabel": "A barren, desert hex tile evolves over time, leaving you to witness the development of a grand pyramid that symbolizes the achievements of your growing empire.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 4917,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333278032982442026",
+            "sku_id": "1333278032965795972",
+            "title": "Science Victory",
+            "description": "One small step. One giant leap.",
+            "accessibilityLabel": "A rocket blasts skyward, leaving behind plumes of smoke - proof of your civilization's glorious science victory!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/idle_A.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 8000,
+                    "loopDelay": 11000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/idle_B.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 5000,
+                    "start": 16000,
+                    "loopDelay": 11000,
                     "position": {
                         "x": 0,
                         "y": 0

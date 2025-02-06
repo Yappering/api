@@ -7937,7 +7937,7 @@
         "benefits": []
     },
     {
-        "id": "1282816431855243395",
+        "id": "1304490610450894950",
         "summary": "Transformation is a dance where your inner beauty finds its rhythm.",
         "sku": {
             "id": "1282816431850782730",
@@ -8214,220 +8214,6 @@
         },
         "description": "Now you can see in the dark. But so can they...",
         "published": true,
-        "benefits": []
-    },
-    {
-        "id": "1197342697200029767",
-        "summary": "Welcome to the neon embrace of the future.",
-        "sku": {
-            "id": "1197342727608746044",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Cyberpunk",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "cyberpunk",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Welcome to the neon embrace of the future.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1243620093431119922",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Am I Getting Hacked? Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "am-i-getting-hacked-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 899,
-                            "percentage": 18
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344326133502032",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Glitch",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "glitch",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344396983664670",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Cybernetic",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "cybernetic",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344575832981605",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Digital Sunrise",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "digital-sunrise",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344636558114986",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Implant",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "implant",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344693630009424",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Nightrunner",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "nightrunner",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1197344764174008452",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Uplink Error",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "uplink-error",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            }
-        ],
         "benefits": []
     },
     {
@@ -9395,7 +9181,7 @@
         "benefits": []
     },
     {
-        "id": "1293373563310444614",
+        "id": "1304486104921145375",
         "summary": "Your very own feathery friend!",
         "sku": {
             "id": "1293373563302318110",
@@ -9429,7 +9215,7 @@
         "benefits": []
     },
     {
-        "id": "1282816431905575045",
+        "id": "1304488358818480158",
         "summary": "A touch of day and night woven into every petal.",
         "sku": {
             "id": "1282816431901118474",
@@ -10210,7 +9996,7 @@
         "benefits": []
     },
     {
-        "id": "1324454241204572250",
+        "id": "1324603798991142972",
         "summary": "Their gentle glows mark safe passage for those lost at night.",
         "sku": {
             "id": "1324454241196310685",
@@ -10660,7 +10446,7 @@
         "benefits": []
     },
     {
-        "id": "1293373563247788106",
+        "id": "1304485468141781004",
         "summary": "It\u2019s not edible, but YOU are.",
         "sku": {
             "id": "1293373563239272458",
@@ -10932,6 +10718,40 @@
         "benefits": []
     },
     {
+        "id": "1293373563335610448",
+        "summary": "Your very own feathery friend!",
+        "sku": {
+            "id": "1293373563327483984",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Snowy Owlbear Cub",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "snowy-owlbear-cub",
+            "flags": 4,
+            "show_age_gate": false,
+            "price": {
+                "amount": 1299,
+                "currency": "usd",
+                "currency_exponent": 2,
+                "premium": {
+                    "2": {
+                        "amount": 999,
+                        "percentage": 23
+                    }
+                }
+            }
+        },
+        "description": "Your very own feathery friend!",
+        "published": true,
+        "benefits": []
+    },
+    {
         "id": "1287835633519169657",
         "summary": "\u227d ^ \u0298\u2a4a\u0298 ^ \u227c",
         "sku": {
@@ -11034,7 +10854,7 @@
         "benefits": []
     },
     {
-        "id": "1287835633624027147",
+        "id": "1303071313245765703",
         "summary": "You definitely don't look suspicious at all.",
         "sku": {
             "id": "1287835633615765524",
@@ -11272,7 +11092,7 @@
         "benefits": []
     },
     {
-        "id": "1158572178179108967",
+        "id": "1303074291713314816",
         "summary": "Did I scare you?",
         "sku": {
             "id": "1158572178179108968",
@@ -11408,7 +11228,7 @@
         "benefits": []
     },
     {
-        "id": "1158572263411556372",
+        "id": "1303075044687220797",
         "summary": "I don't think you should touch that.",
         "sku": {
             "id": "1158572263411556373",
@@ -11714,7 +11534,7 @@
         "benefits": []
     },
     {
-        "id": "1157407831348228140",
+        "id": "1304492274067050577",
         "summary": "Charming, cozy, and a little bit nosy.",
         "sku": {
             "id": "1157407831348228141",
@@ -11782,7 +11602,7 @@
         "benefits": []
     },
     {
-        "id": "1159280674004549682",
+        "id": "1304494262691565688",
         "summary": "Getting ready for sweater weather.",
         "sku": {
             "id": "1159280677246742548",
@@ -11816,7 +11636,7 @@
         "benefits": []
     },
     {
-        "id": "1159280844796596335",
+        "id": "1304495129222189087",
         "summary": "Ribbit.",
         "sku": {
             "id": "1159280847262859364",
@@ -12058,7 +11878,7 @@
         "benefits": []
     },
     {
-        "id": "1293373563193004062",
+        "id": "1304483427906621550",
         "summary": "Let\u2019s roll!",
         "sku": {
             "id": "1293373563184877618",
@@ -12852,598 +12672,6 @@
         "benefits": []
     },
     {
-        "id": "1212565150280974377",
-        "summary": "Senpai will definitely notice you.",
-        "sku": {
-            "id": "1212565175790473246",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Anime",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "anime",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Senpai will definitely notice you.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1243619479645065287",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Heartthrob Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "heartthrob-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 899,
-                            "percentage": 18
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212569433839636530",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Cat Ears",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "cat-ears",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212569856189407352",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ki Energy",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ki-energy",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212570343567261736",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Heartbloom",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "heartbloom",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212570596970467378",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Dismay",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "dismay",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212581147675205652",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Rage",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "rage",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212581390936178768",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "In Tears",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "in-tears",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1154896005045694555",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Radiating Energy",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "radiating-energy",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144305233707671573",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Soul Leaving Body",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "soul-leaving-body",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144307257807491094",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sweat Drops",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sweat-drops",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144307629225672846",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Starry Eyed",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "starry-eyed",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144307957425778779",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "In Love",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "in-love",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144308196723408958",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Shocked",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "shocked",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1144308439720394944",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Angry",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "angry",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 799,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 549,
-                            "percentage": 31
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212582298893946880",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Dreamy",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "dreamy",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212582372877541427",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Ki Detonate",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "ki-detonate",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1212582452640350238",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Sushi Mania",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "sushi-mania",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323100568244355",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Magic Hearts",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "magic-hearts",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323093551165533",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Shatter",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "shatter",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323101008642101",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Shuriken Strike",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "shuriken-strike",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1139323101881061466",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Power Surge",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "power-surge",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1199,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 849,
-                            "percentage": 29
-                        }
-                    }
-                }
-            }
-        ],
-        "benefits": []
-    },
-    {
         "id": "1228243823310802955",
         "summary": "Where chill meets mood.",
         "sku": {
@@ -13891,7 +13119,7 @@
         "benefits": []
     },
     {
-        "id": "1324454240789336116",
+        "id": "1324602380519604337",
         "summary": "Enter at your own risk.",
         "sku": {
             "id": "1324454240781074513",
@@ -14231,7 +13459,7 @@
         "benefits": []
     },
     {
-        "id": "1324454241124880488",
+        "id": "1324603542584950794",
         "summary": "Let\u2019s see what\u2019s on the other side, shall we?",
         "sku": {
             "id": "1324454241120813056",
@@ -15389,7 +14617,7 @@
         "benefits": []
     },
     {
-        "id": "1309668861909663925",
+        "id": "1313614969903775744",
         "summary": "Let the zoomies begin!",
         "sku": {
             "id": "1309668861901279422",
@@ -20054,328 +19282,6 @@
                         "2": {
                             "amount": 1199,
                             "percentage": 25
-                        }
-                    }
-                }
-            }
-        ],
-        "benefits": []
-    },
-    {
-        "id": "1256321669388308594",
-        "summary": "Approach, wanderer... dangerously charming relics await.",
-        "sku": {
-            "id": "1256321669388308595",
-            "type": 2,
-            "product_line": 7,
-            "dependent_sku_id": null,
-            "application_id": "1096190356233670716",
-            "manifest_labels": null,
-            "access_type": 1,
-            "name": "Dark Fantasy",
-            "features": [],
-            "release_date": null,
-            "premium": false,
-            "slug": "dark-fantasy",
-            "flags": 0,
-            "show_age_gate": false
-        },
-        "description": "Approach, wanderer... dangerously charming relics await.",
-        "published": true,
-        "child_skus": [
-            {
-                "id": "1265421074514841751",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Spirit Embers Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "spirit-embers-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 899,
-                            "percentage": 18
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669388308601",
-                "type": 4,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Arcanist Bundle",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "arcanist-bundle",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 1099,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 899,
-                            "percentage": 18
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669426053192",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Midnight Sorceress",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "midnight-sorceress",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669426053195",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Malefic Crown",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "malefic-crown",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669426053198",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Death's Edge",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "death-s-edge",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669467865088",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Spirit Embers",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "spirit-embers",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669467865091",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Eldritch Ring",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "eldritch-ring",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669467865094",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Arcane Sigil",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "arcane-sigil",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669467865097",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Arcane Summons",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "arcane-summons",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669493166214",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Vengeance",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "vengeance",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
-                        }
-                    }
-                }
-            },
-            {
-                "id": "1256321669493166217",
-                "type": 2,
-                "product_line": 7,
-                "dependent_sku_id": null,
-                "application_id": "1096190356233670716",
-                "manifest_labels": null,
-                "access_type": 1,
-                "name": "Spirit Flame",
-                "features": [],
-                "release_date": null,
-                "premium": false,
-                "slug": "spirit-flame",
-                "flags": 4,
-                "show_age_gate": false,
-                "price": {
-                    "amount": 599,
-                    "currency": "usd",
-                    "currency_exponent": 2,
-                    "premium": {
-                        "2": {
-                            "amount": 499,
-                            "percentage": 17
                         }
                     }
                 }
@@ -26130,40 +25036,40 @@
         "benefits": []
     },
     {
-        "id": "1237653567364403252",
-        "summary": "Don yer finest and set course, ye landlubbers.",
+        "id": "1256321669388308594",
+        "summary": "Approach, wanderer... dangerously charming relics await.",
         "sku": {
-            "id": "1237653589896200272",
+            "id": "1256321669388308595",
             "type": 2,
             "product_line": 7,
             "dependent_sku_id": null,
             "application_id": "1096190356233670716",
             "manifest_labels": null,
             "access_type": 1,
-            "name": "Pirates",
+            "name": "Dark Fantasy",
             "features": [],
             "release_date": null,
             "premium": false,
-            "slug": "pirates",
+            "slug": "dark-fantasy",
             "flags": 0,
             "show_age_gate": false
         },
-        "description": "Don yer finest and set course, ye landlubbers.",
+        "description": "Approach, wanderer... dangerously charming relics await.",
         "published": true,
         "child_skus": [
             {
-                "id": "1243618548673417298",
+                "id": "1265421074514841751",
                 "type": 4,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Pirate Captain Bundle",
+                "name": "Spirit Embers Bundle",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "pirate-captain-bundle",
+                "slug": "spirit-embers-bundle",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26179,18 +25085,45 @@
                 }
             },
             {
-                "id": "1237653964582031400",
+                "id": "1256321669388308601",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Arcanist Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "arcanist-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1256321669426053192",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Pirate Captain",
+                "name": "Midnight Sorceress",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "pirate-captain",
+                "slug": "midnight-sorceress",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26206,18 +25139,18 @@
                 }
             },
             {
-                "id": "1237654031732703272",
+                "id": "1256321669426053195",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Scallywag",
+                "name": "Malefic Crown",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "scallywag",
+                "slug": "malefic-crown",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26233,18 +25166,18 @@
                 }
             },
             {
-                "id": "1237654124443734026",
+                "id": "1256321669426053198",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Good Ol' Pepper",
+                "name": "Death's Edge",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "good-ol-pepper",
+                "slug": "death-s-edge",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26260,18 +25193,18 @@
                 }
             },
             {
-                "id": "1237654224712765440",
+                "id": "1256321669467865088",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Crossbones",
+                "name": "Spirit Embers",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "crossbones",
+                "slug": "spirit-embers",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26287,18 +25220,18 @@
                 }
             },
             {
-                "id": "1237654615474962472",
+                "id": "1256321669467865091",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Cannon Fire",
+                "name": "Eldritch Ring",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "cannon-fire",
+                "slug": "eldritch-ring",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26314,18 +25247,18 @@
                 }
             },
             {
-                "id": "1237654692985700352",
+                "id": "1256321669467865094",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Helmsman",
+                "name": "Arcane Sigil",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "helmsman",
+                "slug": "arcane-sigil",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26341,18 +25274,18 @@
                 }
             },
             {
-                "id": "1237654783209508904",
+                "id": "1256321669467865097",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Jolly Roger",
+                "name": "Arcane Summons",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "jolly-roger",
+                "slug": "arcane-summons",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26368,18 +25301,18 @@
                 }
             },
             {
-                "id": "1237654867330469949",
+                "id": "1256321669493166214",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Forgotten Treasure",
+                "name": "Vengeance",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "forgotten-treasure",
+                "slug": "vengeance",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26395,18 +25328,18 @@
                 }
             },
             {
-                "id": "1237654942202990602",
+                "id": "1256321669493166217",
                 "type": 2,
                 "product_line": 7,
                 "dependent_sku_id": null,
                 "application_id": "1096190356233670716",
                 "manifest_labels": null,
                 "access_type": 1,
-                "name": "Haunted Man O' War",
+                "name": "Spirit Flame",
                 "features": [],
                 "release_date": null,
                 "premium": false,
-                "slug": "haunted-man-o-war",
+                "slug": "spirit-flame",
                 "flags": 4,
                 "show_age_gate": false,
                 "price": {
@@ -26720,37 +25653,1104 @@
         "benefits": []
     },
     {
-        "id": "1293373563335610448",
-        "summary": "Your very own feathery friend!",
+        "id": "1237653567364403252",
+        "summary": "Don yer finest and set course, ye landlubbers.",
         "sku": {
-            "id": "1293373563327483984",
+            "id": "1237653589896200272",
             "type": 2,
             "product_line": 7,
             "dependent_sku_id": null,
             "application_id": "1096190356233670716",
             "manifest_labels": null,
             "access_type": 1,
-            "name": "Snowy Owlbear Cub",
+            "name": "Pirates",
             "features": [],
             "release_date": null,
             "premium": false,
-            "slug": "snowy-owlbear-cub",
-            "flags": 4,
-            "show_age_gate": false,
-            "price": {
-                "amount": 1299,
-                "currency": "usd",
-                "currency_exponent": 2,
-                "premium": {
-                    "2": {
-                        "amount": 999,
-                        "percentage": 23
+            "slug": "pirates",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Don yer finest and set course, ye landlubbers.",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1243618548673417298",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Pirate Captain Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "pirate-captain-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237653964582031400",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Pirate Captain",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "pirate-captain",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654031732703272",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Scallywag",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "scallywag",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654124443734026",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Good Ol' Pepper",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "good-ol-pepper",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654224712765440",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Crossbones",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "crossbones",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654615474962472",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cannon Fire",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cannon-fire",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654692985700352",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Helmsman",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "helmsman",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654783209508904",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Jolly Roger",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "jolly-roger",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654867330469949",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Forgotten Treasure",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "forgotten-treasure",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1237654942202990602",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Haunted Man O' War",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "haunted-man-o-war",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
                     }
                 }
             }
+        ],
+        "benefits": []
+    },
+    {
+        "id": "1197342697200029767",
+        "summary": "Welcome to the neon embrace of the future.",
+        "sku": {
+            "id": "1197342727608746044",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Cyberpunk",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "cyberpunk",
+            "flags": 0,
+            "show_age_gate": false
         },
-        "description": "Your very own feathery friend!",
+        "description": "Welcome to the neon embrace of the future.",
         "published": true,
+        "child_skus": [
+            {
+                "id": "1243620093431119922",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Am I Getting Hacked? Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "am-i-getting-hacked-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344326133502032",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Glitch",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "glitch",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344396983664670",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cybernetic",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cybernetic",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344575832981605",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Digital Sunrise",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "digital-sunrise",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344636558114986",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Implant",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "implant",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344693630009424",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Nightrunner",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "nightrunner",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1197344764174008452",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Uplink Error",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "uplink-error",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            }
+        ],
+        "benefits": []
+    },
+    {
+        "id": "1212565150280974377",
+        "summary": "Senpai will definitely notice you.",
+        "sku": {
+            "id": "1212565175790473246",
+            "type": 2,
+            "product_line": 7,
+            "dependent_sku_id": null,
+            "application_id": "1096190356233670716",
+            "manifest_labels": null,
+            "access_type": 1,
+            "name": "Anime",
+            "features": [],
+            "release_date": null,
+            "premium": false,
+            "slug": "anime",
+            "flags": 0,
+            "show_age_gate": false
+        },
+        "description": "Senpai will definitely notice you.",
+        "published": true,
+        "child_skus": [
+            {
+                "id": "1243619479645065287",
+                "type": 4,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Heartthrob Bundle",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "heartthrob-bundle",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1099,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 899,
+                            "percentage": 18
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212569433839636530",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Cat Ears",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "cat-ears",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212569856189407352",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ki Energy",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ki-energy",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212570343567261736",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Heartbloom",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "heartbloom",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212570596970467378",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Dismay",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "dismay",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212581147675205652",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Rage",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "rage",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212581390936178768",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "In Tears",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "in-tears",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1154896005045694555",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Radiating Energy",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "radiating-energy",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144305233707671573",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Soul Leaving Body",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "soul-leaving-body",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144307257807491094",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sweat Drops",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sweat-drops",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144307629225672846",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Starry Eyed",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "starry-eyed",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144307957425778779",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "In Love",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "in-love",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144308196723408958",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Shocked",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "shocked",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1144308439720394944",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Angry",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "angry",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 799,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 549,
+                            "percentage": 31
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212582298893946880",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Dreamy",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "dreamy",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212582372877541427",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Ki Detonate",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "ki-detonate",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1212582452640350238",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Sushi Mania",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "sushi-mania",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 599,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 499,
+                            "percentage": 17
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323100568244355",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Magic Hearts",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "magic-hearts",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1199,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 29
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323093551165533",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Shatter",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "shatter",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1199,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 29
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323101008642101",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Shuriken Strike",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "shuriken-strike",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1199,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 29
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1139323101881061466",
+                "type": 2,
+                "product_line": 7,
+                "dependent_sku_id": null,
+                "application_id": "1096190356233670716",
+                "manifest_labels": null,
+                "access_type": 1,
+                "name": "Power Surge",
+                "features": [],
+                "release_date": null,
+                "premium": false,
+                "slug": "power-surge",
+                "flags": 4,
+                "show_age_gate": false,
+                "price": {
+                    "amount": 1199,
+                    "currency": "usd",
+                    "currency_exponent": 2,
+                    "premium": {
+                        "2": {
+                            "amount": 849,
+                            "percentage": 29
+                        }
+                    }
+                }
+            }
+        ],
         "benefits": []
     }
 ]

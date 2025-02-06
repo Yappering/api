@@ -55,7 +55,14 @@
     {
         "id": 6,
         "name": "special",
-        "banner": "66"
+        "logo": "67",
+        "banner": "72",
+        "hero": "66",
+        "featured": "65",
+        "mobile_banner": "68",
+        "mobile": "69",
+        "pdp": "70",
+        "success": "71"
     },
     {
         "id": 7,
@@ -81,5 +88,18 @@
         "pdp": "48",
         "success": "49",
         "category": "91"
+    },
+    {
+        "id": 9,
+        "name": "rbxdoors",
+        "logo": "133",
+        "banner": "128",
+        "hero": "138",
+        "featured": "132",
+        "mobile_banner": "134",
+        "mobile": "135",
+        "pdp": "136",
+        "success": "137",
+        "category": "136"
     }
 ]
