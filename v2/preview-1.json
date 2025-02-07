@@ -657,7 +657,7 @@
             "static": "https://cdn.discordapp.com/assets/content/4cecdc171138fdbf4601c630df66fb4ccf7d3518f9f46ee5fccc183c2467c519.jpg"
         },
         "hero_banner_asset": {
-            "animated": null,
+            "animated": "https://cdn.discordapp.com/assets/content/34e0436df01663caaac9585ef16fec77d1a5d7542b8931b25a67bc01f6001146.webm",
             "static": "https://cdn.discordapp.com/assets/content/bb7e41f242d55a4155c91f96bed8393e71d1b9ce09543c05bc57df679a004ab6.jpg"
         }
     }
