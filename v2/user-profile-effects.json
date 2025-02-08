@@ -6006,7 +6006,7 @@
             "sku_id": "1333278032915464263",
             "title": "Fog of War",
             "description": "Explore the far reaches of the unknown world.",
-            "accessibilityLabel": "A collection of hex tiles - some oceanic, some verdant, and others barren plains - appear over your profile, awaiting your expansion.",
+            "accessibilityLabel": "A collection of hex tiles \u2013 some oceanic, some verdant and others barren plains \u2013 appear over your profile, awaiting your expansion.",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/fog_of_war/reduced_motion.png",
@@ -6049,7 +6049,7 @@
             "sku_id": "1333278032940630046",
             "title": "Wonder Construction",
             "description": "Build something wonderful.",
-            "accessibilityLabel": "A barren, desert hex tile evolves over time, leaving you to witness the development of a grand pyramid that symbolizes the achievements of your growing empire.",
+            "accessibilityLabel": "A barren, desert hex tile evolves over time, leaving you to witness the development of a grand pyramid that symbolises the achievements of your growing empire.",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/wonder_build/reduced_motion.png",
@@ -6092,7 +6092,7 @@
             "sku_id": "1333278032965795972",
             "title": "Science Victory",
             "description": "One small step. One giant leap.",
-            "accessibilityLabel": "A rocket blasts skyward, leaving behind plumes of smoke - proof of your civilization's glorious science victory!",
+            "accessibilityLabel": "A rocket blasts skywards, leaving behind plumes of smoke \u2013 proof of your civilisation\u2019s glorious science victory!",
             "animationType": 2,
             "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/thumbnail.png",
             "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-26/science_victory/reduced_motion.png",
@@ -6140,6 +6140,324 @@
                         "y": 0
                     },
                     "zIndex": 102,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333866045424799814",
+            "sku_id": "1333866045412474911",
+            "title": "Bearly Afloat",
+            "description": "Sending hugs and kisses from above!",
+            "accessibilityLabel": "Floating along with heart balloons strapped to its belly, a cute pink bear playfully blows a kiss that emits charming hearts.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/bearly_afloat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/bearly_afloat/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/bearly_afloat/intro.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3792,
+                    "start": 0,
+                    "loopDelay": 8708,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/bearly_afloat/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2500,
+                    "start": 5000,
+                    "loopDelay": 10000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333866045446033550",
+            "sku_id": "1333866045433446410",
+            "title": "Roses Galore (Red)",
+            "description": "Impress your profile admirers by raining roses upon them.",
+            "accessibilityLabel": "Pink and red roses frame your profile, occasionally shedding petals that gently flutter like Valentine confetti.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_red/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_red/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_red/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2501,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_red/idle_roses.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6792,
+                    "start": 2501,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_red/idle_petals.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6792,
+                    "start": 0,
+                    "loopDelay": 6500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333866045462548621",
+            "sku_id": "1333866045450223740",
+            "title": "Roses Galore (Blue)",
+            "description": "Impress your profile admirers by raining roses upon them.",
+            "accessibilityLabel": "Blue roses frame your profile, occasionally shedding petals that gently flutter like confetti.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_blue/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_blue/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_blue/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2501,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_blue/idle_roses.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6792,
+                    "start": 2501,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/roses_galore_blue/idle_petals.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6792,
+                    "start": 0,
+                    "loopDelay": 6500,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333866045483520172",
+            "sku_id": "1333866045470933105",
+            "title": "Heartstring Theory (Red)",
+            "description": "Turns out, love has the strongest pull of all.",
+            "accessibilityLabel": "Heart-shaped fairy lights decorate your profile\u2019s frame, each bulb shining in turn, creating a fun light show of pink and red.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/heartstrings_theory_red/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/heartstrings_theory_red/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/heartstrings_theory_red/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/heartstrings_theory_red/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6042,
+                    "start": 2167,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1333866045504491651",
+            "sku_id": "1333866045492166756",
+            "title": "Heartstring Theory (Blue)",
+            "description": "Turns out, love has the strongest pull of all.",
+            "accessibilityLabel": "Heart-shaped fairy lights decorate your profile\u2019s frame, each bulb shining in turn, creating a fun blue light show.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/heartstrings_theory_blue/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-28/heartstrings_theory_blue/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/heartstrings_theory_blue/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2168,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/heartstrings_theory_blue/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6042,
+                    "start": 2167,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1336483992391647324",
+            "sku_id": "1336483992379330632",
+            "title": "Ruby Photo Card",
+            "description": "Ignite your inner Ruby.",
+            "accessibilityLabel": "Red curtains and ribbonry reveal a portrait of Jennie wearing a sleek and stylish black outfit.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3986,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/idle_ribbon.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3984,
+                    "start": 3985,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/idle_sparkles.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3984,
+                    "start": 3985,
+                    "loopDelay": 5000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 102,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-02-04/ruby_photo_card/idle_heart.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3984,
+                    "start": 3985,
+                    "loopDelay": 5000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 103,
                     "randomizedSources": []
                 }
             ]
