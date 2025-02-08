@@ -6,71 +6,88 @@
         "downloadables": [
             {
                 "id": 1,
-                "name": "Valorant Champions"
+                "name": "Valorant Champions",
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/wumpus-with-headset.png"
             },
             {
                 "id": 2,
-                "name": "Dojo"
+                "name": "Dojo",
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png"
             },
             {
                 "id": 3,
-                "name": "The Vault"
+                "name": "The Vault",
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png"
             },
             {
                 "id": 4,
-                "name": "Autumn Equinox"
+                "name": "Autumn Equinox",
+                "src": "https://cdn.discordapp.com/assets/content/4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d.png"
             },
             {
                 "id": 5,
-                "name": "Street Fighter"
+                "name": "Street Fighter",
+                "src": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png"
             },
             {
                 "id": 6,
-                "name": "Spooky Night"
+                "name": "Spooky Night",
+                "src": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png"
             },
             {
                 "id": 7,
-                "name": "Dungeons & Dragons"
+                "name": "Dungeons & Dragons",
+                "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png"
             },
             {
                 "id": 8,
-                "name": "Mythical Creatures"
+                "name": "Mythical Creatures",
+                "src": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png"
             },
             {
                 "id": 9,
-                "name": "Arcane"
+                "name": "Arcane",
+                "src": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png"
             },
             {
                 "id": 11,
-                "name": "Kawaii Mode"
+                "name": "Kawaii Mode",
+                "src": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png"
             },
             {
                 "id": 12,
-                "name": "Lofi Girl"
+                "name": "Lofi Girl",
+                "src": "https://cdn.discordapp.com/assets/content/2944979011164b59513d125d03a498be2f5f5cb81f67a08bcafd661c6895bdd0.png"
             },
             {
                 "id": 13,
-                "name": "Winter Wonderland"
+                "name": "Winter Wonderland",
+                "src": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png"
             },
             {
                 "id": 14,
-                "name": "Winter Wonderland / Lofi Girl"
+                "name": "Winter Wonderland / Lofi Girl",
+                "src": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png"
             },
             {
                 "id": 15,
-                "name": "Fantasy"
+                "name": "Fantasy",
+                "src": "https://cdn.discordapp.com/assets/content/0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d.png"
             },
             {
                 "id": 16,
-                "name": "Steampunk"
+                "name": "Steampunk",
+                "src": "https://cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png"
             },
             {
                 "id": 17,
-                "name": "Lunar New Year"
+                "name": "Lunar New Year",
+                "src": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png"
             },
             {
                 "id": 18,
-                "name": "Civilization VII"
+                "name": "Civilization VII",
+                "src": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png"
             }
         ]
     },
@@ -81,7 +98,18 @@
         "downloadables": [
             {
                 "id": 1,
-                "name": "WindowKill V2"
+                "name": "WindowKill V2",
+                "src": "https://cdn.yapper.shop/assets/150.png"
+            },
+            {
+                "id": 2,
+                "name": "Paper Beach V2",
+                "src": "https://cdn.yapper.shop/assets/116.png"
+            },
+            {
+                "id": 3,
+                "name": "Roblox Doors",
+                "src": null
             }
         ]
     }
