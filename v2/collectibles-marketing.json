@@ -2,14 +2,14 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 18,
-            "title": "Civilization VII",
-            "body": "New decorations for the aspiring emperor",
-            "avatar": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png",
+            "version": 19,
+            "title": "JENNIE and Valentines",
+            "body": "Steal hearts in style with JENNIE",
+            "avatar": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png",
             "decorations": [
-                "a_fcb0de14da228879b455f1f1d3919749",
-                "a_9d95e36bc282523fddc63d31a8d01091",
-                "a_8dddba8c2a9704a943bb7020a3d0a418"
+                "a_a1c0581971d4a296908829289fea2c47",
+                "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
+                "a_c86b11a49bb8057ce9c974a6f7ad658a"
             ],
             "dismissible_content": 422,
             "ref_target_background": {
@@ -25,23 +25,23 @@
                 },
                 "asset": {
                     "resting": {
-                        "light": null,
-                        "dark": null
+                        "light": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png",
+                        "dark": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png"
                     },
                     "hovered": {
-                        "light": "https://cdn.discordapp.com/assets/content/ca221f85bd867b687cbd6ce7229701f1960e53bf665b91be1d3a5d6b0bbd3850.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/ca221f85bd867b687cbd6ce7229701f1960e53bf665b91be1d3a5d6b0bbd3850.png"
+                        "light": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png",
+                        "dark": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png"
                     }
                 }
             }
         },
         "2": {
             "type": 2,
-            "version": 18,
-            "title": "Build a profile that stands the test of time.",
-            "body": "Check out the latest Civilization VII profile effects and avatar decorations.",
-            "asset": "https://cdn.discordapp.com/assets/content/3a49211826d9cdd632f84c78a384a1bdbfcef2cbe9d6dd258ace865eee880e23.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/75c7196f22db35c8d73b556520fe8663d76565db980b3f9426f03ef3598c9b84.png"
+            "version": 19,
+            "title": "Give your profile a fresh look",
+            "body": "New JENNIE and Valentines avatar decorations and profile effects that\u2019ll dazzle your secret admirers.",
+            "asset": "https://cdn.discordapp.com/assets/content/0d6ebe2f2edec5ebbe4597a2a5d8eebca13550664cc3bbd6e35189c4a908efcb.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/0da18ebf9833a40a4282d04fa5b632b820d61d9a43517421ad6ddd690d6f62b7.png"
         }
     }
 }
