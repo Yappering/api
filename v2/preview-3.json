@@ -695,6 +695,15 @@
                 "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336483992492310538.png?size=1280",
                 "body_text": null,
                 "banner_text_color": null
+            },
+            {
+                "type": 0,
+                "category_store_listing_id": "1333278032990834779",
+                "name": "Civilization VII",
+                "unpublished_at": null,
+                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336756819380404285.png?size=1280",
+                "body_text": null,
+                "banner_text_color": null
             }
         ]
     },
