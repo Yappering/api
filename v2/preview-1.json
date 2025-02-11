@@ -26,16 +26,16 @@
         },
         "logo": "1333866045525463200",
         "hero_ranking": [
-            "1333866045122936964",
-            "1333866045164753087",
-            "1333866045198565377",
-            "1333866045261480007",
             "1333866045236314327",
+            "1333866045261480007",
+            "1333866045303423026",
+            "1333866045164753087",
+            "1333866045282451527",
+            "1333866045122936964",
+            "1333866045198565377",
             "1333866045152428183",
             "1333866045181657158",
             "1333866045219536906",
-            "1333866045282451527",
-            "1333866045303423026",
             "1333866045324394547",
             "1333866045345366136",
             "1333866045433446410",
@@ -60,10 +60,10 @@
         "hero_logo": "1333866045584310363",
         "products": [
             {
-                "sku_id": "1333866045122936964",
-                "name": "Roses Are Red Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1333866045139587125",
+                "sku_id": "1333866045236314327",
+                "name": "Angel",
+                "summary": "Every Angel needs their Devil-in-crime.",
+                "store_listing_id": "1333866045244571709",
                 "banner": "1336787963777908826",
                 "unpublished_at": null,
                 "styles": {
@@ -89,7 +89,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1099,
+                                    "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -101,7 +101,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 899,
+                                    "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
                                 }
@@ -113,7 +113,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1100,
+                                    "amount": 600,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -125,7 +125,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 900,
+                                    "amount": 500,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -136,139 +136,200 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1333866045336719470",
-                        "sku_id": "1333866045324394547",
-                        "asset": "a_7fecc9d20cbbf54644c9a532f7db4664",
-                        "label": "Pink and red roses frame your avatar, occasionally shedding petals that gently flutter like Valentine confetti."
-                    },
-                    {
-                        "type": 1,
-                        "id": "1333866045446033550",
-                        "sku_id": "1333866045433446410"
+                        "id": "1333866045252833330",
+                        "sku_id": "1333866045236314327",
+                        "asset": "a_c86b11a49bb8057ce9c974a6f7ad658a",
+                        "label": "Your avatar is dressed as an angel with fluffy angel wings and a glowing halo. Every flutter of your wings releases sparkles and little hearts."
                     }
                 ],
-                "type": 1000,
+                "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1333866045521395723",
-                "bundled_products": [
-                    {
-                        "sku_id": "1333866045324394547",
-                        "name": "Ring of Roses (Red)",
-                        "summary": "There\u2019s always time to stop and frame the roses.",
-                        "type": 0,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
+                "google_sku_ids": {
+                    "5": "1333866045236314327_1336110336700452985",
+                    "7": "1333866045236314327_1336110348935102587"
+                }
+            },
+            {
+                "sku_id": "1333866045261480007",
+                "name": "Devil",
+                "summary": "Every Devil needs their Angel-in-crime.",
+                "store_listing_id": "1333866045269737492",
+                "banner": "1336787963777908826",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        11577842,
+                        14407679
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
                                 }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
+                            ]
                         }
                     },
-                    {
-                        "sku_id": "1333866045433446410",
-                        "name": "Roses Galore (Red)",
-                        "summary": "Impress your profile admirers by raining roses upon them.",
-                        "type": 1,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
                                 }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
                                 }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
                                 }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
+                            ]
                         }
                     }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1333866045273804921",
+                        "sku_id": "1333866045261480007",
+                        "asset": "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
+                        "label": "Your avatar is dressed as a mischievous red devil with devilish wings, horns, and a heart-tipped tail. Every flutter of your wings releases hearts ignited in blue flames."
+                    }
                 ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1333866045521395723",
                 "google_sku_ids": {
-                    "5": "1333866045122936964_1336109104195829823",
-                    "7": "1333866045122936964_1336109135925743616"
+                    "5": "1333866045261480007_1336110026091270264",
+                    "7": "1333866045261480007_1336110052892872808"
+                }
+            },
+            {
+                "sku_id": "1333866045303423026",
+                "name": "Lovestruck",
+                "summary": "It appears you have a secret admirer.",
+                "store_listing_id": "1333866045311680512",
+                "banner": "1336787963777908826",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        11577842,
+                        14407679
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1333866045315747973",
+                        "sku_id": "1333866045303423026",
+                        "asset": "a_7f44d538ec830f479605f7bf8720afda",
+                        "label": "A pink heart bubble engulfs your avatar. Suddenly, a heart-tipped arrow from out of nowhere pops the bubble, releasing a flurry of heart bubbles. You can't help but wonder who fired the arrow..."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1333866045521395723",
+                "google_sku_ids": {
+                    "5": "1333866045303423026_1336112627809521715",
+                    "7": "1333866045303423026_1336112652539269120"
                 }
             },
             {
@@ -481,188 +542,6 @@
                 "google_sku_ids": {
                     "5": "1333866045164753087_1336109176040194109",
                     "7": "1333866045164753087_1336109200367030304"
-                }
-            },
-            {
-                "sku_id": "1333866045261480007",
-                "name": "Devil",
-                "summary": "Every Devil needs their Angel-in-crime.",
-                "store_listing_id": "1333866045269737492",
-                "banner": "1336787963777908826",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        11577842,
-                        14407679
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 600,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 500,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1333866045273804921",
-                        "sku_id": "1333866045261480007",
-                        "asset": "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
-                        "label": "Your avatar is dressed as a mischievous red devil with devilish wings, horns, and a heart-tipped tail. Every flutter of your wings releases hearts ignited in blue flames."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
-                "google_sku_ids": {
-                    "5": "1333866045261480007_1336110026091270264",
-                    "7": "1333866045261480007_1336110052892872808"
-                }
-            },
-            {
-                "sku_id": "1333866045236314327",
-                "name": "Angel",
-                "summary": "Every Angel needs their Devil-in-crime.",
-                "store_listing_id": "1333866045244571709",
-                "banner": "1336787963777908826",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        11577842,
-                        14407679
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 600,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 500,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1333866045252833330",
-                        "sku_id": "1333866045236314327",
-                        "asset": "a_c86b11a49bb8057ce9c974a6f7ad658a",
-                        "label": "Your avatar is dressed as an angel with fluffy angel wings and a glowing halo. Every flutter of your wings releases sparkles and little hearts."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
-                "google_sku_ids": {
-                    "5": "1333866045236314327_1336110336700452985",
-                    "7": "1333866045236314327_1336110348935102587"
                 }
             }
         ],
