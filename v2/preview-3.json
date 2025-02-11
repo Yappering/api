@@ -685,7 +685,21 @@
         "disable_cta": false
     },
     {
-        "type": "plus3",
+        "type": 1,
+        "subblocks": [
+            {
+                "type": 0,
+                "category_store_listing_id": "1336483992400167075",
+                "name": "JENNIE",
+                "unpublished_at": null,
+                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336483992492310538.png?size=1280",
+                "body_text": null,
+                "banner_text_color": null
+            }
+        ]
+    },
+    {
+        "type": 3,
         "banner_url": "https://cdn.yapper.shop/assets/154.png",
         "title": "New Windowkill Styles",
         "body": "Check out Windowkill decorations made for you!",
@@ -694,7 +708,7 @@
         "disable_cta": false
     },
     {
-        "type": "plus1",
+        "type": 1,
         "subblocks": [
             {
                 "type": 0,
@@ -711,29 +725,6 @@
                 "name": "Bopl Battle",
                 "unpublished_at": null,
                 "banner_url": "https://cdn.yapper.shop/assets/155.png",
-                "body_text": null,
-                "banner_text_color": null
-            }
-        ]
-    },
-    {
-        "type": 1,
-        "subblocks": [
-            {
-                "type": 0,
-                "category_store_listing_id": "1336483992400167075",
-                "name": "JENNIE",
-                "unpublished_at": null,
-                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336483992492310538.png?size=1280",
-                "body_text": null,
-                "banner_text_color": null
-            },
-            {
-                "type": 0,
-                "category_store_listing_id": "1333278032990834779",
-                "name": "Civilization VII",
-                "unpublished_at": null,
-                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336756819380404285.png?size=1280",
                 "body_text": null,
                 "banner_text_color": null
             }
