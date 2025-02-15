@@ -92,6 +92,11 @@
                                     "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -104,6 +109,11 @@
                                     "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -183,6 +193,11 @@
                                     "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -195,6 +210,11 @@
                                     "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -274,6 +294,11 @@
                                     "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -286,6 +311,11 @@
                                     "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 3000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -365,6 +395,11 @@
                                     "amount": 1099,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 6600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -377,6 +412,11 @@
                                     "amount": 899,
                                     "currency": "usd",
                                     "exponent": 2
+                                },
+                                {
+                                    "amount": 5400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
@@ -439,6 +479,11 @@
                                             "amount": 599,
                                             "currency": "usd",
                                             "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -451,6 +496,11 @@
                                             "amount": 499,
                                             "currency": "usd",
                                             "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -496,6 +546,11 @@
                                             "amount": 599,
                                             "currency": "usd",
                                             "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -508,6 +563,11 @@
                                             "amount": 499,
                                             "currency": "usd",
                                             "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
                                         }
                                     ]
                                 }
