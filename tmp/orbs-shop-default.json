@@ -227,7 +227,7 @@
             },
             {
                 "sku_id": "3",
-                "name": "Nameplate",
+                "name": "External SKU",
                 "summary": "Placeholder | Nothing here is official",
                 "store_listing_id": "1336483992366743562",
                 "banner": "1309310034387271730",
@@ -311,12 +311,12 @@
                 },
                 "items": [
                     {
-                        "type": 2,
+                        "type": 3000,
                         "id": "3",
                         "sku_id": "3"
                     }
                 ],
-                "type": 2,
+                "type": 3000,
                 "premium_type": 0,
                 "category_sku_id": "1332505418219655258",
                 "google_sku_ids": {}
