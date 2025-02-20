@@ -1269,6 +1269,267 @@
                 "google_sku_ids": {}
             },
             {
+                "sku_id": "1336506386296864839",
+                "name": "Hoppy Day",
+                "summary": "Brb, out frolicking.",
+                "store_listing_id": "1336506386296864838",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1336506386296864840",
+                        "sku_id": "1336506386296864839",
+                        "asset": "a_f8d05a51a9ca29f473dcd52e2ce5507a",
+                        "label": "Your avatar has found a friend in the shape of a little brown bunny. It hops in delight when it sees you."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 2,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1336506386296864842",
+                "name": "Afternoon Breeze",
+                "summary": "A calm rest in the meadow.",
+                "store_listing_id": "1336506386296864841",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1336506386296864843",
+                        "sku_id": "1336506386296864842",
+                        "asset": "a_9c79b63d5a5703645ae6136b8bf018bf",
+                        "label": "Your avatar stands in a dreamy meadow, where pink and orange flowers sway to nature\u2019s rhythm, sending petals twirling through the soft breeze."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 2,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1336506386296864845",
+                "name": "Shower Stroll",
+                "summary": "Chasing rainbows after the storm.",
+                "store_listing_id": "1336506386296864844",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1336506386296864846",
+                        "sku_id": "1336506386296864845",
+                        "asset": "a_d65bc28befbf0923324d5e4b72339ea7",
+                        "label": "A soft rain drapes over your avatar, leaving a shimmering rainbow glow that whispers a touch of magic into the misty air."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 2,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
                 "sku_id": "1338927497860878466",
                 "name": "Exoborne",
                 "summary": "Exclusive to the Exoborne Wishlist Quest for a limited time.",
