@@ -41100,7 +41100,7 @@
                 "sku_id": "1212569433839636530",
                 "name": "Cat Ears",
                 "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c",
-                "store_listing_id": "1212569406329323550",
+                "store_listing_id": "1341506443886460928",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41181,28 +41181,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212569455880699944",
-                        "sku_id": "1212569433839636530",
-                        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
-                        "label": "Cat ears and whiskers adorn the avatar, giving a perfectly adorable cat-like charm."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212569433839636530_1259921612011077652",
-                    "7": "1212569433839636530_1259921630369681428"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212569433839636530",
+                        "name": "Cat Ears",
+                        "name_localizations": null,
+                        "summary": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212569406329323550",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212569455880699944",
+                                "sku_id": "1212569433839636530",
+                                "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+                                "label": "Cat ears and whiskers adorn the avatar, giving a perfectly adorable cat-like charm."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#D093B8",
+                        "base_variant_sku_id": "1212569433839636530",
+                        "base_variant_name": "Cat Ears"
+                    }
+                ]
             },
             {
                 "sku_id": "1212569856189407352",
                 "name": "Ki Energy",
                 "summary": "Focus from within.",
-                "store_listing_id": "1212569814577455165",
+                "store_listing_id": "1341506443773214720",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41283,28 +41357,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212569932391387137",
-                        "sku_id": "1212569856189407352",
-                        "asset": "a_f3af281c65cf0cf590e9e1f59e9c6cf6",
-                        "label": "Waves of crackling energy surrounds the avatar, indicating a really high power level."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212569856189407352_1259921641576730705",
-                    "7": "1212569856189407352_1259921652112818217"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212569856189407352",
+                        "name": "Ki Energy",
+                        "name_localizations": null,
+                        "summary": "Focus from within.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212569814577455165",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212569932391387137",
+                                "sku_id": "1212569856189407352",
+                                "asset": "a_f3af281c65cf0cf590e9e1f59e9c6cf6",
+                                "label": "Waves of crackling energy surrounds the avatar, indicating a really high power level."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FFC759",
+                        "base_variant_sku_id": "1212569856189407352",
+                        "base_variant_name": "Ki Energy"
+                    }
+                ]
             },
             {
                 "sku_id": "1212570343567261736",
                 "name": "Heartbloom",
                 "summary": "Let your love blossom.",
-                "store_listing_id": "1212570321324871750",
+                "store_listing_id": "1341506443802574848",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41385,28 +41533,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212570367017885737",
-                        "sku_id": "1212570343567261736",
-                        "asset": "a_3e1fc3c7ee2e34e8176f4737427e8f4f",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212570343567261736_1259921662095396935",
-                    "7": "1212570343567261736_1259921672820101160"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212570343567261736",
+                        "name": "Heartbloom",
+                        "name_localizations": null,
+                        "summary": "Let your love blossom.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212570321324871750",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212570367017885737",
+                                "sku_id": "1212570343567261736",
+                                "asset": "a_3e1fc3c7ee2e34e8176f4737427e8f4f",
+                                "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#E984B3",
+                        "base_variant_sku_id": "1212570343567261736",
+                        "base_variant_name": "Heartbloom"
+                    }
+                ]
             },
             {
                 "sku_id": "1212570596970467378",
                 "name": "Dismay",
                 "summary": "Not like this...",
-                "store_listing_id": "1212570570865246238",
+                "store_listing_id": "1341506443827740672",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41487,28 +41709,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212570617404981348",
-                        "sku_id": "1212570596970467378",
-                        "asset": "a_51d3bb502109eec26c76386ec980bc8b",
-                        "label": "A drop of sweat slides down the avatar's frame, conveying an expression of nervous dismay."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212570596970467378_1259921703589511370",
-                    "7": "1212570596970467378_1259921714612277248"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212570596970467378",
+                        "name": "Dismay",
+                        "name_localizations": null,
+                        "summary": "Not like this...",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212570570865246238",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212570617404981348",
+                                "sku_id": "1212570596970467378",
+                                "asset": "a_51d3bb502109eec26c76386ec980bc8b",
+                                "label": "A drop of sweat slides down the avatar's frame, conveying an expression of nervous dismay."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#5DA0D0",
+                        "base_variant_sku_id": "1212570596970467378",
+                        "base_variant_name": "Dismay"
+                    }
+                ]
             },
             {
                 "sku_id": "1212581147675205652",
                 "name": "Rage",
                 "summary": "THAT\u2019S IT.",
-                "store_listing_id": "1212581121003364464",
+                "store_listing_id": "1341506443915821056",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41589,28 +41885,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212581170823561236",
-                        "sku_id": "1212581147675205652",
-                        "asset": "a_a0db4314b8cc271c8f472357aa895005",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212581147675205652_1259921725399896094",
-                    "7": "1212581147675205652_1259921735482998887"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212581147675205652",
+                        "name": "Rage",
+                        "name_localizations": null,
+                        "summary": "THAT\u2019S IT.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212581121003364464",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212581170823561236",
+                                "sku_id": "1212581147675205652",
+                                "asset": "a_a0db4314b8cc271c8f472357aa895005",
+                                "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#E56318",
+                        "base_variant_sku_id": "1212581147675205652",
+                        "base_variant_name": "Rage"
+                    }
+                ]
             },
             {
                 "sku_id": "1212581390936178768",
                 "name": "In Tears",
                 "summary": "*sobbing*",
-                "store_listing_id": "1212581369704615957",
+                "store_listing_id": "1341506443857100800",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41691,28 +42061,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1212581413958979634",
-                        "sku_id": "1212581390936178768",
-                        "asset": "a_4cc97277177b166fd7d4af3bdb370815",
-                        "label": "A sobbing avatar lets loose a cascade of tears."
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212581390936178768_1259921748703580230",
-                    "7": "1212581390936178768_1259921758732030114"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212581390936178768",
+                        "name": "In Tears",
+                        "name_localizations": null,
+                        "summary": "*sobbing*",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1212581369704615957",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1212581413958979634",
+                                "sku_id": "1212581390936178768",
+                                "asset": "a_4cc97277177b166fd7d4af3bdb370815",
+                                "label": "A sobbing avatar lets loose a cascade of tears."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#3B81F8",
+                        "base_variant_sku_id": "1212581390936178768",
+                        "base_variant_name": "In Tears"
+                    }
+                ]
             },
             {
                 "sku_id": "1154896005045694555",
                 "name": "Radiating Energy",
                 "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!",
-                "store_listing_id": "1154895977845625043",
+                "store_listing_id": "1341506443655774208",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41793,28 +42237,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1154896010255015996",
-                        "sku_id": "1154896005045694555",
-                        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
-                        "label": "Radiating Energy Circle with Lightning, Anime-Style, Purple, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1154896005045694555_1259921769188425790",
-                    "7": "1154896005045694555_1259921778684465287"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1154896005045694555",
+                        "name": "Radiating Energy",
+                        "name_localizations": null,
+                        "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-AND-NINETY-NINE!",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1154895977845625043",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1154896010255015996",
+                                "sku_id": "1154896005045694555",
+                                "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+                                "label": "Radiating Energy Circle with Lightning, Anime-Style, Purple, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#922CE0",
+                        "base_variant_sku_id": "1154896005045694555",
+                        "base_variant_name": "Radiating Energy"
+                    }
+                ]
             },
             {
                 "sku_id": "1144305233707671573",
                 "name": "Soul Leaving Body",
                 "summary": "Can I just disappear right now?",
-                "store_listing_id": "1144305233707671572",
+                "store_listing_id": "1341506443689328640",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41895,28 +42413,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1144305233707671574",
-                        "sku_id": "1144305233707671573",
-                        "asset": "a_c3c09bd122898be35093d0d59850f627",
-                        "label": "Wavy Ghost with Shocked Expression, Anime-Style, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144305233707671573_1259921789065236641",
-                    "7": "1144305233707671573_1259921798607274134"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144305233707671573",
+                        "name": "Soul Leaving Body",
+                        "name_localizations": null,
+                        "summary": "Can I just disappear right now?",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144305233707671572",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1144305233707671574",
+                                "sku_id": "1144305233707671573",
+                                "asset": "a_c3c09bd122898be35093d0d59850f627",
+                                "label": "Wavy Ghost with Shocked Expression, Anime-Style, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FF78A1",
+                        "base_variant_sku_id": "1144305233707671573",
+                        "base_variant_name": "Soul Leaving Body"
+                    }
+                ]
             },
             {
                 "sku_id": "1144307257807491094",
                 "name": "Sweat Drops",
                 "summary": "*laughs nervously*",
-                "store_listing_id": "1144307257807491093",
+                "store_listing_id": "1341506443672551424",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -41997,28 +42589,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1144307257807491095",
-                        "sku_id": "1144307257807491094",
-                        "asset": "a_55c9d0354290afa8b7fe47ea9bd7dbcf",
-                        "label": "Sweat Drops with Question Mark Speech Bubble, Anime-Style, Blue, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144307257807491094_1259921809105752074",
-                    "7": "1144307257807491094_1259921819381665902"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144307257807491094",
+                        "name": "Sweat Drops",
+                        "name_localizations": null,
+                        "summary": "*laughs nervously*",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144307257807491093",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1144307257807491095",
+                                "sku_id": "1144307257807491094",
+                                "asset": "a_55c9d0354290afa8b7fe47ea9bd7dbcf",
+                                "label": "Sweat Drops with Question Mark Speech Bubble, Anime-Style, Blue, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#1484E0",
+                        "base_variant_sku_id": "1144307257807491094",
+                        "base_variant_name": "Sweat Drops"
+                    }
+                ]
             },
             {
                 "sku_id": "1144307629225672846",
                 "name": "Starry-Eyed",
                 "summary": "Feelin\u2019 sparkly.",
-                "store_listing_id": "1144307629225672845",
+                "store_listing_id": "1341506443706105856",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42099,28 +42765,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1144307629225672847",
-                        "sku_id": "1144307629225672846",
-                        "asset": "a_d72066b8cecbadd9fc951913ebcc384f",
-                        "label": "Twinkling Lines and Stars, Anime-Style, Orange and Yellow, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144307629225672846_1259921829263441981",
-                    "7": "1144307629225672846_1259921839564787822"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144307629225672846",
+                        "name": "Starry-Eyed",
+                        "name_localizations": null,
+                        "summary": "Feelin\u2019 sparkly.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144307629225672845",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1144307629225672847",
+                                "sku_id": "1144307629225672846",
+                                "asset": "a_d72066b8cecbadd9fc951913ebcc384f",
+                                "label": "Twinkling Lines and Stars, Anime-Style, Orange and Yellow, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#F8DC2E",
+                        "base_variant_sku_id": "1144307629225672846",
+                        "base_variant_name": "Starry-Eyed"
+                    }
+                ]
             },
             {
                 "sku_id": "1144307957425778779",
                 "name": "In Love",
                 "summary": "uwu",
-                "store_listing_id": "1144307957425778778",
+                "store_listing_id": "1341506443743854592",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42201,28 +42941,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1144307957425778780",
-                        "sku_id": "1144307957425778779",
-                        "asset": "a_8ffa2ba9bff18e96b76c2e66fd0d7fa3",
-                        "label": "Speech Bubble with Lovestruck Expression and Floating Hearts, Anime-Style, Pink and White, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144307957425778779_1259921849266081935",
-                    "7": "1144307957425778779_1259921858925559808"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144307957425778779",
+                        "name": "In Love",
+                        "name_localizations": null,
+                        "summary": "uwu",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144307957425778778",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1144307957425778780",
+                                "sku_id": "1144307957425778779",
+                                "asset": "a_8ffa2ba9bff18e96b76c2e66fd0d7fa3",
+                                "label": "Speech Bubble with Lovestruck Expression and Floating Hearts, Anime-Style, Pink and White, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#F13764",
+                        "base_variant_sku_id": "1144307957425778779",
+                        "base_variant_name": "In Love"
+                    }
+                ]
             },
             {
                 "sku_id": "1144308196723408958",
                 "name": "Shocked",
                 "summary": "Nani?!!",
-                "store_listing_id": "1144308196723408957",
+                "store_listing_id": "1341506443727077376",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42303,28 +43117,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1174460891727663244",
-                        "sku_id": "1144308196723408958",
-                        "asset": "a_b98e8b204d59882fb7f9f7c86922c0bf",
-                        "label": "Thick Exclamation Lines with Japanese Hiragana Speech Bubble, Anime-Style, Pink, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144308196723408958_1259921869667307578",
-                    "7": "1144308196723408958_1259921881578999859"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144308196723408958",
+                        "name": "Shocked",
+                        "name_localizations": null,
+                        "summary": "Nani?!!",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144308196723408957",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1174460891727663244",
+                                "sku_id": "1144308196723408958",
+                                "asset": "a_b98e8b204d59882fb7f9f7c86922c0bf",
+                                "label": "Thick Exclamation Lines with Japanese Hiragana Speech Bubble, Anime-Style, Pink, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FC3CCD",
+                        "base_variant_sku_id": "1144308196723408958",
+                        "base_variant_name": "Shocked"
+                    }
+                ]
             },
             {
                 "sku_id": "1144308439720394944",
                 "name": "Angry",
                 "summary": "How dare you.",
-                "store_listing_id": "1144308439720394943",
+                "store_listing_id": "1341506443626414080",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42405,28 +43293,102 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1144308439720394945",
-                        "sku_id": "1144308439720394944",
-                        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
-                        "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated"
-                    }
-                ],
-                "type": 0,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1144308439720394944_1259921891557245058",
-                    "7": "1144308439720394944_1259921901866979368"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1144308439720394944",
+                        "name": "Angry",
+                        "name_localizations": null,
+                        "summary": "How dare you.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1144308439720394943",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1144308439720394945",
+                                "sku_id": "1144308439720394944",
+                                "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+                                "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#EF0005",
+                        "base_variant_sku_id": "1144308439720394944",
+                        "base_variant_name": "Angry"
+                    }
+                ]
             },
             {
                 "sku_id": "1212582298893946880",
                 "name": "Dreamy",
                 "summary": "When senpai notices you.",
-                "store_listing_id": "1212582278899834930",
+                "store_listing_id": "1341506443995512832",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42507,26 +43469,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1212582317986545694",
-                        "sku_id": "1212582298893946880"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212582298893946880_1259921912612655235",
-                    "7": "1212582298893946880_1259921923006005320"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212582298893946880",
+                        "name": "Dreamy",
+                        "name_localizations": null,
+                        "summary": "When senpai notices you.",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1212582278899834930",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1212582317986545694",
+                                "sku_id": "1212582298893946880"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#F1B132",
+                        "base_variant_sku_id": "1212582298893946880",
+                        "base_variant_name": "Dreamy"
+                    }
+                ]
             },
             {
                 "sku_id": "1212582372877541427",
                 "name": "Ki Detonate",
                 "summary": "Obliteration in 3... 2... 1...",
-                "store_listing_id": "1212582345798852668",
+                "store_listing_id": "1341506444024872960",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42607,26 +43643,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1212582395937816606",
-                        "sku_id": "1212582372877541427"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212582372877541427_1259921933290704967",
-                    "7": "1212582372877541427_1259921952643092570"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212582372877541427",
+                        "name": "Ki Detonate",
+                        "name_localizations": null,
+                        "summary": "Obliteration in 3... 2... 1...",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1212582345798852668",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1212582395937816606",
+                                "sku_id": "1212582372877541427"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#DC6FF8",
+                        "base_variant_sku_id": "1212582372877541427",
+                        "base_variant_name": "Ki Detonate"
+                    }
+                ]
             },
             {
                 "sku_id": "1212582452640350238",
                 "name": "Sushi Mania",
                 "summary": "Always keep the sushi rolling.",
-                "store_listing_id": "1212582430062415902",
+                "store_listing_id": "1341506444062621696",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42707,26 +43817,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1212582476866920448",
-                        "sku_id": "1212582452640350238"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1212582452640350238_1259921963309203597",
-                    "7": "1212582452640350238_1259921974004813957"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1212582452640350238",
+                        "name": "Sushi Mania",
+                        "name_localizations": null,
+                        "summary": "Always keep the sushi rolling.",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1212582430062415902",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1212582476866920448",
+                                "sku_id": "1212582452640350238"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FFB1B5",
+                        "base_variant_sku_id": "1212582452640350238",
+                        "base_variant_name": "Sushi Mania"
+                    }
+                ]
             },
             {
                 "sku_id": "1139323100568244355",
                 "name": "Magic Hearts",
                 "summary": "Moon Prism Power, Make Up!",
-                "store_listing_id": "1139323100127834224",
+                "store_listing_id": "1341894803389939762",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42807,26 +43991,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1139323100127834223",
-                        "sku_id": "1139323100568244355"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1139323100568244355_1259921984213618750",
-                    "7": "1139323100568244355_1259921994359636018"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1139323100568244355",
+                        "name": "Magic Hearts",
+                        "name_localizations": null,
+                        "summary": "Moon Prism Power, Make Up!",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1139323100127834224",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1139323100127834223",
+                                "sku_id": "1139323100568244355"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#D138C6",
+                        "base_variant_sku_id": "1139323100568244355",
+                        "base_variant_name": "Magic Hearts"
+                    }
+                ]
             },
             {
                 "sku_id": "1139323093551165533",
                 "name": "Shatter",
                 "summary": "Ouch, my windows!",
-                "store_listing_id": "1139323093114962022",
+                "store_listing_id": "1341506443949375488",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -42907,26 +44165,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1139323093114962021",
-                        "sku_id": "1139323093551165533"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1139323093551165533_1259922004925222973",
-                    "7": "1139323093551165533_1259922015561846904"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1139323093551165533",
+                        "name": "Shatter",
+                        "name_localizations": null,
+                        "summary": "Ouch, my windows!",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1139323093114962022",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1139323093114962021",
+                                "sku_id": "1139323093551165533"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FFCC02",
+                        "base_variant_sku_id": "1139323093551165533",
+                        "base_variant_name": "Shatter"
+                    }
+                ]
             },
             {
                 "sku_id": "1139323101008642101",
                 "name": "Shuriken Strike",
                 "summary": "Every side is the pointy end.",
-                "store_listing_id": "1139323101008642100",
+                "store_listing_id": "1341506443970347008",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -43007,26 +44339,100 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1139323100568244356",
-                        "sku_id": "1139323101008642101"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1139323101008642101_1259922026479616020",
-                    "7": "1139323101008642101_1259922036583829665"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1139323101008642101",
+                        "name": "Shuriken Strike",
+                        "name_localizations": null,
+                        "summary": "Every side is the pointy end.",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1139323101008642100",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1139323100568244356",
+                                "sku_id": "1139323101008642101"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#898492",
+                        "base_variant_sku_id": "1139323101008642101",
+                        "base_variant_name": "Shuriken Strike"
+                    }
+                ]
             },
             {
                 "sku_id": "1139323101881061466",
                 "name": "Power Surge",
                 "summary": "You\u2019re about to witness true power.",
-                "store_listing_id": "1139323101444845691",
+                "store_listing_id": "1341506443932598272",
                 "banner": "1212565236721389588",
                 "unpublished_at": null,
                 "styles": {
@@ -43107,20 +44513,94 @@
                         }
                     }
                 },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1139323101444845690",
-                        "sku_id": "1139323101881061466"
-                    }
-                ],
-                "type": 1,
+                "items": [],
+                "type": 2000,
                 "premium_type": 0,
                 "category_sku_id": "1212565175790473246",
-                "google_sku_ids": {
-                    "5": "1139323101881061466_1259922046796828832",
-                    "7": "1139323101881061466_1259922057676849275"
-                }
+                "variants": [
+                    {
+                        "sku_id": "1139323101881061466",
+                        "name": "Power Surge",
+                        "name_localizations": null,
+                        "summary": "You\u2019re about to witness true power.",
+                        "summary_localizations": null,
+                        "type": 1,
+                        "store_listing_id": "1139323101444845691",
+                        "category_sku_id": "1212565175790473246",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 1,
+                                "id": "1139323101444845690",
+                                "sku_id": "1139323101881061466"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#F2B14E",
+                        "base_variant_sku_id": "1139323101881061466",
+                        "base_variant_name": "Power Surge"
+                    }
+                ]
             }
         ]
     },
