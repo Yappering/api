@@ -1,16 +1,16 @@
 [
     {
         "type": 0,
-        "sku_id": "1333866045521395723",
-        "name": "Valentines",
-        "summary": "Just send it.",
-        "store_listing_id": "1333866045513138278",
-        "banner": "1336787963777908826",
+        "sku_id": "1341506445249609728",
+        "name": "Anime",
+        "summary": "Senpai will definitely notice you.",
+        "store_listing_id": "1341506445245415424",
+        "banner": "1341506445262192640",
         "unpublished_at": null,
         "styles": {
             "background_colors": [
-                11577842,
-                14407679
+                14778601,
+                2034564
             ],
             "button_colors": [
                 5793266,
@@ -24,51 +24,44 @@
                 9739511
             ]
         },
-        "logo": "1333866045525463200",
+        "logo": "1341506445257998336",
         "hero_ranking": [
-            "1333866045236314327",
-            "1333866045261480007",
-            "1333866045303423026",
-            "1333866045164753087",
-            "1333866045282451527",
-            "1333866045122936964",
-            "1333866045198565377",
-            "1333866045152428183",
-            "1333866045181657158",
-            "1333866045219536906",
-            "1333866045324394547",
-            "1333866045345366136",
-            "1333866045433446410",
-            "1333866045450223740",
-            "1333866045370531921",
-            "1333866045391503463",
-            "1333866045470933105",
-            "1333866045492166756",
-            "1333866045412474911"
+            "1341506443555110912",
+            "1341506443580276736",
+            "1341506444272336896",
+            "1341506444071010304",
+            "1341506444150702080",
+            "1341506444209422336",
+            "1341506444230393856",
+            "1341506443597053952",
+            "1341506444293308416",
+            "1341506444310085632",
+            "1341506443584471040",
+            "1341506443563499520",
+            "1341506443567693824",
+            "1341506444188450816",
+            "1341506443605442560"
         ],
-        "mobile_bg": "1333866045555081326",
-        "pdp_bg": "1333866045550891068",
-        "success_modal_bg": "1333866045563338812",
-        "mobile_banner": "1333866045542367232",
-        "featured_block": "1343713228873666591",
+        "mobile_bg": "1341506445278969856",
+        "pdp_bg": "1341506445274775552",
+        "success_modal_bg": "1341506445287358464",
+        "mobile_banner": "1341506445266386944",
+        "featured_block": "1343804004626595880",
         "hero_banner": null,
-        "wide_banner": "1337570505607090176",
-        "wide_banner_title": "Looking for a Valentine\u2019s Day gift?",
-        "wide_banner_body": "Match in style with decorations made for you and your valentine!",
-        "banner_text_color": "#000000",
-        "hero_logo": "1333866045584310363",
+        "wide_banner": null,
+        "hero_logo": "1341506445304135680",
         "products": [
             {
-                "sku_id": "1333866045236314327",
-                "name": "Angel",
-                "summary": "Every Angel needs their Devil-in-crime.",
-                "store_listing_id": "1333866045244571709",
-                "banner": "1336787963777908826",
+                "sku_id": "1341506443555110912",
+                "name": "Cat Onesie",
+                "summary": "I\u2019m just here for naps and snacks.",
+                "store_listing_id": "1341506443576082432",
+                "banner": "1341506445262192640",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        11577842,
-                        14407679
+                        14778601,
+                        2034564
                     ],
                     "button_colors": [
                         5793266,
@@ -91,11 +84,6 @@
                                     "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
-                                {
-                                    "amount": 3600,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
                                 }
                             ]
                         }
@@ -108,11 +96,538 @@
                                     "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
                                 {
-                                    "amount": 3000,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [],
+                "type": 2000,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "variants": [
+                    {
+                        "sku_id": "1341506443555110912",
+                        "name": "Cat Onesie",
+                        "name_localizations": null,
+                        "summary": "I\u2019m just here for naps and snacks.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444083593216",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1342224014684459098",
+                                "sku_id": "1341506443555110912",
+                                "asset": "a_d23647f13e9b090dd17f67a31a93bf30",
+                                "label": "Your avatar is decked out in a comfy, orange cat onesie. Fancy a cat nap?"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FFBC74",
+                        "base_variant_sku_id": "1341506443555110912",
+                        "base_variant_name": "Cat Onesie"
+                    },
+                    {
+                        "sku_id": "1341506443563499520",
+                        "name": "Cat Onesie (Pink)",
+                        "name_localizations": null,
+                        "summary": "I\u2019m just here for naps and snacks.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444096176128",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1342224621688066168",
+                                "sku_id": "1341506443563499520",
+                                "asset": "a_9bcb2ac65d168641ba962e563500768d",
+                                "label": "Your avatar is decked out in a comfy, pink cat onesie. Fancy a cat nap?"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Pink",
+                        "variant_value": "#FAB5CD",
+                        "base_variant_sku_id": "1341506443555110912",
+                        "base_variant_name": "Cat Onesie"
+                    },
+                    {
+                        "sku_id": "1341506443567693824",
+                        "name": "Cat Onesie (Black)",
+                        "name_localizations": null,
+                        "summary": "I\u2019m just here for naps and snacks.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444112953344",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1342224671868981279",
+                                "sku_id": "1341506443567693824",
+                                "asset": "a_9661cf3296ac236d8815e3f5b809a467",
+                                "label": "Your avatar is decked out in a comfy, black cat onesie. Fancy a cat nap?"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Black",
+                        "variant_value": "#3C474C",
+                        "base_variant_sku_id": "1341506443555110912",
+                        "base_variant_name": "Cat Onesie"
+                    }
+                ]
+            },
+            {
+                "sku_id": "1341506443580276736",
+                "name": "Shy",
+                "summary": "Notice me! Just not too much...",
+                "store_listing_id": "1341506443592859648",
+                "banner": "1341506445262192640",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [],
+                "type": 2000,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "variants": [
+                    {
+                        "sku_id": "1341506443580276736",
+                        "name": "Shy",
+                        "name_localizations": null,
+                        "summary": "Notice me! Just not too much...",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444125536256",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1341506444129730560",
+                                "sku_id": "1341506443580276736",
+                                "asset": "a_6b793a5f7e4e15eea6b10a4fde448511",
+                                "label": "In an endearing display of shyness, you point both of your index fingers together. Aw, you're even blushing."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Original",
+                        "variant_value": "#FAB1CA",
+                        "base_variant_sku_id": "1341506443580276736",
+                        "base_variant_name": "Shy"
+                    },
+                    {
+                        "sku_id": "1341506443584471040",
+                        "name": "Shy (In Love)",
+                        "name_localizations": null,
+                        "summary": "Notice me! Just not too much...",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444138119168",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1341506444142313472",
+                                "sku_id": "1341506443584471040",
+                                "asset": "a_dd33e9a7cd5056887d5f888c4daf2011",
+                                "label": "In an endearing display of infatuation, you point both of your index fingers together while emitting hearts from your head. You seem to be in love with something... or someone."
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "In Love",
+                        "variant_value": "#EF6679",
+                        "base_variant_sku_id": "1341506443580276736",
+                        "base_variant_name": "Shy"
+                    }
+                ]
+            },
+            {
+                "sku_id": "1341506444272336896",
+                "name": "Wishful Beginnings",
+                "summary": "Wishes don\u2019t work unless you do. Time to show what you\u2019re made of.",
+                "store_listing_id": "1341506444280725504",
+                "banner": "1341506445262192640",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
                                 }
                             ]
                         }
@@ -144,234 +659,30 @@
                 },
                 "items": [
                     {
-                        "type": 0,
-                        "id": "1333866045252833330",
-                        "sku_id": "1333866045236314327",
-                        "asset": "a_c86b11a49bb8057ce9c974a6f7ad658a",
-                        "label": "Your avatar is dressed as an angel with fluffy angel wings and a glowing halo. Every flutter of your wings releases sparkles and little hearts."
+                        "type": 1,
+                        "id": "1341506444284919808",
+                        "sku_id": "1341506444272336896"
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
+                "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1333866045236314327_1336110336700452985",
-                    "7": "1333866045236314327_1336110348935102587"
+                    "5": "1341506444272336896_1342263783841595394",
+                    "7": "1341506444272336896_1342263797569818734"
                 }
             },
             {
-                "sku_id": "1333866045261480007",
-                "name": "Devil",
-                "summary": "Every Devil needs their Angel-in-crime.",
-                "store_listing_id": "1333866045269737492",
-                "banner": "1336787963777908826",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        11577842,
-                        14407679
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 3600,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 3000,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 600,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 500,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1333866045273804921",
-                        "sku_id": "1333866045261480007",
-                        "asset": "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
-                        "label": "Your avatar is dressed as a mischievous red devil with devilish wings, horns, and a heart-tipped tail. Every flutter of your wings releases hearts ignited in blue flames."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
-                "google_sku_ids": {
-                    "5": "1333866045261480007_1336110026091270264",
-                    "7": "1333866045261480007_1336110052892872808"
-                }
-            },
-            {
-                "sku_id": "1333866045303423026",
-                "name": "Lovestruck",
-                "summary": "It appears you have a secret admirer.",
-                "store_listing_id": "1333866045311680512",
-                "banner": "1336787963777908826",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        11577842,
-                        14407679
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 3600,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 3000,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 600,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 500,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1333866045315747973",
-                        "sku_id": "1333866045303423026",
-                        "asset": "a_7f44d538ec830f479605f7bf8720afda",
-                        "label": "A pink heart bubble engulfs your avatar. Suddenly, a heart-tipped arrow from out of nowhere pops the bubble, releasing a flurry of heart bubbles. You can't help but wonder who fired the arrow..."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
-                "google_sku_ids": {
-                    "5": "1333866045303423026_1336112627809521715",
-                    "7": "1333866045303423026_1336112652539269120"
-                }
-            },
-            {
-                "sku_id": "1333866045164753087",
-                "name": "Red Heartstrings Bundle",
+                "sku_id": "1341506444071010304",
+                "name": "Magical Girl Bundle",
                 "summary": "A bundle of collectibles.",
-                "store_listing_id": "1333866045173399614",
-                "banner": "1336787963777908826",
+                "store_listing_id": "1341506444075204608",
+                "banner": "1341506445262192640",
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
-                        11577842,
-                        14407679
+                        14778601,
+                        2034564
                     ],
                     "button_colors": [
                         5793266,
@@ -394,11 +705,6 @@
                                     "amount": 1099,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
-                                {
-                                    "amount": 6600,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
                                 }
                             ]
                         }
@@ -411,11 +717,6 @@
                                     "amount": 899,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
-                                {
-                                    "amount": 5400,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
                                 }
                             ]
                         }
@@ -448,25 +749,25 @@
                 "items": [
                     {
                         "type": 0,
-                        "id": "1333866045382856837",
-                        "sku_id": "1333866045370531921",
-                        "asset": "a_63a69109db554a66764cbe61c6e556ef",
-                        "label": "Heart-shaped string lights wrap your avatar in the shape of a heart, each bulb shining in turn, creating a fun light show of pink and red."
+                        "id": "1341506444201033728",
+                        "sku_id": "1341506444188450816",
+                        "asset": "a_45f7f9975255971b197d34d77fb50ede",
+                        "label": "Magical purple energy encircles your avatar, with sparkling pink stars and hearts swirling around in a cyclone-like dance."
                     },
                     {
                         "type": 1,
-                        "id": "1333866045483520172",
-                        "sku_id": "1333866045470933105"
+                        "id": "1341506444301697024",
+                        "sku_id": "1341506444293308416"
                     }
                 ],
                 "type": 1000,
                 "premium_type": 0,
-                "category_sku_id": "1333866045521395723",
+                "category_sku_id": "1341506445249609728",
                 "bundled_products": [
                     {
-                        "sku_id": "1333866045370531921",
-                        "name": "Heartstrings (Red)",
-                        "summary": "Pull with care.",
+                        "sku_id": "1341506444188450816",
+                        "name": "Magical Girl",
+                        "summary": "Need to look immaculate when you\u2019re saving the world.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -478,11 +779,6 @@
                                             "amount": 599,
                                             "currency": "usd",
                                             "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3600,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -495,11 +791,6 @@
                                             "amount": 499,
                                             "currency": "usd",
                                             "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3000,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -531,9 +822,9 @@
                         }
                     },
                     {
-                        "sku_id": "1333866045470933105",
-                        "name": "Heartstring Theory (Red)",
-                        "summary": "Turns out, love has the strongest pull of all.",
+                        "sku_id": "1341506444293308416",
+                        "name": "Magical Girl Energy",
+                        "summary": "Be the star of your show.",
                         "type": 1,
                         "premium_type": 0,
                         "prices": {
@@ -545,11 +836,6 @@
                                             "amount": 599,
                                             "currency": "usd",
                                             "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3600,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -562,11 +848,6 @@
                                             "amount": 499,
                                             "currency": "usd",
                                             "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3000,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
                                         }
                                     ]
                                 }
@@ -599,49 +880,39 @@
                     }
                 ],
                 "google_sku_ids": {
-                    "5": "1333866045164753087_1336109176040194109",
-                    "7": "1333866045164753087_1336109200367030304"
+                    "5": "1341506444071010304_1342263185805152307",
+                    "7": "1341506444071010304_1342263220785643621"
                 }
             }
         ],
         "banner_asset": {
             "animated": null,
-            "static": "https://cdn.discordapp.com/assets/content/0357db038ac6c97037064602cc050a8bc6048208b606fa79e677c354ca094609.jpg"
+            "static": "https://cdn.discordapp.com/assets/content/9ca993ad2f66b550c78329dd258616b4301b0d7685f6c897df57fd2df6288f6d.jpg"
         },
         "hero_banner_asset": {
             "animated": null,
-            "static": "https://cdn.discordapp.com/assets/content/3685a194178c25b79c5fc40e716b493e8924f2396cb4190f2e22dd43c14eb442.jpg"
+            "static": "https://cdn.discordapp.com/assets/content/bf12e35066ba5e5e1a0a2defc8325c3bb8ea097b22b0349ce800a22e77287196.jpg"
         }
-    },
-    {
-        "type": 3,
-        "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1337570505607090176.jpg?size=4096",
-        "title": "Looking for a Valentine\u2019s Day gift?",
-        "body": "Match in style with decorations made for you and your valentine!",
-        "category_store_listing_id": "1333866045513138278",
-        "banner_text_color": "#000000",
-        "disable_cta": false,
-        "page": "shop"
     },
     {
         "type": 1,
         "subblocks": [
             {
                 "type": 0,
-                "category_store_listing_id": "1336483992400167075",
-                "name": "JENNIE",
+                "category_store_listing_id": "1333866045513138278",
+                "name": "Valentines",
                 "unpublished_at": null,
-                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336483992492310538.png?size=1280",
+                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1343713228873666591.png?size=1280",
                 "body_text": null,
-                "banner_text_color": null,
+                "banner_text_color": "#000000",
                 "page": "shop"
             },
             {
                 "type": 0,
-                "category_store_listing_id": "1333278032990834779",
-                "name": "Civilization VII",
+                "category_store_listing_id": "1336483992400167075",
+                "name": "JENNIE",
                 "unpublished_at": null,
-                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336756819380404285.png?size=1280",
+                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1336483992492310538.png?size=1280",
                 "body_text": null,
                 "banner_text_color": null,
                 "page": "shop"
