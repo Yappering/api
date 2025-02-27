@@ -2,46 +2,28 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 19,
-            "title": "JENNIE and Valentines",
-            "body": "New JENNIE exclusive Ruby and Valentine\u2019s Day decorations have arrived",
-            "avatar": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png",
+            "version": 20,
+            "title": "Check out new Anime arrivals.",
+            "body": null,
+            "avatar": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png",
             "decorations": [
-                "a_a1c0581971d4a296908829289fea2c47",
-                "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
-                "a_c86b11a49bb8057ce9c974a6f7ad658a"
+                "a_d23647f13e9b090dd17f67a31a93bf30",
+                "a_7e6e07bf3d855512a30c593647cc2c24",
+                "a_4ff879bda5715851f886c6f77d275879",
+                "a_45f7f9975255971b197d34d77fb50ede",
+                "a_df5442048d7d5b8b8906f3a9cd93f0ab",
+                "a_e0a2df84cf7eb8e098a13e37ec9027c1"
             ],
             "dismissible_content": 422,
-            "ref_target_background": {
-                "style": {
-                    "resting": {
-                        "light": null,
-                        "dark": null
-                    },
-                    "hovered": {
-                        "light": null,
-                        "dark": null
-                    }
-                },
-                "asset": {
-                    "resting": {
-                        "light": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png"
-                    },
-                    "hovered": {
-                        "light": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png"
-                    }
-                }
-            }
+            "ref_target_background": null
         },
         "2": {
             "type": 2,
-            "version": 19,
+            "version": 20,
             "title": "Give your profile a fresh look",
-            "body": "New JENNIE and Valentines avatar decorations and profile effects that\u2019ll dazzle your secret admirers.",
-            "asset": "https://cdn.discordapp.com/assets/content/0d6ebe2f2edec5ebbe4597a2a5d8eebca13550664cc3bbd6e35189c4a908efcb.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/0da18ebf9833a40a4282d04fa5b632b820d61d9a43517421ad6ddd690d6f62b7.png"
+            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+            "asset": "https://cdn.discordapp.com/assets/content/169bb2d1eb21be1e517d8fac4f8a48bc10e853291216b3053f36228a05aa76b3.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/1e4433fa99b6c21455d31abe239f909f87fc05ef8aedc461936c3147355d6a1c.png"
         }
     }
 }
