@@ -1,7 +1,7 @@
 [
     {
         "sku_id": "profiles-plus-4",
-        "name": "Windowkill V2",
+        "name": "Windowkill",
         "summary": "The windows are taking control!",
         "banner": "33",
         "unpublished_at": null,
@@ -29,13 +29,11 @@
         "mobile_banner": "54",
         "featured_block": "51",
         "hero_banner": "58",
-        "wide_banner": "154",
-        "wide_banner_title": "New Windowkill Styles",
-        "wide_banner_body": "Check out Windowkill decorations made for you!",
-        "banner_text_color": "#000000",
-        "featured_block_body": "Check out Windowkill decorations made for you!",
+        "wide_banner": null,
         "hero_logo": null,
         "category_bg": "90",
+        "condensed_banner_left": "86",
+        "condensed_banner_right": "87",
         "products": [
             {
                 "sku_id": "pplus-26",
@@ -555,6 +553,7 @@
                 "variants": [
                     {
                         "sku_id": "pplus-19",
+                        "credits": "TrellTrell",
                         "name": "Orb Array Screenshot",
                         "name_localizations": null,
                         "summary": "Time to add you to my Cringe Compilation.",
@@ -578,6 +577,7 @@
                     },
                     {
                         "sku_id": "pplus-1",
+                        "credits": "DTACat",
                         "name": "Legacy Orb Array",
                         "name_localizations": null,
                         "summary": "The pointer clicks and drags then screenshots an area to deal damage.",
@@ -746,6 +746,7 @@
                 "variants": [
                     {
                         "sku_id": "pplus-23",
+                        "credits": "TrellTrell",
                         "name": "Smiley",
                         "name_localizations": null,
                         "summary": "Quick! Click the X!",
@@ -767,6 +768,7 @@
                     },
                     {
                         "sku_id": "pplus-2",
+                        "credits": "DTACat",
                         "name": "Legacy Smiley",
                         "name_localizations": null,
                         "summary": "Hes got my Avatar!",
@@ -897,6 +899,8 @@
         "wide_banner": "153",
         "hero_logo": null,
         "category_bg": "91",
+        "condensed_banner_left": "5",
+        "condensed_banner_right": "3",
         "products": [
             {
                 "sku_id": "pplus-18",
@@ -1302,6 +1306,8 @@
         "wide_banner": null,
         "hero_logo": null,
         "category_bg": "89",
+        "condensed_banner_left": "92",
+        "condensed_banner_right": "93",
         "products": [
             {
                 "sku_id": "pplus-9",
@@ -1310,6 +1316,8 @@
                 "summary": "A bundle of collectibles.",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -1352,6 +1360,8 @@
                         "summary": "Steady aim.",
                         "banner": "22",
                         "unpublished_at": null,
+                        "expires_at": null,
+                        "releases_at": null,
                         "styles": {
                             "background_colors": [
                                 1118740,
@@ -1389,6 +1399,8 @@
                         "summary": "Dodge and weave.",
                         "banner": "22",
                         "unpublished_at": null,
+                        "expires_at": null,
+                        "releases_at": null,
                         "styles": {
                             "background_colors": [
                                 1118740,
@@ -1426,6 +1438,8 @@
                 "summary": "A bundle of collectibles.",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -1468,6 +1482,8 @@
                         "summary": "What\u2019s even happening?!",
                         "banner": "22",
                         "unpublished_at": null,
+                        "expires_at": null,
+                        "releases_at": null,
                         "styles": {
                             "background_colors": [
                                 1118740,
@@ -1505,6 +1521,8 @@
                         "summary": "Don\u2019t get squished!",
                         "banner": "22",
                         "unpublished_at": null,
+                        "expires_at": null,
+                        "releases_at": null,
                         "styles": {
                             "background_colors": [
                                 1118740,
@@ -1542,6 +1560,8 @@
                 "summary": "Steady aim.",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -1579,6 +1599,8 @@
                 "summary": "What\u2019s even happening?!",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -1616,6 +1638,8 @@
                 "summary": "Dodge and weave.",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -1651,6 +1675,8 @@
                 "summary": "Don\u2019t get squished!",
                 "banner": "22",
                 "unpublished_at": null,
+                "expires_at": null,
+                "releases_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
