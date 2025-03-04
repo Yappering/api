@@ -535,8 +535,8 @@
                 }
             },
             {
-                "sku_id": "1341506443555110912",
-                "name": "Cat Onesie",
+                "sku_id": "1341506443567693824",
+                "name": "Cat Onesie (Black)",
                 "summary": "I\u2019m just here for naps and snacks.",
                 "store_listing_id": "1341506443576082432",
                 "banner": "1341506445262192640",
@@ -624,6 +624,90 @@
                 "category_sku_id": "1341506445249609728",
                 "variants": [
                     {
+                        "sku_id": "1341506443567693824",
+                        "name": "Cat Onesie (Black)",
+                        "name_localizations": null,
+                        "summary": "I\u2019m just here for naps and snacks.",
+                        "summary_localizations": null,
+                        "type": 0,
+                        "store_listing_id": "1341506444112953344",
+                        "category_sku_id": "1341506445249609728",
+                        "premium_type": 0,
+                        "items": [
+                            {
+                                "type": 0,
+                                "id": "1342224671868981279",
+                                "sku_id": "1341506443567693824",
+                                "asset": "a_9661cf3296ac236d8815e3f5b809a467",
+                                "label": "Your avatar is decked out in a comfy, black cat onesie. Fancy a cat nap?"
+                            }
+                        ],
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3600,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 3000,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 600,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 500,
+                                            "currency": "nzd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "variant_label": "Black",
+                        "variant_value": "#3C474C",
+                        "base_variant_sku_id": "1341506443567693824",
+                        "base_variant_name": "Cat Onesie"
+                    },
+                    {
                         "sku_id": "1341506443555110912",
                         "name": "Cat Onesie",
                         "name_localizations": null,
@@ -704,7 +788,7 @@
                         },
                         "variant_label": "Original",
                         "variant_value": "#FFBC74",
-                        "base_variant_sku_id": "1341506443555110912",
+                        "base_variant_sku_id": "1341506443567693824",
                         "base_variant_name": "Cat Onesie"
                     },
                     {
@@ -788,91 +872,7 @@
                         },
                         "variant_label": "Pink",
                         "variant_value": "#FAB5CD",
-                        "base_variant_sku_id": "1341506443555110912",
-                        "base_variant_name": "Cat Onesie"
-                    },
-                    {
-                        "sku_id": "1341506443567693824",
-                        "name": "Cat Onesie (Black)",
-                        "name_localizations": null,
-                        "summary": "I\u2019m just here for naps and snacks.",
-                        "summary_localizations": null,
-                        "type": 0,
-                        "store_listing_id": "1341506444112953344",
-                        "category_sku_id": "1341506445249609728",
-                        "premium_type": 0,
-                        "items": [
-                            {
-                                "type": 0,
-                                "id": "1342224671868981279",
-                                "sku_id": "1341506443567693824",
-                                "asset": "a_9661cf3296ac236d8815e3f5b809a467",
-                                "label": "Your avatar is decked out in a comfy, black cat onesie. Fancy a cat nap?"
-                            }
-                        ],
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3600,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 499,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        },
-                                        {
-                                            "amount": 3000,
-                                            "currency": "discord_orb",
-                                            "exponent": 0
-                                        }
-                                    ]
-                                }
-                            },
-                            "5": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 600,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "7": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 500,
-                                            "currency": "nzd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "variant_label": "Black",
-                        "variant_value": "#3C474C",
-                        "base_variant_sku_id": "1341506443555110912",
+                        "base_variant_sku_id": "1341506443567693824",
                         "base_variant_name": "Cat Onesie"
                     }
                 ]
