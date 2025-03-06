@@ -407,7 +407,7 @@
                     {
                         "sku_id": "1343751617328975954",
                         "name": "Mirage",
-                        "summary": "Believe it, and you will see it.",
+                        "summary": "Believe it and you will see it.",
                         "type": 0,
                         "premium_type": 0,
                         "prices": {
@@ -889,7 +889,7 @@
             },
             {
                 "sku_id": "1343751617303805983",
-                "name": "Head In the Clouds",
+                "name": "Head in the Clouds",
                 "summary": "Count the stars for those sleepless nights.",
                 "store_listing_id": "1343751617320849509",
                 "banner": "1343751621380673639",
@@ -978,7 +978,7 @@
                 "variants": [
                     {
                         "sku_id": "1343751617303805983",
-                        "name": "Head In the Clouds",
+                        "name": "Head in the Clouds",
                         "name_localizations": null,
                         "summary": "Count the stars for those sleepless nights.",
                         "summary_localizations": null,
@@ -1058,11 +1058,11 @@
                         "variant_label": "Original",
                         "variant_value": "#B5A3EE",
                         "base_variant_sku_id": "1343751617303805983",
-                        "base_variant_name": "Head In the Clouds"
+                        "base_variant_name": "Head in the Clouds"
                     },
                     {
                         "sku_id": "1343751617312329809",
-                        "name": "Head In the Clouds (Sunset)",
+                        "name": "Head in the Clouds (Sunset)",
                         "name_localizations": null,
                         "summary": "Count the stars for those sleepless nights.",
                         "summary_localizations": null,
@@ -1142,14 +1142,14 @@
                         "variant_label": "Sunset",
                         "variant_value": "#EFA0A9",
                         "base_variant_sku_id": "1343751617303805983",
-                        "base_variant_name": "Head In the Clouds"
+                        "base_variant_name": "Head in the Clouds"
                     }
                 ]
             },
             {
                 "sku_id": "1343751617328975954",
                 "name": "Mirage",
-                "summary": "Believe it, and you will see it.",
+                "summary": "Believe it and you will see it.",
                 "store_listing_id": "1343751617370915007",
                 "banner": "1343751621380673639",
                 "unpublished_at": null,
@@ -1239,7 +1239,7 @@
                         "sku_id": "1343751617328975954",
                         "name": "Mirage",
                         "name_localizations": null,
-                        "summary": "Believe it, and you will see it.",
+                        "summary": "Believe it and you will see it.",
                         "summary_localizations": null,
                         "type": 0,
                         "store_listing_id": "1343751621020094516",
@@ -1323,7 +1323,7 @@
                         "sku_id": "1343751617337491516",
                         "name": "Mirage (Void)",
                         "name_localizations": null,
-                        "summary": "Believe it, and you will see it.",
+                        "summary": "Believe it and you will see it.",
                         "summary_localizations": null,
                         "type": 0,
                         "store_listing_id": "1343751621032546497",
@@ -1407,7 +1407,7 @@
                         "sku_id": "1343751617345749012",
                         "name": "Mirage (Twilight)",
                         "name_localizations": null,
-                        "summary": "Believe it, and you will see it.",
+                        "summary": "Believe it and you will see it.",
                         "summary_localizations": null,
                         "type": 0,
                         "store_listing_id": "1343751621049319554",
@@ -1491,7 +1491,7 @@
                         "sku_id": "1343751617362661526",
                         "name": "Mirage (Nightshade)",
                         "name_localizations": null,
-                        "summary": "Believe it, and you will see it.",
+                        "summary": "Believe it and you will see it.",
                         "summary_localizations": null,
                         "type": 0,
                         "store_listing_id": "1343751621062168728",
