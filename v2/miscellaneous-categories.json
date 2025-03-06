@@ -64,14 +64,9 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 599,
+                                    "amount": 499,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
-                                {
-                                    "amount": 3600,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
                                 }
                             ]
                         }
@@ -81,14 +76,9 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 499,
+                                    "amount": 599,
                                     "currency": "usd",
                                     "exponent": 2
-                                },
-                                {
-                                    "amount": 3000,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
                                 }
                             ]
                         }
@@ -98,7 +88,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 600,
+                                    "amount": 500,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
@@ -110,7 +100,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 500,
+                                    "amount": 600,
                                     "currency": "nzd",
                                     "exponent": 2
                                 }
