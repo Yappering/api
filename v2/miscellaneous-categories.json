@@ -125,6 +125,1202 @@
                     "5": "1344802364971946054_1346927871964352521",
                     "7": "1344802364971946054_1346927898187141221"
                 }
+            },
+            {
+                "sku_id": "1344802364992782366",
+                "name": "Cherry Blossom",
+                "summary": "It's cherry blossom time",
+                "store_listing_id": "1344802365001437244",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365009563648",
+                        "sku_id": "1344802364992782366",
+                        "asset": "nameplates/nameplatetest/cherry_blossom/",
+                        "label": "It's cherry blossom time",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802364992782366_1346931900748533801",
+                    "7": "1344802364992782366_1346931928200253440"
+                }
+            },
+            {
+                "sku_id": "1344802365013753962",
+                "name": "Dark Fantasy",
+                "summary": "It's dark fantasy time",
+                "store_listing_id": "1344802365022408745",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365030535199",
+                        "sku_id": "1344802365013753962",
+                        "asset": "nameplates/nameplatetest/dark_fantasy/",
+                        "label": "It's dark fantasy time",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365013753962_1346929552072638544",
+                    "7": "1344802365013753962_1346929577431404635"
+                }
+            },
+            {
+                "sku_id": "1344802365038919680",
+                "name": "Dreamy",
+                "summary": "It's dreamy time",
+                "store_listing_id": "1344802365043380295",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365051506739",
+                        "sku_id": "1344802365038919680",
+                        "asset": "nameplates/nameplatetest/dreamy/",
+                        "label": "It's dreamy time",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365038919680_1346931012025843732",
+                    "7": "1344802365038919680_1346931039322378353"
+                }
+            },
+            {
+                "sku_id": "1344802365068279839",
+                "name": "Fairy Dust",
+                "summary": "It's fairy dust time",
+                "store_listing_id": "1344802365076934716",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365085061120",
+                        "sku_id": "1344802365068279839",
+                        "asset": "nameplates/nameplatetest/fairy_dust/",
+                        "label": "It's fairy dust time",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365068279839_1346931351982575628",
+                    "7": "1344802365068279839_1346931379669303399"
+                }
+            },
+            {
+                "sku_id": "1344802365089251429",
+                "name": "Galaxy",
+                "summary": "It's galaxy time",
+                "store_listing_id": "1344802365097906258",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365106032731",
+                        "sku_id": "1344802365089251429",
+                        "asset": "nameplates/nameplatetest/galaxy/",
+                        "label": "It's galaxy time",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365089251429_1346928533024542761",
+                    "7": "1344802365089251429_1346928565014233228"
+                }
+            },
+            {
+                "sku_id": "1344802365114417202",
+                "name": "Glitch",
+                "summary": "It's glitch time",
+                "store_listing_id": "1344802365118877840",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365127004252",
+                        "sku_id": "1344802365114417202",
+                        "asset": "nameplates/nameplatetest/glitch/",
+                        "label": "It's glitch time",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365114417202_1346930308255191142",
+                    "7": "1344802365114417202_1346930331239841893"
+                }
+            },
+            {
+                "sku_id": "1344802365135524007",
+                "name": "Heart Bloom",
+                "summary": "It's heart bloom time",
+                "store_listing_id": "1344802365144043540",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365147975781",
+                        "sku_id": "1344802365135524007",
+                        "asset": "nameplates/nameplatetest/heart_bloom/",
+                        "label": "It's heart bloom time",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365135524007_1346927816217722960",
+                    "7": "1344802365135524007_1346927847285063752"
+                }
+            },
+            {
+                "sku_id": "1344802365160689685",
+                "name": "Kawaii Gaming",
+                "summary": "It's kawaii gaming time",
+                "store_listing_id": "1344802365165015130",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365168947331",
+                        "sku_id": "1344802365160689685",
+                        "asset": "nameplates/nameplatetest/kawaii_gaming/",
+                        "label": "It's kawaii gaming time",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365160689685_1346927855438926005",
+                    "7": "1344802365160689685_1346927883066540052"
+                }
+            },
+            {
+                "sku_id": "1344802365177331822",
+                "name": "Kitsune",
+                "summary": "It's Kitsune time",
+                "store_listing_id": "1344802365185986672",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365194113055",
+                        "sku_id": "1344802365177331822",
+                        "asset": "nameplates/nameplatetest/kitsune/",
+                        "label": "It's Kitsune time",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365177331822_1346928678163976203",
+                    "7": "1344802365177331822_1346928692722532362"
+                }
+            },
+            {
+                "sku_id": "1344802365198303314",
+                "name": "Koi Pond",
+                "summary": "It's koi pond time",
+                "store_listing_id": "1344802365206958150",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365215084584",
+                        "sku_id": "1344802365198303314",
+                        "asset": "nameplates/nameplatetest/koi_pond/",
+                        "label": "It's koi pond time",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365198303314_1346929032184336515",
+                    "7": "1344802365198303314_1346929057484505118"
+                }
+            },
+            {
+                "sku_id": "1344802365223469066",
+                "name": "Lo-Fi",
+                "summary": "It's lofi time",
+                "store_listing_id": "1344802365227929671",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365236056105",
+                        "sku_id": "1344802365223469066",
+                        "asset": "nameplates/nameplatetest/lofi/",
+                        "label": "It's lofi time",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365223469066_1346931597340971150",
+                    "7": "1344802365223469066_1346931612625010801"
+                }
+            },
+            {
+                "sku_id": "1344802365244440606",
+                "name": "Lofi Cat",
+                "summary": "It's lofi cat time",
+                "store_listing_id": "1344802365253091379",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365257027748",
+                        "sku_id": "1344802365244440606",
+                        "asset": "nameplates/nameplatetest/lofi_cat/",
+                        "label": "It's lofi cat time",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365244440606_1346931552604524745",
+                    "7": "1344802365244440606_1346931579720695972"
+                }
+            },
+            {
+                "sku_id": "1344802365265412119",
+                "name": "Moon and Sun",
+                "summary": "It's moon and sun time",
+                "store_listing_id": "1344802365274066955",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802365290582088",
+                        "sku_id": "1344802365265412119",
+                        "asset": "nameplates/nameplatetest/moon_and_sun/",
+                        "label": "It's moon and sun time",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802365265412119_1346927772253032448",
+                    "7": "1344802365265412119_1346927806595989556"
+                }
             }
         ]
     },
