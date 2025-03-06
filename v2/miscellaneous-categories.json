@@ -35,6 +35,98 @@
         "hero_logo": null,
         "products": [
             {
+                "sku_id": "1344802364934062152",
+                "name": "Angel",
+                "summary": "It's angel time",
+                "store_listing_id": "1344802364951105676",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802364963426354",
+                        "sku_id": "1344802364934062152",
+                        "asset": "nameplates/nameplatetest/angel/",
+                        "label": "It's angel time",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802364934062152_1346928214479605800",
+                    "7": "1344802364934062152_1346928240908042341"
+                }
+            },
+            {
                 "sku_id": "1344802364971946054",
                 "name": "Aurora",
                 "summary": "It's aurora time",
@@ -5291,4 +5383,4 @@
             }
         ]
     }
-] 
+]
