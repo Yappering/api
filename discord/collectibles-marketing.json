@@ -2,28 +2,25 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 20,
-            "title": "Check out new Anime arrivals.",
+            "version": 21,
+            "title": "Check out new Insomnia arrivals.",
             "body": null,
-            "avatar": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png",
+            "avatar": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png",
             "decorations": [
-                "a_d23647f13e9b090dd17f67a31a93bf30",
-                "a_7e6e07bf3d855512a30c593647cc2c24",
-                "a_4ff879bda5715851f886c6f77d275879",
-                "a_45f7f9975255971b197d34d77fb50ede",
-                "a_df5442048d7d5b8b8906f3a9cd93f0ab",
-                "a_e0a2df84cf7eb8e098a13e37ec9027c1"
+                "a_6d99f670de3fcee669660fe262e896ea",
+                "a_fb1fab5c0a30f0a89a7cd5fad873c6f0",
+                "a_462b0bddc07dd495765fe12abe8b077f"
             ],
             "dismissible_content": 422,
             "ref_target_background": null
         },
         "2": {
             "type": 2,
-            "version": 20,
+            "version": 21,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/169bb2d1eb21be1e517d8fac4f8a48bc10e853291216b3053f36228a05aa76b3.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/1e4433fa99b6c21455d31abe239f909f87fc05ef8aedc461936c3147355d6a1c.png"
+            "asset": "https://cdn.discordapp.com/assets/content/038226848943dac18c031948b064d5a317c1193b1e812043efa68f76e3e4b811.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/9aeed1c548ed726ee8d0204cb9957afd1e9bc81422ed09e9158f5f34e3174825.png"
         }
     }
 }

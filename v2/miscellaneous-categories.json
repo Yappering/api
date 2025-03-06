@@ -1,5 +1,144 @@
 [
     {
+        "sku_id": "1344802365307621427",
+        "name": "Nameplate Test",
+        "summary": null,
+        "store_listing_id": null,
+        "banner": "1344802365328461864",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                5793266,
+                5793266
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "wide_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1344802364971946054",
+                "name": "Aurora",
+                "summary": "It's aurora time",
+                "store_listing_id": "1344802364980465664",
+                "banner": "1344802365328461864",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1344802364984397884",
+                        "sku_id": "1344802364971946054",
+                        "asset": "nameplates/nameplatetest/aurora/",
+                        "label": "It's aurora time",
+                        "palette": "teal"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1344802365307621427",
+                "google_sku_ids": {
+                    "5": "1344802364971946054_1346927871964352521",
+                    "7": "1344802364971946054_1346927898187141221"
+                }
+            }
+        ]
+    },
+    {
         "sku_id": "1309309974266118144",
         "name": "Special Events 2",
         "summary": null,
@@ -1785,6 +1924,93 @@
                         "sku_id": "1346915187243876474",
                         "asset": "a_c0b9de0a45a84d30d4535849fc53e0aa",
                         "label": "This avatar decoration features a vibrant, neon-colored circular flame effect with an energetic, cartoonish character at the bottom left."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1346987105028407307",
+                "name": "Split Avatar Decoration",
+                "summary": "Exclusive to the Split Fiction Quest for a limited time.",
+                "store_listing_id": "1346987105028407306",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1346987105028407308",
+                        "sku_id": "1346987105028407307",
+                        "asset": "a_6fb2e33e9721f0c5d3ac4eef3f572e9f",
+                        "label": null
                     }
                 ],
                 "type": 0,

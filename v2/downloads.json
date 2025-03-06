@@ -98,6 +98,11 @@
                 "id": 20,
                 "name": "Anime",
                 "src": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png"
+            },
+            {
+                "id": 21,
+                "name": "Insomnia",
+                "src": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png"
             }
         ]
     },
