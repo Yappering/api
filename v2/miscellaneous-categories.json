@@ -3129,6 +3129,7 @@
                 "store_listing_id": "1346915187243876473",
                 "banner": "1309310034387271730",
                 "unpublished_at": null,
+                "expires_at": "2025-05-13T00:00:00+00:00",
                 "styles": {
                     "background_colors": [
                         4620287,
