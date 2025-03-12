@@ -103,6 +103,11 @@
                 "id": 21,
                 "name": "Insomnia",
                 "src": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png"
+            },
+            {
+                "id": 22,
+                "name": "aespa",
+                "src": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png"
             }
         ]
     },
