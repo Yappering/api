@@ -1,5 +1,778 @@
 [
     {
+        "sku_id": "1349849614353829990",
+        "name": "Nameplates",
+        "summary": null,
+        "store_listing_id": null,
+        "banner": "1349849614374666310",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16777215,
+                16777215
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "wide_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1349849614311751731",
+                "name": "Angels",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614328664084",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614337179778",
+                        "sku_id": "1349849614311751731",
+                        "asset": "nameplates/nameplates/angels/",
+                        "label": "Placeholder",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614311751731_1350198298912362569",
+                    "7": "1349849614311751731_1350198309737988188"
+                }
+            },
+            {
+                "sku_id": "1349849614286585866",
+                "name": "Cityscape",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614295109652",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614303625308",
+                        "sku_id": "1349849614286585866",
+                        "asset": "nameplates/nameplates/cityscape/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614286585866_1350198990897025176",
+                    "7": "1349849614286585866_1350199003572207717"
+                }
+            },
+            {
+                "sku_id": "1349849614257225760",
+                "name": "Vengeance",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614265749635",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614274265180",
+                        "sku_id": "1349849614257225760",
+                        "asset": "nameplates/nameplates/vengeance/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614257225760_1350201399190884442",
+                    "7": "1349849614257225760_1350201410376957962"
+                }
+            },
+            {
+                "sku_id": "1349849614227865711",
+                "name": "Koi Pond",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614240583710",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614249099335",
+                        "sku_id": "1349849614227865711",
+                        "asset": "nameplates/nameplates/koi_pond/",
+                        "label": "Placeholder",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614227865711_1350201076619542568",
+                    "7": "1349849614227865711_1350201087172280370"
+                }
+            },
+            {
+                "sku_id": "1349849614198505602",
+                "name": "Twilight",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614211223573",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614219739227",
+                        "sku_id": "1349849614198505602",
+                        "asset": "nameplates/nameplates/twilight/",
+                        "label": "Placeholder",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614198505602_1350198501656625223",
+                    "7": "1349849614198505602_1350198512872067183"
+                }
+            },
+            {
+                "sku_id": "1349849614173339688",
+                "name": "Spirit of Spring",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614185926686",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614194573312",
+                        "sku_id": "1349849614173339688",
+                        "asset": "nameplates/nameplates/spirit_of_spring/",
+                        "label": "Placeholder",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614173339688_1350200693801226290",
+                    "7": "1349849614173339688_1350200705322979338"
+                }
+            },
+            {
+                "sku_id": "1349849614143979540",
+                "name": "Cat Beans",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614152503396",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614161019002",
+                        "sku_id": "1349849614143979540",
+                        "asset": "nameplates/nameplates/cat_beans/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614143979540_1350200303093416046",
+                    "7": "1349849614143979540_1350200317484208278"
+                }
+            },
+            {
+                "sku_id": "1349849614102036581",
+                "name": "Cherry Blossoms",
+                "summary": "change how your name looks in direct messages and server lists.",
+                "store_listing_id": "1349849614118949028",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 600,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 500,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614135853087",
+                        "sku_id": "1349849614102036581",
+                        "asset": "nameplates/nameplates/cherry_blossoms/",
+                        "label": "Placeholder",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614102036581_1350198954780000328",
+                    "7": "1349849614102036581_1350198966209216522"
+                }
+            }
+        ]
+    },
+    {
         "sku_id": "1344802365307621427",
         "name": "Nameplate Test",
         "summary": null,
