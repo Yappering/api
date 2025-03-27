@@ -2,49 +2,25 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 22,
-            "title": "aespa",
-            "body": "SYNK DIVE starts now. Join aespa on Discord",
-            "avatar": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png",
+            "version": 23,
+            "title": "Check out new Shenanigans arrivals.",
+            "body": null,
+            "avatar": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png",
             "decorations": [
-                "a_49ed38f73003e2e182f77190af0a0a56",
-                "a_35713167cc82e0f408c26dfc032a7f0f",
-                "a_6912c651e979fbfdc479ed082a571513",
-                "a_cdca4a092a03b16b94e50289fe3f7bd1",
-                "a_f4fcdab859b2eab1874fbe7182d5aa26",
-                "a_007d64a922ff5773fb9464945de93c8e"
+                "a_0e50ebc16aa67676687222d0b9b51eb2",
+                "a_4774e1f97ebd4a8cc8f71668f3b418e4",
+                "a_1e69b40cf0f52b68c511070dd7a29f34"
             ],
             "dismissible_content": 422,
-            "ref_target_background": {
-                "style": {
-                    "resting": {
-                        "light": null,
-                        "dark": null
-                    },
-                    "hovered": {
-                        "light": null,
-                        "dark": null
-                    }
-                },
-                "asset": {
-                    "resting": {
-                        "light": "https://cdn.discordapp.com/assets/content/ffea3b8093800be98cd8cd53695037449224b204ac4fb1e5e0d455688b81f1eb.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/ffea3b8093800be98cd8cd53695037449224b204ac4fb1e5e0d455688b81f1eb.png"
-                    },
-                    "hovered": {
-                        "light": "https://cdn.discordapp.com/assets/content/5ec9ae042bb8068e7e1c949cd6c822aa16e756b0f02a39c83adf0b329c90113c.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/5ec9ae042bb8068e7e1c949cd6c822aa16e756b0f02a39c83adf0b329c90113c.png"
-                    }
-                }
-            }
+            "ref_target_background": null
         },
         "2": {
             "type": 2,
-            "version": 22,
+            "version": 23,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/19ca5221280999242ea901fa2016c7ca08bed083f0843a84533d60ad950073e7.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/a4db9eb0e03e1d20cdb03288a1cad3e2b90b174d8f948a09e043d56f44444142.png"
+            "asset": "https://cdn.discordapp.com/assets/content/4640d16a22609eabe4d7e0125808b589c867b870015a1c57af0f04c3b1414a11.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/b9495c86dd8ed44394e30d71a477fe9a2f608d38d9a477b84b8f770d90353a2e.png"
         }
     }
 }
